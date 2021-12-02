@@ -1,0 +1,1509 @@
+/m/03fcbb	/m/09nqf
+Reward:1
+/m/03fcbb	/m/03fcbb	/m/0b2ds	/m/0b2ds
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.1050)
+___
+/m/03fcbb	/m/03fcbb	/m/01n7q	/m/01n7q
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.1050)
+___
+/m/03fcbb	/m/03fcbb	/m/09c7w0	/m/09c7w0
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.1050)
+___
+/m/0b2ds	/m/0b2ds	/m/0b2ds	/m/0b2ds
+_/location/location/contains	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-2.7861)
+___
+/m/01n7q	/m/07bcn	/m/0bxqq	/m/0bxqq
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat
+-1
+tensor(-3.5345)
+___
+/m/03fcbb	/m/03fcbb	/m/03fcbb	/m/03fcbb
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-3.7598)
+___
+/m/0b2ds	/m/0b2ds	/m/0b2ds	/m/0b2ds
+_/location/location/contains	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-4.1068)
+___
+/m/03fcbb	/m/01n7q	/m/07bcn	/m/07bcn
+/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/state_province_region	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-4.1124)
+___
+/m/01n7q	/m/07bcn	/m/07bcn	/m/07bcn
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/place
+-1
+tensor(-4.2744)
+___
+/m/03fcbb	/m/01n7q	/m/07bcn	/m/07bcn
+/education/educational_institution_campus/educational_institution	_/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-4.4802)
+___
+/m/03fcbb	/m/0b2ds	/m/0b2ds	/m/0b2ds
+/education/educational_institution_campus/educational_institution	_/location/location/contains	_/location/hud_county_place/place
+-1
+tensor(-4.5788)
+___
+/m/09c7w0	/m/050l8	/m/0fvxg	/m/0fvxg
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-5.0327)
+___
+/m/0b2ds	/m/0b2ds	/m/0b2ds	/m/0b2ds
+_/location/location/contains	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-5.0733)
+___
+/m/060c4	/m/0b1xl	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6868)
+___
+/m/060c4	/m/04p_hy	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6868)
+___
+/m/060c4	/m/017zq0	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6869)
+___
+/m/060c4	/m/0k__z	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6872)
+___
+/m/060c4	/m/01vc5m	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6876)
+___
+/m/060c4	/m/07wkd	/m/0ptk_	/m/0ptk_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.6877)
+___
+/m/060c4	/m/02kth6	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6893)
+___
+/m/060c4	/m/027b43	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6893)
+___
+/m/060c4	/m/02fy0z	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6893)
+___
+/m/060c4	/m/02kbtf	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6893)
+___
+/m/060c4	/m/01b1mj	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6895)
+___
+/m/060c4	/m/0ljl8	/m/060c4	/m/060c4
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-5.6901)
+___
+/m/060c4	/m/01nnsv	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7059)
+___
+/m/060c4	/m/05mv4	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7160)
+___
+/m/060c4	/m/015cz0	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7243)
+___
+/m/060c4	/m/020ddc	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7547)
+___
+/m/060c4	/m/02gr81	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7551)
+___
+/m/060c4	/m/01r3w7	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7563)
+___
+/m/060c4	/m/03y5ky	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7563)
+___
+/m/060c4	/m/06fq2	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7563)
+___
+/m/060c4	/m/0lyjf	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7564)
+___
+/m/060c4	/m/01s0_f	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7565)
+___
+/m/060c4	/m/0ymcz	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7567)
+___
+/m/060c4	/m/01q0kg	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7567)
+___
+/m/060c4	/m/02jyr8	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7572)
+___
+/m/060c4	/m/01jq4b	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7593)
+___
+/m/060c4	/m/07t90	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7598)
+___
+/m/060c4	/m/02_cx_	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7600)
+___
+/m/060c4	/m/03tw2s	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7601)
+___
+/m/060c4	/m/022fj_	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7609)
+___
+/m/060c4	/m/04344j	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7610)
+___
+/m/060c4	/m/0234_c	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7612)
+___
+/m/060c4	/m/01xysf	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7612)
+___
+/m/060c4	/m/035ktt	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7612)
+___
+/m/060c4	/m/01j_06	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7613)
+___
+/m/060c4	/m/0qlnr	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7618)
+___
+/m/060c4	/m/02fjzt	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7620)
+___
+/m/060c4	/m/031n8c	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7644)
+___
+/m/060c4	/m/02l1fn	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7656)
+___
+/m/060c4	/m/0pspl	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7659)
+___
+/m/060c4	/m/04wlz2	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7835)
+___
+/m/060c4	/m/01qwb5	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8184)
+___
+/m/060c4	/m/03818y	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8208)
+___
+/m/060c4	/m/0bthb	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8258)
+___
+/m/060c4	/m/06jk5_	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8266)
+___
+/m/060c4	/m/01n4w_	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8273)
+___
+/m/060c4	/m/017v71	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8273)
+___
+/m/060c4	/m/029d_	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8337)
+___
+/m/060c4	/m/06182p	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8345)
+___
+/m/060c4	/m/01yqqv	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8352)
+___
+/m/060c4	/m/017y6l	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0309)
+___
+/m/0b2ds	/m/0b2ds	/m/0b2ds	/m/0b2ds
+_/location/location/contains	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-6.1020)
+___
+/m/09c7w0	/m/0pv2t	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1173)
+___
+/m/09c7w0	/m/0d_wms	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1173)
+___
+/m/09c7w0	/m/0170_p	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1173)
+___
+/m/09c7w0	/m/0260bz	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1173)
+___
+/m/09c7w0	/m/03h3x5	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1173)
+___
+/m/09c7w0	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1177)
+___
+/m/09c7w0	/m/018js4	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1177)
+___
+/m/09c7w0	/m/059rc	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1177)
+___
+/m/09c7w0	/m/0fr63l	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1177)
+___
+/m/09c7w0	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1177)
+___
+/m/09c7w0	/m/02ctc6	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1177)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.1382)
+___
+/m/01n7q	/m/07bcn	/m/0bxqq	/m/0bxqq
+/organization/organization/headquarters./location/mailing_address/state_province_region	/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat
+-1
+tensor(-6.3297)
+___
+/m/03fcbb	/m/03fcbb	/m/0b2ds	/m/0b2ds
+/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-6.3765)
+___
+/m/03fcbb	/m/03fcbb	/m/01n7q	/m/01n7q
+/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-6.3765)
+___
+/m/03fcbb	/m/03fcbb	/m/09c7w0	/m/09c7w0
+/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-6.3765)
+___
+/m/060c4	/m/01rgn3	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4096)
+___
+/m/060c4	/m/01dq5z	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4107)
+___
+/m/060c4	/m/021q2j	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4111)
+___
+/m/060c4	/m/02cw8s	/m/05qtj	/m/05qtj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4140)
+___
+/m/060c4	/m/02cw8s	/m/0f8l9c	/m/0f8l9c
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4140)
+___
+/m/060c4	/m/02km0m	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4243)
+___
+/m/09c7w0	/m/07xtqq	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.4324)
+___
+/m/09c7w0	/m/0192hw	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.4335)
+___
+/m/060c4	/m/0jhjl	/m/01914	/m/01914
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4491)
+___
+/m/060c4	/m/0jhjl	/m/0d05w3	/m/0d05w3
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4491)
+___
+/m/060c4	/m/01wv24	/m/0j0k	/m/0j0k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4525)
+___
+/m/060c4	/m/01wv24	/m/05v8c	/m/05v8c
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4525)
+___
+/m/060c4	/m/01q460	/m/0j0k	/m/0j0k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4528)
+___
+/m/060c4	/m/01q460	/m/06t2t	/m/06t2t
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4528)
+___
+/m/09c7w0	/m/0gfsq9	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4575)
+___
+/m/01n7q	/m/07bcn	/m/07bcn	/m/07bcn
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	/location/hud_county_place/place
+-1
+tensor(-6.6739)
+___
+/m/09c7w0	/m/050l8	/m/0fvxg	/m/0fvxg
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.7602)
+___
+/m/09c7w0	/m/0g83dv	/m/07ssc	/m/07ssc
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.8104)
+___
+/m/09c7w0	/m/0g83dv	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/country	/film/film/country
+-1
+tensor(-6.8104)
+___
+#####################
+/m/0pz6q	/m/02l6h
+Reward:1
+/m/0pz6q	/m/0pz6q	/m/0345h	/m/0345h
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-1.8452)
+___
+/m/0pz6q	/m/0pz6q	/m/0pz6q	/m/0pz6q
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-3.4911)
+___
+/m/0345h	/m/06rf7	/m/0g7pm	/m/0g7pm
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-4.5300)
+___
+/m/0pz6q	/m/0pz6q	/m/06fvc	/m/06fvc
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution/colors
+-1
+tensor(-4.7410)
+___
+/m/0pz6q	/m/0pz6q	/m/01g5v	/m/01g5v
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution/colors
+-1
+tensor(-4.7410)
+___
+/m/0pz6q	/m/0pz6q	/m/083jv	/m/083jv
+/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution/colors
+-1
+tensor(-4.7410)
+___
+/m/0hm4q	/m/02185j	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3507)
+___
+/m/0hm4q	/m/09hgk	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3507)
+___
+/m/0hm4q	/m/01dbns	/m/0kz1h	/m/0kz1h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3508)
+___
+/m/0hm4q	/m/02bbyw	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3509)
+___
+/m/0hm4q	/m/020vx9	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3511)
+___
+/m/0hm4q	/m/01lhdt	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3512)
+___
+/m/0hm4q	/m/0ylvj	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3515)
+___
+/m/0hm4q	/m/01nm8w	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3528)
+___
+/m/0hm4q	/m/0ym1n	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3653)
+___
+/m/0hm4q	/m/07w6r	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3655)
+___
+/m/0hm4q	/m/0dy04	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3658)
+___
+/m/0hm4q	/m/0lvng	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3676)
+___
+/m/0hm4q	/m/0gl6x	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3678)
+___
+/m/0hm4q	/m/025ttz4	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3682)
+___
+/m/0hm4q	/m/01y888	/m/03902	/m/03902
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.3756)
+___
+/m/0hm4q	/m/057bxr	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4203)
+___
+/m/0hm4q	/m/02pbzv	/m/096gm	/m/096gm
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.4207)
+___
+/m/0hm4q	/m/07th_	/m/05b4w	/m/05b4w
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.4209)
+___
+/m/0pz6q	/m/0ptj2	/m/0345h	/m/0345h
+/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-5.4229)
+___
+/m/0hm4q	/m/01fy2s	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4255)
+___
+/m/0hm4q	/m/01g6l8	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4256)
+___
+/m/0hm4q	/m/0m7yh	/m/0150n	/m/0150n
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.4407)
+___
+/m/0hm4q	/m/04jhp	/m/0d0vqn	/m/0d0vqn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.4441)
+___
+/m/0hm4q	/m/05d9y_	/m/07t21	/m/07t21
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.4521)
+___
+/m/0hm4q	/m/017ztv	/m/02l6h	/m/02l6h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4624)
+___
+/m/0hm4q	/m/0pz6q	/m/0345h	/m/0345h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.4712)
+___
+/m/0hm4q	/m/01zh3_	/m/0ptk_	/m/0ptk_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7056)
+___
+/m/06fvc	/m/01y17m	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7780)
+___
+/m/06fvc	/m/0mbwf	/m/0ptk_	/m/0ptk_
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7781)
+___
+/m/06fvc	/m/0225v9	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7781)
+___
+/m/06fvc	/m/01t0dy	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7781)
+___
+/m/06fvc	/m/03l78j	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7781)
+___
+/m/06fvc	/m/02183k	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7783)
+___
+/m/06fvc	/m/027xx3	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7785)
+___
+/m/06fvc	/m/07wkd	/m/0ptk_	/m/0ptk_
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7787)
+___
+/m/06fvc	/m/024cg8	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7816)
+___
+/m/06fvc	/m/0225bv	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7816)
+___
+/m/06fvc	/m/01w_sh	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7844)
+___
+/m/06fvc	/m/011xy1	/m/02l6h	/m/02l6h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7965)
+___
+/m/06fvc	/m/018m5q	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7966)
+___
+/m/06fvc	/m/02nq10	/m/02l6h	/m/02l6h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7989)
+___
+/m/06fvc	/m/0345gh	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7991)
+___
+/m/06fvc	/m/06b19	/m/0ptk_	/m/0ptk_
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7996)
+___
+/m/06fvc	/m/02mg5r	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8182)
+___
+/m/06fvc	/m/0jkhr	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8215)
+___
+/m/06fvc	/m/02bvc5	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8241)
+___
+/m/06fvc	/m/01xrlm	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8244)
+___
+/m/06fvc	/m/0211jt	/m/088n7	/m/088n7
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8270)
+___
+/m/06fvc	/m/01ymvk	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8273)
+___
+/m/06fvc	/m/01v3ht	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8407)
+___
+/m/06fvc	/m/06thjt	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8521)
+___
+/m/06fvc	/m/016sd3	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8537)
+___
+/m/06fvc	/m/0gjv_	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8673)
+___
+/m/06fvc	/m/03818y	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8819)
+___
+/m/06fvc	/m/01jzyx	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8925)
+___
+/m/06fvc	/m/02fgdx	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8931)
+___
+/m/06fvc	/m/01zh3_	/m/0ptk_	/m/0ptk_
+/education/educational_institution/colors	_/education/educational_institution/colors	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.9312)
+___
+/m/06fvc	/m/0f11p	/m/02l6h	/m/02l6h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9537)
+___
+/m/06fvc	/m/0fnmz	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.9572)
+___
+/m/0hm4q	/m/012gyf	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0201)
+___
+/m/0345h	/m/0dmn0x	/m/0345h	/m/0345h
+_/location/location/contains	/media_common/netflix_genre/titles	/film/film/country
+-1
+tensor(-6.0213)
+___
+/m/0345h	/m/085ccd	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/media_common/netflix_genre/titles	/film/film/country
+-1
+tensor(-6.0227)
+___
+/m/0hm4q	/m/0277jc	/m/01k4f	/m/01k4f
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0794)
+___
+/m/0hm4q	/m/0277jc	/m/06mzp	/m/06mzp
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0794)
+___
+/m/0hm4q	/m/02f8zw	/m/01ly5m	/m/01ly5m
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0805)
+___
+/m/0hm4q	/m/02f8zw	/m/0jgd	/m/0jgd
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0805)
+___
+/m/0hm4q	/m/0342z_	/m/06bnz	/m/06bnz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0878)
+___
+/m/0hm4q	/m/0342z_	/m/04swd	/m/04swd
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0878)
+___
+/m/0hm4q	/m/02bd_f	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0879)
+___
+/m/0hm4q	/m/02bd_f	/m/07mgr	/m/07mgr
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0879)
+___
+/m/0hm4q	/m/01n1pp	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0880)
+___
+/m/0hm4q	/m/01n1pp	/m/015m08	/m/015m08
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0880)
+___
+/m/0hm4q	/m/0pmcz	/m/0cm5m	/m/0cm5m
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.1380)
+___
+/m/0hm4q	/m/0pmcz	/m/0345h	/m/0345h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.1380)
+___
+/m/0hm4q	/m/04jr87	/m/06c62	/m/06c62
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.1471)
+___
+/m/0hm4q	/m/04jr87	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.1471)
+___
+/m/01g5v	/m/032r4n	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1553)
+___
+/m/01g5v	/m/02gkxp	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1554)
+___
+/m/0hm4q	/m/012gyf	/m/01g5v	/m/01g5v
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/colors
+-1
+tensor(-6.1645)
+___
+/m/01g5v	/m/01clyb	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1731)
+___
+/m/01g5v	/m/0gl6f	/m/01nv4h	/m/01nv4h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1736)
+___
+/m/01g5v	/m/07tds	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1971)
+___
+/m/01g5v	/m/01jpyb	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1975)
+___
+/m/01g5v	/m/01kvrz	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1991)
+___
+/m/01g5v	/m/020ddc	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.2004)
+___
+/m/01g5v	/m/01s7pm	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.2008)
+___
+/m/01g5v	/m/01fy2s	/m/02l6h	/m/02l6h
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2009)
+___
+/m/01g5v	/m/07vhb	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.2018)
+___
+/m/01g5v	/m/01bzw5	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.2018)
+___
+/m/01g5v	/m/03hpkp	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.2018)
+___
+/m/01g5v	/m/037njl	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.2254)
+___
+/m/01g5v	/m/02607j	/m/09nqf	/m/09nqf
+/education/educational_institution/colors	_/education/educational_institution/colors	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.2440)
+___
+/m/0hm4q	/m/07tjf	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.3886)
+___
+/m/0pz6q	/m/06fvc	/m/018m5q	/m/018m5q
+/education/educational_institution_campus/educational_institution	/education/educational_institution/colors	_/education/educational_institution/colors
+-1
+tensor(-6.4149)
+___
+#####################
+/m/04ycjk	/m/09nqf
+Reward:1
+/m/01rs41	/m/0gl5_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2979)
+___
+/m/01rs41	/m/016wyn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2979)
+___
+/m/01rs41	/m/017d77	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2979)
+___
+/m/01rs41	/m/04p_hy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2979)
+___
+/m/01rs41	/m/0225v9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2979)
+___
+/m/01rs41	/m/02_2kg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2980)
+___
+/m/05pcjw	/m/01w5m	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2983)
+___
+/m/01rs41	/m/01n951	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2983)
+___
+/m/01rs41	/m/027xx3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2983)
+___
+/m/01rs41	/m/01wrwf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2983)
+___
+/m/01rs41	/m/01vc5m	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2983)
+___
+/m/01rs41	/m/02ccqg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2986)
+___
+/m/01rs41	/m/014zws	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/04d5v9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/0172jm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/0bjqh	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/06l32y	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/0kqj1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/07lx1s	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/022xml	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/02nvg1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2987)
+___
+/m/01rs41	/m/01b1mj	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2988)
+___
+/m/01rs41	/m/043q2z	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2988)
+___
+/m/01rs41	/m/03bmmc	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3007)
+___
+/m/01rs41	/m/02bf58	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3046)
+___
+/m/01rs41	/m/02p8454	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3051)
+___
+/m/01rs41	/m/0g2jl	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3155)
+___
+/m/01rs41	/m/03_fmr	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3240)
+___
+/m/01rs41	/m/08qs09	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3244)
+___
+/m/01rs41	/m/05njyy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3244)
+___
+/m/01rs41	/m/016w7b	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3784)
+___
+/m/01rs41	/m/02l1fn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3808)
+___
+/m/01rs41	/m/0l0wv	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3819)
+___
+/m/01rs41	/m/031n8c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3819)
+___
+/m/01rs41	/m/026vcc	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4143)
+___
+/m/01rs41	/m/01hnb	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4146)
+___
+/m/01rs41	/m/04344j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4146)
+___
+/m/01rs41	/m/05qgd9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4147)
+___
+/m/01rs41	/m/03hdz8	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4147)
+___
+/m/01rs41	/m/03hpkp	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4147)
+___
+/m/01rs41	/m/0lyjf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4147)
+___
+/m/01rs41	/m/0lfgr	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4147)
+___
+/m/01rs41	/m/021s9n	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4150)
+___
+/m/01rs41	/m/019_6d	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4153)
+___
+/m/01rs41	/m/02rky4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4153)
+___
+/m/01rs41	/m/01p5xy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4158)
+___
+/m/01rs41	/m/0gdm1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4160)
+___
+/m/01rs41	/m/01w3vc	/m/01rs41	/m/01rs41
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-5.4174)
+___
+/m/01rs41	/m/038czx	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4215)
+___
+/m/01rs41	/m/02sjgpq	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4242)
+___
+/m/01rs41	/m/02mzg9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4258)
+___
+/m/01rs41	/m/01pdgp	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4271)
+___
+/m/01rs41	/m/01swxv	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4421)
+___
+/m/01rs41	/m/0hpv3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4426)
+___
+/m/01rs41	/m/05cwl_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4426)
+___
+/m/01rs41	/m/02hft3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4428)
+___
+/m/01rs41	/m/04wlz2	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4476)
+___
+/m/01rs41	/m/04ftdq	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4600)
+___
+/m/01rs41	/m/03cz83	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4610)
+___
+/m/01rs41	/m/07w3r	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4650)
+___
+/m/01rs41	/m/01c333	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4859)
+___
+/m/01rs41	/m/0558_1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4860)
+___
+/m/01rs41	/m/02q636	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4862)
+___
+/m/01rs41	/m/015y3j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4865)
+___
+/m/01rs41	/m/03205_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4865)
+___
+/m/01rs41	/m/01k2wn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4865)
+___
+/m/01rs41	/m/030w19	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4866)
+___
+/m/01rs41	/m/01ljpm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4866)
+___
+/m/01rs41	/m/02rg_4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4866)
+___
+/m/01rs41	/m/05q2c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4866)
+___
+/m/01rs41	/m/03818y	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4867)
+___
+/m/01rs41	/m/02mj7c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4867)
+___
+/m/01rs41	/m/037s9x	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4867)
+___
+/m/01rs41	/m/01p7x7	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4868)
+___
+/m/01rs41	/m/017z88	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4870)
+___
+/m/01rs41	/m/0bthb	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4871)
+___
+/m/01rs41	/m/03l6bs	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4876)
+___
+/m/01rs41	/m/012mzw	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4877)
+___
+/m/01rs41	/m/02pdhz	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4923)
+___
+/m/01rs41	/m/06jk5_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4975)
+___
+/m/01rs41	/m/03hvk2	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4975)
+___
+/m/01rs41	/m/06rkfs	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5267)
+___
+/m/01rs41	/m/018t8f	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5893)
+___
+/m/01rs41	/m/02qw_v	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6527)
+___
+/m/01rs41	/m/05bnq8	/m/05bnq8	/m/05bnq8
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution_campus/educational_institution
+-1
+tensor(-5.7210)
+___
+/m/01rs41	/m/01_f90	/m/01_f90	/m/01_f90
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution_campus/educational_institution
+-1
+tensor(-5.7479)
+___
+/m/01rs41	/m/04cnp4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7682)
+___
+/m/01rs41	/m/086xm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8126)
+___
+/m/01rs41	/m/021q2j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8140)
+___
+/m/01rs41	/m/01dq5z	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8147)
+___
+/m/01rs41	/m/01rgn3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8148)
+___
+/m/01rs41	/m/02g839	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8151)
+___
+/m/01rs41	/m/017y26	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9865)
+___
+/m/01rs41	/m/03t4nx	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9880)
+___
+/m/01rs41	/m/022r38	/m/01rs41	/m/01rs41
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-5.9921)
+___
+/m/01rs41	/m/022r38	/m/05pcjw	/m/05pcjw
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-5.9921)
+___
+/m/01rs41	/m/04ycjk	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-6.0055)
+___
+/m/01rs41	/m/04ycjk	/m/05k7sb	/m/05k7sb
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-6.0055)
+___
+/m/01rs41	/m/036hnm	/m/05v8c	/m/05v8c
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-6.0118)
+___
+/m/01rs41	/m/036hnm	/m/0j0k	/m/0j0k
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-6.0118)
+___
+#####################

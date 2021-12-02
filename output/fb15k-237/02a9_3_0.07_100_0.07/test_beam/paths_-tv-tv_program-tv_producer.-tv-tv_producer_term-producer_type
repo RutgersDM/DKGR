@@ -1,0 +1,5533 @@
+/m/05sy0cv	/m/0ckd1
+Reward:0
+/m/09n3wz	/m/04x4gj	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.0589)
+___
+/m/09n3wz	/m/06w7mlh	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.1993)
+___
+/m/09n3wz	/m/09n3wz	/m/09n3wz	/m/09n3wz
+/tv/tv_program/genre	NO_OP	NO_OP
+-1
+tensor(-5.6916)
+___
+/m/09n3wz	/m/04glx0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.7258)
+___
+/m/09n3wz	/m/05sy0cv	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.8179)
+___
+/m/09n3wz	/m/04glx0	/m/03jvmp	/m/03jvmp
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.9503)
+___
+/m/09n3wz	/m/04glx0	/m/09d5h	/m/09d5h
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.9503)
+___
+/m/09n3wz	/m/09n3wz	/m/04glx0	/m/04glx0
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.9533)
+___
+/m/09n3wz	/m/09n3wz	/m/06w7mlh	/m/06w7mlh
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.9533)
+___
+/m/09n3wz	/m/09n3wz	/m/04x4gj	/m/04x4gj
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.9533)
+___
+/m/09n3wz	/m/09n3wz	/m/05sy0cv	/m/05sy0cv
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.9533)
+___
+/m/09n3wz	/m/09n3wz	/m/0h3mh3q	/m/0h3mh3q
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.9533)
+___
+/m/09n3wz	/m/0h3mh3q	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.9547)
+___
+/m/09n3wz	/m/04glx0	/m/09d5h	/m/09d5h
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.9577)
+___
+/m/0pr6f	/m/017dbx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.1460)
+___
+/m/09n3wz	/m/04x4gj	/m/09n3wz	/m/09n3wz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.2719)
+___
+/m/09n3wz	/m/04x4gj	/m/01tz3c	/m/01tz3c
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.2719)
+___
+/m/09n3wz	/m/04x4gj	/m/01hmnh	/m/01hmnh
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.2719)
+___
+/m/09n3wz	/m/04x4gj	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.2719)
+___
+/m/09n3wz	/m/04x4gj	/m/06n90	/m/06n90
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.2719)
+___
+/m/0pr6f	/m/05631	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.2984)
+___
+/m/0pr6f	/m/02vjhf	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.3967)
+___
+/m/09n3wz	/m/04glx0	/m/09d5h	/m/09d5h
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.4070)
+___
+/m/09n3wz	/m/06w7mlh	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.4122)
+___
+/m/09n3wz	/m/06w7mlh	/m/06n90	/m/06n90
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.4122)
+___
+/m/09n3wz	/m/06w7mlh	/m/09n3wz	/m/09n3wz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.4122)
+___
+/m/09n3wz	/m/06w7mlh	/m/01tz3c	/m/01tz3c
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.4122)
+___
+/m/09n3wz	/m/04x4gj	/m/0d_rw	/m/0d_rw
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-6.4708)
+___
+/m/0pr6f	/m/019g8j	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6081)
+___
+/m/09n3wz	/m/04x4gj	/m/04x4gj	/m/04x4gj
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-6.6323)
+___
+/m/0pr6f	/m/0ctzf1	/m/03_9r	/m/03_9r
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6937)
+___
+/m/0pr6f	/m/05h95s	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6986)
+___
+/m/09n3wz	/m/06w7mlh	/m/03z509	/m/03z509
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7012)
+___
+/m/09n3wz	/m/06w7mlh	/m/0kctd	/m/0kctd
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-6.7065)
+___
+/m/09n3wz	/m/06w7mlh	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-6.7065)
+___
+/m/0pr6f	/m/043qqt5	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.7279)
+___
+/m/09n3wz	/m/06w7mlh	/m/06w7mlh	/m/06w7mlh
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-6.7727)
+___
+/m/09n3wz	/m/06w7mlh	/m/03xkps	/m/03xkps
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.7950)
+___
+/m/09n3wz	/m/06w7mlh	/m/0gkts9	/m/0gkts9
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-6.8121)
+___
+/m/09n3wz	/m/04x4gj	/m/0pqzh	/m/0pqzh
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-6.8676)
+___
+/m/0pr6f	/m/0fkwzs	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9208)
+___
+/m/09n3wz	/m/04glx0	/m/09n3wz	/m/09n3wz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.9388)
+___
+/m/09n3wz	/m/04glx0	/m/01tz3c	/m/01tz3c
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.9388)
+___
+/m/0pr6f	/m/05nlzq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9592)
+___
+/m/0pr6f	/m/06r1k	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9647)
+___
+/m/0pr6f	/m/05f7w84	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9825)
+___
+/m/0pr6f	/m/0vhm	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.0140)
+___
+/m/09n3wz	/m/05sy0cv	/m/09n3wz	/m/09n3wz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0309)
+___
+/m/09n3wz	/m/05sy0cv	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0309)
+___
+/m/09n3wz	/m/04glx0	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.1271)
+___
+/m/0pr6f	/m/0170k0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1619)
+___
+/m/09n3wz	/m/0h3mh3q	/m/01jfsb	/m/01jfsb
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1677)
+___
+/m/09n3wz	/m/0h3mh3q	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1677)
+___
+/m/09n3wz	/m/0h3mh3q	/m/06n90	/m/06n90
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1677)
+___
+/m/09n3wz	/m/0h3mh3q	/m/02n4kr	/m/02n4kr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1677)
+___
+/m/09n3wz	/m/0h3mh3q	/m/01hmnh	/m/01hmnh
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1677)
+___
+/m/09n3wz	/m/0h3mh3q	/m/09n3wz	/m/09n3wz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1677)
+___
+/m/09n3wz	/m/04glx0	/m/0m7yy	/m/0m7yy
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-7.1719)
+___
+/m/0pr6f	/m/05sy0cv	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1867)
+___
+/m/09n3wz	/m/05sy0cv	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.2192)
+___
+/m/09n3wz	/m/04glx0	/m/05gnf	/m/05gnf
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2278)
+___
+/m/0pr6f	/m/028k2x	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2363)
+___
+/m/09n3wz	/m/04x4gj	/m/09d5h	/m/09d5h
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.2382)
+___
+/m/0pr6f	/m/0b005	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2599)
+___
+/m/09n3wz	/m/04glx0	/m/04glx0	/m/04glx0
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.2992)
+___
+/m/0pr6f	/m/05631	/m/015f7	/m/015f7
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-7.3045)
+___
+/m/09n3wz	/m/06w7mlh	/m/059j4x	/m/059j4x
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-7.3084)
+___
+/m/09n3wz	/m/05sy0cv	/m/0grwj	/m/0grwj
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/02l3_5	/m/02l3_5
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/08xz51	/m/08xz51
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/095zvfg	/m/095zvfg
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/01r7t9	/m/01r7t9
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/01c1px	/m/01c1px
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/01zlh5	/m/01zlh5
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/01qg7c	/m/01qg7c
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/05sy0cv	/m/0gsg7	/m/0gsg7
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3199)
+___
+/m/09n3wz	/m/04glx0	/m/01ycbq	/m/01ycbq
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.3216)
+___
+/m/09n3wz	/m/0h3mh3q	/m/0ckd1	/m/0ckd1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+1
+tensor(-7.3336)
+___
+/m/09n3wz	/m/04glx0	/m/0m7yy	/m/0m7yy
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-7.3387)
+___
+/m/0pr6f	/m/017dbx	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3590)
+___
+/m/09n3wz	/m/0h3mh3q	/m/09v6gc9	/m/09v6gc9
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-7.3666)
+___
+/m/09n3wz	/m/06w7mlh	/m/0kctd	/m/0kctd
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.3785)
+___
+/m/09n3wz	/m/05sy0cv	/m/05sy0cv	/m/05sy0cv
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.3913)
+___
+/m/09n3wz	/m/0h3mh3q	/m/0bfvd4	/m/0bfvd4
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.4063)
+___
+/m/09n3wz	/m/0h3mh3q	/m/09v82c0	/m/09v82c0
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.4063)
+___
+/m/09n3wz	/m/0h3mh3q	/m/0bdwft	/m/0bdwft
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.4063)
+___
+/m/09n3wz	/m/0h3mh3q	/m/0cqh6z	/m/0cqh6z
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.4063)
+___
+/m/09n3wz	/m/0h3mh3q	/m/02_3zj	/m/02_3zj
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.4063)
+___
+/m/08xz51	/m/01c1px	/m/08xz51	/m/08xz51
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.4077)
+___
+/m/0pr6f	/m/0cwrr	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4090)
+___
+/m/09n3wz	/m/05sy0cv	/m/01c1px	/m/01c1px
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/01p47r	/m/01p47r
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/0grwj	/m/0grwj
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/01zlh5	/m/01zlh5
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/01qg7c	/m/01qg7c
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/01r7t9	/m/01r7t9
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/033071	/m/033071
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/03xkps	/m/03xkps
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/02lq10	/m/02lq10
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+/m/09n3wz	/m/05sy0cv	/m/026dcvf	/m/026dcvf
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4137)
+___
+#####################
+/m/01h72l	/m/0ckd1
+Reward:0
+/m/0hcr	/m/015qy1	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.3477)
+___
+/m/0hcr	/m/023cjg	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.4077)
+___
+/m/0hcr	/m/05vc35	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.4597)
+___
+/m/0hcr	/m/02v5xg	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-6.5998)
+___
+/m/0hcr	/m/02z9hqn	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6079)
+___
+/m/0hcr	/m/076xkdz	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6290)
+___
+/m/0hcr	/m/031f_m	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6449)
+___
+/m/0hcr	/m/03gyvwg	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6504)
+___
+/m/0hcr	/m/0564x	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.7061)
+___
+/m/0hcr	/m/04svwx	/m/03_9r	/m/03_9r
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-6.7184)
+___
+/m/0hcr	/m/014bpd	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.7349)
+___
+/m/0hcr	/m/039zft	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.7549)
+___
+/m/0hcr	/m/01h72l	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-6.7743)
+___
+/m/0hcr	/m/02_fm2	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.7998)
+___
+/m/0hcr	/m/063zky	/m/07c52	/m/07c52
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.8173)
+___
+/m/0hcr	/m/02pb2bp	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.8508)
+___
+/m/0hcr	/m/023p7l	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.8670)
+___
+/m/0hcr	/m/045nc5	/m/03_9r	/m/03_9r
+/film/film/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8953)
+___
+/m/0hcr	/m/0243cq	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9002)
+___
+/m/0hcr	/m/07y9w5	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9103)
+___
+/m/0hcr	/m/03d8jd1	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9323)
+___
+/m/0hcr	/m/0jnwx	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9366)
+___
+/m/095bb	/m/05sxr_	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9484)
+___
+/m/0hcr	/m/09w6br	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9509)
+___
+/m/0hcr	/m/02r9p0c	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.9563)
+___
+/m/0hcr	/m/01pv91	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9763)
+___
+/m/0hcr	/m/016017	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9946)
+___
+/m/0hcr	/m/01_1pv	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0268)
+___
+/m/0hcr	/m/0b3n61	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0517)
+___
+/m/095bb	/m/099bhp	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.0526)
+___
+/m/0hcr	/m/02lk60	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0541)
+___
+/m/0hcr	/m/0fgrm	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0565)
+___
+/m/025s89p	/m/01hn_t	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.0625)
+___
+/m/0hcr	/m/03nfnx	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0928)
+___
+/m/0hcr	/m/02ctc6	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.1248)
+___
+/m/0hcr	/m/06w99h3	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.1297)
+___
+/m/0hcr	/m/08fbnx	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.1452)
+___
+/m/025s89p	/m/019g8j	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1515)
+___
+/m/0hcr	/m/015qy1	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.1692)
+___
+/m/0hcr	/m/023cjg	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.2270)
+___
+/m/025s89p	/m/024rwx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2276)
+___
+/m/025s89p	/m/05h95s	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2493)
+___
+/m/0hcr	/m/05vc35	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.2913)
+___
+/m/095bb	/m/019g8j	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3731)
+___
+/m/0hcr	/m/0k2sk	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.3872)
+___
+/m/0hcr	/m/0436yk	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.3989)
+___
+/m/0hcr	/m/09146g	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4171)
+___
+/m/0hcr	/m/02z9hqn	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.4281)
+___
+/m/0hcr	/m/0crfwmx	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4422)
+___
+/m/0hcr	/m/02q3fdr	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.4481)
+___
+/m/0hcr	/m/076xkdz	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.4482)
+___
+/m/0hcr	/m/02v5xg	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.4552)
+___
+/m/0hcr	/m/031f_m	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.4634)
+___
+/m/025s89p	/m/0fkwzs	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4725)
+___
+/m/095bb	/m/07hpv3	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4730)
+___
+/m/095bb	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.4820)
+___
+/m/025s89p	/m/015w8_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4827)
+___
+/m/095bb	/m/024rwx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4837)
+___
+/m/025s89p	/m/01hvv0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4975)
+___
+/m/025s89p	/m/05nlzq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4987)
+___
+/m/0hcr	/m/07ng9k	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.5066)
+___
+/m/0hcr	/m/0cpllql	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.5133)
+___
+/m/0hcr	/m/0g9yrw	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.5254)
+___
+/m/095bb	/m/043qqt5	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5264)
+___
+/m/025s89p	/m/025x1t	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5282)
+___
+/m/0hcr	/m/03gyvwg	/m/0hcr	/m/0hcr
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.5398)
+___
+/m/0hcr	/m/03gyvwg	/m/02kdv5l	/m/02kdv5l
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.5398)
+___
+/m/025s89p	/m/05f7w84	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5436)
+___
+/m/0hcr	/m/0564x	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.5528)
+___
+/m/025s89p	/m/07vqnc	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5649)
+___
+/m/0hcr	/m/04svwx	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.5707)
+___
+/m/0hcr	/m/039zft	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.5759)
+___
+/m/0hcr	/m/0cmf0m0	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6027)
+___
+/m/0hcr	/m/02qhqz4	/m/03h64	/m/03h64
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.6143)
+___
+/m/0hcr	/m/02_fm2	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.6175)
+___
+/m/0hcr	/m/0gj96ln	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6186)
+___
+/m/0hcr	/m/0cc97st	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6282)
+___
+/m/025s89p	/m/099pks	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.6300)
+___
+/m/095bb	/m/05sxr_	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.6364)
+___
+/m/0hcr	/m/0h1cdwq	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6377)
+___
+/m/0hcr	/m/06wbm8q	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6389)
+___
+/m/0hcr	/m/07hpv3	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.6494)
+___
+/m/0hcr	/m/03y3bp7	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.6729)
+___
+/m/0hcr	/m/063zky	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.6893)
+___
+/m/0hcr	/m/03gyvwg	/m/03_9r	/m/03_9r
+/film/film/genre	_/film/film/genre	/film/film/language
+-1
+tensor(-7.6955)
+___
+/m/095bb	/m/0fkwzs	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.7023)
+___
+/m/0hcr	/m/0m63c	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7078)
+___
+/m/0hcr	/m/0k54q	/m/03_3d	/m/03_3d
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.7115)
+___
+/m/0hcr	/m/0k54q	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.7115)
+___
+/m/0hcr	/m/07x4qr	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7186)
+___
+/m/0hcr	/m/0243cq	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.7210)
+___
+/m/0hcr	/m/0ckrgs	/m/01hmnh	/m/01hmnh
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.7217)
+___
+/m/0hcr	/m/0ckrgs	/m/0hcr	/m/0hcr
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.7217)
+___
+/m/0hcr	/m/0ckrgs	/m/03k9fj	/m/03k9fj
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.7217)
+___
+/m/0hcr	/m/07y9w5	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.7382)
+___
+/m/095bb	/m/05nlzq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.7415)
+___
+/m/095bb	/m/01hvv0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.7446)
+___
+/m/0hcr	/m/02pb2bp	/m/026ny	/m/026ny
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.7483)
+___
+/m/0hcr	/m/02pb2bp	/m/06n90	/m/06n90
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.7483)
+___
+/m/0hcr	/m/02pb2bp	/m/0hcr	/m/0hcr
+/film/film/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.7483)
+___
+#####################
+/m/0hz55	/m/0ckd1
+Reward:0
+/m/02vnz	/m/02py9yf	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.3098)
+___
+/m/02vnz	/m/01rf57	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8312)
+___
+/m/02vnz	/m/02vnz	/m/02vnz	/m/02vnz
+/tv/tv_program/genre	NO_OP	NO_OP
+-1
+tensor(-7.0094)
+___
+/m/02vnz	/m/02vnz	/m/05sns6	/m/05sns6
+/tv/tv_program/genre	NO_OP	/film/film_subject/films
+-1
+tensor(-7.2463)
+___
+/m/02vnz	/m/02vnz	/m/03k8th	/m/03k8th
+/tv/tv_program/genre	NO_OP	/film/film_subject/films
+-1
+tensor(-7.2463)
+___
+/m/02vnz	/m/02vnz	/m/061681	/m/061681
+/tv/tv_program/genre	NO_OP	/film/film_subject/films
+-1
+tensor(-7.2463)
+___
+/m/02vnz	/m/02vnz	/m/0ggbhy7	/m/0ggbhy7
+/tv/tv_program/genre	NO_OP	/film/film_subject/films
+-1
+tensor(-7.2463)
+___
+/m/02vnz	/m/02vnz	/m/02py9yf	/m/02py9yf
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.2752)
+___
+/m/02vnz	/m/02vnz	/m/01rf57	/m/01rf57
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.2752)
+___
+/m/02vnz	/m/02vnz	/m/0hz55	/m/0hz55
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.2752)
+___
+/m/01htzx	/m/02648p	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4650)
+___
+/m/01htzx	/m/017dcd	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5087)
+___
+/m/01htzx	/m/09kn9	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5641)
+___
+/m/02vnz	/m/02py9yf	/m/01htzx	/m/01htzx
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5650)
+___
+/m/02vnz	/m/02py9yf	/m/02vnz	/m/02vnz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5650)
+___
+/m/02vnz	/m/02py9yf	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5650)
+___
+/m/02vnz	/m/02py9yf	/m/03k9fj	/m/03k9fj
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5650)
+___
+/m/02vnz	/m/02py9yf	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5650)
+___
+/m/02vnz	/m/02py9yf	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5650)
+___
+/m/02vnz	/m/02py9yf	/m/01t_vv	/m/01t_vv
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5650)
+___
+/m/02vnz	/m/05sns6	/m/029j_	/m/029j_
+/tv/tv_program/genre	/film/film_subject/films	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6502)
+___
+/m/02vnz	/m/02py9yf	/m/05g8ky	/m/05g8ky
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-7.7466)
+___
+/m/02vnz	/m/02py9yf	/m/02_3zj	/m/02_3zj
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.7735)
+___
+/m/02vnz	/m/02py9yf	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-7.8549)
+___
+/m/02vnz	/m/02py9yf	/m/02py9yf	/m/02py9yf
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.9091)
+___
+/m/01htzx	/m/07hpv3	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.9106)
+___
+/m/01htzx	/m/024rwx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.9159)
+___
+/m/02vnz	/m/061681	/m/029j_	/m/029j_
+/tv/tv_program/genre	/film/film_subject/films	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.9538)
+___
+/m/01htzx	/m/04f6hhm	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.9635)
+___
+/m/01htzx	/m/02py9yf	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.9736)
+___
+/m/01htzx	/m/0cskb	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.0552)
+___
+/m/02vnz	/m/01rf57	/m/02vnz	/m/02vnz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/02vnz	/m/01rf57	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/02vnz	/m/01rf57	/m/01jfsb	/m/01jfsb
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/02vnz	/m/01rf57	/m/06n90	/m/06n90
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/02vnz	/m/01rf57	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/02vnz	/m/01rf57	/m/01htzx	/m/01htzx
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/02vnz	/m/01rf57	/m/0bkbm	/m/0bkbm
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/02vnz	/m/01rf57	/m/02kdv5l	/m/02kdv5l
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0864)
+___
+/m/01htzx	/m/08cx5g	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.1221)
+___
+/m/01htzx	/m/0dr1c2	/m/03_9r	/m/03_9r
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.1764)
+___
+/m/01htzx	/m/06r1k	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.1861)
+___
+/m/01htzx	/m/05f7w84	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2212)
+___
+/m/02vnz	/m/03k8th	/m/01jfsb	/m/01jfsb
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.2284)
+___
+/m/02vnz	/m/03k8th	/m/060__y	/m/060__y
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.2284)
+___
+/m/02vnz	/m/03k8th	/m/02kdv5l	/m/02kdv5l
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.2284)
+___
+/m/02vnz	/m/03k8th	/m/02n4kr	/m/02n4kr
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.2284)
+___
+/m/02vnz	/m/03k8th	/m/0bkbm	/m/0bkbm
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.2284)
+___
+/m/02vnz	/m/01rf57	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.2323)
+___
+/m/02vnz	/m/01rf57	/m/0ckd1	/m/0ckd1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+1
+tensor(-8.2387)
+___
+/m/02vnz	/m/01rf57	/m/01xndd	/m/01xndd
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-8.2681)
+___
+/m/01htzx	/m/01f3p_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2719)
+___
+/m/01htzx	/m/03g9xj	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2770)
+___
+/m/02vnz	/m/01rf57	/m/0fbvqf	/m/0fbvqf
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.2950)
+___
+/m/02vnz	/m/01rf57	/m/0bdx29	/m/0bdx29
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.2950)
+___
+/m/02vnz	/m/01rf57	/m/0cqh6z	/m/0cqh6z
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.2950)
+___
+/m/02vnz	/m/01rf57	/m/0bdw1g	/m/0bdw1g
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.2950)
+___
+/m/01htzx	/m/06dfz1	/m/064_8sq	/m/064_8sq
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2954)
+___
+/m/01htzx	/m/06dfz1	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2954)
+___
+/m/01htzx	/m/06dfz1	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2954)
+___
+/m/01htzx	/m/06qv_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3048)
+___
+/m/01htzx	/m/027tbrc	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3330)
+___
+/m/01htzx	/m/0170k0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3527)
+___
+/m/02vnz	/m/01rf57	/m/01y665	/m/01y665
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.3603)
+___
+/m/02vnz	/m/01rf57	/m/01jfrg	/m/01jfrg
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.3603)
+___
+/m/01htzx	/m/053x8hr	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3621)
+___
+/m/01htzx	/m/02gl58	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3824)
+___
+/m/02vnz	/m/05sns6	/m/02l7c8	/m/02l7c8
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.3828)
+___
+/m/02vnz	/m/05sns6	/m/05p553	/m/05p553
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.3828)
+___
+/m/02vnz	/m/05sns6	/m/06cvj	/m/06cvj
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.3828)
+___
+/m/02vnz	/m/05sns6	/m/02kdv5l	/m/02kdv5l
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.3828)
+___
+/m/01htzx	/m/02q_x_l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4151)
+___
+/m/02vnz	/m/01rf57	/m/01rf57	/m/01rf57
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.4306)
+___
+/m/02vnz	/m/03k8th	/m/061681	/m/061681
+/tv/tv_program/genre	/film/film_subject/films	_/film/film/prequel
+-1
+tensor(-8.4398)
+___
+/m/02vnz	/m/01rf57	/m/01jfrg	/m/01jfrg
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.4533)
+___
+/m/02vnz	/m/01rf57	/m/01y665	/m/01y665
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.4533)
+___
+/m/02vnz	/m/01rf57	/m/01xndd	/m/01xndd
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.4533)
+___
+/m/02vnz	/m/02py9yf	/m/05g8ky	/m/05g8ky
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-8.4648)
+___
+/m/02vnz	/m/01rf57	/m/0cqh6z	/m/0cqh6z
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-8.4702)
+___
+/m/01htzx	/m/028k2x	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4746)
+___
+/m/02vnz	/m/03k8th	/m/0169dl	/m/0169dl
+/tv/tv_program/genre	/film/film_subject/films	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4885)
+___
+/m/02vnz	/m/03k8th	/m/02s2ft	/m/02s2ft
+/tv/tv_program/genre	/film/film_subject/films	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4885)
+___
+/m/02vnz	/m/03k8th	/m/02jsgf	/m/02jsgf
+/tv/tv_program/genre	/film/film_subject/films	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4885)
+___
+/m/02vnz	/m/03k8th	/m/024n3z	/m/024n3z
+/tv/tv_program/genre	/film/film_subject/films	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4885)
+___
+/m/02vnz	/m/03k8th	/m/02xs5v	/m/02xs5v
+/tv/tv_program/genre	/film/film_subject/films	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4885)
+___
+/m/02vnz	/m/03k8th	/m/02jtjz	/m/02jtjz
+/tv/tv_program/genre	/film/film_subject/films	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4885)
+___
+/m/01htzx	/m/01rf57	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4954)
+___
+/m/02vnz	/m/03k8th	/m/0169dl	/m/0169dl
+/tv/tv_program/genre	/film/film_subject/films	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4993)
+___
+/m/02vnz	/m/0ggbhy7	/m/01jfsb	/m/01jfsb
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.4997)
+___
+/m/02vnz	/m/0ggbhy7	/m/02qfv5d	/m/02qfv5d
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.4997)
+___
+/m/02vnz	/m/0ggbhy7	/m/0bkbm	/m/0bkbm
+/tv/tv_program/genre	/film/film_subject/films	/film/film/genre
+-1
+tensor(-8.4997)
+___
+/m/02vnz	/m/02py9yf	/m/05c1t6z	/m/05c1t6z
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_ceremony/awards_presented./award/award_honor/honored_for
+-1
+tensor(-8.5070)
+___
+/m/02vnz	/m/02py9yf	/m/03nnm4t	/m/03nnm4t
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_ceremony/awards_presented./award/award_honor/honored_for
+-1
+tensor(-8.5070)
+___
+/m/02vnz	/m/03k8th	/m/02g2wv	/m/02g2wv
+/tv/tv_program/genre	/film/film_subject/films	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.5402)
+___
+/m/02vnz	/m/0hz55	/m/03k9fj	/m/03k9fj
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5438)
+___
+/m/02vnz	/m/0hz55	/m/02vnz	/m/02vnz
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5438)
+___
+/m/02vnz	/m/0hz55	/m/0lsxr	/m/0lsxr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5438)
+___
+/m/02vnz	/m/0hz55	/m/01htzx	/m/01htzx
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5438)
+___
+/m/02vnz	/m/0hz55	/m/02kdv5l	/m/02kdv5l
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5438)
+___
+/m/02vnz	/m/0hz55	/m/01jfsb	/m/01jfsb
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5438)
+___
+#####################
+/m/02qfh	/m/0ckd1
+Reward:0
+/m/06q7n	/m/0ckh4k	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.4921)
+___
+/m/06q7n	/m/034vds	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.7176)
+___
+/m/06q7n	/m/05397h	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.7944)
+___
+/m/06q7n	/m/03y317	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.7997)
+___
+/m/06q7n	/m/02qfh	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.8947)
+___
+/m/06q7n	/m/01_2n	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.9681)
+___
+/m/06q7n	/m/02vjhf	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.9697)
+___
+/m/06q7n	/m/02_1ky	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.0441)
+___
+/m/06q7n	/m/0jq2r	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.1851)
+___
+/m/06q7n	/m/0n2bh	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.2031)
+___
+/m/06q7n	/m/0d66j2	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.3766)
+___
+/m/06q7n	/m/01dvry	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.3975)
+___
+/m/06q7n	/m/0pc_l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.4023)
+___
+/m/01f2w0	/m/02pvqmz	/m/09lmb	/m/09lmb
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-6.5733)
+___
+/m/06q7n	/m/01f3p_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6116)
+___
+/m/06q7n	/m/06dfz1	/m/064_8sq	/m/064_8sq
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6175)
+___
+/m/06q7n	/m/06dfz1	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6175)
+___
+/m/06q7n	/m/06dfz1	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6175)
+___
+/m/06q7n	/m/047m_w	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.6474)
+___
+/m/06q7n	/m/047m_w	/m/0fx2s	/m/0fx2s
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.6474)
+___
+/m/06q7n	/m/047m_w	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.6474)
+___
+/m/06q7n	/m/047m_w	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.6474)
+___
+/m/01f2w0	/m/02pvqmz	/m/02pvqmz	/m/02pvqmz
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP
+-1
+tensor(-6.6883)
+___
+/m/06q7n	/m/0ckh4k	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7765)
+___
+/m/06q7n	/m/047m_w	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.8022)
+___
+/m/06q7n	/m/01b65l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8252)
+___
+/m/06q7n	/m/02_1q9	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8469)
+___
+/m/01f2w0	/m/02pvqmz	/m/01f2w0	/m/01f2w0
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.9006)
+___
+/m/06q7n	/m/0ckh4k	/m/0chghy	/m/0chghy
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9134)
+___
+/m/06q7n	/m/0phrl	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9612)
+___
+/m/01f2w0	/m/02pvqmz	/m/07ssc	/m/07ssc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9633)
+___
+/m/01f2w0	/m/05397h	/m/02h40lc	/m/02h40lc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/languages
+-1
+tensor(-6.9836)
+___
+/m/06q7n	/m/034vds	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0073)
+___
+/m/06q7n	/m/047m_w	/m/047m_w	/m/047m_w
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.0141)
+___
+/m/06q7n	/m/01dvry	/m/0pc_l	/m/0pc_l
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-7.0282)
+___
+/m/02qfh	/m/02qfh	/m/02h40lc	/m/02h40lc
+NO_OP	NO_OP	/tv/tv_program/languages
+-1
+tensor(-7.0356)
+___
+/m/06q7n	/m/05397h	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0613)
+___
+/m/06q7n	/m/05397h	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0613)
+___
+/m/06q7n	/m/05397h	/m/0djd22	/m/0djd22
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0613)
+___
+/m/06q7n	/m/05397h	/m/04gm78f	/m/04gm78f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0613)
+___
+/m/06q7n	/m/03y317	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.0698)
+___
+/m/06q7n	/m/02_1rq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.0781)
+___
+/m/01f2w0	/m/02qfh	/m/02h40lc	/m/02h40lc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/languages
+-1
+tensor(-7.1131)
+___
+/m/06q7n	/m/01y6dz	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1151)
+___
+/m/06q7n	/m/0ckh4k	/m/0ckh4k	/m/0ckh4k
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.1337)
+___
+/m/06q7n	/m/034vds	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.1387)
+___
+/m/06q7n	/m/0cs134	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1786)
+___
+/m/06q7n	/m/0358x_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1997)
+___
+/m/06q7n	/m/02qfh	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2005)
+___
+/m/06q7n	/m/02qfh	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2005)
+___
+/m/06q7n	/m/034vds	/m/02p_7cr	/m/02p_7cr
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.2245)
+___
+/m/06q7n	/m/03y317	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.2327)
+___
+/m/06q7n	/m/02vjhf	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2541)
+___
+/m/06q7n	/m/02vjhf	/m/07qht4	/m/07qht4
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2541)
+___
+/m/06q7n	/m/02vjhf	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2541)
+___
+/m/06q7n	/m/02vjhf	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2541)
+___
+/m/06q7n	/m/02qfh	/m/04jpl	/m/04jpl
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.2915)
+___
+/m/06q7n	/m/02qfh	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.2915)
+___
+/m/06q7n	/m/02qfh	/m/02jx1	/m/02jx1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.2915)
+___
+/m/06q7n	/m/01_2n	/m/01t_vv	/m/01t_vv
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2996)
+___
+/m/06q7n	/m/01_2n	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2996)
+___
+/m/06q7n	/m/01_2n	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2996)
+___
+/m/06q7n	/m/01_2n	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2996)
+___
+/m/06q7n	/m/01_2n	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.3491)
+___
+/m/06q7n	/m/01_2n	/m/02jx1	/m/02jx1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.3491)
+___
+/m/06q7n	/m/02_1ky	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3549)
+___
+/m/06q7n	/m/034vds	/m/034vds	/m/034vds
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.3640)
+___
+/m/06q7n	/m/03y317	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-7.3725)
+___
+/m/06q7n	/m/03y317	/m/07qht4	/m/07qht4
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-7.3725)
+___
+/m/06q7n	/m/0gj50	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3770)
+___
+/m/01f2w0	/m/03ffcz	/m/029j_	/m/029j_
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.3892)
+___
+/m/06q7n	/m/02vjhf	/m/0d060g	/m/0d060g
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.3910)
+___
+/m/07s9rl0	/m/0170z3	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4099)
+___
+/m/01f2w0	/m/01cjhz	/m/01z4y	/m/01z4y
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-7.4229)
+___
+/m/01f2w0	/m/01cjhz	/m/05p553	/m/05p553
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-7.4229)
+___
+/m/06q7n	/m/05397h	/m/05397h	/m/05397h
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.4314)
+___
+/m/06q7n	/m/02_1ky	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4336)
+___
+/m/06q7n	/m/03y317	/m/03y317	/m/03y317
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.4388)
+___
+/m/06q7n	/m/0jq2r	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4598)
+___
+/m/06q7n	/m/0jq2r	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4598)
+___
+/m/06q7n	/m/0jq2r	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4598)
+___
+/m/06q7n	/m/0jq2r	/m/0c4xc	/m/0c4xc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4598)
+___
+/m/06q7n	/m/0jq2r	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4598)
+___
+/m/06q7n	/m/034fl9	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4699)
+___
+/m/07s9rl0	/m/02z2mr7	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4707)
+___
+/m/01f2w0	/m/0jq2r	/m/02h40lc	/m/02h40lc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/languages
+-1
+tensor(-7.4732)
+___
+/m/07s9rl0	/m/07kdkfj	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4753)
+___
+/m/01f2w0	/m/05397h	/m/0djd22	/m/0djd22
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-7.4850)
+___
+/m/01f2w0	/m/05397h	/m/07s9rl0	/m/07s9rl0
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-7.4850)
+___
+/m/01f2w0	/m/05397h	/m/04gm78f	/m/04gm78f
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-7.4850)
+___
+/m/01f2w0	/m/05397h	/m/06q7n	/m/06q7n
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-7.4850)
+___
+/m/06q7n	/m/0n2bh	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4874)
+___
+/m/06q7n	/m/0n2bh	/m/07qht4	/m/07qht4
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4874)
+___
+/m/01f2w0	/m/02wyzmv	/m/029j_	/m/029j_
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5049)
+___
+/m/06q7n	/m/02_1ky	/m/02_2v2	/m/02_2v2
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-7.5141)
+___
+/m/01f2w0	/m/01cjhz	/m/0g5lhl7	/m/0g5lhl7
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/media_common/netflix_genre/titles
+-1
+tensor(-7.5173)
+___
+/m/01f2w0	/m/01cjhz	/m/07c52	/m/07c52
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/media_common/netflix_genre/titles
+-1
+tensor(-7.5173)
+___
+/m/01f2w0	/m/01cjhz	/m/07ssc	/m/07ssc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/media_common/netflix_genre/titles
+-1
+tensor(-7.5173)
+___
+/m/06q7n	/m/02_1ky	/m/02p_7cr	/m/02p_7cr
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.5233)
+___
+/m/06q7n	/m/02qfh	/m/02qfh	/m/02qfh
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.5264)
+___
+#####################
+/m/08jgk1	/m/0ckd1
+Reward:0
+/m/0hmxn	/m/0hmxn	/m/0hmxn	/m/0hmxn
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	NO_OP
+-1
+tensor(-7.2644)
+___
+/m/0hmxn	/m/0hmxn	/m/08jgk1	/m/08jgk1
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.4708)
+___
+/m/0hmxn	/m/0hmxn	/m/043qqt5	/m/043qqt5
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.4708)
+___
+/m/0c4xc	/m/01p4wv	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.0574)
+___
+/m/0c4xc	/m/06f0k	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.0755)
+___
+/m/0c4xc	/m/05pbsry	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.1917)
+___
+/m/0c4xc	/m/0jq2r	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2259)
+___
+/m/0c4xc	/m/07hpv3	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.2788)
+___
+/m/0c4xc	/m/023ny6	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3217)
+___
+/m/0c4xc	/m/02nf2c	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3944)
+___
+/m/0c4xc	/m/02xhpl	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4038)
+___
+/m/0hmxn	/m/043qqt5	/m/02h40lc	/m/02h40lc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/languages
+-1
+tensor(-8.4173)
+___
+/m/0c4xc	/m/02r5qtm	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4362)
+___
+/m/0c4xc	/m/03nymk	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4890)
+___
+/m/0c4xc	/m/05f7w84	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.5793)
+___
+/m/0c4xc	/m/02rkkn1	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.6075)
+___
+/m/0c4xc	/m/099pks	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.6837)
+___
+/m/0c4xc	/m/01fs__	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.7355)
+___
+/m/0c4xc	/m/06y_n	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.7462)
+___
+/m/0c4xc	/m/03nt59	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.7474)
+___
+/m/0c4xc	/m/07zhjj	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.8312)
+___
+/m/0c4xc	/m/01ft14	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.8518)
+___
+/m/0c4xc	/m/019nnl	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.8617)
+___
+/m/0hmxn	/m/043qqt5	/m/0488g9	/m/0488g9
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8674)
+___
+/m/0hmxn	/m/043qqt5	/m/0cc8l6d	/m/0cc8l6d
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.9059)
+___
+/m/0hmxn	/m/043qqt5	/m/095bb	/m/095bb
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-8.9072)
+___
+/m/0hmxn	/m/043qqt5	/m/0hcr	/m/0hcr
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-8.9072)
+___
+/m/0hmxn	/m/043qqt5	/m/01hmnh	/m/01hmnh
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-8.9072)
+___
+/m/0hmxn	/m/043qqt5	/m/0pr6f	/m/0pr6f
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/genre
+-1
+tensor(-8.9072)
+___
+/m/0hmxn	/m/0hmxn	/m/08mbj5d	/m/08mbj5d
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-8.9185)
+___
+/m/01z4y	/m/03lrqw	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.9315)
+___
+/m/0c4xc	/m/01h72l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.9654)
+___
+/m/01z4y	/m/028kj0	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.9787)
+___
+/m/0hmxn	/m/043qqt5	/m/0dbpyd	/m/0dbpyd
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-9.0182)
+___
+/m/0hmxn	/m/043qqt5	/m/043qqt5	/m/043qqt5
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP
+-1
+tensor(-9.0205)
+___
+/m/01z4y	/m/01w8g3	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.0296)
+___
+/m/01z4y	/m/02n9bh	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.0362)
+___
+/m/0c4xc	/m/02xhpl	/m/0q9jk	/m/0q9jk
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-9.0462)
+___
+/m/01z4y	/m/026hxwx	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.0536)
+___
+/m/01z4y	/m/0640m69	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.0918)
+___
+/m/0c4xc	/m/014gjp	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.0971)
+___
+/m/01z4y	/m/02nt3d	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.0972)
+___
+/m/0c4xc	/m/02czd5	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.1311)
+___
+/m/01z4y	/m/0830vk	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1316)
+___
+/m/0c4xc	/m/02hct1	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.1429)
+___
+/m/01z4y	/m/056xkh	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1468)
+___
+/m/01z4y	/m/02ndy4	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1567)
+___
+/m/01z4y	/m/03wjm2	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1616)
+___
+/m/01z4y	/m/016ky6	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1659)
+___
+/m/01z4y	/m/02q8ms8	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1724)
+___
+/m/0c4xc	/m/0q9jk	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.1879)
+___
+/m/01z4y	/m/0963mq	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1946)
+___
+/m/01z4y	/m/06lpmt	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.1995)
+___
+/m/01z4y	/m/034qrh	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2017)
+___
+/m/01z4y	/m/01k0xy	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2126)
+___
+/m/01z4y	/m/05zpghd	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2290)
+___
+/m/01z4y	/m/02f6g5	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2300)
+___
+/m/0hmxn	/m/043qqt5	/m/03mstc	/m/03mstc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-9.2415)
+___
+/m/0hmxn	/m/043qqt5	/m/0hmxn	/m/0hmxn
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-9.2431)
+___
+/m/0hmxn	/m/043qqt5	/m/05gnf	/m/05gnf
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-9.2431)
+___
+/m/0hmxn	/m/043qqt5	/m/0g5lhl7	/m/0g5lhl7
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-9.2431)
+___
+/m/0hmxn	/m/043qqt5	/m/02h758	/m/02h758
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-9.2431)
+___
+/m/01z4y	/m/076tq0z	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2499)
+___
+/m/0c4xc	/m/0124k9	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.2725)
+___
+/m/01z4y	/m/01pj_5	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2810)
+___
+/m/01z4y	/m/05fgt1	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2836)
+___
+/m/0hmxn	/m/043qqt5	/m/09c7w0	/m/09c7w0
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/country_of_origin
+-1
+tensor(-9.2845)
+___
+/m/01z4y	/m/01qxc7	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.2995)
+___
+/m/0c4xc	/m/01p4wv	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3037)
+___
+/m/0c4xc	/m/01p4wv	/m/04xvlr	/m/04xvlr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3037)
+___
+/m/0c4xc	/m/01p4wv	/m/02l7c8	/m/02l7c8
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3037)
+___
+/m/0c4xc	/m/01p4wv	/m/0c4xc	/m/0c4xc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3037)
+___
+/m/01z4y	/m/04yc76	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.3046)
+___
+/m/01z4y	/m/011x_4	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.3134)
+___
+/m/0c4xc	/m/030cx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.3135)
+___
+/m/01z4y	/m/02x8fs	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.3148)
+___
+/m/0c4xc	/m/06f0k	/m/0c4xc	/m/0c4xc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3447)
+___
+/m/0c4xc	/m/06f0k	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3447)
+___
+/m/0c4xc	/m/06f0k	/m/0gf28	/m/0gf28
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3447)
+___
+/m/0c4xc	/m/06f0k	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.3447)
+___
+/m/0c4xc	/m/01s81	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.3746)
+___
+/m/01z4y	/m/0prrm	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.3825)
+___
+/m/01z4y	/m/03l6q0	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.3914)
+___
+/m/01z4y	/m/0p_rk	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.4090)
+___
+/m/0c4xc	/m/072kp	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-9.4279)
+___
+/m/01z4y	/m/02ht1k	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.4340)
+___
+/m/01z4y	/m/040_lv	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.4468)
+___
+/m/01z4y	/m/06q8qh	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.4598)
+___
+/m/0c4xc	/m/05pbsry	/m/0c4xc	/m/0c4xc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4608)
+___
+/m/0c4xc	/m/05pbsry	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4608)
+___
+/m/0c4xc	/m/05pbsry	/m/01t_vv	/m/01t_vv
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4608)
+___
+/m/0c4xc	/m/05pbsry	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4608)
+___
+/m/0c4xc	/m/0jq2r	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4760)
+___
+/m/0c4xc	/m/0jq2r	/m/0c4xc	/m/0c4xc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4760)
+___
+/m/0c4xc	/m/0jq2r	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4760)
+___
+/m/0c4xc	/m/0jq2r	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4760)
+___
+/m/0c4xc	/m/0jq2r	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-9.4760)
+___
+/m/01z4y	/m/0bs5vty	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.4768)
+___
+/m/0hmxn	/m/043qqt5	/m/019803	/m/019803
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-9.4777)
+___
+/m/0hmxn	/m/043qqt5	/m/02gf_l	/m/02gf_l
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-9.4777)
+___
+#####################
+/m/07vqnc	/m/0ckd1
+Reward:0
+/m/02lvfq	/m/02lvfq	/m/02lvfq	/m/02lvfq
+/tv/tv_program/genre	NO_OP	NO_OP
+-1
+tensor(-5.3394)
+___
+/m/02lvfq	/m/07vqnc	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.4801)
+___
+/m/02lvfq	/m/099pks	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.5508)
+___
+/m/02lvfq	/m/01rp13	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-5.5980)
+___
+/m/02lvfq	/m/02lvfq	/m/01rp13	/m/01rp13
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.6078)
+___
+/m/02lvfq	/m/02lvfq	/m/099pks	/m/099pks
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.6078)
+___
+/m/02lvfq	/m/02lvfq	/m/07vqnc	/m/07vqnc
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-5.6078)
+___
+/m/025s89p	/m/01hn_t	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.4650)
+___
+/m/011ys5	/m/026mfbr	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.4751)
+___
+/m/0215n	/m/024rwx	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.5304)
+___
+/m/025s89p	/m/019g8j	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.5490)
+___
+/m/011ys5	/m/0dln8jk	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6034)
+___
+/m/011ys5	/m/03nx8mj	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6228)
+___
+/m/025s89p	/m/05h95s	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6535)
+___
+/m/011ys5	/m/0k5fg	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6572)
+___
+/m/025s89p	/m/024rwx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6583)
+___
+/m/011ys5	/m/03tps5	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6987)
+___
+/m/02lvfq	/m/07vqnc	/m/02lvfq	/m/02lvfq
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/02lvfq	/m/07vqnc	/m/011ys5	/m/011ys5
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/02lvfq	/m/07vqnc	/m/06nbt	/m/06nbt
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/02lvfq	/m/07vqnc	/m/0hcr	/m/0hcr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/02lvfq	/m/07vqnc	/m/03k9fj	/m/03k9fj
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/02lvfq	/m/07vqnc	/m/09q17	/m/09q17
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/02lvfq	/m/07vqnc	/m/025s89p	/m/025s89p
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/02lvfq	/m/07vqnc	/m/0vgkd	/m/0vgkd
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.7676)
+___
+/m/011ys5	/m/01sxly	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.7710)
+___
+/m/0215n	/m/015w8_	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.7935)
+___
+/m/02lvfq	/m/099pks	/m/02lvfq	/m/02lvfq
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/0hcr	/m/0hcr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/0c4xc	/m/0c4xc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/095bb	/m/095bb
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/025s89p	/m/025s89p
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/0215n	/m/0215n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/01t_vv	/m/01t_vv
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/02lvfq	/m/099pks	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8383)
+___
+/m/0215n	/m/06r1k	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.8453)
+___
+/m/0215n	/m/01hvv0	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.8631)
+___
+/m/0215n	/m/025x1t	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.8632)
+___
+/m/0215n	/m/0vhm	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.8705)
+___
+/m/025s89p	/m/0fkwzs	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8745)
+___
+/m/02lvfq	/m/01rp13	/m/02lvfq	/m/02lvfq
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8855)
+___
+/m/02lvfq	/m/01rp13	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8855)
+___
+/m/02lvfq	/m/01rp13	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-6.8855)
+___
+/m/025s89p	/m/015w8_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8955)
+___
+/m/02lvfq	/m/07vqnc	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.8969)
+___
+/m/025s89p	/m/05nlzq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9018)
+___
+/m/0215n	/m/07vqnc	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.9137)
+___
+/m/025s89p	/m/01hvv0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9163)
+___
+/m/025s89p	/m/025x1t	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9350)
+___
+/m/0146mv	/m/05h95s	/m/06nm1	/m/06nm1
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.9437)
+___
+/m/025s89p	/m/05f7w84	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9605)
+___
+/m/011ys5	/m/01pgp6	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.9618)
+___
+/m/02lvfq	/m/099pks	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9676)
+___
+/m/025s89p	/m/07vqnc	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9739)
+___
+/m/02lvfq	/m/07vqnc	/m/0h3vhfb	/m/0h3vhfb
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-6.9769)
+___
+/m/02lvfq	/m/07vqnc	/m/0cjcbg	/m/0cjcbg
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-6.9769)
+___
+/m/02lvfq	/m/07vqnc	/m/0cc8l6d	/m/0cc8l6d
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-6.9769)
+___
+/m/0215n	/m/0170k0	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-6.9979)
+___
+/m/02lvfq	/m/099pks	/m/0ckd1	/m/0ckd1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+1
+tensor(-6.9990)
+___
+/m/02lvfq	/m/01rp13	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.0148)
+___
+/m/011ys5	/m/02704ff	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0205)
+___
+/m/02lvfq	/m/099pks	/m/06jnvs	/m/06jnvs
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-7.0268)
+___
+/m/025s89p	/m/099pks	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.0350)
+___
+/m/02lvfq	/m/07vqnc	/m/0146mv	/m/0146mv
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-7.0636)
+___
+/m/02lvfq	/m/07vqnc	/m/0215n	/m/0215n
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-7.0636)
+___
+/m/0215n	/m/028k2x	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-7.0823)
+___
+/m/02lvfq	/m/01rp13	/m/09qj50	/m/09qj50
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/01rp13	/m/027gs1_	/m/027gs1_
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/01rp13	/m/0cqhmg	/m/0cqhmg
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/01rp13	/m/09qv3c	/m/09qv3c
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/01rp13	/m/09qvc0	/m/09qvc0
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/01rp13	/m/0cjyzs	/m/0cjyzs
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/01rp13	/m/09qvf4	/m/09qvf4
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/01rp13	/m/03ccq3s	/m/03ccq3s
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.0948)
+___
+/m/02lvfq	/m/07vqnc	/m/07vqnc	/m/07vqnc
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.1184)
+___
+/m/02lvfq	/m/099pks	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-7.1344)
+___
+/m/011ys5	/m/026mfbr	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.1405)
+___
+/m/02lvfq	/m/07vqnc	/m/09gb9xh	/m/09gb9xh
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.1420)
+___
+/m/0146mv	/m/01hvv0	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-7.1606)
+___
+/m/02lvfq	/m/01rp13	/m/0cjdk	/m/0cjdk
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1651)
+___
+/m/02lvfq	/m/01rp13	/m/02l3_5	/m/02l3_5
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1651)
+___
+/m/02lvfq	/m/01rp13	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-7.1816)
+___
+/m/011ys5	/m/02ph9tm	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.1890)
+___
+/m/02lvfq	/m/099pks	/m/099pks	/m/099pks
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.1891)
+___
+/m/0146mv	/m/07vqnc	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-7.2085)
+___
+/m/02lvfq	/m/01rp13	/m/01rp13	/m/01rp13
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.2363)
+___
+/m/011ys5	/m/05c5z8j	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.2565)
+___
+/m/02lvfq	/m/01rp13	/m/02l3_5	/m/02l3_5
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.2599)
+___
+/m/02lvfq	/m/01rp13	/m/01vwllw	/m/01vwllw
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.2599)
+___
+/m/025s89p	/m/019nnl	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2618)
+___
+/m/011ys5	/m/0dln8jk	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.2688)
+___
+/m/02lvfq	/m/01rp13	/m/027gs1_	/m/027gs1_
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-7.2761)
+___
+/m/02lvfq	/m/01rp13	/m/09qvf4	/m/09qvf4
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-7.2761)
+___
+/m/02lvfq	/m/01rp13	/m/0m7yy	/m/0m7yy
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-7.2761)
+___
+/m/011ys5	/m/03nx8mj	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.3100)
+___
+/m/025s89p	/m/01h72l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3309)
+___
+/m/011ys5	/m/0k5fg	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.3444)
+___
+/m/011ys5	/m/034xyf	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.3462)
+___
+#####################
+/m/043qqt5	/m/0ckd1
+Reward:0
+/m/095bb	/m/05sxr_	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-5.9068)
+___
+/m/095bb	/m/099bhp	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.1018)
+___
+/m/0hmxn	/m/0hmxn	/m/0hmxn	/m/0hmxn
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	NO_OP
+-1
+tensor(-6.1140)
+___
+/m/0pr6f	/m/017dbx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.1267)
+___
+/m/0pr6f	/m/05631	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.2893)
+___
+/m/0hmxn	/m/0hmxn	/m/043qqt5	/m/043qqt5
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.3051)
+___
+/m/0hmxn	/m/0hmxn	/m/08jgk1	/m/08jgk1
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.3051)
+___
+/m/02h758	/m/02h758	/m/02h758	/m/02h758
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	NO_OP
+-1
+tensor(-6.3101)
+___
+/m/095bb	/m/019g8j	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.3515)
+___
+/m/0pr6f	/m/02vjhf	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.4181)
+___
+/m/095bb	/m/07hpv3	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.4325)
+___
+/m/095bb	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.4413)
+___
+/m/095bb	/m/024rwx	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.4641)
+___
+/m/095bb	/m/043qqt5	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.4761)
+___
+/m/02h758	/m/02h758	/m/043qqt5	/m/043qqt5
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.5193)
+___
+/m/02h758	/m/02h758	/m/014l7h	/m/014l7h
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	_/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+tensor(-6.5697)
+___
+/m/0pr6f	/m/019g8j	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6077)
+___
+/m/095bb	/m/05sxr_	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6131)
+___
+/m/095bb	/m/0fkwzs	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6867)
+___
+/m/095bb	/m/05nlzq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6896)
+___
+/m/095bb	/m/01hvv0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6946)
+___
+/m/0pr6f	/m/05h95s	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.7210)
+___
+/m/095bb	/m/025x1t	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.7413)
+___
+/m/0pr6f	/m/043qqt5	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.7539)
+___
+/m/02h758	/m/02h758	/m/0dq_5	/m/0dq_5
+_/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-6.8003)
+___
+/m/01mv_n	/m/03dbww	/m/01mv_n	/m/01mv_n
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.8058)
+___
+/m/095bb	/m/099pks	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8193)
+___
+/m/0pr6f	/m/0ctzf1	/m/03_9r	/m/03_9r
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8411)
+___
+/m/0pr6f	/m/05nlzq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8924)
+___
+/m/095bb	/m/0170k0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8946)
+___
+/m/0pr6f	/m/0fkwzs	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9538)
+___
+/m/0pr6f	/m/0vhm	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9552)
+___
+/m/01mv_n	/m/03dbww	/m/01mv_n	/m/01mv_n
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9632)
+___
+/m/095bb	/m/099bhp	/m/095bb	/m/095bb
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-6.9699)
+___
+/m/095bb	/m/099bhp	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-6.9699)
+___
+/m/095bb	/m/099bhp	/m/01zhp	/m/01zhp
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-6.9699)
+___
+/m/095bb	/m/099bhp	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/film/film/genre	/film/film/language
+-1
+tensor(-6.9715)
+___
+/m/095bb	/m/028k2x	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9833)
+___
+/m/0pr6f	/m/06r1k	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9889)
+___
+/m/0pr6f	/m/05f7w84	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.0359)
+___
+/m/01mv_n	/m/03dbww	/m/01mv_n	/m/01mv_n
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.0490)
+___
+/m/01mv_n	/m/03dbww	/m/01mv_n	/m/01mv_n
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.1214)
+___
+/m/095bb	/m/01h72l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1276)
+___
+/m/0pr6f	/m/0170k0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1593)
+___
+/m/01mv_n	/m/03dbww	/m/01mv_n	/m/01mv_n
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1649)
+___
+/m/095bb	/m/0jwl2	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1691)
+___
+/m/095bb	/m/0jwl2	/m/025s89p	/m/025s89p
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1691)
+___
+/m/095bb	/m/0jwl2	/m/095bb	/m/095bb
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.1691)
+___
+/m/0pr6f	/m/05sy0cv	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1948)
+___
+/m/0pr6f	/m/05631	/m/015f7	/m/015f7
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-7.2552)
+___
+/m/0pr6f	/m/017dbx	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.2567)
+___
+/m/02h758	/m/043qqt5	/m/02h40lc	/m/02h40lc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/languages
+-1
+tensor(-7.2660)
+___
+/m/0pr6f	/m/028k2x	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2713)
+___
+/m/0pr6f	/m/0b005	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2733)
+___
+/m/01mv_n	/m/03dbww	/m/01mv_n	/m/01mv_n
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3211)
+___
+/m/095bb	/m/095bb	/m/099bhp	/m/099bhp
+/tv/tv_program/genre	NO_OP	_/film/film/genre
+-1
+tensor(-7.3399)
+___
+/m/095bb	/m/095bb	/m/03h3x5	/m/03h3x5
+/tv/tv_program/genre	NO_OP	_/film/film/genre
+-1
+tensor(-7.3399)
+___
+/m/095bb	/m/095bb	/m/05sxr_	/m/05sxr_
+/tv/tv_program/genre	NO_OP	_/film/film/genre
+-1
+tensor(-7.3399)
+___
+/m/095bb	/m/0jwl2	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.3548)
+___
+/m/095bb	/m/099bhp	/m/024my5	/m/024my5
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.3635)
+___
+/m/095bb	/m/099bhp	/m/06b4wb	/m/06b4wb
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.3635)
+___
+/m/095bb	/m/099bhp	/m/02y0yt	/m/02y0yt
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.3635)
+___
+/m/095bb	/m/099bhp	/m/034rd9	/m/034rd9
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.3635)
+___
+/m/095bb	/m/099bhp	/m/0sw6y	/m/0sw6y
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.3635)
+___
+/m/095bb	/m/099bhp	/m/02wrhj	/m/02wrhj
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.3635)
+___
+/m/095bb	/m/099bhp	/m/041c4	/m/041c4
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.3635)
+___
+/m/0pr6f	/m/0jwl2	/m/025s89p	/m/025s89p
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3637)
+___
+/m/0pr6f	/m/0jwl2	/m/095bb	/m/095bb
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3637)
+___
+/m/0pr6f	/m/0jwl2	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3637)
+___
+/m/0hmxn	/m/043qqt5	/m/02h40lc	/m/02h40lc
+_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/languages
+-1
+tensor(-7.3843)
+___
+/m/01mv_n	/m/03dbww	/m/01mv_n	/m/01mv_n
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3847)
+___
+/m/0pr6f	/m/09g_31	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3985)
+___
+/m/0pr6f	/m/09g_31	/m/01htzx	/m/01htzx
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3985)
+___
+/m/0pr6f	/m/09g_31	/m/06n90	/m/06n90
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3985)
+___
+/m/0pr6f	/m/09g_31	/m/03k9fj	/m/03k9fj
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.3985)
+___
+/m/0pr6f	/m/05631	/m/01w613	/m/01w613
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4039)
+___
+/m/0pr6f	/m/05631	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4039)
+___
+/m/095bb	/m/03h3x5	/m/09q17	/m/09q17
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.4377)
+___
+/m/095bb	/m/03h3x5	/m/095bb	/m/095bb
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.4377)
+___
+/m/095bb	/m/03h3x5	/m/0hcr	/m/0hcr
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.4377)
+___
+/m/095bb	/m/03h3x5	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.4377)
+___
+/m/0pr6f	/m/0cwrr	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4425)
+___
+/m/0pr6f	/m/017dbx	/m/0f1vrl	/m/0f1vrl
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-7.4761)
+___
+/m/0pr6f	/m/04mx8h4	/m/01htzx	/m/01htzx
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4870)
+___
+/m/0pr6f	/m/04mx8h4	/m/06n90	/m/06n90
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4870)
+___
+/m/0pr6f	/m/04mx8h4	/m/0hcr	/m/0hcr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4870)
+___
+/m/0pr6f	/m/04mx8h4	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.4870)
+___
+/m/0pr6f	/m/017dbx	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.5211)
+___
+/m/095bb	/m/0jwl2	/m/0jwl2	/m/0jwl2
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.5285)
+___
+/m/0pr6f	/m/02vjhf	/m/07qht4	/m/07qht4
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5328)
+___
+/m/0pr6f	/m/02vjhf	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5328)
+___
+/m/0pr6f	/m/02vjhf	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5328)
+___
+/m/0pr6f	/m/02vjhf	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5328)
+___
+/m/095bb	/m/03h3x5	/m/0735l	/m/0735l
+/tv/tv_program/genre	_/film/film/genre	/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium
+-1
+tensor(-7.5371)
+___
+/m/0hcr	/m/02v5xg	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-7.5583)
+___
+/m/0pr6f	/m/0jwl2	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.5666)
+___
+/m/095bb	/m/019g8j	/m/025s89p	/m/025s89p
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5674)
+___
+/m/095bb	/m/019g8j	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5674)
+___
+/m/095bb	/m/019g8j	/m/0hcr	/m/0hcr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5674)
+___
+/m/095bb	/m/019g8j	/m/095bb	/m/095bb
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.5674)
+___
+#####################
+/m/02rlj20	/m/0ckd1
+Reward:0
+/m/02p0szs	/m/02bg8v	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-7.0199)
+___
+/m/02p0szs	/m/02q_x_l	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-7.0473)
+___
+/m/02p0szs	/m/05dl1s	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0516)
+___
+/m/02p0szs	/m/05p3738	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.1093)
+___
+/m/02p0szs	/m/048xyn	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.1368)
+___
+/m/0hfjk	/m/06cs95	/m/02h40lc	/m/02h40lc
+/film/film/genre	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-7.1574)
+___
+/m/02p0szs	/m/03_wm6	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.1704)
+___
+/m/02p0szs	/m/02rlj20	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.1829)
+___
+/m/02p0szs	/m/09rsjpv	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.1858)
+___
+/m/02p0szs	/m/055td_	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.2445)
+___
+/m/02p0szs	/m/0pd6l	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.2700)
+___
+/m/02p0szs	/m/05znbh7	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.3661)
+___
+/m/02p0szs	/m/0gys2jp	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.3948)
+___
+/m/02p0szs	/m/048scx	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.3983)
+___
+/m/02p0szs	/m/0g3zrd	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4003)
+___
+/m/03g3w	/m/09rvcvl	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4501)
+___
+/m/02p0szs	/m/0cnztc4	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4595)
+___
+/m/0hfjk	/m/0k4bc	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4840)
+___
+/m/02p0szs	/m/016z7s	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4888)
+___
+/m/02p0szs	/m/03cv_gy	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-7.4924)
+___
+/m/0hfjk	/m/0k4bc	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.4969)
+___
+/m/02p0szs	/m/01_0f7	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5082)
+___
+/m/02p0szs	/m/07f_t4	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5217)
+___
+/m/02p0szs	/m/03_gz8	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5325)
+___
+/m/02p0szs	/m/01vw8k	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5407)
+___
+/m/03g3w	/m/01br2w	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5409)
+___
+/m/02p0szs	/m/03cv_gy	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5505)
+___
+/m/0hfjk	/m/01f7kl	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5537)
+___
+/m/02p0szs	/m/04yg13l	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5562)
+___
+/m/0hfjk	/m/04ynx7	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5571)
+___
+/m/02p0szs	/m/0bmc4cm	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5857)
+___
+/m/02p0szs	/m/0bmc4cm	/m/07c52	/m/07c52
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.5857)
+___
+/m/0hfjk	/m/015gm8	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6230)
+___
+/m/0hfjk	/m/018f8	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6245)
+___
+/m/03g3w	/m/012jfb	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6383)
+___
+/m/02p0szs	/m/04f6df0	/m/07ssc	/m/07ssc
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.6434)
+___
+/m/02p0szs	/m/0f4k49	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6482)
+___
+/m/02p0szs	/m/0f4k49	/m/07z4p	/m/07z4p
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6482)
+___
+/m/0hfjk	/m/01zfzb	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6507)
+___
+/m/0hfjk	/m/05sxzwc	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6516)
+___
+/m/03g3w	/m/0pd6l	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6608)
+___
+/m/0hfjk	/m/02rlj20	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6610)
+___
+/m/03g3w	/m/0qmhk	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.6983)
+___
+/m/02p0szs	/m/0gtv7pk	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7386)
+___
+/m/0hfjk	/m/07tlfx	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7455)
+___
+/m/03g3w	/m/07yk1xz	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7515)
+___
+/m/03g3w	/m/0qm8b	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7553)
+___
+/m/03g3w	/m/0qmd5	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7751)
+___
+/m/0hfjk	/m/08c4yn	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.7775)
+___
+/m/0hfjk	/m/01f6x7	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8157)
+___
+/m/02p0szs	/m/0168ls	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8262)
+___
+/m/03g3w	/m/0k4kk	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8332)
+___
+/m/02p0szs	/m/05dl1s	/m/0d060g	/m/0d060g
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8457)
+___
+/m/02p0szs	/m/05dl1s	/m/0chghy	/m/0chghy
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8457)
+___
+/m/03g3w	/m/04dsnp	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8475)
+___
+/m/02p0szs	/m/0d61px	/m/0f8l9c	/m/0f8l9c
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8550)
+___
+/m/02p0szs	/m/0d61px	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8550)
+___
+/m/02p0szs	/m/0d61px	/m/07ssc	/m/07ssc
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8550)
+___
+/m/03g3w	/m/046488	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8696)
+___
+/m/02p0szs	/m/02bg8v	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8782)
+___
+/m/0hfjk	/m/0symg	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8826)
+___
+/m/03g3w	/m/09r94m	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8840)
+___
+/m/02p0szs	/m/03bdkd	/m/0cb77r	/m/0cb77r
+/film/film/genre	_/film/film/genre	_/film/film_set_designer/film_sets_designed
+-1
+tensor(-7.8880)
+___
+/m/02p0szs	/m/02q_x_l	/m/0chghy	/m/0chghy
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8934)
+___
+/m/02p0szs	/m/02q_x_l	/m/07ssc	/m/07ssc
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.8934)
+___
+/m/02p0szs	/m/05p3738	/m/07ssc	/m/07ssc
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9014)
+___
+/m/02p0szs	/m/05p3738	/m/0f8l9c	/m/0f8l9c
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9014)
+___
+/m/0hfjk	/m/039c26	/m/02h40lc	/m/02h40lc
+/film/film/genre	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-7.9076)
+___
+/m/03g3w	/m/03_gz8	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.9283)
+___
+/m/02p0szs	/m/048xyn	/m/0f8l9c	/m/0f8l9c
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9368)
+___
+/m/03g3w	/m/09q23x	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.9464)
+___
+/m/02p0szs	/m/09gq0x5	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.9493)
+___
+/m/02p0szs	/m/0c8qq	/m/07ssc	/m/07ssc
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9604)
+___
+/m/0hfjk	/m/06zsk51	/m/02h40lc	/m/02h40lc
+/film/film/genre	/media_common/netflix_genre/titles	/tv/tv_program/languages
+-1
+tensor(-7.9683)
+___
+/m/02p0szs	/m/03_wm6	/m/0f8l9c	/m/0f8l9c
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9692)
+___
+/m/02p0szs	/m/09rsjpv	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9732)
+___
+/m/02p0szs	/m/02rlj20	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9741)
+___
+/m/0hfjk	/m/02q5bx2	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-7.9745)
+___
+/m/02p0szs	/m/01242_	/m/03rt9	/m/03rt9
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9876)
+___
+/m/02p0szs	/m/01242_	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.9876)
+___
+/m/03g3w	/m/0b4lkx	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.9920)
+___
+/m/02p0szs	/m/019vhk	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0029)
+___
+/m/02p0szs	/m/0dgst_d	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0157)
+___
+/m/0hfjk	/m/02q5bx2	/m/07c52	/m/07c52
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0195)
+___
+/m/0hfjk	/m/02q5bx2	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0195)
+___
+/m/03g3w	/m/04lqvly	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0248)
+___
+/m/03g3w	/m/05z43v	/m/02h40lc	/m/02h40lc
+/film/film/genre	_/film/film/genre	/tv/tv_program/languages
+-1
+tensor(-8.0298)
+___
+/m/02p0szs	/m/055td_	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-8.0302)
+___
+/m/03g3w	/m/02vqsll	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0308)
+___
+/m/02p0szs	/m/0p7qm	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-8.0478)
+___
+/m/0hfjk	/m/08mg_b	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0648)
+___
+/m/03g3w	/m/05z43v	/m/029j_	/m/029j_
+/film/film/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0841)
+___
+/m/0hfjk	/m/01kff7	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.0867)
+___
+/m/0hfjk	/m/0f4k49	/m/07z4p	/m/07z4p
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.1026)
+___
+/m/0hfjk	/m/0f4k49	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.1026)
+___
+/m/03g3w	/m/0gyy53	/m/07ssc	/m/07ssc
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-8.1289)
+___
+/m/03g3w	/m/0gyy53	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-8.1289)
+___
+/m/0hfjk	/m/0b73_1d	/m/029j_	/m/029j_
+/film/film/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-8.1410)
+___
+/m/03g3w	/m/0bbgvp	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-8.1475)
+___
+/m/03g3w	/m/0dj0m5	/m/06mkj	/m/06mkj
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-8.1560)
+___
+#####################
+/m/039cq4	/m/0ckd1
+Reward:0
+/m/0q00t	/m/0q00t	/m/0dtw1x	/m/0dtw1x
+/tv/tv_program/genre	NO_OP	/media_common/netflix_genre/titles
+-1
+tensor(-6.4234)
+___
+/m/0q00t	/m/0dtw1x	/m/029j_	/m/029j_
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.4690)
+___
+/m/0dm00	/m/025ljp	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9053)
+___
+/m/0dm00	/m/0dm00	/m/0dm00	/m/0dm00
+/tv/tv_program/genre	NO_OP	NO_OP
+-1
+tensor(-6.9939)
+___
+/m/0q00t	/m/0q00t	/m/01wp_jm	/m/01wp_jm
+/tv/tv_program/genre	NO_OP	/music/genre/artists
+-1
+tensor(-7.0442)
+___
+/m/0q00t	/m/0q00t	/m/0q00t	/m/0q00t
+/tv/tv_program/genre	NO_OP	NO_OP
+-1
+tensor(-7.0915)
+___
+/m/0dm00	/m/0dm00	/m/025ljp	/m/025ljp
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.2569)
+___
+/m/0dm00	/m/0dm00	/m/039cq4	/m/039cq4
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.2569)
+___
+/m/0dm00	/m/0dm00	/m/0b005	/m/0b005
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.2569)
+___
+/m/0dm00	/m/0dm00	/m/0cwrr	/m/0cwrr
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.2569)
+___
+/m/0dm00	/m/0b005	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2972)
+___
+/m/0q00t	/m/0q00t	/m/039cq4	/m/039cq4
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-7.3519)
+___
+/m/0dm00	/m/0cwrr	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4650)
+___
+/m/0q00t	/m/0dtw1x	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/country
+-1
+tensor(-7.5571)
+___
+/m/0dm00	/m/025ljp	/m/01jbx1	/m/01jbx1
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-7.9159)
+___
+/m/0dm00	/m/025ljp	/m/025ldg	/m/025ldg
+/tv/tv_program/genre	_/tv/tv_program/genre	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-7.9159)
+___
+/m/0q00t	/m/0dtw1x	/m/0jtdp	/m/0jtdp
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/genre
+-1
+tensor(-8.0066)
+___
+/m/0q00t	/m/0dtw1x	/m/05p553	/m/05p553
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/genre
+-1
+tensor(-8.0066)
+___
+/m/0dm00	/m/025ljp	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1705)
+___
+/m/0dm00	/m/025ljp	/m/0hcr	/m/0hcr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1705)
+___
+/m/0dm00	/m/025ljp	/m/06nbt	/m/06nbt
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1705)
+___
+/m/0dm00	/m/025ljp	/m/0dm00	/m/0dm00
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1705)
+___
+/m/0dm00	/m/025ljp	/m/01w613	/m/01w613
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1705)
+___
+/m/0dm00	/m/025ljp	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1705)
+___
+/m/0dm00	/m/025ljp	/m/0c031k6	/m/0c031k6
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1705)
+___
+/m/0q00t	/m/01wp_jm	/m/0ftvg	/m/0ftvg
+/tv/tv_program/genre	/music/genre/artists	/people/deceased_person/place_of_death
+-1
+tensor(-8.3037)
+___
+/m/0q00t	/m/0dtw1x	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/language
+-1
+tensor(-8.3152)
+___
+/m/0dm00	/m/025ljp	/m/01wd9lv	/m/01wd9lv
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-8.3359)
+___
+/m/0q00t	/m/01wp_jm	/m/0rxyk	/m/0rxyk
+/tv/tv_program/genre	/music/genre/artists	/people/person/place_of_birth
+-1
+tensor(-8.3941)
+___
+/m/05gnf	/m/031rq5	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.4015)
+___
+/m/0q00t	/m/01wp_jm	/m/01wp_jm	/m/01wp_jm
+/tv/tv_program/genre	/music/genre/artists	NO_OP
+-1
+tensor(-8.4133)
+___
+/m/07ymr5	/m/039cq4	/m/0t_2	/m/0t_2
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-8.4246)
+___
+/m/07ymr5	/m/039cq4	/m/02h40lc	/m/02h40lc
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-8.4246)
+___
+/m/091yn0	/m/02pb53	/m/0277990	/m/0277990
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.4322)
+___
+/m/091yn0	/m/02pb53	/m/09px1w	/m/09px1w
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.4322)
+___
+/m/091yn0	/m/02pb53	/m/05drr9	/m/05drr9
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.4322)
+___
+/m/091yn0	/m/02pb53	/m/0p_2r	/m/0p_2r
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.4322)
+___
+/m/0dm00	/m/025ljp	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-8.4532)
+___
+/m/09px1w	/m/039cq4	/m/02h40lc	/m/02h40lc
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-8.4714)
+___
+/m/09px1w	/m/039cq4	/m/0t_2	/m/0t_2
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-8.4714)
+___
+/m/0q00t	/m/0dtw1x	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.4834)
+___
+/m/0q00t	/m/0dtw1x	/m/0d0vqn	/m/0d0vqn
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.4834)
+___
+/m/0q00t	/m/0dtw1x	/m/059j2	/m/059j2
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.4834)
+___
+/m/0q00t	/m/0dtw1x	/m/02vzc	/m/02vzc
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.4834)
+___
+/m/0q00t	/m/0dtw1x	/m/0154j	/m/0154j
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.4834)
+___
+/m/0q00t	/m/0dtw1x	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.4834)
+___
+/m/0q00t	/m/01wp_jm	/m/01t_wfl	/m/01t_wfl
+/tv/tv_program/genre	/music/genre/artists	/influence/influence_node/influenced_by
+-1
+tensor(-8.4885)
+___
+/m/0q00t	/m/01wp_jm	/m/01vsy3q	/m/01vsy3q
+/tv/tv_program/genre	/music/genre/artists	/influence/influence_node/influenced_by
+-1
+tensor(-8.4885)
+___
+/m/0q00t	/m/01wp_jm	/m/0ph2w	/m/0ph2w
+/tv/tv_program/genre	/music/genre/artists	/influence/influence_node/influenced_by
+-1
+tensor(-8.4885)
+___
+/m/0q00t	/m/01wp_jm	/m/081lh	/m/081lh
+/tv/tv_program/genre	/music/genre/artists	/influence/influence_node/influenced_by
+-1
+tensor(-8.4885)
+___
+/m/0q00t	/m/01wp_jm	/m/014z8v	/m/014z8v
+/tv/tv_program/genre	/music/genre/artists	/influence/influence_node/influenced_by
+-1
+tensor(-8.4885)
+___
+/m/0q00t	/m/01wp_jm	/m/01k9lpl	/m/01k9lpl
+/tv/tv_program/genre	/music/genre/artists	/influence/influence_node/influenced_by
+-1
+tensor(-8.4885)
+___
+/m/0q00t	/m/01wp_jm	/m/01hmk9	/m/01hmk9
+/tv/tv_program/genre	/music/genre/artists	/influence/influence_node/influenced_by
+-1
+tensor(-8.4885)
+___
+/m/0q00t	/m/01wp_jm	/m/0q00t	/m/0q00t
+/tv/tv_program/genre	/music/genre/artists	_/music/genre/artists
+-1
+tensor(-8.4953)
+___
+/m/0dm00	/m/025ljp	/m/025ljp	/m/025ljp
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.4957)
+___
+/m/0q00t	/m/039cq4	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4966)
+___
+/m/0q00t	/m/039cq4	/m/0t_2	/m/0t_2
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4966)
+___
+/m/0dm00	/m/039cq4	/m/0t_2	/m/0t_2
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4966)
+___
+/m/0dm00	/m/039cq4	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4966)
+___
+/m/091yn0	/m/09px1w	/m/02lk1s	/m/02lk1s
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/091yn0	/m/09px1w	/m/0277990	/m/0277990
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/091yn0	/m/09px1w	/m/0j1yf	/m/0j1yf
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/091yn0	/m/09px1w	/m/07ymr5	/m/07ymr5
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/091yn0	/m/09px1w	/m/02773nt	/m/02773nt
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/091yn0	/m/09px1w	/m/0p_2r	/m/0p_2r
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/091yn0	/m/09px1w	/m/091yn0	/m/091yn0
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/091yn0	/m/09px1w	/m/05drr9	/m/05drr9
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5128)
+___
+/m/0q00t	/m/01wp_jm	/m/0rxyk	/m/0rxyk
+/tv/tv_program/genre	/music/genre/artists	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-8.5289)
+___
+/m/05gnf	/m/015cbq	/m/013ybx	/m/013ybx
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5319)
+___
+/m/05gnf	/m/015cbq	/m/01bh6y	/m/01bh6y
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5319)
+___
+/m/0dm00	/m/0b005	/m/0fmtd	/m/0fmtd
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5514)
+___
+/m/0dm00	/m/0b005	/m/01w613	/m/01w613
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5514)
+___
+/m/0dm00	/m/0b005	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5514)
+___
+/m/0dm00	/m/0b005	/m/0dm00	/m/0dm00
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5514)
+___
+/m/0dm00	/m/0b005	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5514)
+___
+/m/0dm00	/m/0b005	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5514)
+___
+/m/05gnf	/m/031rq5	/m/05gnf	/m/05gnf
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5795)
+___
+/m/05gnf	/m/031rq5	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5795)
+___
+/m/07ymr5	/m/091yn0	/m/05drr9	/m/05drr9
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6344)
+___
+/m/07ymr5	/m/091yn0	/m/02pb53	/m/02pb53
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6344)
+___
+/m/07ymr5	/m/091yn0	/m/0j1yf	/m/0j1yf
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6344)
+___
+/m/07ymr5	/m/091yn0	/m/07ymr5	/m/07ymr5
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6344)
+___
+/m/07ymr5	/m/091yn0	/m/0p_2r	/m/0p_2r
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6344)
+___
+/m/07ymr5	/m/091yn0	/m/0277990	/m/0277990
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6344)
+___
+/m/07ymr5	/m/091yn0	/m/09px1w	/m/09px1w
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6344)
+___
+/m/0q00t	/m/01wp_jm	/m/04bs3j	/m/04bs3j
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/0738b8	/m/0738b8
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/0mbw0	/m/0mbw0
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/0126rp	/m/0126rp
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/09jm8	/m/09jm8
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/03lgg	/m/03lgg
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/01xwv7	/m/01xwv7
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/04gr35	/m/04gr35
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/01xwqn	/m/01xwqn
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/04l19_	/m/04l19_
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/014z8v	/m/014z8v
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/01wp_jm	/m/01x4r3	/m/01x4r3
+/tv/tv_program/genre	/music/genre/artists	_/influence/influence_node/influenced_by
+-1
+tensor(-8.6555)
+___
+/m/0q00t	/m/0dtw1x	/m/0q9t7	/m/0q9t7
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-8.6559)
+___
+/m/0q00t	/m/0dtw1x	/m/01yznp	/m/01yznp
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-8.6559)
+___
+/m/0q00t	/m/0dtw1x	/m/01w0yrc	/m/01w0yrc
+/tv/tv_program/genre	/media_common/netflix_genre/titles	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-8.6559)
+___
+#####################
+/m/02k_4g	/m/0ckd1
+Reward:0
+/m/0gs6m	/m/051zy_b	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.4304)
+___
+/m/0gs6m	/m/04lhc4	/m/029j_	/m/029j_
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.5628)
+___
+/m/0gs6m	/m/01b195	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6427)
+___
+/m/0gs6m	/m/02qkq0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2461)
+___
+/m/0gs6m	/m/02rcwq0	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2621)
+___
+/m/0gs6m	/m/0gs6m	/m/051zy_b	/m/051zy_b
+/tv/tv_program/genre	NO_OP	_/film/film/genre
+-1
+tensor(-7.2661)
+___
+/m/0gs6m	/m/0gs6m	/m/01b195	/m/01b195
+/tv/tv_program/genre	NO_OP	_/film/film/genre
+-1
+tensor(-7.2661)
+___
+/m/0gs6m	/m/0gs6m	/m/04lhc4	/m/04lhc4
+/tv/tv_program/genre	NO_OP	_/film/film/genre
+-1
+tensor(-7.2661)
+___
+/m/0gs6m	/m/04lhc4	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-7.3167)
+___
+/m/0gs6m	/m/017f3m	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.4300)
+___
+/m/0gs6m	/m/04lhc4	/m/09cr8	/m/09cr8
+/tv/tv_program/genre	_/film/film/genre	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-7.6016)
+___
+/m/0gs6m	/m/01b195	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.6092)
+___
+/m/0gs6m	/m/01b195	/m/0lsxr	/m/0lsxr
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.6092)
+___
+/m/0gs6m	/m/01b195	/m/0gs6m	/m/0gs6m
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-7.6092)
+___
+/m/0gs6m	/m/02k_4g	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.6555)
+___
+/m/0gs6m	/m/01b195	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/film/film/genre	/film/film/language
+-1
+tensor(-7.7047)
+___
+/m/0gs6m	/m/01b195	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.8673)
+___
+/m/0gs6m	/m/01b195	/m/0q9kd	/m/0q9kd
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/01b195	/m/0205dx	/m/0205dx
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/01b195	/m/053y4h	/m/053y4h
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/01b195	/m/02tv80	/m/02tv80
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/01b195	/m/01gq0b	/m/01gq0b
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/01b195	/m/0169dl	/m/0169dl
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/01b195	/m/046qq	/m/046qq
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/01b195	/m/050zr4	/m/050zr4
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-7.9476)
+___
+/m/0gs6m	/m/0gs6m	/m/0gs6m	/m/0gs6m
+/tv/tv_program/genre	NO_OP	NO_OP
+-1
+tensor(-8.0305)
+___
+/m/0gs6m	/m/051zy_b	/m/0lsxr	/m/0lsxr
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.1548)
+___
+/m/0gs6m	/m/051zy_b	/m/01jfsb	/m/01jfsb
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.1548)
+___
+/m/0gs6m	/m/051zy_b	/m/02n4kr	/m/02n4kr
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.1548)
+___
+/m/0gs6m	/m/051zy_b	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.1548)
+___
+/m/0gs6m	/m/051zy_b	/m/0gs6m	/m/0gs6m
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.1548)
+___
+/m/0gs6m	/m/01b195	/m/02vyw	/m/02vyw
+/tv/tv_program/genre	_/film/film/genre	_/film/director/film
+-1
+tensor(-8.1629)
+___
+/m/0gs6m	/m/051zy_b	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/film/film/genre	/film/film/language
+-1
+tensor(-8.2473)
+___
+/m/0gs6m	/m/04lhc4	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.2832)
+___
+/m/0gs6m	/m/04lhc4	/m/01t_vv	/m/01t_vv
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.2832)
+___
+/m/0gs6m	/m/04lhc4	/m/01f9r0	/m/01f9r0
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.2832)
+___
+/m/0gs6m	/m/04lhc4	/m/0gs6m	/m/0gs6m
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.2832)
+___
+/m/0gs6m	/m/04lhc4	/m/02l7c8	/m/02l7c8
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.2832)
+___
+/m/0gs6m	/m/04lhc4	/m/03bxz7	/m/03bxz7
+/tv/tv_program/genre	_/film/film/genre	/film/film/genre
+-1
+tensor(-8.2832)
+___
+/m/0gs6m	/m/0gs6m	/m/02qkq0	/m/02qkq0
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-8.2965)
+___
+/m/0gs6m	/m/0gs6m	/m/02rcwq0	/m/02rcwq0
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-8.2965)
+___
+/m/0gs6m	/m/0gs6m	/m/017f3m	/m/017f3m
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-8.2965)
+___
+/m/0gs6m	/m/0gs6m	/m/0vjr	/m/0vjr
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-8.2965)
+___
+/m/0gs6m	/m/0gs6m	/m/02k_4g	/m/02k_4g
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-8.2965)
+___
+/m/0gs6m	/m/0gs6m	/m/063ykwt	/m/063ykwt
+/tv/tv_program/genre	NO_OP	_/tv/tv_program/genre
+-1
+tensor(-8.2965)
+___
+/m/0gs6m	/m/04lhc4	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/film/film/genre	/film/film/language
+-1
+tensor(-8.3787)
+___
+/m/0gs6m	/m/01b195	/m/01b195	/m/01b195
+/tv/tv_program/genre	_/film/film/genre	NO_OP
+-1
+tensor(-8.3900)
+___
+/m/0gs6m	/m/051zy_b	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.4065)
+___
+/m/0gs6m	/m/01b195	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/film/film/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-8.4181)
+___
+/m/0gs6m	/m/063ykwt	/m/0gs6m	/m/0gs6m
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4476)
+___
+/m/0gs6m	/m/01b195	/m/0169dl	/m/0169dl
+/tv/tv_program/genre	_/film/film/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4797)
+___
+/m/0gs6m	/m/051zy_b	/m/0rh6k	/m/0rh6k
+/tv/tv_program/genre	_/film/film/genre	/film/film/featured_film_locations
+-1
+tensor(-8.4836)
+___
+/m/0gs6m	/m/051zy_b	/m/01c40n	/m/01c40n
+/tv/tv_program/genre	_/film/film/genre	/film/film/featured_film_locations
+-1
+tensor(-8.4836)
+___
+/m/0gs6m	/m/051zy_b	/m/0r2kh	/m/0r2kh
+/tv/tv_program/genre	_/film/film/genre	/film/film/featured_film_locations
+-1
+tensor(-8.4836)
+___
+/m/0gs6m	/m/051zy_b	/m/0r2gj	/m/0r2gj
+/tv/tv_program/genre	_/film/film/genre	/film/film/featured_film_locations
+-1
+tensor(-8.4836)
+___
+/m/0gs6m	/m/051zy_b	/m/02lf1j	/m/02lf1j
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/07r1h	/m/07r1h
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/034zc0	/m/034zc0
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/05dtsb	/m/05dtsb
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/019pm_	/m/019pm_
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/01rzqj	/m/01rzqj
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/04954	/m/04954
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/03x3qv	/m/03x3qv
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/014v6f	/m/014v6f
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/021bk	/m/021bk
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/09fb5	/m/09fb5
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/01d8yn	/m/01d8yn
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/051zy_b	/m/01t6xz	/m/01t6xz
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.4920)
+___
+/m/0gs6m	/m/01b195	/m/07024	/m/07024
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5071)
+___
+/m/0gs6m	/m/02qkq0	/m/0gs6m	/m/0gs6m
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5304)
+___
+/m/0gs6m	/m/02rcwq0	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5385)
+___
+/m/0gs6m	/m/02rcwq0	/m/02n4kr	/m/02n4kr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5385)
+___
+/m/0gs6m	/m/02rcwq0	/m/0gs6m	/m/0gs6m
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5385)
+___
+/m/0gs6m	/m/02rcwq0	/m/0lsxr	/m/0lsxr
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5385)
+___
+/m/0gs6m	/m/02rcwq0	/m/09blyk	/m/09blyk
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.5385)
+___
+/m/0gs6m	/m/01b195	/m/0205dx	/m/0205dx
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5506)
+___
+/m/0gs6m	/m/01b195	/m/01gq0b	/m/01gq0b
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5506)
+___
+/m/0gs6m	/m/01b195	/m/0q9kd	/m/0q9kd
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5506)
+___
+/m/0gs6m	/m/01b195	/m/046qq	/m/046qq
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5506)
+___
+/m/0gs6m	/m/01b195	/m/0gs5q	/m/0gs5q
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5506)
+___
+/m/0gs6m	/m/01b195	/m/0169dl	/m/0169dl
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5506)
+___
+/m/0gs6m	/m/01b195	/m/02vyw	/m/02vyw
+/tv/tv_program/genre	_/film/film/genre	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5506)
+___
+/m/0gs6m	/m/01b195	/m/04gb7	/m/04gb7
+/tv/tv_program/genre	_/film/film/genre	_/film/film_subject/films
+-1
+tensor(-8.5795)
+___
+/m/0gs6m	/m/063ykwt	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.5802)
+___
+/m/0gs6m	/m/063ykwt	/m/0ckd1	/m/0ckd1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+1
+tensor(-8.6067)
+___
+/m/0gs6m	/m/04lhc4	/m/0b_dy	/m/0b_dy
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.6217)
+___
+/m/0gs6m	/m/04lhc4	/m/02rmfm	/m/02rmfm
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.6217)
+___
+/m/0gs6m	/m/04lhc4	/m/046zh	/m/046zh
+/tv/tv_program/genre	_/film/film/genre	_/film/actor/film./film/performance/film
+-1
+tensor(-8.6217)
+___
+/m/0gs6m	/m/01b195	/m/0ch6mp2	/m/0ch6mp2
+/tv/tv_program/genre	_/film/film/genre	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-8.6307)
+___
+/m/0gs6m	/m/01b195	/m/09zzb8	/m/09zzb8
+/tv/tv_program/genre	_/film/film/genre	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-8.6307)
+___
+/m/0gs6m	/m/01b195	/m/09vw2b7	/m/09vw2b7
+/tv/tv_program/genre	_/film/film/genre	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-8.6307)
+___
+/m/0gs6m	/m/01b195	/m/0kjgl	/m/0kjgl
+/tv/tv_program/genre	_/film/film/genre	/film/film/produced_by
+-1
+tensor(-8.6404)
+___
+/m/0gs6m	/m/02qkq0	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.6461)
+___
+/m/0gs6m	/m/063ykwt	/m/0fbtbt	/m/0fbtbt
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.6569)
+___
+/m/0gs6m	/m/063ykwt	/m/0gkts9	/m/0gkts9
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.6569)
+___
+/m/0gs6m	/m/063ykwt	/m/0ck27z	/m/0ck27z
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.6569)
+___
+/m/0gs6m	/m/063ykwt	/m/02xcb6n	/m/02xcb6n
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.6569)
+___
+/m/0gs6m	/m/063ykwt	/m/0cqh6z	/m/0cqh6z
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.6569)
+___
+/m/0gs6m	/m/063ykwt	/m/09v7wsg	/m/09v7wsg
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.6569)
+___
+/m/0gs6m	/m/063ykwt	/m/0bdw1g	/m/0bdw1g
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.6569)
+___
+#####################
+/m/02_1q9	/m/0ckd1
+Reward:0
+/m/06q7n	/m/0ckh4k	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.4552)
+___
+/m/06q7n	/m/034vds	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.6825)
+___
+/m/06q7n	/m/03y317	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.7544)
+___
+/m/06q7n	/m/05397h	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.7549)
+___
+/m/06q7n	/m/02qfh	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8562)
+___
+/m/06q7n	/m/02vjhf	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9313)
+___
+/m/06q7n	/m/01_2n	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.9448)
+___
+/m/06q7n	/m/02_1ky	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.0048)
+___
+/m/06q7n	/m/0jq2r	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1363)
+___
+/m/06q7n	/m/0n2bh	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1641)
+___
+/m/06q7n	/m/0d66j2	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3347)
+___
+/m/06q7n	/m/0pc_l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3578)
+___
+/m/06q7n	/m/01dvry	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3640)
+___
+/m/06q7n	/m/01f3p_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5775)
+___
+/m/06q7n	/m/06dfz1	/m/06nm1	/m/06nm1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5796)
+___
+/m/06q7n	/m/06dfz1	/m/064_8sq	/m/064_8sq
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5796)
+___
+/m/06q7n	/m/06dfz1	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.5796)
+___
+/m/06q7n	/m/047m_w	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.6261)
+___
+/m/06q7n	/m/047m_w	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.6261)
+___
+/m/06q7n	/m/047m_w	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.6261)
+___
+/m/06q7n	/m/047m_w	/m/0fx2s	/m/0fx2s
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.6261)
+___
+/m/06q7n	/m/047m_w	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.7113)
+___
+/m/06q7n	/m/0ckh4k	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.7279)
+___
+/m/06q7n	/m/02_1q9	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.7921)
+___
+/m/06q7n	/m/01b65l	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.7928)
+___
+/m/06q7n	/m/0ckh4k	/m/0chghy	/m/0chghy
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.8899)
+___
+/m/06q7n	/m/0phrl	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.9216)
+___
+/m/06q7n	/m/047m_w	/m/047m_w	/m/047m_w
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-7.9464)
+___
+/m/06q7n	/m/034vds	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-7.9606)
+___
+/m/06q7n	/m/01dvry	/m/0pc_l	/m/0pc_l
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-7.9821)
+___
+/m/06q7n	/m/05397h	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0243)
+___
+/m/06q7n	/m/05397h	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0243)
+___
+/m/06q7n	/m/05397h	/m/04gm78f	/m/04gm78f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0243)
+___
+/m/06q7n	/m/05397h	/m/0djd22	/m/0djd22
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0243)
+___
+/m/06q7n	/m/02_1rq	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.0320)
+___
+/m/06q7n	/m/03y317	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.0684)
+___
+/m/06q7n	/m/01y6dz	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.0889)
+___
+/m/06q7n	/m/0ckh4k	/m/0ckh4k	/m/0ckh4k
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.0953)
+___
+/m/06q7n	/m/034vds	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.1137)
+___
+/m/06q7n	/m/03y317	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.1441)
+___
+/m/06q7n	/m/02qfh	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1444)
+___
+/m/06q7n	/m/02qfh	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.1444)
+___
+/m/06q7n	/m/0cs134	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.1446)
+___
+/m/06q7n	/m/0358x_	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.1508)
+___
+/m/06q7n	/m/034vds	/m/02p_7cr	/m/02p_7cr
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.1896)
+___
+/m/059fjj	/m/044rvb	/m/059fjj	/m/059fjj
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.2176)
+___
+/m/06q7n	/m/01_2n	/m/01t_vv	/m/01t_vv
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2191)
+___
+/m/06q7n	/m/01_2n	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2191)
+___
+/m/06q7n	/m/01_2n	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2191)
+___
+/m/06q7n	/m/01_2n	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2191)
+___
+/m/06q7n	/m/02vjhf	/m/0pr6f	/m/0pr6f
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2195)
+___
+/m/06q7n	/m/02vjhf	/m/07qht4	/m/07qht4
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2195)
+___
+/m/06q7n	/m/02vjhf	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2195)
+___
+/m/06q7n	/m/02vjhf	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2195)
+___
+/m/06q7n	/m/02qfh	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.2700)
+___
+/m/06q7n	/m/02qfh	/m/04jpl	/m/04jpl
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.2700)
+___
+/m/06q7n	/m/02qfh	/m/02jx1	/m/02jx1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.2700)
+___
+/m/06q7n	/m/02_1ky	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.2930)
+___
+/m/02gyl0	/m/0h44w	/m/0h44w	/m/0h44w
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-8.2988)
+___
+/m/06q7n	/m/034vds	/m/034vds	/m/034vds
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.3258)
+___
+/m/06q7n	/m/02vjhf	/m/0d060g	/m/0d060g
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.3451)
+___
+/m/06q7n	/m/0gj50	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.3491)
+___
+/m/06q7n	/m/03y317	/m/07qht4	/m/07qht4
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-8.3522)
+___
+/m/06q7n	/m/03y317	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-8.3522)
+___
+/m/06q7n	/m/01_2n	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.3775)
+___
+/m/06q7n	/m/01_2n	/m/02jx1	/m/02jx1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.3775)
+___
+/m/06q7n	/m/03y317	/m/03y317	/m/03y317
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.3862)
+___
+/m/023nlj	/m/0wq36	/m/0wq36	/m/0wq36
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/place_of_birth	/location/hud_county_place/place
+-1
+tensor(-8.3892)
+___
+/m/06q7n	/m/05397h	/m/05397h	/m/05397h
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.3923)
+___
+/m/059fjj	/m/044rvb	/m/059fjj	/m/059fjj
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.3985)
+___
+/m/06q7n	/m/02_1ky	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.4186)
+___
+/m/06q7n	/m/0jq2r	/m/01z4y	/m/01z4y
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4406)
+___
+/m/06q7n	/m/0jq2r	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4406)
+___
+/m/06q7n	/m/0jq2r	/m/0c4xc	/m/0c4xc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4406)
+___
+/m/06q7n	/m/0jq2r	/m/05p553	/m/05p553
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4406)
+___
+/m/06q7n	/m/0jq2r	/m/07s9rl0	/m/07s9rl0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4406)
+___
+/m/06q7n	/m/0n2bh	/m/07qht4	/m/07qht4
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4450)
+___
+/m/06q7n	/m/0n2bh	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4450)
+___
+/m/06q7n	/m/034fl9	/m/06q7n	/m/06q7n
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/genre
+-1
+tensor(-8.4489)
+___
+/m/02gyl0	/m/0h44w	/m/02h40lc	/m/02h40lc
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.4628)
+___
+/m/02gyl0	/m/0h44w	/m/03hkp	/m/03hkp
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.4628)
+___
+/m/02gyl0	/m/0h44w	/m/0jzc	/m/0jzc
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.4628)
+___
+/m/06q7n	/m/02_1ky	/m/02_2v2	/m/02_2v2
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/program_creator
+-1
+tensor(-8.4776)
+___
+/m/06q7n	/m/05lfwd	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.4818)
+___
+/m/06q7n	/m/02qfh	/m/02qfh	/m/02qfh
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.4915)
+___
+/m/06q7n	/m/02_1ky	/m/02p_7cr	/m/02p_7cr
+/tv/tv_program/genre	_/tv/tv_program/genre	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-8.4972)
+___
+/m/06q7n	/m/01b66d	/m/02h40lc	/m/02h40lc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-8.5008)
+___
+/m/06q7n	/m/02vjhf	/m/07c52	/m/07c52
+/tv/tv_program/genre	_/tv/tv_program/genre	_/media_common/netflix_genre/titles
+-1
+tensor(-8.5138)
+___
+/m/06q7n	/m/0jq2r	/m/07ssc	/m/07ssc
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.5311)
+___
+/m/023nlj	/m/0wq36	/m/0wq36	/m/0wq36
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place
+-1
+tensor(-8.5532)
+___
+/m/06q7n	/m/02vjhf	/m/02vjhf	/m/02vjhf
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.5666)
+___
+/m/06q7n	/m/02_1ky	/m/026n3rs	/m/026n3rs
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5690)
+___
+/m/06q7n	/m/02_1ky	/m/025vl4m	/m/025vl4m
+/tv/tv_program/genre	_/tv/tv_program/genre	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5690)
+___
+/m/06q7n	/m/034fl9	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.5745)
+___
+/m/023nlj	/m/0wq36	/m/0wq36	/m/0wq36
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/place_of_birth	NO_OP
+-1
+tensor(-8.5817)
+___
+/m/023nlj	/m/0wq36	/m/0wq36	/m/0wq36
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/place_of_birth	_/location/hud_county_place/place
+-1
+tensor(-8.5819)
+___
+/m/06q7n	/m/01_2n	/m/01_2n	/m/01_2n
+/tv/tv_program/genre	_/tv/tv_program/genre	NO_OP
+-1
+tensor(-8.5871)
+___
+/m/02gyl0	/m/0h44w	/m/0430_	/m/0430_
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location	/location/country/capital
+-1
+tensor(-8.5922)
+___
+/m/06q7n	/m/0n2bh	/m/09c7w0	/m/09c7w0
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-8.5934)
+___
+/m/06q7n	/m/0n2bh	/m/0ckd1	/m/0ckd1
+/tv/tv_program/genre	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+1
+tensor(-8.6161)
+___
+#####################

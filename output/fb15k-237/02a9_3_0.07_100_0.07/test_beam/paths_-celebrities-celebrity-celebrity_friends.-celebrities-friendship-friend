@@ -1,0 +1,503 @@
+/m/09yrh	/m/07cjqy
+Reward:0
+/m/038rzr	/m/01vc3y	/m/01vc3y	/m/01vc3y
+/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	NO_OP
+-1
+tensor(-7.8098)
+___
+/m/038rzr	/m/01vc3y	/m/01vc3y	/m/01vc3y
+_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	NO_OP
+-1
+tensor(-7.9267)
+___
+/m/038rzr	/m/09yrh	/m/0lx2l	/m/0lx2l
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.1237)
+___
+/m/038rzr	/m/09yrh	/m/0pz91	/m/0pz91
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.1237)
+___
+/m/038rzr	/m/09yrh	/m/0mdqp	/m/0mdqp
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.1237)
+___
+/m/038rzr	/m/09yrh	/m/019pm_	/m/019pm_
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.1237)
+___
+/m/038rzr	/m/09yrh	/m/0315q3	/m/0315q3
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.1237)
+___
+/m/038rzr	/m/09yrh	/m/0g824	/m/0g824
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.1237)
+___
+/m/038rzr	/m/09yrh	/m/038rzr	/m/038rzr
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2029)
+___
+/m/038rzr	/m/09yrh	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2029)
+___
+/m/038rzr	/m/01vc3y	/m/0clvcx	/m/0clvcx
+/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+tensor(-8.2104)
+___
+/m/038rzr	/m/01vc3y	/m/038rzr	/m/038rzr
+/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+tensor(-8.2104)
+___
+/m/038rzr	/m/01vc3y	/m/06q1r	/m/06q1r
+/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-8.2467)
+___
+/m/038rzr	/m/01vc3y	/m/0clvcx	/m/0clvcx
+_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+tensor(-8.3241)
+___
+/m/038rzr	/m/01vc3y	/m/038rzr	/m/038rzr
+_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+tensor(-8.3241)
+___
+/m/038rzr	/m/09yrh	/m/038rzr	/m/038rzr
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.3446)
+___
+/m/038rzr	/m/09yrh	/m/019pm_	/m/019pm_
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.3446)
+___
+/m/038rzr	/m/09yrh	/m/0g824	/m/0g824
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.3446)
+___
+/m/038rzr	/m/09yrh	/m/0mdqp	/m/0mdqp
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.3446)
+___
+/m/038rzr	/m/01vc3y	/m/06q1r	/m/06q1r
+_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-8.3508)
+___
+/m/038rzr	/m/09yrh	/m/0lx2l	/m/0lx2l
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5177)
+___
+/m/038rzr	/m/09yrh	/m/0pz91	/m/0pz91
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5177)
+___
+/m/038rzr	/m/09yrh	/m/0mdqp	/m/0mdqp
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5177)
+___
+/m/038rzr	/m/09yrh	/m/0315q3	/m/0315q3
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5177)
+___
+/m/038rzr	/m/09yrh	/m/0g824	/m/0g824
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5177)
+___
+/m/038rzr	/m/09yrh	/m/019pm_	/m/019pm_
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5177)
+___
+/m/016tbr	/m/01hxs4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5489)
+___
+/m/016tbr	/m/01hxs4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5489)
+___
+/m/016tbr	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5640)
+___
+/m/016tbr	/m/01rrd4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5640)
+___
+/m/038rzr	/m/09yrh	/m/01rr9f	/m/01rr9f
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5673)
+___
+/m/038rzr	/m/09yrh	/m/038rzr	/m/038rzr
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5673)
+___
+/m/038rzr	/m/09yrh	/m/0315q3	/m/0315q3
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5722)
+___
+/m/038rzr	/m/09yrh	/m/0g824	/m/0g824
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5722)
+___
+/m/038rzr	/m/09yrh	/m/019pm_	/m/019pm_
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5722)
+___
+/m/038rzr	/m/09yrh	/m/0lx2l	/m/0lx2l
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5722)
+___
+/m/038rzr	/m/09yrh	/m/0mdqp	/m/0mdqp
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5722)
+___
+/m/038rzr	/m/09yrh	/m/0pz91	/m/0pz91
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5722)
+___
+/m/01hxs4	/m/01rrd4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5862)
+___
+/m/01hxs4	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.5862)
+___
+/m/01hxs4	/m/01rrd4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6046)
+___
+/m/01hxs4	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6046)
+___
+/m/016tbr	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6302)
+___
+/m/016tbr	/m/01rrd4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6302)
+___
+/m/038rzr	/m/09yrh	/m/038rzr	/m/038rzr
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6303)
+___
+/m/038rzr	/m/09yrh	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6303)
+___
+/m/016tbr	/m/01hxs4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6346)
+___
+/m/01hxs4	/m/016tbr	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6377)
+___
+/m/01hxs4	/m/016tbr	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.6377)
+___
+/m/01hxs4	/m/016tbr	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6626)
+___
+/m/01hxs4	/m/016tbr	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6626)
+___
+/m/038rzr	/m/09yrh	/m/038rzr	/m/038rzr
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.7089)
+___
+/m/038rzr	/m/09yrh	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.7089)
+___
+/m/038rzr	/m/09yrh	/m/0g824	/m/0g824
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7093)
+___
+/m/038rzr	/m/09yrh	/m/038rzr	/m/038rzr
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7093)
+___
+/m/038rzr	/m/09yrh	/m/0mdqp	/m/0mdqp
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7093)
+___
+/m/038rzr	/m/09yrh	/m/019pm_	/m/019pm_
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7093)
+___
+/m/038rzr	/m/09yrh	/m/01s21dg	/m/01s21dg
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/base/popstra/celebrity/breakup./base/popstra/breakup/participant
+-1
+tensor(-8.7180)
+___
+/m/01hxs4	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7594)
+___
+/m/038rzr	/m/09yrh	/m/038rzr	/m/038rzr
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7596)
+___
+/m/038rzr	/m/09yrh	/m/0mdqp	/m/0mdqp
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7596)
+___
+/m/038rzr	/m/09yrh	/m/019pm_	/m/019pm_
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7596)
+___
+/m/038rzr	/m/09yrh	/m/0g824	/m/0g824
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7596)
+___
+/m/016tbr	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7744)
+___
+/m/016tbr	/m/01hxs4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7758)
+___
+/m/01rrd4	/m/01hxs4	/m/09yrh	/m/09yrh
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8089)
+___
+/m/01rrd4	/m/01hxs4	/m/01rr9f	/m/01rr9f
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8089)
+___
+/m/038rzr	/m/09yrh	/m/09qj50	/m/09qj50
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/03c7tr1	/m/03c7tr1
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/09qs08	/m/09qs08
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/0cqhmg	/m/0cqhmg
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/05p09zm	/m/05p09zm
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/05pcn59	/m/05pcn59
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/09qvf4	/m/09qvf4
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/057xs89	/m/057xs89
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/05q5t0b	/m/05q5t0b
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/02x4x18	/m/02x4x18
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/0hnf5vm	/m/0hnf5vm
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-8.8112)
+___
+/m/038rzr	/m/09yrh	/m/09qj50	/m/09qj50
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-8.8140)
+___
+/m/038rzr	/m/09yrh	/m/057xs89	/m/057xs89
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-8.8140)
+___
+/m/01hxs4	/m/016tbr	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8159)
+___
+/m/01hxs4	/m/016tbr	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8159)
+___
+/m/01rrd4	/m/016tbr	/m/09yrh	/m/09yrh
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8315)
+___
+/m/01rrd4	/m/016tbr	/m/01rr9f	/m/01rr9f
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8315)
+___
+/m/01rrd4	/m/01hxs4	/m/01rr9f	/m/01rr9f
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8376)
+___
+/m/01rr9f	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8424)
+___
+/m/01rr9f	/m/01rrd4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8424)
+___
+/m/01rr9f	/m/01hxs4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8567)
+___
+/m/01rr9f	/m/01hxs4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8567)
+___
+/m/038rzr	/m/09yrh	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend
+-1
+tensor(-8.8583)
+___
+/m/01rr9f	/m/016tbr	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8678)
+___
+/m/01rr9f	/m/016tbr	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8678)
+___
+/m/016tbr	/m/01rr9f	/m/0127m7	/m/0127m7
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8847)
+___
+/m/016tbr	/m/01rr9f	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8847)
+___
+/m/01rrd4	/m/016tbr	/m/01rr9f	/m/01rr9f
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8909)
+___
+/m/01rrd4	/m/016tbr	/m/09yrh	/m/09yrh
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8909)
+___
+/m/01rr9f	/m/01rrd4	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8921)
+___
+/m/01rr9f	/m/01rrd4	/m/01rr9f	/m/01rr9f
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8921)
+___
+/m/01hxs4	/m/01rr9f	/m/09yrh	/m/09yrh
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8993)
+___
+/m/01hxs4	/m/01rr9f	/m/0127m7	/m/0127m7
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.8993)
+___
+#####################

@@ -1,0 +1,1006 @@
+/m/06crk	/m/059y0
+Reward:0
+/m/02sjgpq	/m/02sjgpq	/m/09nqf	/m/09nqf
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution/campuses	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-2.1818)
+___
+/m/02sjgpq	/m/02sjgpq	/m/09nqf	/m/09nqf
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-2.7782)
+___
+/m/02_xgp2	/m/024jwt	/m/03h304l	/m/03h304l
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.4647)
+___
+/m/06crk	/m/02sjgpq	/m/09nqf	/m/09nqf
+NO_OP	/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5046)
+___
+/m/02_xgp2	/m/01tdnyh	/m/05l5n	/m/05l5n
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	/people/person/place_of_birth
+-1
+tensor(-4.5391)
+___
+/m/02_xgp2	/m/0205dx	/m/0c1pj	/m/0c1pj
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.5733)
+___
+/m/02sjgpq	/m/09nqf	/m/0473m9	/m/0473m9
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/02s62q	/m/02s62q
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/01bzw5	/m/01bzw5
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/024y8p	/m/024y8p
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/0fnmz	/m/0fnmz
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/0288zy	/m/0288zy
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/01rr31	/m/01rr31
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/0778p	/m/0778p
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02sjgpq	/m/09nqf	/m/06bw5	/m/06bw5
+/people/person/employment_history./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7895)
+___
+/m/02_xgp2	/m/014vk4	/m/09b6zr	/m/09b6zr
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.8395)
+___
+/m/02sjgpq	/m/02sjgpq	/m/02sjgpq	/m/02sjgpq
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-4.9618)
+___
+/m/06crk	/m/06crk	/m/04ztj	/m/04ztj
+NO_OP	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.0708)
+___
+/m/02_xgp2	/m/0n00	/m/02_xgp2	/m/02_xgp2
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	_/education/educational_degree/people_with_this_degree./education/education/student
+-1
+tensor(-5.0835)
+___
+/m/02sjgpq	/m/02sjgpq	/m/09nqf	/m/09nqf
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.0918)
+___
+/m/02sjgpq	/m/02sjgpq	/m/02sjgpq	/m/02sjgpq
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-5.1638)
+___
+/m/06crk	/m/01w3v	/m/035tlh	/m/035tlh
+NO_OP	/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities
+-1
+tensor(-5.2462)
+___
+/m/02_xgp2	/m/06crk	/m/02_xgp2	/m/02_xgp2
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	_/education/educational_degree/people_with_this_degree./education/education/student
+-1
+tensor(-5.2650)
+___
+/m/02_xgp2	/m/0n00	/m/02hcxm	/m/02hcxm
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-5.2934)
+___
+/m/01w3v	/m/09nqf	/m/06bw5	/m/06bw5
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/01rr31	/m/01rr31
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/0778p	/m/0778p
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/0fnmz	/m/0fnmz
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/024y8p	/m/024y8p
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/0288zy	/m/0288zy
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/02s62q	/m/02s62q
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/0473m9	/m/0473m9
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/01w3v	/m/09nqf	/m/01bzw5	/m/01bzw5
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3361)
+___
+/m/0ccvx	/m/0ccvx	/m/0ccvx	/m/0ccvx
+/people/person/places_lived./people/place_lived/location	_/location/us_county/county_seat	_/location/us_county/county_seat
+-1
+tensor(-5.3550)
+___
+/m/02_xgp2	/m/06crk	/m/04ztj	/m/04ztj
+_/education/educational_degree/people_with_this_degree./education/education/student	/education/educational_degree/people_with_this_degree./education/education/student	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.3621)
+___
+/m/01w3v	/m/09nqf	/m/01bzw5	/m/01bzw5
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/01rr31	/m/01rr31
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/0778p	/m/0778p
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/06bw5	/m/06bw5
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/0288zy	/m/0288zy
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/02s62q	/m/02s62q
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/0fnmz	/m/0fnmz
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/024y8p	/m/024y8p
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/01w3v	/m/09nqf	/m/0473m9	/m/0473m9
+/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4253)
+___
+/m/02sjgpq	/m/02sjgpq	/m/01n7q	/m/01n7q
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-5.5240)
+___
+/m/02sjgpq	/m/02sjgpq	/m/0mzww	/m/0mzww
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-5.5240)
+___
+/m/02sjgpq	/m/02sjgpq	/m/09c7w0	/m/09c7w0
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-5.5240)
+___
+/m/02sjgpq	/m/09nqf	/m/02s62q	/m/02s62q
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/024y8p	/m/024y8p
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/0473m9	/m/0473m9
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/0288zy	/m/0288zy
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/0778p	/m/0778p
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/01rr31	/m/01rr31
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/01bzw5	/m/01bzw5
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/06bw5	/m/06bw5
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/02sjgpq	/m/09nqf	/m/0fnmz	/m/0fnmz
+/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/01w3v	/m/035tlh	/m/0bthb	/m/0bthb
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01jswq	/m/01jswq
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0jkhr	/m/0jkhr
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/02hp6p	/m/02hp6p
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01rgdw	/m/01rgdw
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0187nd	/m/0187nd
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0cwx_	/m/0cwx_
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/02zc7f	/m/02zc7f
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/02cttt	/m/02cttt
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/07tds	/m/07tds
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/04rwx	/m/04rwx
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0jpn8	/m/0jpn8
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/04hgpt	/m/04hgpt
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/07szy	/m/07szy
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0g2jl	/m/0g2jl
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/07wrz	/m/07wrz
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01jq34	/m/01jq34
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01jq4b	/m/01jq4b
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/015fs3	/m/015fs3
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/078bz	/m/078bz
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/05x_5	/m/05x_5
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0160nk	/m/0160nk
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/02w2bc	/m/02w2bc
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/02txdf	/m/02txdf
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01swxv	/m/01swxv
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01w5m	/m/01w5m
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01j_cy	/m/01j_cy
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/02zd460	/m/02zd460
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0m9_5	/m/0m9_5
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01wdl3	/m/01wdl3
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01ky7c	/m/01ky7c
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/02klny	/m/02klny
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/017zq0	/m/017zq0
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/06pwq	/m/06pwq
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0lfgr	/m/0lfgr
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/012vwb	/m/012vwb
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/0ks67	/m/0ks67
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/015fsv	/m/015fsv
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01vs5c	/m/01vs5c
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01jsn5	/m/01jsn5
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01ptt7	/m/01ptt7
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/06rkfs	/m/06rkfs
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/08815	/m/08815
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+/m/01w3v	/m/035tlh	/m/01bk1y	/m/01bk1y
+/people/person/employment_history./business/employment_tenure/company	/education/university/fraternities_and_sororities	_/education/university/fraternities_and_sororities
+-1
+tensor(-5.5647)
+___
+#####################
+/m/059y0	/m/06crk
+Reward:0
+/m/02m7r	/m/059y0	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-0.8110)
+___
+/m/0jcx	/m/029rk	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-0.9020)
+___
+/m/0jcx	/m/029rk	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.5942)
+___
+/m/02m7r	/m/059y0	/m/01lfy	/m/01lfy
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/place_of_birth
+-1
+tensor(-3.0950)
+___
+/m/0jcx	/m/059y0	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3507)
+___
+/m/0jcx	/m/029rk	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3543)
+___
+/m/02m7r	/m/059y0	/m/0jcx	/m/0jcx
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4832)
+___
+/m/02m7r	/m/059y0	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0034)
+___
+/m/02m7r	/m/059y0	/m/04ztj	/m/04ztj
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.7565)
+___
+/m/0jcx	/m/029rk	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.9392)
+___
+/m/0jcx	/m/059y0	/m/01lfy	/m/01lfy
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/place_of_birth
+-1
+tensor(-7.0274)
+___
+/m/02m7r	/m/059y0	/m/0bkj86	/m/0bkj86
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/education/educational_degree/people_with_this_degree./education/education/student
+-1
+tensor(-7.4053)
+___
+/m/02m7r	/m/059y0	/m/04zx3q1	/m/04zx3q1
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/education/educational_degree/people_with_this_degree./education/education/student
+-1
+tensor(-7.4053)
+___
+/m/02m7r	/m/059y0	/m/019v9k	/m/019v9k
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/education/educational_degree/people_with_this_degree./education/education/student
+-1
+tensor(-7.4053)
+___
+/m/0jcx	/m/0194_r	/m/09nqf	/m/09nqf
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6486)
+___
+/m/0jcx	/m/09hgk	/m/02l6h	/m/02l6h
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7209)
+___
+/m/02m7r	/m/059y0	/m/01lfy	/m/01lfy
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/place_of_birth
+-1
+tensor(-7.7309)
+___
+/m/02m7r	/m/059y0	/m/01lfy	/m/01lfy
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/place_of_birth
+-1
+tensor(-7.7519)
+___
+/m/02m7r	/m/059y0	/m/0jcx	/m/0jcx
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.7624)
+___
+/m/0jcx	/m/019xz9	/m/0345h	/m/0345h
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-7.7797)
+___
+/m/0jcx	/m/0jcx	/m/029rk	/m/029rk
+_/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.9222)
+___
+/m/02m7r	/m/02m7r	/m/059y0	/m/059y0
+_/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.0468)
+___
+/m/0jcx	/m/01tpvt	/m/05jxkf	/m/05jxkf
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/educational_institution/school_type
+-1
+tensor(-8.1631)
+___
+/m/0jcx	/m/01tpvt	/m/06mzp	/m/06mzp
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	_/location/location/contains
+-1
+tensor(-8.3545)
+___
+/m/0jcx	/m/0lvng	/m/02l6h	/m/02l6h
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.3555)
+___
+/m/0jcx	/m/0lvng	/m/02l6h	/m/02l6h
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4688)
+___
+/m/0jcx	/m/01dyk8	/m/05jxkf	/m/05jxkf
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/educational_institution/school_type
+-1
+tensor(-8.5680)
+___
+/m/0jcx	/m/01dyk8	/m/06mzp	/m/06mzp
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	_/location/location/contains
+-1
+tensor(-8.7719)
+___
+/m/0jcx	/m/01dyk8	/m/01kk32	/m/01kk32
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	_/location/location/contains
+-1
+tensor(-8.7719)
+___
+/m/02m7r	/m/052nd	/m/0ptk_	/m/0ptk_
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.2984)
+___
+/m/017ztv	/m/017ztv	/m/02l6h	/m/02l6h
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution/campuses	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.3568)
+___
+/m/02m7r	/m/052nd	/m/0ptk_	/m/0ptk_
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.4119)
+___
+/m/02m7r	/m/052nd	/m/0ptk_	/m/0ptk_
+/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.5381)
+___
+/m/02m7r	/m/059y0	/m/01lfy	/m/01lfy
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/place_of_birth
+-1
+tensor(-9.5656)
+___
+/m/02m7r	/m/059y0	/m/017ztv	/m/017ztv
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-9.6111)
+___
+/m/02m7r	/m/02m7r	/m/059y0	/m/059y0
+/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.6714)
+___
+/m/0jcx	/m/0jcx	/m/059y0	/m/059y0
+_/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7251)
+___
+/m/0jcx	/m/0jcx	/m/029rk	/m/029rk
+_/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7251)
+___
+/m/02m7r	/m/052nd	/m/0ptk_	/m/0ptk_
+/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.7339)
+___
+/m/02m7r	/m/059y0	/m/0jcx	/m/0jcx
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7623)
+___
+/m/02m7r	/m/02m7r	/m/059y0	/m/059y0
+_/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.8782)
+___
+/m/0jcx	/m/0194_r	/m/0n5dt	/m/0n5dt
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	_/location/location/contains
+-1
+tensor(-10.0163)
+___
+/m/0jcx	/m/09hgk	/m/05jxkf	/m/05jxkf
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/educational_institution/school_type
+-1
+tensor(-10.0217)
+___
+/m/0jcx	/m/0jcx	/m/019xz9	/m/019xz9
+_/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP	/people/person/place_of_birth
+-1
+tensor(-10.1518)
+___
+/m/0jcx	/m/09hgk	/m/05ywg	/m/05ywg
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	_/location/location/contains
+-1
+tensor(-10.2122)
+___
+/m/017ztv	/m/017ztv	/m/01lfy	/m/01lfy
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-10.3014)
+___
+/m/0jcx	/m/0lvng	/m/02l6h	/m/02l6h
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-10.3282)
+___
+/m/017ztv	/m/017ztv	/m/02l6h	/m/02l6h
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-10.3711)
+___
+/m/017ztv	/m/017ztv	/m/017ztv	/m/017ztv
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-10.4541)
+___
+/m/01lfy	/m/040fb	/m/04w_7	/m/04w_7
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fb	/m/05cw8	/m/05cw8
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fb	/m/06vkl	/m/06vkl
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fb	/m/028kb	/m/028kb
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fb	/m/04wzr	/m/04wzr
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fb	/m/0lkm	/m/0lkm
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fb	/m/0ll3	/m/0ll3
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fb	/m/05lf_	/m/05lf_
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6499)
+___
+/m/01lfy	/m/040fv	/m/04wzr	/m/04wzr
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/01lfy	/m/040fv	/m/0lkm	/m/0lkm
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/01lfy	/m/040fv	/m/04w_7	/m/04w_7
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/01lfy	/m/040fv	/m/0ll3	/m/0ll3
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/01lfy	/m/040fv	/m/06vkl	/m/06vkl
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/01lfy	/m/040fv	/m/040fb	/m/040fb
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/01lfy	/m/040fv	/m/03_ly	/m/03_ly
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/01lfy	/m/040fv	/m/05lf_	/m/05lf_
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.6500)
+___
+/m/0jcx	/m/0lvng	/m/05jxkf	/m/05jxkf
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	/education/educational_institution/school_type
+-1
+tensor(-10.6529)
+___
+/m/02m7r	/m/059y0	/m/0jcx	/m/0jcx
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-10.6816)
+___
+/m/01lfy	/m/0lkm	/m/05cw8	/m/05cw8
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/06vkl	/m/06vkl
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/040fv	/m/040fv
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/04w_7	/m/04w_7
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/04wzr	/m/04wzr
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/05lf_	/m/05lf_
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/02xx5	/m/02xx5
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/040fb	/m/040fb
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/0lkm	/m/028kb	/m/028kb
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7636)
+___
+/m/01lfy	/m/04wzr	/m/040fv	/m/040fv
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/04w_7	/m/04w_7
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/040fb	/m/040fb
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/05cw8	/m/05cw8
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/03_ly	/m/03_ly
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/0ll3	/m/0ll3
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/0lkm	/m/0lkm
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/02xx5	/m/02xx5
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/01lfy	/m/04wzr	/m/06vkl	/m/06vkl
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.7673)
+___
+/m/017ztv	/m/017ztv	/m/017ztv	/m/017ztv
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-10.7677)
+___
+/m/0jcx	/m/01dyk8	/m/01dyk8	/m/01dyk8
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution/campuses
+-1
+tensor(-10.8180)
+___
+/m/017ztv	/m/017ztv	/m/01lfy	/m/01lfy
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-10.8450)
+___
+/m/0jcx	/m/0lvng	/m/02j9z	/m/02j9z
+_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company	_/location/location/contains
+-1
+tensor(-10.8465)
+___
+/m/01lfy	/m/02xx5	/m/05lf_	/m/05lf_
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/04w_7	/m/04w_7
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/03_ly	/m/03_ly
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/04wzr	/m/04wzr
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/028kb	/m/028kb
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/0ll3	/m/0ll3
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/040fv	/m/040fv
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/0lkm	/m/0lkm
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/06vkl	/m/06vkl
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/02xx5	/m/05cw8	/m/05cw8
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8623)
+___
+/m/01lfy	/m/028kb	/m/02xx5	/m/02xx5
+/people/person/place_of_birth	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.8656)
+___
+#####################

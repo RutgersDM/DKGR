@@ -1,0 +1,4527 @@
+/m/0x3r3	/m/05qt0
+Reward:0
+/m/01lxw6	/m/05k7sb	/m/029jpy	/m/029jpy
+/people/deceased_person/place_of_death	/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-2.2833)
+___
+/m/04411	/m/0mj0c	/m/01ty4	/m/01ty4
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5027)
+___
+/m/04411	/m/0mj0c	/m/0l99s	/m/0l99s
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5027)
+___
+/m/04411	/m/0mj0c	/m/04411	/m/04411
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5027)
+___
+/m/0gzh	/m/03v0t	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	/location/administrative_division/first_level_division_of
+-1
+tensor(-3.8190)
+___
+/m/0420y	/m/026lj	/m/0420y	/m/0420y
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.8977)
+___
+/m/0420y	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.8977)
+___
+/m/0420y	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.8977)
+___
+/m/0gzh	/m/051cc	/m/017_pb	/m/017_pb
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.3776)
+___
+/m/03_hd	/m/047g6	/m/032r1	/m/032r1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.4435)
+___
+/m/03_hd	/m/034bs	/m/02h40lc	/m/02h40lc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-4.5018)
+___
+/m/0gzh	/m/0kbq	/m/02fp48	/m/02fp48
+/influence/influence_node/influenced_by	_/base/culturalevent/event/entity_involved	/military/military_conflict/combatants./military/military_combatant_group/combatants
+-1
+tensor(-4.5041)
+___
+/m/03_hd	/m/032r1	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.5104)
+___
+/m/01lwx	/m/03j43	/m/07g2b	/m/07g2b
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.7313)
+___
+/m/01lwx	/m/06g4_	/m/02h40lc	/m/02h40lc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-4.7737)
+___
+/m/0gzh	/m/0bqs56	/m/07c72	/m/07c72
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-4.8770)
+___
+/m/01lwx	/m/02wh0	/m/06c44	/m/06c44
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.0156)
+___
+/m/04rrd	/m/094jv	/m/09c7w0	/m/09c7w0
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+-1
+tensor(-5.1156)
+___
+/m/03_hd	/m/01hb6v	/m/01c9x	/m/01c9x
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.1776)
+___
+/m/01cx_	/m/0k3l5	/m/05k7sb	/m/05k7sb
+/people/person/places_lived./people/place_lived/location	_/location/us_county/county_seat	_/location/location/contains
+-1
+tensor(-5.2190)
+___
+/m/07c37	/m/0x3r3	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.3064)
+___
+/m/0gzh	/m/09c7w0	/m/03v1s	/m/03v1s
+/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	_/location/administrative_division/first_level_division_of
+-1
+tensor(-5.3093)
+___
+/m/0420y	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3155)
+___
+/m/0420y	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3155)
+___
+/m/0420y	/m/026lj	/m/0420y	/m/0420y
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3155)
+___
+/m/07c37	/m/026lj	/m/0420y	/m/0420y
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3546)
+___
+/m/07c37	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3546)
+___
+/m/07c37	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3546)
+___
+/m/01cx_	/m/05k7sb	/m/029jpy	/m/029jpy
+/people/person/places_lived./people/place_lived/location	_/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-5.3583)
+___
+/m/01lwx	/m/06myp	/m/02h40lc	/m/02h40lc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-5.4271)
+___
+/m/01lwx	/m/06myp	/m/04306rv	/m/04306rv
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-5.4271)
+___
+/m/04rrd	/m/094jv	/m/09c7w0	/m/09c7w0
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-5.4436)
+___
+/m/04rrd	/m/094jv	/m/0cv0r	/m/0cv0r
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-5.4436)
+___
+/m/03sbs	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4793)
+___
+/m/03sbs	/m/047g6	/m/032r1	/m/032r1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4961)
+___
+/m/03sbs	/m/0h336	/m/042q3	/m/042q3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5077)
+___
+/m/03sbs	/m/07h1q	/m/01h2_6	/m/01h2_6
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5302)
+___
+/m/03sbs	/m/01ty4	/m/0mj0c	/m/0mj0c
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5338)
+___
+/m/03_hd	/m/0mj0c	/m/04411	/m/04411
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5373)
+___
+/m/03_hd	/m/0mj0c	/m/01ty4	/m/01ty4
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5373)
+___
+/m/03_hd	/m/0mj0c	/m/0l99s	/m/0l99s
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5373)
+___
+/m/03sbs	/m/032r1	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5720)
+___
+/m/0gzh	/m/0x3r3	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.5804)
+___
+/m/03sbs	/m/045bg	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5821)
+___
+/m/04rrd	/m/0fvwg	/m/09c7w0	/m/09c7w0
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+-1
+tensor(-5.5872)
+___
+/m/04rwx	/m/04rwx	/m/03z19	/m/03z19
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution/campuses	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+tensor(-5.7131)
+___
+/m/05zl0	/m/05zl0	/m/09c7w0	/m/09c7w0
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-5.7265)
+___
+/m/05zl0	/m/05zl0	/m/09c7w0	/m/09c7w0
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-5.7268)
+___
+/m/03_hd	/m/0x3r3	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.7417)
+___
+/m/0gzh	/m/0bqs56	/m/016tb7	/m/016tb7
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.7572)
+___
+/m/03sbs	/m/042q3	/m/0h336	/m/0h336
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7888)
+___
+/m/03sbs	/m/02wh0	/m/06c44	/m/06c44
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8263)
+___
+/m/04rrd	/m/0fvwg	/m/04rrd	/m/04rrd
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-5.8615)
+___
+/m/04rrd	/m/0fvwg	/m/09c7w0	/m/09c7w0
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-5.8615)
+___
+/m/04rrd	/m/0fvwg	/m/0dn8b	/m/0dn8b
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-5.8615)
+___
+/m/01lwx	/m/0x3r3	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.9318)
+___
+/m/01lwx	/m/018x3	/m/05148p4	/m/05148p4
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.9388)
+___
+/m/01lwx	/m/018x3	/m/0l14qv	/m/0l14qv
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.9388)
+___
+/m/01lwx	/m/018x3	/m/05r5c	/m/05r5c
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.9388)
+___
+/m/01lwx	/m/0h6rm	/m/02m77	/m/02m77
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.0799)
+___
+/m/01lwx	/m/0bt23	/m/06hmd	/m/06hmd
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1149)
+___
+/m/01lwx	/m/0bt23	/m/034bs	/m/034bs
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1149)
+___
+/m/01lwx	/m/0bt23	/m/0gd5z	/m/0gd5z
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1149)
+___
+/m/01lwx	/m/0bt23	/m/041mt	/m/041mt
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1149)
+___
+/m/04rrd	/m/0fvwg	/m/04rrd	/m/04rrd
+/people/person/places_lived./people/place_lived/location	_/base/biblioness/bibs_location/state	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.1205)
+___
+/m/09c7w0	/m/03v1s	/m/09c7w0	/m/09c7w0
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/location/administrative_division/first_level_division_of
+-1
+tensor(-6.2057)
+___
+/m/01lwx	/m/04411	/m/0b78hw	/m/0b78hw
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2227)
+___
+/m/01lwx	/m/04411	/m/01d494	/m/01d494
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2227)
+___
+/m/01lwx	/m/04411	/m/0x3r3	/m/0x3r3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2227)
+___
+/m/07c37	/m/0372p	/m/03j43	/m/03j43
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2530)
+___
+/m/07c37	/m/0372p	/m/02wh0	/m/02wh0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2530)
+___
+/m/07c37	/m/0372p	/m/02ln1	/m/02ln1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2530)
+___
+/m/07c37	/m/0372p	/m/099bk	/m/099bk
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2530)
+___
+/m/07c37	/m/0372p	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2530)
+___
+/m/07c37	/m/0372p	/m/0399p	/m/0399p
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2530)
+___
+/m/07c37	/m/0372p	/m/039n1	/m/039n1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2530)
+___
+/m/01lwx	/m/07ssc	/m/09x3r	/m/09x3r
+/influence/influence_node/influenced_by	/people/person/nationality	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3310)
+___
+/m/07c37	/m/0ylzs	/m/01nv4h	/m/01nv4h
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.3817)
+___
+/m/0gzh	/m/06vr2	/m/0rlz	/m/0rlz
+/influence/influence_node/influenced_by	_/medicine/disease/notable_people_with_this_condition	/medicine/disease/notable_people_with_this_condition
+-1
+tensor(-6.4122)
+___
+/m/0gzh	/m/06vr2	/m/0gzh	/m/0gzh
+/influence/influence_node/influenced_by	_/medicine/disease/notable_people_with_this_condition	/medicine/disease/notable_people_with_this_condition
+-1
+tensor(-6.4122)
+___
+/m/0gzh	/m/06vr2	/m/034rd	/m/034rd
+/influence/influence_node/influenced_by	_/medicine/disease/notable_people_with_this_condition	/medicine/disease/notable_people_with_this_condition
+-1
+tensor(-6.4122)
+___
+/m/01lxw6	/m/09c7w0	/m/03v1s	/m/03v1s
+/people/deceased_person/place_of_death	/base/biblioness/bibs_location/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-6.4125)
+___
+/m/03_hd	/m/02ln1	/m/07h1q	/m/07h1q
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4679)
+___
+/m/03_hd	/m/02ln1	/m/045bg	/m/045bg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4679)
+___
+/m/03_hd	/m/02ln1	/m/0cpvcd	/m/0cpvcd
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4679)
+___
+/m/03_hd	/m/02ln1	/m/016dmx	/m/016dmx
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4679)
+___
+/m/03_hd	/m/02ln1	/m/099bk	/m/099bk
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4679)
+___
+/m/03_hd	/m/02ln1	/m/0nk72	/m/0nk72
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4679)
+___
+/m/07c37	/m/0tfc	/m/048cl	/m/048cl
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/047g6	/m/047g6
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/03_hd	/m/03_hd
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/0h25	/m/0h25
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/0b78hw	/m/0b78hw
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/01lwx	/m/01lwx
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/039n1	/m/039n1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/07c37	/m/0tfc	/m/04z0g	/m/04z0g
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5388)
+___
+/m/03sbs	/m/01dvtx	/m/01d494	/m/01d494
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5524)
+___
+/m/094jv	/m/012v1t	/m/09c7w0	/m/09c7w0
+/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.5848)
+___
+/m/094jv	/m/04znsy	/m/02h40lc	/m/02h40lc
+/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth	/people/person/languages
+-1
+tensor(-6.6241)
+___
+#####################
+/m/026lj	/m/0x0w
+Reward:0
+/m/019fz	/m/0424m	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-2.6310)
+___
+/m/0420y	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6641)
+___
+/m/0420y	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6641)
+___
+/m/0420y	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6641)
+___
+/m/0tfc	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.7094)
+___
+/m/0tfc	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.7094)
+___
+/m/0tfc	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.7094)
+___
+/m/019fz	/m/0424m	/m/09c7w0	/m/09c7w0
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-2.9115)
+___
+/m/0420y	/m/026lj	/m/0420y	/m/0420y
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.9510)
+___
+/m/0420y	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.9510)
+___
+/m/0420y	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.9510)
+___
+/m/019fz	/m/03_js	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.4649)
+___
+/m/019fz	/m/03_js	/m/07cbs	/m/07cbs
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.4649)
+___
+/m/019fz	/m/03_js	/m/019fz	/m/019fz
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7639)
+___
+/m/019fz	/m/03_js	/m/07cbs	/m/07cbs
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7639)
+___
+/m/019fz	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7702)
+___
+/m/019fz	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7702)
+___
+/m/019fz	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7702)
+___
+/m/019fz	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.0563)
+___
+/m/019fz	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.0563)
+___
+/m/019fz	/m/026lj	/m/0420y	/m/0420y
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.0563)
+___
+/m/019fz	/m/03_js	/m/060c4	/m/060c4
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/basic_title
+-1
+tensor(-5.5452)
+___
+/m/019fz	/m/03_js	/m/0dq3c	/m/0dq3c
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/basic_title
+-1
+tensor(-5.5452)
+___
+/m/019fz	/m/03_js	/m/0dq3c	/m/0dq3c
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/basic_title
+-1
+tensor(-5.6966)
+___
+/m/019fz	/m/03_js	/m/060c4	/m/060c4
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/government/politician/government_positions_held./government/government_position_held/basic_title
+-1
+tensor(-5.6966)
+___
+/m/019fz	/m/03_js	/m/07wgm	/m/07wgm
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.0196)
+___
+/m/019fz	/m/03_js	/m/07wgm	/m/07wgm
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.2880)
+___
+/m/0tfc	/m/026lj	/m/032r1	/m/032r1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/09gnn	/m/09gnn
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/02ln1	/m/02ln1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/040db	/m/040db
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/03sbs	/m/03sbs
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/0424m	/m/0424m
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/0mj0c	/m/0mj0c
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/01lwx	/m/01lwx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/03_hd	/m/03_hd
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/047g6	/m/047g6
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/0j3v	/m/0j3v
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/0b78hw	/m/0b78hw
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/0tfc	/m/026lj	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8346)
+___
+/m/019fz	/m/0424m	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.3550)
+___
+/m/0420y	/m/026lj	/m/09gnn	/m/09gnn
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/03_hd	/m/03_hd
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0mj0c	/m/0mj0c
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0424m	/m/0424m
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0j3v	/m/0j3v
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/047g6	/m/047g6
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/032r1	/m/032r1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/040db	/m/040db
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0b78hw	/m/0b78hw
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/03sbs	/m/03sbs
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/01lwx	/m/01lwx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/02ln1	/m/02ln1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.4585)
+___
+/m/0420y	/m/026lj	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/0b78hw	/m/0b78hw
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/01lwx	/m/01lwx
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/047g6	/m/047g6
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/02ln1	/m/02ln1
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/0j3v	/m/0j3v
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/03_hd	/m/03_hd
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/0424m	/m/0424m
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/09gnn	/m/09gnn
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/03sbs	/m/03sbs
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/040db	/m/040db
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/032r1	/m/032r1
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/0jcx	/m/0jcx
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/0420y	/m/026lj	/m/0mj0c	/m/0mj0c
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.6712)
+___
+/m/032r1	/m/047g6	/m/032r1	/m/032r1
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.6730)
+___
+/m/019fz	/m/0424m	/m/019fz	/m/019fz
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.7024)
+___
+/m/047g6	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.9975)
+___
+/m/0jcx	/m/029rk	/m/0jcx	/m/0jcx
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.3140)
+___
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.3437)
+___
+/m/0mj0c	/m/01ty4	/m/0mj0c	/m/0mj0c
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.3562)
+___
+/m/019fz	/m/026lj	/m/09gnn	/m/09gnn
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/0mj0c	/m/0mj0c
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/03sbs	/m/03sbs
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/02ln1	/m/02ln1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/01lwx	/m/01lwx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/047g6	/m/047g6
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/0j3v	/m/0j3v
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/032r1	/m/032r1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/03_hd	/m/03_hd
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/0jcx	/m/0jcx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/0424m	/m/0424m
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/040db	/m/040db
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/019fz	/m/026lj	/m/0b78hw	/m/0b78hw
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.3914)
+___
+/m/0mj0c	/m/0l99s	/m/0mj0c	/m/0mj0c
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.4063)
+___
+/m/019fz	/m/026lj	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.5768)
+___
+#####################
+/m/07c37	/m/05r79
+Reward:0
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.2641)
+___
+/m/0tfc	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5952)
+___
+/m/0tfc	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5952)
+___
+/m/0tfc	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5952)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.2515)
+___
+/m/026lj	/m/019fz	/m/07cbs	/m/07cbs
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.2515)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.2515)
+___
+/m/030dr	/m/07cbs	/m/07z1m	/m/07z1m
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-4.3135)
+___
+/m/030dr	/m/07cbs	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-4.3135)
+___
+/m/0372p	/m/0399p	/m/043tg	/m/043tg
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.4198)
+___
+/m/0372p	/m/03j43	/m/07g2b	/m/07g2b
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.4458)
+___
+/m/034ks	/m/07c37	/m/0372p	/m/0372p
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4522)
+___
+/m/034ks	/m/07c37	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4522)
+___
+/m/034ks	/m/07c37	/m/043s3	/m/043s3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4522)
+___
+/m/034ks	/m/07c37	/m/0x3r3	/m/0x3r3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4522)
+___
+/m/034ks	/m/07c37	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4522)
+___
+/m/034ks	/m/07c37	/m/015n8	/m/015n8
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4522)
+___
+/m/0372p	/m/02wh0	/m/06c44	/m/06c44
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.7185)
+___
+/m/0x3r3	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.9095)
+___
+/m/043s3	/m/01bpn	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.9527)
+___
+/m/043s3	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.9901)
+___
+/m/0x3r3	/m/0gzh	/m/03v0t	/m/03v0t
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.1461)
+___
+/m/0x3r3	/m/0gzh	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.1461)
+___
+/m/015n8	/m/0399p	/m/043tg	/m/043tg
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2916)
+___
+/m/0372p	/m/099bk	/m/05g9h	/m/05g9h
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.2955)
+___
+/m/015n8	/m/01bpn	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3002)
+___
+/m/015n8	/m/043tg	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3035)
+___
+/m/015n8	/m/03j43	/m/07g2b	/m/07g2b
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3070)
+___
+/m/015n8	/m/0jcx	/m/029rk	/m/029rk
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3088)
+___
+/m/015n8	/m/04hcw	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3339)
+___
+/m/015n8	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3580)
+___
+/m/015n8	/m/042q3	/m/0h336	/m/0h336
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4244)
+___
+/m/034ks	/m/02bbyw	/m/064xp	/m/064xp
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-5.4506)
+___
+/m/034ks	/m/02bbyw	/m/03rjj	/m/03rjj
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-5.4506)
+___
+/m/030dr	/m/07c37	/m/0372p	/m/0372p
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.4647)
+___
+/m/030dr	/m/07c37	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.4647)
+___
+/m/030dr	/m/07c37	/m/043s3	/m/043s3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.4647)
+___
+/m/030dr	/m/07c37	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.4647)
+___
+/m/030dr	/m/07c37	/m/015n8	/m/015n8
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.4647)
+___
+/m/030dr	/m/07c37	/m/0x3r3	/m/0x3r3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.4647)
+___
+/m/0gz_	/m/047g6	/m/032r1	/m/032r1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4888)
+___
+/m/0gz_	/m/043tg	/m/0399p	/m/0399p
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5080)
+___
+/m/0gz_	/m/05np2	/m/03cdg	/m/03cdg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5201)
+___
+/m/030dr	/m/0p5vf	/m/059j2	/m/059j2
+/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/basic_title	/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+tensor(-5.5432)
+___
+/m/0372p	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5629)
+___
+/m/0372p	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5629)
+___
+/m/0372p	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5629)
+___
+/m/05qmj	/m/047g6	/m/032r1	/m/032r1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6508)
+___
+/m/0gz_	/m/030dr	/m/0p5vf	/m/0p5vf
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/basic_title
+-1
+tensor(-5.6516)
+___
+/m/0gz_	/m/02wh0	/m/06c44	/m/06c44
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6663)
+___
+/m/05qmj	/m/0dzkq	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6675)
+___
+/m/05qmj	/m/01wd02c	/m/041h0	/m/041h0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6869)
+___
+/m/0gz_	/m/0jrg	/m/0bk25	/m/0bk25
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.7650)
+___
+/m/0gz_	/m/034ks	/m/07c37	/m/07c37
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8492)
+___
+/m/05qmj	/m/03hnd	/m/03cdg	/m/03cdg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8629)
+___
+/m/05qmj	/m/030dr	/m/0p5vf	/m/0p5vf
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/basic_title
+-1
+tensor(-5.8866)
+___
+/m/043s3	/m/052h3	/m/04z0g	/m/04z0g
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.9580)
+___
+/m/043s3	/m/052h3	/m/016lh0	/m/016lh0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.9580)
+___
+/m/05qmj	/m/02wh0	/m/06c44	/m/06c44
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9750)
+___
+/m/015n8	/m/06myp	/m/04306rv	/m/04306rv
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.0311)
+___
+/m/015n8	/m/06myp	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.0311)
+___
+/m/015n8	/m/03jht	/m/07dnx	/m/07dnx
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.0567)
+___
+/m/043s3	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0707)
+___
+/m/043s3	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0707)
+___
+/m/043s3	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0707)
+___
+/m/0gz_	/m/099bk	/m/05g9h	/m/05g9h
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.0922)
+___
+/m/0x3r3	/m/04411	/m/0b78hw	/m/0b78hw
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1217)
+___
+/m/0x3r3	/m/04411	/m/01d494	/m/01d494
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1217)
+___
+/m/0x3r3	/m/04411	/m/0x3r3	/m/0x3r3
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1217)
+___
+/m/0gz_	/m/0m93	/m/0jzc	/m/0jzc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.1649)
+___
+/m/0gz_	/m/0m93	/m/032f6	/m/032f6
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.1649)
+___
+/m/0gz_	/m/01tz6vs	/m/06b_j	/m/06b_j
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.1686)
+___
+/m/0gz_	/m/01tz6vs	/m/064_8sq	/m/064_8sq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.1686)
+___
+/m/034ks	/m/03rjj	/m/0hzc9wc	/m/0hzc9wc
+/influence/influence_node/influenced_by	/people/person/nationality	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.2252)
+___
+/m/0x3r3	/m/04411	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.2373)
+___
+/m/015n8	/m/01dvtx	/m/01d494	/m/01d494
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2739)
+___
+/m/0x3r3	/m/07c37	/m/0x3r3	/m/0x3r3
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.3054)
+___
+/m/0x3r3	/m/07c37	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.3054)
+___
+/m/0x3r3	/m/07c37	/m/0372p	/m/0372p
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.3054)
+___
+/m/0x3r3	/m/07c37	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.3054)
+___
+/m/0x3r3	/m/07c37	/m/043s3	/m/043s3
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.3054)
+___
+/m/0x3r3	/m/07c37	/m/015n8	/m/015n8
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.3054)
+___
+/m/05qmj	/m/01tz6vs	/m/064_8sq	/m/064_8sq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.3187)
+___
+/m/05qmj	/m/01tz6vs	/m/06b_j	/m/06b_j
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.3187)
+___
+/m/05qmj	/m/06jkm	/m/0bwx3	/m/0bwx3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3518)
+___
+/m/05qmj	/m/06jkm	/m/05gpy	/m/05gpy
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3518)
+___
+/m/0372p	/m/02ln1	/m/07h1q	/m/07h1q
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4214)
+___
+/m/0372p	/m/02ln1	/m/045bg	/m/045bg
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4214)
+___
+/m/0372p	/m/02ln1	/m/099bk	/m/099bk
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4214)
+___
+/m/0372p	/m/02ln1	/m/0cpvcd	/m/0cpvcd
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4214)
+___
+/m/0372p	/m/02ln1	/m/0nk72	/m/0nk72
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4214)
+___
+/m/0372p	/m/02ln1	/m/016dmx	/m/016dmx
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4214)
+___
+/m/043s3	/m/04411	/m/01d494	/m/01d494
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4706)
+___
+/m/043s3	/m/04411	/m/0b78hw	/m/0b78hw
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4706)
+___
+/m/043s3	/m/04411	/m/0x3r3	/m/0x3r3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4706)
+___
+/m/0gz_	/m/01dvtx	/m/01d494	/m/01d494
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4869)
+___
+/m/0gz_	/m/052h3	/m/04z0g	/m/04z0g
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4953)
+___
+/m/0gz_	/m/052h3	/m/016lh0	/m/016lh0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4953)
+___
+/m/030dr	/m/015n8	/m/0j3v	/m/0j3v
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5030)
+___
+/m/030dr	/m/015n8	/m/048cl	/m/048cl
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5030)
+___
+#####################
+/m/01d494	/m/0gt_hv
+Reward:0
+/m/0ct9_	/m/0dzkq	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.4716)
+___
+/m/0f04c	/m/05bnp0	/m/02h40lc	/m/02h40lc
+/people/deceased_person/place_of_death	_/people/person/place_of_birth	/people/person/languages
+-1
+tensor(-3.5136)
+___
+/m/04hcw	/m/09gnn	/m/01bpn	/m/01bpn
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5617)
+___
+/m/04hcw	/m/09gnn	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5617)
+___
+/m/0ct9_	/m/045bg	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5729)
+___
+/m/0mj0c	/m/01ty4	/m/0mj0c	/m/0mj0c
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5786)
+___
+/m/0mj0c	/m/0l99s	/m/0mj0c	/m/0mj0c
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7015)
+___
+/m/04411	/m/0mj0c	/m/01ty4	/m/01ty4
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7396)
+___
+/m/04411	/m/0mj0c	/m/04411	/m/04411
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7396)
+___
+/m/04411	/m/0mj0c	/m/0l99s	/m/0l99s
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7396)
+___
+/m/01dvtx	/m/01d494	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-4.5070)
+___
+/m/03f47xl	/m/03vrp	/m/02bjrlw	/m/02bjrlw
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-4.9515)
+___
+/m/03f47xl	/m/0kp2_	/m/0mkg	/m/0mkg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-4.9599)
+___
+/m/0f04c	/m/0f04c	/m/09c7w0	/m/09c7w0
+/people/deceased_person/place_of_death	/location/hud_county_place/place	/base/biblioness/bibs_location/country
+-1
+tensor(-4.9667)
+___
+/m/099bk	/m/0dzkq	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.9826)
+___
+/m/099bk	/m/045bg	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.0557)
+___
+/m/099bk	/m/04hcw	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.0654)
+___
+/m/03f47xl	/m/04cbtrw	/m/01tnbn	/m/01tnbn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.1738)
+___
+/m/039n1	/m/05wh0sh	/m/05vz3zq	/m/05vz3zq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.2401)
+___
+/m/039n1	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2704)
+___
+/m/039n1	/m/047g6	/m/032r1	/m/032r1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2844)
+___
+/m/099bk	/m/05g9h	/m/099bk	/m/099bk
+/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-5.2883)
+___
+/m/039n1	/m/0dzkq	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2901)
+___
+/m/0ct9_	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3057)
+___
+/m/04hcw	/m/09gnn	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3264)
+___
+/m/04hcw	/m/09gnn	/m/01bpn	/m/01bpn
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3264)
+___
+/m/0ct9_	/m/0dzkq	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3398)
+___
+/m/039n1	/m/045bg	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3633)
+___
+/m/0mj0c	/m/01ty4	/m/0mj0c	/m/0mj0c
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3871)
+___
+/m/058vp	/m/0hcvy	/m/06cs95	/m/06cs95
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.4157)
+___
+/m/058vp	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4377)
+___
+/m/058vp	/m/07h1q	/m/01h2_6	/m/01h2_6
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4743)
+___
+/m/03f47xl	/m/040rjq	/m/02rchht	/m/02rchht
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.4794)
+___
+/m/0mj0c	/m/0l99s	/m/0mj0c	/m/0mj0c
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5246)
+___
+/m/058vp	/m/041mt	/m/02h40lc	/m/02h40lc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-5.5771)
+___
+/m/099bk	/m/0ct9_	/m/0399p	/m/0399p
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6598)
+___
+/m/099bk	/m/0ct9_	/m/0dzkq	/m/0dzkq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6598)
+___
+/m/03f47xl	/m/01hb6v	/m/01c9x	/m/01c9x
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.7371)
+___
+/m/0f04c	/m/0f04c	/m/06pvr	/m/06pvr
+/people/deceased_person/place_of_death	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-5.7447)
+___
+/m/0f04c	/m/0f04c	/m/09c7w0	/m/09c7w0
+/people/deceased_person/place_of_death	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-5.7447)
+___
+/m/0f04c	/m/0f04c	/m/01n7q	/m/01n7q
+/people/deceased_person/place_of_death	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-5.7447)
+___
+/m/01dvtx	/m/0fvwg	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	/people/deceased_person/place_of_death	/base/biblioness/bibs_location/country
+-1
+tensor(-5.8520)
+___
+/m/02wh0	/m/06c44	/m/0hnlx	/m/0hnlx
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8996)
+___
+/m/02wh0	/m/06c44	/m/07dnx	/m/07dnx
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8996)
+___
+/m/02wh0	/m/06c44	/m/02wh0	/m/02wh0
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8996)
+___
+/m/02wh0	/m/06c44	/m/03cdg	/m/03cdg
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8996)
+___
+/m/0f04c	/m/030h95	/m/09cr8	/m/09cr8
+/people/deceased_person/place_of_death	_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.9410)
+___
+/m/05zl0	/m/05zl0	/m/09c7w0	/m/09c7w0
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-5.9578)
+___
+/m/039n1	/m/06jkm	/m/0bwx3	/m/0bwx3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9744)
+___
+/m/039n1	/m/06jkm	/m/05gpy	/m/05gpy
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9744)
+___
+/m/039n1	/m/0ct9_	/m/0dzkq	/m/0dzkq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9758)
+___
+/m/039n1	/m/0ct9_	/m/0399p	/m/0399p
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9758)
+___
+/m/03f47xl	/m/01d494	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.0165)
+___
+/m/099bk	/m/01dvtx	/m/01d494	/m/01d494
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.0314)
+___
+/m/099bk	/m/0pz6q	/m/0345h	/m/0345h
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.0873)
+___
+/m/099bk	/m/01d494	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.0979)
+___
+/m/04hcw	/m/09gnn	/m/01fml	/m/01fml
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.1051)
+___
+/m/02wh0	/m/084nh	/m/02h40lc	/m/02h40lc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.1157)
+___
+/m/02wh0	/m/084w8	/m/02h40lc	/m/02h40lc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.1267)
+___
+/m/058vp	/m/01h2_6	/m/0nk72	/m/0nk72
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1270)
+___
+/m/058vp	/m/01h2_6	/m/07h1q	/m/07h1q
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1270)
+___
+/m/02wh0	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1290)
+___
+/m/03f47xl	/m/0d4jl	/m/06mn7	/m/06mn7
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1486)
+___
+/m/01dvtx	/m/05t7c1	/m/0345h	/m/0345h
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.1978)
+___
+/m/01dvtx	/m/05t7c1	/m/03hrz	/m/03hrz
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.1978)
+___
+/m/01dvtx	/m/01d494	/m/05zl0	/m/05zl0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-6.2262)
+___
+/m/02wh0	/m/04hcw	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.2440)
+___
+/m/0f04c	/m/030h95	/m/09c7w0	/m/09c7w0
+/people/deceased_person/place_of_death	_/people/person/place_of_birth	/people/person/nationality
+-1
+tensor(-6.2540)
+___
+/m/08815	/m/08815	/m/09c7w0	/m/09c7w0
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-6.2753)
+___
+/m/058vp	/m/04135	/m/0fvf9q	/m/0fvf9q
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.2842)
+___
+/m/058vp	/m/04135	/m/04cw0j	/m/04cw0j
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.2842)
+___
+/m/039n1	/m/01dvtx	/m/01d494	/m/01d494
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2924)
+___
+/m/039n1	/m/01d494	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.3082)
+___
+/m/01dvtx	/m/01d494	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/01dvtx	/m/01dvtx
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/099bk	/m/099bk
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/03f47xl	/m/03f47xl
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/02wh0	/m/02wh0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/039n1	/m/039n1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/0mj0c	/m/0mj0c
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/04411	/m/04411
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/01dvtx	/m/01d494	/m/058vp	/m/058vp
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.3115)
+___
+/m/039n1	/m/099bk	/m/05g9h	/m/05g9h
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.3983)
+___
+/m/02wh0	/m/06c44	/m/0345h	/m/0345h
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-6.4205)
+___
+/m/03f47xl	/m/026fd	/m/0fqyzz	/m/0fqyzz
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.4997)
+___
+/m/03f47xl	/m/026fd	/m/09d5d5	/m/09d5d5
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.4997)
+___
+/m/01dvtx	/m/04xm_	/m/0345h	/m/0345h
+/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.5073)
+___
+/m/0f04c	/m/0l2xl	/m/01n7q	/m/01n7q
+/people/deceased_person/place_of_death	/location/hud_county_place/county	_/location/location/contains
+-1
+tensor(-6.5327)
+___
+/m/0f04c	/m/0l2xl	/m/06pvr	/m/06pvr
+/people/deceased_person/place_of_death	/location/hud_county_place/county	_/location/location/contains
+-1
+tensor(-6.5327)
+___
+/m/03f47xl	/m/040_t	/m/0cbgl	/m/0cbgl
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.6038)
+___
+/m/03f47xl	/m/040_t	/m/01w8sf	/m/01w8sf
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.6038)
+___
+/m/03f47xl	/m/040_t	/m/013pp3	/m/013pp3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.6038)
+___
+/m/03f47xl	/m/040_t	/m/02yl42	/m/02yl42
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.6038)
+___
+/m/099bk	/m/0nk72	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.7315)
+___
+/m/099bk	/m/0nk72	/m/0345h	/m/0345h
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.7315)
+___
+/m/039n1	/m/04411	/m/01d494	/m/01d494
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.7404)
+___
+/m/039n1	/m/04411	/m/0b78hw	/m/0b78hw
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.7404)
+___
+/m/039n1	/m/04411	/m/0x3r3	/m/0x3r3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.7404)
+___
+/m/058vp	/m/01d494	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.7722)
+___
+#####################
+/m/043tg	/m/0x0w
+Reward:0
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-1.6600)
+___
+/m/060_7	/m/0gct_	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-1.9131)
+___
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-1.9422)
+___
+/m/0399p	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.3421)
+___
+/m/0399p	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.3421)
+___
+/m/060_7	/m/0gs7x	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6150)
+___
+/m/060_7	/m/0gs7x	/m/02kz_	/m/02kz_
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6150)
+___
+/m/0399p	/m/0ct9_	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6182)
+___
+/m/0399p	/m/0ct9_	/m/0dzkq	/m/0dzkq
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6182)
+___
+/m/0399p	/m/043tg	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4568)
+___
+/m/0399p	/m/043tg	/m/0gd_s	/m/0gd_s
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4568)
+___
+/m/0399p	/m/043tg	/m/0683n	/m/0683n
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4568)
+___
+/m/0399p	/m/043tg	/m/0dzkq	/m/0dzkq
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.6521)
+___
+/m/0399p	/m/043tg	/m/0gd_s	/m/0gd_s
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.6521)
+___
+/m/0399p	/m/043tg	/m/0683n	/m/0683n
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.6521)
+___
+/m/0399p	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.0884)
+___
+/m/0399p	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.0884)
+___
+/m/0399p	/m/0ct9_	/m/01d494	/m/01d494
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.0884)
+___
+/m/0399p	/m/0ct9_	/m/0969fd	/m/0969fd
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.0884)
+___
+/m/060_7	/m/0gs7x	/m/02kz_	/m/02kz_
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.2554)
+___
+/m/060_7	/m/0gs7x	/m/0n6kf	/m/0n6kf
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.2554)
+___
+/m/06myp	/m/0bk5r	/m/06myp	/m/06myp
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.2765)
+___
+/m/0399p	/m/0ct9_	/m/0dzkq	/m/0dzkq
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.5216)
+___
+/m/0399p	/m/0ct9_	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.5216)
+___
+/m/0399p	/m/0ct9_	/m/01d494	/m/01d494
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.5216)
+___
+/m/0399p	/m/0ct9_	/m/0969fd	/m/0969fd
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-7.5216)
+___
+/m/0dzkq	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.7526)
+___
+/m/0dzkq	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.7526)
+___
+/m/07h1q	/m/01h2_6	/m/07h1q	/m/07h1q
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.7788)
+___
+/m/07h1q	/m/01h2_6	/m/0nk72	/m/0nk72
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.7788)
+___
+/m/060_7	/m/0gct_	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.9835)
+___
+/m/0399p	/m/043tg	/m/0f8l9c	/m/0f8l9c
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-8.0017)
+___
+/m/060_7	/m/043tg	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.0120)
+___
+/m/0399p	/m/043tg	/m/0f8l9c	/m/0f8l9c
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-8.0410)
+___
+/m/060_7	/m/0gct_	/m/0f8l9c	/m/0f8l9c
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-8.1224)
+___
+/m/0683n	/m/0q9t7	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-8.1388)
+___
+/m/0gd_s	/m/0j0pf	/m/01zkxv	/m/01zkxv
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.1584)
+___
+/m/01ty4	/m/0mj0c	/m/0l99s	/m/0l99s
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.3018)
+___
+/m/01ty4	/m/0mj0c	/m/01ty4	/m/01ty4
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.3018)
+___
+/m/01ty4	/m/0mj0c	/m/04411	/m/04411
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.3018)
+___
+/m/0gd_s	/m/01dzz7	/m/0821j	/m/0821j
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.4600)
+___
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.5155)
+___
+/m/0399p	/m/043tg	/m/060_7	/m/060_7
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.5155)
+___
+/m/0399p	/m/043tg	/m/07h1q	/m/07h1q
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.5292)
+___
+/m/0399p	/m/043tg	/m/06myp	/m/06myp
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.5292)
+___
+/m/0399p	/m/043tg	/m/01ty4	/m/01ty4
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.5292)
+___
+/m/0399p	/m/043tg	/m/03_87	/m/03_87
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.5292)
+___
+/m/0399p	/m/043tg	/m/0gz_	/m/0gz_
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.5292)
+___
+/m/0399p	/m/043tg	/m/015n8	/m/015n8
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.5292)
+___
+/m/060_7	/m/0gs7x	/m/09c7w0	/m/09c7w0
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-8.5589)
+___
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.5675)
+___
+/m/060_7	/m/0gs7x	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.6828)
+___
+/m/060_7	/m/0gs7x	/m/02kz_	/m/02kz_
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.6828)
+___
+/m/0gd_s	/m/018fq	/m/0821j	/m/0821j
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7524)
+___
+/m/060_7	/m/0gct_	/m/07_m2	/m/07_m2
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.7529)
+___
+/m/060_7	/m/0gct_	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.7535)
+___
+/m/0399p	/m/043tg	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.7719)
+___
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.7719)
+___
+/m/0399p	/m/043tg	/m/03_87	/m/03_87
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.8607)
+___
+/m/0399p	/m/043tg	/m/07h1q	/m/07h1q
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.8607)
+___
+/m/0399p	/m/043tg	/m/06myp	/m/06myp
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.8607)
+___
+/m/0399p	/m/043tg	/m/0gz_	/m/0gz_
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.8607)
+___
+/m/0399p	/m/043tg	/m/01ty4	/m/01ty4
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.8607)
+___
+/m/0399p	/m/043tg	/m/015n8	/m/015n8
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.8607)
+___
+/m/06myp	/m/0bk5r	/m/06myp	/m/06myp
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.1639)
+___
+/m/05qtj	/m/0gdqy	/m/064_8sq	/m/064_8sq
+/people/deceased_person/place_of_death	_/people/person/place_of_birth	/people/person/languages
+-1
+tensor(-9.2254)
+___
+/m/060_7	/m/0gs7x	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.2678)
+___
+/m/0399p	/m/0ct9_	/m/045bg	/m/045bg
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.2706)
+___
+/m/0399p	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.2706)
+___
+/m/0399p	/m/0ct9_	/m/02wh0	/m/02wh0
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/0ct9_	/m/048cl	/m/048cl
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/0ct9_	/m/099bk	/m/099bk
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/0ct9_	/m/040db	/m/040db
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/0ct9_	/m/04xjp	/m/04xjp
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/0ct9_	/m/039n1	/m/039n1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/0ct9_	/m/045bg	/m/045bg
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/0ct9_	/m/0379s	/m/0379s
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.3274)
+___
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.3836)
+___
+/m/0399p	/m/0ct9_	/m/03p41	/m/03p41
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/medicine/disease/notable_people_with_this_condition
+-1
+tensor(-9.3989)
+___
+/m/060_7	/m/0gs7x	/m/060_7	/m/060_7
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.4222)
+___
+/m/060_7	/m/0gs7x	/m/0mj0c	/m/0mj0c
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.4222)
+___
+/m/0399p	/m/0ct9_	/m/02zd460	/m/02zd460
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-9.5068)
+___
+/m/05qtj	/m/043tg	/m/0399p	/m/0399p
+/people/deceased_person/place_of_death	_/people/person/place_of_birth	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.5199)
+___
+/m/07h1q	/m/01h2_6	/m/07h1q	/m/07h1q
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7478)
+___
+/m/07h1q	/m/01h2_6	/m/0nk72	/m/0nk72
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7478)
+___
+/m/0399p	/m/0ct9_	/m/05r79	/m/05r79
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/user/alexander/philosophy/philosopher/interests
+-1
+tensor(-9.7505)
+___
+/m/0399p	/m/0ct9_	/m/02jcc	/m/02jcc
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/user/alexander/philosophy/philosopher/interests
+-1
+tensor(-9.7505)
+___
+/m/01ty4	/m/0mj0c	/m/04411	/m/04411
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7601)
+___
+/m/01ty4	/m/0mj0c	/m/01ty4	/m/01ty4
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7601)
+___
+/m/01ty4	/m/0mj0c	/m/0l99s	/m/0l99s
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7601)
+___
+/m/05qtj	/m/045bg	/m/0ct9_	/m/0ct9_
+/people/deceased_person/place_of_death	_/people/person/place_of_birth	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7646)
+___
+/m/015n8	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7663)
+___
+/m/0399p	/m/0ct9_	/m/0dzkq	/m/0dzkq
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7793)
+___
+/m/0399p	/m/0ct9_	/m/045bg	/m/045bg
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.7793)
+___
+/m/0399p	/m/0ct9_	/m/039n1	/m/039n1
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.7809)
+___
+/m/0399p	/m/0ct9_	/m/0379s	/m/0379s
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.7809)
+___
+/m/0399p	/m/0ct9_	/m/04xjp	/m/04xjp
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.7809)
+___
+/m/0399p	/m/0ct9_	/m/02wh0	/m/02wh0
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.7809)
+___
+/m/0399p	/m/0ct9_	/m/048cl	/m/048cl
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.7809)
+___
+/m/0399p	/m/0ct9_	/m/045bg	/m/045bg
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.7809)
+___
+#####################
+/m/0420y	/m/05r79
+Reward:0
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-1.3842)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-1.8037)
+___
+/m/026lj	/m/019fz	/m/07cbs	/m/07cbs
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.3789)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.3789)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.3789)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6783)
+___
+/m/026lj	/m/019fz	/m/07cbs	/m/07cbs
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6783)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-2.6783)
+___
+/m/026lj	/m/0420y	/m/01tz6vs	/m/01tz6vs
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/0dzkq	/m/0dzkq
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/042q3	/m/042q3
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/0x3r3	/m/0x3r3
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/02wh0	/m/02wh0
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/04411	/m/04411
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/07cbs	/m/07cbs
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/04_by	/m/04_by
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/039n1	/m/039n1
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/01dvtx	/m/01dvtx
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/01vh096	/m/01vh096
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/048cl	/m/048cl
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/0d5_f	/m/0d5_f
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-5.8052)
+___
+/m/026lj	/m/0420y	/m/04411	/m/04411
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/07cbs	/m/07cbs
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/01dvtx	/m/01dvtx
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/01tz6vs	/m/01tz6vs
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/039n1	/m/039n1
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/042q3	/m/042q3
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/0x3r3	/m/0x3r3
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/04_by	/m/04_by
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/0d5_f	/m/0d5_f
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/02wh0	/m/02wh0
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/01vh096	/m/01vh096
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/048cl	/m/048cl
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.1778)
+___
+/m/026lj	/m/0420y	/m/0f8l9c	/m/0f8l9c
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-6.4856)
+___
+/m/026lj	/m/0420y	/m/06mzp	/m/06mzp
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-6.4856)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.6812)
+___
+/m/042q3	/m/0h336	/m/042q3	/m/042q3
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.7281)
+___
+/m/04_by	/m/06jcc	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-7.3806)
+___
+/m/0dzkq	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.4030)
+___
+/m/0dzkq	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.4030)
+___
+/m/04_by	/m/03hnd	/m/03cdg	/m/03cdg
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.4603)
+___
+/m/026lj	/m/0420y	/m/06mzp	/m/06mzp
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-7.5858)
+___
+/m/026lj	/m/0420y	/m/0f8l9c	/m/0f8l9c
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-7.5858)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.6044)
+___
+/m/026lj	/m/019fz	/m/07cbs	/m/07cbs
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.6044)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.6044)
+___
+/m/026lj	/m/019fz	/m/09c7w0	/m/09c7w0
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-7.6501)
+___
+/m/04411	/m/0mj0c	/m/01ty4	/m/01ty4
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.8074)
+___
+/m/04411	/m/0mj0c	/m/04411	/m/04411
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.8074)
+___
+/m/04411	/m/0mj0c	/m/0l99s	/m/0l99s
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.8074)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.8079)
+___
+/m/026lj	/m/019fz	/m/02_l9	/m/02_l9
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-7.8689)
+___
+/m/026lj	/m/019fz	/m/02_l9	/m/02_l9
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.0641)
+___
+/m/026lj	/m/0420y	/m/015n8	/m/015n8
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.1740)
+___
+/m/07cbs	/m/03_js	/m/07cbs	/m/07cbs
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.2255)
+___
+/m/07cbs	/m/03_js	/m/019fz	/m/019fz
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.2255)
+___
+/m/0d5_f	/m/0c2dl	/m/0fvf9q	/m/0fvf9q
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.2739)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.3615)
+___
+/m/026lj	/m/0420y	/m/015n8	/m/015n8
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-8.4080)
+___
+/m/07cbs	/m/019fz	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.4788)
+___
+/m/07cbs	/m/019fz	/m/07cbs	/m/07cbs
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.4788)
+___
+/m/07cbs	/m/019fz	/m/0424m	/m/0424m
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.4788)
+___
+/m/026lj	/m/019fz	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/people/person/nationality
+-1
+tensor(-8.5732)
+___
+/m/026lj	/m/0424m	/m/09c7w0	/m/09c7w0
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-8.6294)
+___
+/m/026lj	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.6415)
+___
+/m/026lj	/m/047g6	/m/032r1	/m/032r1
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.6561)
+___
+/m/01dvtx	/m/01d494	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-8.6592)
+___
+/m/0d5_f	/m/0hnjt	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-8.6654)
+___
+/m/026lj	/m/0jcx	/m/029rk	/m/029rk
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.6828)
+___
+/m/026lj	/m/032r1	/m/09gnn	/m/09gnn
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.7229)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.8522)
+___
+/m/026lj	/m/019fz	/m/03_js	/m/03_js
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.8522)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-8.8522)
+___
+/m/026lj	/m/0tfc	/m/047g6	/m/047g6
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/039n1	/m/039n1
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/0b78hw	/m/0b78hw
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/048cl	/m/048cl
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/0h25	/m/0h25
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/01lwx	/m/01lwx
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/04z0g	/m/04z0g
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/09gnn	/m/09gnn
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/0tfc	/m/03_hd	/m/03_hd
+/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-8.8592)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.0545)
+___
+/m/026lj	/m/019fz	/m/07ym0	/m/07ym0
+/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.0545)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.1142)
+___
+/m/0d5_f	/m/0hnjt	/m/0d5_f	/m/0d5_f
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-9.1201)
+___
+/m/026lj	/m/019fz	/m/03_js	/m/03_js
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.1374)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.1374)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.1374)
+___
+/m/01vh096	/m/05np2	/m/03cdg	/m/03cdg
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.1538)
+___
+/m/01tz6vs	/m/051cc	/m/017_pb	/m/017_pb
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.1724)
+___
+/m/01tz6vs	/m/084w8	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-9.1773)
+___
+/m/01tz6vs	/m/013pp3	/m/073v6	/m/073v6
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.2017)
+___
+/m/01tz6vs	/m/04hcw	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.2166)
+___
+/m/026lj	/m/019fz	/m/07ym0	/m/07ym0
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.2559)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+_/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/peers./influence/peer_relationship/peers	/influence/influence_node/influenced_by
+-1
+tensor(-9.2559)
+___
+/m/01tz6vs	/m/034bs	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-9.2792)
+___
+/m/0x3r3	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-9.3096)
+___
+/m/039n1	/m/05wh0sh	/m/05vz3zq	/m/05vz3zq
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-9.3232)
+___
+#####################
+/m/0b78hw	/m/05qfh
+Reward:0
+/m/0969fd	/m/01dhpj	/m/05r5c	/m/05r5c
+_/influence/influence_node/influenced_by	_/award/award_winner/awards_won./award/award_honor/award_winner	_/music/instrument/instrumentalists
+-1
+tensor(-3.5116)
+___
+/m/01hb6v	/m/04cbtrw	/m/01tnbn	/m/01tnbn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-3.5574)
+___
+/m/01bpn	/m/09gnn	/m/01bpn	/m/01bpn
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.6185)
+___
+/m/01bpn	/m/09gnn	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.6185)
+___
+/m/04hcw	/m/09gnn	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7251)
+___
+/m/04hcw	/m/09gnn	/m/01bpn	/m/01bpn
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.7251)
+___
+/m/04411	/m/0mj0c	/m/04411	/m/04411
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.8499)
+___
+/m/04411	/m/0mj0c	/m/01ty4	/m/01ty4
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.8499)
+___
+/m/04411	/m/0mj0c	/m/0l99s	/m/0l99s
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.8499)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.9760)
+___
+/m/0tfc	/m/026lj	/m/0420y	/m/0420y
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.9899)
+___
+/m/0tfc	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.9899)
+___
+/m/0tfc	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.9899)
+___
+/m/034bs	/m/07g2b	/m/034bs	/m/034bs
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.1297)
+___
+/m/034bs	/m/07g2b	/m/0c1jh	/m/0c1jh
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.1297)
+___
+/m/034bs	/m/07g2b	/m/03j43	/m/03j43
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.1297)
+___
+/m/0n00	/m/0b78hw	/m/018x3	/m/018x3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4991)
+___
+/m/0n00	/m/0b78hw	/m/0969fd	/m/0969fd
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4991)
+___
+/m/0n00	/m/0b78hw	/m/01hb6v	/m/01hb6v
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4991)
+___
+/m/026lj	/m/019fz	/m/07cbs	/m/07cbs
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.7282)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.7282)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.7282)
+___
+/m/0969fd	/m/01dhpj	/m/05r5c	/m/05r5c
+_/influence/influence_node/influenced_by	/award/award_winner/awards_won./award/award_honor/award_winner	_/music/instrument/instrumentalists
+-1
+tensor(-4.7673)
+___
+/m/018x3	/m/0l12d	/m/018vs	/m/018vs
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/music/instrument/instrumentalists
+-1
+tensor(-4.8406)
+___
+/m/018x3	/m/0l12d	/m/0l14j_	/m/0l14j_
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/music/instrument/instrumentalists
+-1
+tensor(-4.8406)
+___
+/m/018x3	/m/0l12d	/m/06w7v	/m/06w7v
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/music/instrument/instrumentalists
+-1
+tensor(-4.8406)
+___
+/m/018x3	/m/0l12d	/m/0342h	/m/0342h
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/music/instrument/instrumentalists
+-1
+tensor(-4.8406)
+___
+/m/018x3	/m/0l12d	/m/0l14qv	/m/0l14qv
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/music/instrument/instrumentalists
+-1
+tensor(-4.8406)
+___
+/m/018x3	/m/0l12d	/m/05148p4	/m/05148p4
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/music/instrument/instrumentalists
+-1
+tensor(-4.8406)
+___
+/m/018x3	/m/0l12d	/m/01hww_	/m/01hww_
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/music/instrument/instrumentalists
+-1
+tensor(-4.8406)
+___
+/m/01bpn	/m/09gnn	/m/01bpn	/m/01bpn
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2148)
+___
+/m/01bpn	/m/09gnn	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2148)
+___
+/m/04hcw	/m/09gnn	/m/01bpn	/m/01bpn
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2776)
+___
+/m/04hcw	/m/09gnn	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2776)
+___
+/m/0n00	/m/05zl0	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-5.2846)
+___
+/m/048cl	/m/03_lf	/m/05vz3zq	/m/05vz3zq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.4338)
+___
+/m/048cl	/m/05wh0sh	/m/05vz3zq	/m/05vz3zq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.4348)
+___
+/m/048cl	/m/04xzm	/m/0d05w3	/m/0d05w3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.4355)
+___
+/m/048cl	/m/0dzkq	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4592)
+___
+/m/048cl	/m/07h1q	/m/01h2_6	/m/01h2_6
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4661)
+___
+/m/048cl	/m/017r2	/m/01h2_6	/m/01h2_6
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4710)
+___
+/m/048cl	/m/045bg	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4920)
+___
+/m/048cl	/m/04jvt	/m/02245	/m/02245
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.5789)
+___
+/m/018x3	/m/0l12d	/m/018x3	/m/018x3
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6725)
+___
+/m/034bs	/m/07g2b	/m/03j43	/m/03j43
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7563)
+___
+/m/034bs	/m/07g2b	/m/034bs	/m/034bs
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7563)
+___
+/m/034bs	/m/07g2b	/m/0c1jh	/m/0c1jh
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7563)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7848)
+___
+/m/0969fd	/m/0dzkq	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8074)
+___
+/m/048cl	/m/01hb6v	/m/01c9x	/m/01c9x
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.8333)
+___
+/m/03sbs	/m/0399p	/m/043tg	/m/043tg
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8369)
+___
+/m/03sbs	/m/047g6	/m/032r1	/m/032r1
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8552)
+___
+/m/03sbs	/m/0h336	/m/042q3	/m/042q3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8585)
+___
+/m/03sbs	/m/07h1q	/m/01h2_6	/m/01h2_6
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8811)
+___
+/m/03sbs	/m/01ty4	/m/0mj0c	/m/0mj0c
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8847)
+___
+/m/0gt_hv	/m/047g6	/m/032r1	/m/032r1
+/user/alexander/philosophy/philosopher/interests	_/user/alexander/philosophy/philosopher/interests	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9086)
+___
+/m/0n00	/m/0b78hw	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.9222)
+___
+/m/03sbs	/m/032r1	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9486)
+___
+/m/03sbs	/m/045bg	/m/0ct9_	/m/0ct9_
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9523)
+___
+/m/0n00	/m/07ssc	/m/09x3r	/m/09x3r
+/influence/influence_node/influenced_by	/people/person/nationality	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9580)
+___
+/m/0gt_hv	/m/032r1	/m/09gnn	/m/09gnn
+/user/alexander/philosophy/philosopher/interests	_/user/alexander/philosophy/philosopher/interests	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0121)
+___
+/m/0gt_hv	/m/04hcw	/m/09gnn	/m/09gnn
+/user/alexander/philosophy/philosopher/interests	_/user/alexander/philosophy/philosopher/interests	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0292)
+___
+/m/01bpn	/m/09gnn	/m/01fml	/m/01fml
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.0740)
+___
+/m/048cl	/m/01h2_6	/m/07h1q	/m/07h1q
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1374)
+___
+/m/048cl	/m/01h2_6	/m/0nk72	/m/0nk72
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1374)
+___
+/m/048cl	/m/0ct9_	/m/0dzkq	/m/0dzkq
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1453)
+___
+/m/048cl	/m/0ct9_	/m/0399p	/m/0399p
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1453)
+___
+/m/013b6_	/m/02k21g	/m/02h40lc	/m/02h40lc
+_/people/ethnicity/people	_/people/person/religion	/people/person/languages
+-1
+tensor(-6.1608)
+___
+/m/04hcw	/m/09gnn	/m/01fml	/m/01fml
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.1659)
+___
+/m/03sbs	/m/042q3	/m/0h336	/m/0h336
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1995)
+___
+/m/04rwx	/m/04rwx	/m/03z19	/m/03z19
+/people/person/employment_history./business/employment_tenure/company	_/education/educational_institution/campuses	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+tensor(-6.2209)
+___
+/m/03sbs	/m/02wh0	/m/06c44	/m/06c44
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.2306)
+___
+/m/0969fd	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3400)
+___
+/m/0969fd	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3400)
+___
+/m/0n00	/m/07tg4	/m/02jx1	/m/02jx1
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.4090)
+___
+/m/0n00	/m/07tg4	/m/02j9z	/m/02j9z
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.4090)
+___
+/m/0n00	/m/07tg4	/m/0978r	/m/0978r
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.4090)
+___
+/m/0n00	/m/013nky	/m/0978r	/m/0978r
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.4191)
+___
+/m/0n00	/m/013nky	/m/01w0v	/m/01w0v
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.4191)
+___
+/m/0n00	/m/013nky	/m/02jx1	/m/02jx1
+/influence/influence_node/influenced_by	_/education/educational_institution/students_graduates./education/education/student	_/location/location/contains
+-1
+tensor(-6.4191)
+___
+/m/0969fd	/m/0b78hw	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.5794)
+___
+/m/09c7w0	/m/03v1s	/m/09c7w0	/m/09c7w0
+/people/person/nationality	_/location/administrative_division/first_level_division_of	/location/administrative_division/first_level_division_of
+-1
+tensor(-6.6362)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.6431)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.6431)
+___
+/m/026lj	/m/019fz	/m/07cbs	/m/07cbs
+/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.6431)
+___
+/m/0n00	/m/0b78hw	/m/0n00	/m/0n00
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/034bs	/m/034bs
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/04hcw	/m/04hcw
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/04411	/m/04411
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/03sbs	/m/03sbs
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/048cl	/m/048cl
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/01bpn	/m/01bpn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.7892)
+___
+/m/0n00	/m/0b78hw	/m/04rwx	/m/04rwx
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-6.8649)
+___
+/m/048cl	/m/0b78hw	/m/0969fd	/m/0969fd
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8875)
+___
+/m/048cl	/m/0b78hw	/m/01hb6v	/m/01hb6v
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8875)
+___
+/m/048cl	/m/0b78hw	/m/018x3	/m/018x3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8875)
+___
+/m/01hb6v	/m/0h0yt	/m/05cj4r	/m/05cj4r
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.9264)
+___
+/m/01hb6v	/m/0h0yt	/m/03v3xp	/m/03v3xp
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.9264)
+___
+#####################
+/m/03sbs	/m/09xq9d
+Reward:0
+/m/042q3	/m/0h336	/m/042q3	/m/042q3
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5347)
+___
+/m/032r1	/m/047g6	/m/032r1	/m/032r1
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.5442)
+___
+/m/0h336	/m/042q3	/m/0h336	/m/0h336
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.6643)
+___
+/m/047g6	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.8804)
+___
+/m/0nk72	/m/01h2_6	/m/07h1q	/m/07h1q
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.1933)
+___
+/m/0nk72	/m/01h2_6	/m/0nk72	/m/0nk72
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.1933)
+___
+/m/0399p	/m/043tg	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.2128)
+___
+/m/07h1q	/m/01h2_6	/m/07h1q	/m/07h1q
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.2146)
+___
+/m/07h1q	/m/01h2_6	/m/0nk72	/m/0nk72
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.2146)
+___
+/m/026lj	/m/0420y	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.3269)
+___
+/m/01ty4	/m/0mj0c	/m/0l99s	/m/0l99s
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6154)
+___
+/m/01ty4	/m/0mj0c	/m/04411	/m/04411
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6154)
+___
+/m/01ty4	/m/0mj0c	/m/01ty4	/m/01ty4
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6154)
+___
+/m/04xm_	/m/07h1q	/m/01h2_6	/m/01h2_6
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6217)
+___
+/m/04411	/m/0mj0c	/m/0l99s	/m/0l99s
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6298)
+___
+/m/04411	/m/0mj0c	/m/04411	/m/04411
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6298)
+___
+/m/04411	/m/0mj0c	/m/01ty4	/m/01ty4
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6298)
+___
+/m/04xm_	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.6454)
+___
+/m/0b78hw	/m/0969fd	/m/01dhpj	/m/01dhpj
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.7989)
+___
+/m/0cpvcd	/m/016lh0	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-4.8786)
+___
+/m/0399p	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.8988)
+___
+/m/0399p	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.8988)
+___
+/m/0b78hw	/m/01hb6v	/m/01c9x	/m/01c9x
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-4.9123)
+___
+/m/03s9v	/m/0jcx	/m/029rk	/m/029rk
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.0275)
+___
+/m/047g6	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.1021)
+___
+/m/026lj	/m/019fz	/m/07cbs	/m/07cbs
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2840)
+___
+/m/026lj	/m/019fz	/m/026lj	/m/026lj
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2840)
+___
+/m/026lj	/m/019fz	/m/0424m	/m/0424m
+/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2840)
+___
+/m/02ln1	/m/07h1q	/m/01h2_6	/m/01h2_6
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3080)
+___
+/m/02ln1	/m/045bg	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3363)
+___
+/m/01dvtx	/m/01d494	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.3702)
+___
+/m/0h25	/m/03f5vvx	/m/07ssc	/m/07ssc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.4384)
+___
+/m/0h25	/m/016lh0	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.4388)
+___
+/m/0h25	/m/01yznp	/m/02fsn	/m/02fsn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.4453)
+___
+/m/045bg	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4606)
+___
+/m/045bg	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4606)
+___
+/m/04xm_	/m/01dvtx	/m/01d494	/m/01d494
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.5718)
+___
+/m/05qzv	/m/0j0pf	/m/01zkxv	/m/01zkxv
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5806)
+___
+/m/03s9v	/m/07cbs	/m/09c7w0	/m/09c7w0
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.6981)
+___
+/m/03s9v	/m/07cbs	/m/07z1m	/m/07z1m
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.6981)
+___
+/m/03s9v	/m/06jkm	/m/05gpy	/m/05gpy
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7078)
+___
+/m/03s9v	/m/06jkm	/m/0bwx3	/m/0bwx3
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7078)
+___
+/m/0h25	/m/079ws	/m/079vf	/m/079vf
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.7163)
+___
+/m/05qzv	/m/01dzz7	/m/0821j	/m/0821j
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.7755)
+___
+/m/045bg	/m/0399p	/m/043tg	/m/043tg
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7809)
+___
+/m/02ln1	/m/099bk	/m/05g9h	/m/05g9h
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.8623)
+___
+/m/045bg	/m/08433	/m/0lrh	/m/0lrh
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8812)
+___
+/m/0cpvcd	/m/052h3	/m/016lh0	/m/016lh0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.9044)
+___
+/m/0cpvcd	/m/052h3	/m/04z0g	/m/04z0g
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.9044)
+___
+/m/05qzv	/m/0184dt	/m/04hw4b	/m/04hw4b
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.9163)
+___
+/m/0b78hw	/m/018x3	/m/0l14qv	/m/0l14qv
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.9171)
+___
+/m/0b78hw	/m/018x3	/m/05r5c	/m/05r5c
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.9171)
+___
+/m/0b78hw	/m/018x3	/m/05148p4	/m/05148p4
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.9171)
+___
+/m/043s3	/m/01bpn	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9181)
+___
+/m/043s3	/m/032r1	/m/09gnn	/m/09gnn
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9881)
+___
+/m/0x3r3	/m/0420y	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9898)
+___
+/m/05qzv	/m/05cv8	/m/01zkxv	/m/01zkxv
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.0099)
+___
+/m/01dvtx	/m/01d494	/m/02wh0	/m/02wh0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/04411	/m/04411
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/04hcw	/m/04hcw
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/039n1	/m/039n1
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/03f47xl	/m/03f47xl
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/01dvtx	/m/01dvtx
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/058vp	/m/058vp
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/0mj0c	/m/0mj0c
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/01dvtx	/m/01d494	/m/099bk	/m/099bk
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.0709)
+___
+/m/0h25	/m/03qcq	/m/0bq4j6	/m/0bq4j6
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.1126)
+___
+/m/039n1	/m/05wh0sh	/m/05vz3zq	/m/05vz3zq
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.1312)
+___
+/m/03s9v	/m/026lj	/m/0420y	/m/0420y
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1369)
+___
+/m/03s9v	/m/026lj	/m/019fz	/m/019fz
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1369)
+___
+/m/03s9v	/m/026lj	/m/0tfc	/m/0tfc
+/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1369)
+___
+/m/039n1	/m/0399p	/m/043tg	/m/043tg
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1412)
+___
+/m/039n1	/m/047g6	/m/032r1	/m/032r1
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1486)
+___
+/m/039n1	/m/0dzkq	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1523)
+___
+/m/039n1	/m/045bg	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1706)
+___
+/m/0x3r3	/m/0gzh	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.1780)
+___
+/m/0x3r3	/m/0gzh	/m/03v0t	/m/03v0t
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.1780)
+___
+/m/06whf	/m/016yzz	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.2044)
+___
+/m/01dvtx	/m/01d494	/m/05zl0	/m/05zl0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-6.2065)
+___
+/m/05qzv	/m/01_k0d	/m/0yxl	/m/0yxl
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.2662)
+___
+/m/05qzv	/m/01_k0d	/m/05jm7	/m/05jm7
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.2662)
+___
+/m/0h25	/m/052h3	/m/04z0g	/m/04z0g
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4574)
+___
+/m/0h25	/m/052h3	/m/016lh0	/m/016lh0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.4574)
+___
+/m/045bg	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.4837)
+___
+/m/045bg	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.4837)
+___
+/m/06whf	/m/02b29	/m/03m9c8	/m/03m9c8
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.4995)
+___
+/m/0b78hw	/m/018x3	/m/0l12d	/m/0l12d
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.5290)
+___
+/m/05qzv	/m/03dbds	/m/015v3r	/m/015v3r
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.5854)
+___
+/m/05qzv	/m/03dbds	/m/014g9y	/m/014g9y
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.5854)
+___
+/m/0cpvcd	/m/04z0g	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.7013)
+___
+/m/045bg	/m/0m77m	/m/01vdrw	/m/01vdrw
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.7905)
+___
+/m/045bg	/m/0m77m	/m/0bv7t	/m/0bv7t
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.7905)
+___
+/m/039n1	/m/099bk	/m/05g9h	/m/05g9h
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.7912)
+___
+/m/039n1	/m/06jkm	/m/0bwx3	/m/0bwx3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.8369)
+___
+/m/039n1	/m/06jkm	/m/05gpy	/m/05gpy
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.8369)
+___
+/m/039n1	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.8387)
+___
+/m/039n1	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.8387)
+___
+/m/02ln1	/m/0cpvcd	/m/04z0g	/m/04z0g
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8424)
+___
+/m/02ln1	/m/0cpvcd	/m/052h3	/m/052h3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.8424)
+___
+#####################
+/m/0gz_	/m/02jhc
+Reward:0
+/m/047g6	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.6556)
+___
+/m/052h3	/m/016lh0	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-3.9630)
+___
+/m/0nk72	/m/01h2_6	/m/07h1q	/m/07h1q
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.9701)
+___
+/m/0nk72	/m/01h2_6	/m/0nk72	/m/0nk72
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.9701)
+___
+/m/043tg	/m/0399p	/m/043tg	/m/043tg
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-3.9850)
+___
+/m/0tfc	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.4064)
+___
+/m/0tfc	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.4064)
+___
+/m/0tfc	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.4064)
+___
+/m/047g6	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-4.7742)
+___
+/m/030dr	/m/07cbs	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.0645)
+___
+/m/030dr	/m/07cbs	/m/07z1m	/m/07z1m
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.0645)
+___
+/m/043tg	/m/060_7	/m/0gs7x	/m/0gs7x
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.0812)
+___
+/m/043tg	/m/060_7	/m/0gct_	/m/0gct_
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.0812)
+___
+/m/043tg	/m/060_7	/m/043tg	/m/043tg
+_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.0812)
+___
+/m/034ks	/m/07c37	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.1430)
+___
+/m/034ks	/m/07c37	/m/0x3r3	/m/0x3r3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.1430)
+___
+/m/034ks	/m/07c37	/m/015n8	/m/015n8
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.1430)
+___
+/m/034ks	/m/07c37	/m/043s3	/m/043s3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.1430)
+___
+/m/034ks	/m/07c37	/m/0372p	/m/0372p
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.1430)
+___
+/m/034ks	/m/07c37	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.1430)
+___
+/m/03_hd	/m/047g6	/m/032r1	/m/032r1
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2304)
+___
+/m/0w6w	/m/045bg	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2595)
+___
+/m/03_hd	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2621)
+___
+/m/0w6w	/m/04hcw	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.2683)
+___
+/m/03_hd	/m/034bs	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-5.3213)
+___
+/m/01dvtx	/m/01d494	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.3433)
+___
+/m/099bk	/m/0dzkq	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3718)
+___
+/m/099bk	/m/04hcw	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.3970)
+___
+/m/099bk	/m/045bg	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.4045)
+___
+/m/03_hd	/m/01hb6v	/m/01c9x	/m/01c9x
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.5025)
+___
+/m/05np2	/m/01w524f	/m/05r5c	/m/05r5c
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/music/instrument/instrumentalists
+-1
+tensor(-5.5580)
+___
+/m/052h3	/m/04z0g	/m/09c7w0	/m/09c7w0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.6135)
+___
+/m/01tz6vs	/m/051cc	/m/017_pb	/m/017_pb
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7611)
+___
+/m/01tz6vs	/m/084w8	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-5.7657)
+___
+/m/043s3	/m/01bpn	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7803)
+___
+/m/01tz6vs	/m/013pp3	/m/073v6	/m/073v6
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7944)
+___
+/m/0w6w	/m/099bk	/m/05g9h	/m/05g9h
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-5.7994)
+___
+/m/028p0	/m/0c1jh	/m/07g2b	/m/07g2b
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8011)
+___
+/m/01tz6vs	/m/04hcw	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8238)
+___
+/m/043s3	/m/032r1	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.8452)
+___
+/m/01tz6vs	/m/034bs	/m/02h40lc	/m/02h40lc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-5.8479)
+___
+/m/0jrg	/m/0gz_	/m/035qy	/m/035qy
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-5.8564)
+___
+/m/01dvtx	/m/01d494	/m/058vp	/m/058vp
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/03f47xl	/m/03f47xl
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/099bk	/m/099bk
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/039n1	/m/039n1
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/02wh0	/m/02wh0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/0mj0c	/m/0mj0c
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/01dvtx	/m/01dvtx
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/04411	/m/04411
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/01dvtx	/m/01d494	/m/04hcw	/m/04hcw
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-5.9037)
+___
+/m/039n1	/m/05wh0sh	/m/05vz3zq	/m/05vz3zq
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.9082)
+___
+/m/039n1	/m/047g6	/m/032r1	/m/032r1
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9323)
+___
+/m/039n1	/m/0dzkq	/m/0ct9_	/m/0ct9_
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.9447)
+___
+/m/099bk	/m/0ct9_	/m/0dzkq	/m/0dzkq
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0580)
+___
+/m/099bk	/m/0ct9_	/m/0399p	/m/0399p
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.0580)
+___
+/m/01tz6vs	/m/04xfb	/m/0135dr	/m/0135dr
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-6.1193)
+___
+/m/01dvtx	/m/01d494	/m/05zl0	/m/05zl0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-6.1508)
+___
+/m/07c37	/m/026lj	/m/0420y	/m/0420y
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1927)
+___
+/m/07c37	/m/026lj	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1927)
+___
+/m/07c37	/m/026lj	/m/019fz	/m/019fz
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.1927)
+___
+/m/030dr	/m/07c37	/m/0372p	/m/0372p
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2370)
+___
+/m/030dr	/m/07c37	/m/015n8	/m/015n8
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2370)
+___
+/m/030dr	/m/07c37	/m/026lj	/m/026lj
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2370)
+___
+/m/030dr	/m/07c37	/m/043s3	/m/043s3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2370)
+___
+/m/030dr	/m/07c37	/m/0x3r3	/m/0x3r3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2370)
+___
+/m/030dr	/m/07c37	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2370)
+___
+/m/052h3	/m/04z0g	/m/032r1	/m/032r1
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.2541)
+___
+/m/052h3	/m/04z0g	/m/052h3	/m/052h3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.2541)
+___
+/m/052h3	/m/04z0g	/m/09gnn	/m/09gnn
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.2541)
+___
+/m/052h3	/m/04z0g	/m/0tfc	/m/0tfc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.2541)
+___
+/m/052h3	/m/04z0g	/m/0cpvcd	/m/0cpvcd
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by
+-1
+tensor(-6.2541)
+___
+/m/0m93	/m/07kb5	/m/03_87	/m/03_87
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2568)
+___
+/m/0m93	/m/07kb5	/m/043s3	/m/043s3
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2568)
+___
+/m/0m93	/m/07kb5	/m/028p0	/m/028p0
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2568)
+___
+/m/0m93	/m/07kb5	/m/037jz	/m/037jz
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2568)
+___
+/m/0m93	/m/07kb5	/m/03_hd	/m/03_hd
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2568)
+___
+/m/0m93	/m/07kb5	/m/03sbs	/m/03sbs
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2568)
+___
+/m/05np2	/m/03cdg	/m/06jcc	/m/06jcc
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2584)
+___
+/m/05np2	/m/03cdg	/m/049gc	/m/049gc
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2584)
+___
+/m/05np2	/m/03cdg	/m/0jcx	/m/0jcx
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2584)
+___
+/m/05np2	/m/03cdg	/m/016dmx	/m/016dmx
+_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers	_/influence/influence_node/influenced_by
+-1
+tensor(-6.2584)
+___
+/m/099bk	/m/01dvtx	/m/01d494	/m/01d494
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.3026)
+___
+/m/03_hd	/m/0mj0c	/m/0l99s	/m/0l99s
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3299)
+___
+/m/03_hd	/m/0mj0c	/m/04411	/m/04411
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3299)
+___
+/m/03_hd	/m/0mj0c	/m/01ty4	/m/01ty4
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3299)
+___
+/m/01tz6vs	/m/02kz_	/m/02zjd	/m/02zjd
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-6.3816)
+___
+/m/052h3	/m/04z0g	/m/0f1r9	/m/0f1r9
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-6.4099)
+___
+/m/052h3	/m/04z0g	/m/01w5m	/m/01w5m
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-6.4099)
+___
+/m/052h3	/m/04z0g	/m/07wrz	/m/07wrz
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-6.4099)
+___
+/m/01dvtx	/m/01d494	/m/02jcc	/m/02jcc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/user/alexander/philosophy/philosopher/interests
+-1
+tensor(-6.4801)
+___
+/m/01dvtx	/m/01d494	/m/02jhc	/m/02jhc
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/user/alexander/philosophy/philosopher/interests
+1
+tensor(-6.4801)
+___
+/m/028p0	/m/0dw6b	/m/06b_j	/m/06b_j
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.4991)
+___
+/m/028p0	/m/0dw6b	/m/064_8sq	/m/064_8sq
+_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by	/people/person/languages
+-1
+tensor(-6.4991)
+___
+/m/0jrg	/m/0gz_	/m/048cl	/m/048cl
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5969)
+___
+/m/0jrg	/m/0gz_	/m/052h3	/m/052h3
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5969)
+___
+/m/0jrg	/m/0gz_	/m/01tz6vs	/m/01tz6vs
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5969)
+___
+/m/0jrg	/m/0gz_	/m/0j3v	/m/0j3v
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5969)
+___
+/m/0jrg	/m/0gz_	/m/039n1	/m/039n1
+_/influence/influence_node/influenced_by	/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-6.5969)
+___
+#####################

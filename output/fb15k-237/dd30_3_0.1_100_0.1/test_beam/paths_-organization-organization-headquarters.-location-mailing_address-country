@@ -1,0 +1,3521 @@
+/m/09v3hq_	/m/09c7w0
+Reward:1
+/m/09v3hq_	/m/02_286	/m/09c7w0	/m/09c7w0
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/location/administrative_division/country
+1
+tensor(-0.2271)
+___
+/m/09v3hq_	/m/02_286	/m/059rby	/m/059rby
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-1.6033)
+___
+/m/09v3hq_	/m/09v3hq_	/m/02_286	/m/02_286
+NO_OP	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.2981)
+___
+/m/02_286	/m/02_286	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	/location/administrative_division/country
+1
+tensor(-9.8110)
+___
+/m/09v3hq_	/m/09v3hq_	/m/02vxn	/m/02vxn
+NO_OP	NO_OP	/business/business_operation/industry
+-1
+tensor(-11.8814)
+___
+/m/02_286	/m/02_286	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	_/location/location/contains
+-1
+tensor(-13.1112)
+___
+/m/02_286	/m/01cm8w	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+1
+tensor(-17.5925)
+___
+/m/02_286	/m/01rwpj	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+1
+tensor(-18.6911)
+___
+/m/02_286	/m/01rwpj	/m/06mkj	/m/06mkj
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-18.6911)
+___
+/m/02_286	/m/01rwpj	/m/07ssc	/m/07ssc
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-18.6911)
+___
+/m/01kqq7	/m/09c7w0	/m/013cz2	/m/013cz2
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/base/biblioness/bibs_location/country
+-1
+tensor(-19.2022)
+___
+/m/027rpym	/m/09c7w0	/m/013cz2	/m/013cz2
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/base/biblioness/bibs_location/country
+-1
+tensor(-19.2856)
+___
+/m/02vxn	/m/02vxn	/m/07c52	/m/07c52
+/business/business_operation/industry	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-19.3714)
+___
+/m/02vxn	/m/02vxn	/m/02csf	/m/02csf
+/business/business_operation/industry	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-19.3714)
+___
+/m/02vxn	/m/02vxn	/m/062z7	/m/062z7
+/business/business_operation/industry	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-19.3714)
+___
+/m/02vxn	/m/02vxn	/m/05qdh	/m/05qdh
+/business/business_operation/industry	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-19.3714)
+___
+/m/02vxn	/m/02vxn	/m/03qsdpk	/m/03qsdpk
+/business/business_operation/industry	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-19.3714)
+___
+/m/02vxn	/m/02vxn	/m/02822	/m/02822
+/business/business_operation/industry	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-19.3714)
+___
+/m/02_286	/m/021lby	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/02n9k	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/01h1b	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/01fwpt	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/01wk51	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/01d494	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/02xp18	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/01wjrn	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/08hp53	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/04w1j9	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/016dgz	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/03pmty	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-19.4627)
+___
+/m/02_286	/m/023n39	/m/09nqf	/m/09nqf
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-19.4628)
+___
+/m/02_286	/m/022q4j	/m/0cgbf	/m/0cgbf
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-19.5031)
+___
+/m/09lcsj	/m/09c7w0	/m/013cz2	/m/013cz2
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country
+-1
+tensor(-19.5564)
+___
+/m/02_286	/m/06sn8m	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-19.6401)
+___
+/m/020fcn	/m/0c3ns	/m/0chghy	/m/0chghy
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-19.8699)
+___
+/m/02_286	/m/01mv_n	/m/030qb3t	/m/030qb3t
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/deceased_person/place_of_death
+-1
+tensor(-20.1332)
+___
+/m/0286vp	/m/07ssc	/m/0bq0p9	/m/0bq0p9
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-20.1451)
+___
+/m/0286vp	/m/07ssc	/m/06qd3	/m/06qd3
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-20.1451)
+___
+/m/02_286	/m/01mv_n	/m/03dbww	/m/03dbww
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.1798)
+___
+/m/09v3hq_	/m/027rpym	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-20.2284)
+___
+/m/09v3hq_	/m/09lcsj	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-20.2284)
+___
+/m/09v3hq_	/m/01kqq7	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-20.2284)
+___
+/m/09v3hq_	/m/016z7s	/m/07ssc	/m/07ssc
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-20.2284)
+___
+/m/09v3hq_	/m/020fcn	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-20.2284)
+___
+/m/0286vp	/m/09c7w0	/m/013cz2	/m/013cz2
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/base/biblioness/bibs_location/country
+-1
+tensor(-20.2291)
+___
+/m/020fcn	/m/02h1rt	/m/0ctw_b	/m/0ctw_b
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/other_crew./film/film_crew_gig/crewmember	/people/person/nationality
+-1
+tensor(-20.3171)
+___
+/m/016z7s	/m/04kj2v	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-20.5133)
+___
+/m/016z7s	/m/04kj2v	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-20.5133)
+___
+/m/02_286	/m/0cc56	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-20.6886)
+___
+/m/09lcsj	/m/09c7w0	/m/013cz2	/m/013cz2
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/base/biblioness/bibs_location/country
+-1
+tensor(-20.7371)
+___
+/m/016z7s	/m/09c7w0	/m/013cz2	/m/013cz2
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country
+-1
+tensor(-20.7549)
+___
+/m/09v3hq_	/m/0286vp	/m/07ssc	/m/07ssc
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-20.9216)
+___
+/m/09v3hq_	/m/0286vp	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-20.9216)
+___
+/m/09v3hq_	/m/09gdm7q	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-20.9219)
+___
+/m/09v3hq_	/m/09gdm7q	/m/0d060g	/m/0d060g
+NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-20.9219)
+___
+/m/016z7s	/m/0l6qt	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-21.2903)
+___
+/m/016z7s	/m/016zp5	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-21.2903)
+___
+/m/027rpym	/m/09c7w0	/m/059_c	/m/059_c
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/country
+-1
+tensor(-21.3935)
+___
+/m/027rpym	/m/09c7w0	/m/0498y	/m/0498y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/country
+-1
+tensor(-21.3935)
+___
+/m/01kqq7	/m/09c7w0	/m/059_c	/m/059_c
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/country
+-1
+tensor(-21.4375)
+___
+/m/01kqq7	/m/09c7w0	/m/0498y	/m/0498y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/country
+-1
+tensor(-21.4375)
+___
+/m/020fcn	/m/0c3ns	/m/0chghy	/m/0chghy
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-21.4692)
+___
+/m/02_286	/m/01r0t_j	/m/028tv0	/m/028tv0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/02_286	/m/01r0t_j	/m/0gkd1	/m/0gkd1
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/02_286	/m/01r0t_j	/m/02sgy	/m/02sgy
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/02_286	/m/01r0t_j	/m/03bx0bm	/m/03bx0bm
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/02_286	/m/01r0t_j	/m/018vs	/m/018vs
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/02_286	/m/01r0t_j	/m/0l14md	/m/0l14md
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/02_286	/m/01r0t_j	/m/03gvt	/m/03gvt
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/02_286	/m/01r0t_j	/m/01s0ps	/m/01s0ps
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-21.5454)
+___
+/m/0286vp	/m/09c7w0	/m/059_c	/m/059_c
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/country
+-1
+tensor(-21.5700)
+___
+/m/0286vp	/m/09c7w0	/m/0498y	/m/0498y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/country
+-1
+tensor(-21.5700)
+___
+/m/09lcsj	/m/09c7w0	/m/059_c	/m/059_c
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/location/administrative_division/country
+-1
+tensor(-21.5808)
+___
+/m/09lcsj	/m/09c7w0	/m/0498y	/m/0498y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/location/administrative_division/country
+-1
+tensor(-21.5808)
+___
+/m/016z7s	/m/07ssc	/m/0bq0p9	/m/0bq0p9
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-21.6112)
+___
+/m/016z7s	/m/07ssc	/m/06qd3	/m/06qd3
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-21.6112)
+___
+/m/09lcsj	/m/0b79gfg	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/other_crew./film/film_crew_gig/crewmember	/people/person/nationality
+1
+tensor(-21.6679)
+___
+/m/09gdm7q	/m/03h64	/m/0d05w3	/m/0d05w3
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/base/biblioness/bibs_location/country
+-1
+tensor(-21.7167)
+___
+/m/09gdm7q	/m/0d0vqn	/m/02j71	/m/02j71
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7167)
+___
+/m/09gdm7q	/m/0jgd	/m/0880p	/m/0880p
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/language/human_language/countries_spoken_in
+-1
+tensor(-21.7168)
+___
+/m/09gdm7q	/m/03rjj	/m/02j71	/m/02j71
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7168)
+___
+/m/09gdm7q	/m/06mkj	/m/02qkt	/m/02qkt
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/location/location/contains
+-1
+tensor(-21.7169)
+___
+/m/09gdm7q	/m/016wzw	/m/02j71	/m/02j71
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7251)
+___
+/m/09gdm7q	/m/07twz	/m/02j71	/m/02j71
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7742)
+___
+/m/020fcn	/m/09c7w0	/m/013cz2	/m/013cz2
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/base/biblioness/bibs_location/country
+-1
+tensor(-21.8704)
+___
+/m/020fcn	/m/020fcn	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/country
+1
+tensor(-21.9690)
+___
+/m/016z7s	/m/04kj2v	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-21.9834)
+___
+/m/016z7s	/m/04kj2v	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-21.9834)
+___
+/m/016z7s	/m/016z7s	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/country
+-1
+tensor(-22.0065)
+___
+/m/09gdm7q	/m/03rk0	/m/0j0k	/m/0j0k
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/location/location/contains
+-1
+tensor(-22.0073)
+___
+/m/02_286	/m/0fvf9q	/m/0c2dl	/m/0c2dl
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/01_x6v	/m/01_x6v
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/04cw0j	/m/04cw0j
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/06cgy	/m/06cgy
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/02kxbx3	/m/02kxbx3
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/03m9c8	/m/03m9c8
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/0499lc	/m/0499lc
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/02rchht	/m/02rchht
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/017s11	/m/017s11
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+/m/02_286	/m/0fvf9q	/m/04q5zw	/m/04q5zw
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0278)
+___
+#####################
+/m/02htv6	/m/09c7w0
+Reward:1
+/m/09nqf	/m/01wb95	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/014l6_	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/02qzmz6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/02q8ms8	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/03h4fq7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/075cph	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/01br2w	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/09xbpt	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/018f8	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/0241y7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/01l_pn	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/0qm98	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/0jsf6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/04j13sx	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/0sxmx	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.8352)
+___
+/m/09nqf	/m/033srr	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8352)
+___
+/m/09nqf	/m/01jwxx	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.8353)
+___
+/m/09nqf	/m/085ccd	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8353)
+___
+/m/09nqf	/m/017z49	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8353)
+___
+/m/09nqf	/m/0dzlbx	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.8354)
+___
+/m/09nqf	/m/014l6_	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/01wb95	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/02qzmz6	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/01br2w	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/03h4fq7	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/02q8ms8	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/018f8	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/09xbpt	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/0241y7	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/075cph	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/01l_pn	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/0qm98	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/0sxmx	/m/07ssc	/m/07ssc
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.1717)
+___
+/m/09nqf	/m/0jsf6	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/04j13sx	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/033srr	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/085ccd	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/01jwxx	/m/07ssc	/m/07ssc
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.1717)
+___
+/m/09nqf	/m/017z49	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1717)
+___
+/m/09nqf	/m/0dzlbx	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.1718)
+___
+/m/09nqf	/m/01f8hf	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.5284)
+___
+/m/09nqf	/m/08ct6	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.5284)
+___
+/m/09nqf	/m/01f8hf	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.5284)
+___
+/m/09nqf	/m/08ct6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.5284)
+___
+/m/09nqf	/m/03s5lz	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.5284)
+___
+/m/09nqf	/m/03s5lz	/m/0chghy	/m/0chghy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.5284)
+___
+/m/09nqf	/m/084302	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.5284)
+___
+/m/09nqf	/m/084302	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.5284)
+___
+/m/09nqf	/m/03176f	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.5284)
+___
+/m/09nqf	/m/03176f	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.5284)
+___
+/m/09nqf	/m/08ct6	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.8648)
+___
+/m/09nqf	/m/08ct6	/m/07ssc	/m/07ssc
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.8648)
+___
+/m/09nqf	/m/03s5lz	/m/0chghy	/m/0chghy
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.8648)
+___
+/m/09nqf	/m/03s5lz	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.8648)
+___
+/m/09nqf	/m/01f8hf	/m/07ssc	/m/07ssc
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.8648)
+___
+/m/09nqf	/m/01f8hf	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.8648)
+___
+/m/09nqf	/m/084302	/m/07ssc	/m/07ssc
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.8648)
+___
+/m/09nqf	/m/084302	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.8648)
+___
+/m/09nqf	/m/03176f	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.8649)
+___
+/m/09nqf	/m/03176f	/m/07ssc	/m/07ssc
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.8649)
+___
+/m/09nqf	/m/04yg13l	/m/0345h	/m/0345h
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.9339)
+___
+/m/09nqf	/m/04yg13l	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.9339)
+___
+/m/09nqf	/m/04yg13l	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.9339)
+___
+/m/09nqf	/m/04yg13l	/m/0345h	/m/0345h
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-5.2703)
+___
+/m/09nqf	/m/04yg13l	/m/07ssc	/m/07ssc
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-5.2703)
+___
+/m/09nqf	/m/04yg13l	/m/09c7w0	/m/09c7w0
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-5.2703)
+___
+/m/09nqf	/m/09k56b7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/03rt9	/m/03rt9
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/035qy	/m/035qy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/03spz	/m/03spz
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/03_3d	/m/03_3d
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/07f1x	/m/07f1x
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/044rv	/m/044rv
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/06t8v	/m/06t8v
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/05qx1	/m/05qx1
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0d060g	/m/0d060g
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/01mjq	/m/01mjq
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/06t2t	/m/06t2t
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/077qn	/m/077qn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0154j	/m/0154j
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/02vzc	/m/02vzc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0f8l9c	/m/0f8l9c
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/059j2	/m/059j2
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/06c1y	/m/06c1y
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/03rk0	/m/03rk0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0d0kn	/m/0d0kn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/06qd3	/m/06qd3
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0jgd	/m/0jgd
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/03gj2	/m/03gj2
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/02_286	/m/02_286
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0d0vqn	/m/0d0vqn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0345h	/m/0345h
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0b90_r	/m/0b90_r
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0k6nt	/m/0k6nt
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/09pmkv	/m/09pmkv
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/05r4w	/m/05r4w
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/04gzd	/m/04gzd
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/05qhw	/m/05qhw
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/05v8c	/m/05v8c
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+/m/09nqf	/m/09k56b7	/m/0h7h6	/m/0h7h6
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6099)
+___
+#####################
+/m/01dq5z	/m/09c7w0
+Reward:1
+/m/09nqf	/m/01wb95	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/014l6_	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/02qzmz6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/02q8ms8	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/075cph	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/03h4fq7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/09xbpt	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/018f8	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/01br2w	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/0241y7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/01l_pn	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/0qm98	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/0sxmx	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.2967)
+___
+/m/09nqf	/m/04j13sx	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/0jsf6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/033srr	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/085ccd	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2967)
+___
+/m/09nqf	/m/01jwxx	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.2967)
+___
+/m/09nqf	/m/017z49	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2968)
+___
+/m/09nqf	/m/0dzlbx	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2969)
+___
+/m/09nqf	/m/03s5lz	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9899)
+___
+/m/09nqf	/m/03s5lz	/m/0chghy	/m/0chghy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9899)
+___
+/m/09nqf	/m/08ct6	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9899)
+___
+/m/09nqf	/m/08ct6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9899)
+___
+/m/09nqf	/m/01f8hf	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9899)
+___
+/m/09nqf	/m/01f8hf	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9899)
+___
+/m/09nqf	/m/084302	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9899)
+___
+/m/09nqf	/m/084302	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9899)
+___
+/m/09nqf	/m/03176f	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9899)
+___
+/m/09nqf	/m/03176f	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9899)
+___
+/m/09nqf	/m/04yg13l	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.3953)
+___
+/m/09nqf	/m/04yg13l	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.3953)
+___
+/m/09nqf	/m/04yg13l	/m/0345h	/m/0345h
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.3953)
+___
+/m/09nqf	/m/09k56b7	/m/06c1y	/m/06c1y
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/05qhw	/m/05qhw
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/04gzd	/m/04gzd
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/09pmkv	/m/09pmkv
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/03gj2	/m/03gj2
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0154j	/m/0154j
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0d060g	/m/0d060g
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0d0vqn	/m/0d0vqn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/05r4w	/m/05r4w
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/05qx1	/m/05qx1
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0k6nt	/m/0k6nt
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0b90_r	/m/0b90_r
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/05v8c	/m/05v8c
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/02_286	/m/02_286
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/03spz	/m/03spz
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/03h64	/m/03h64
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/03rk0	/m/03rk0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0f8l9c	/m/0f8l9c
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0345h	/m/0345h
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/07f1x	/m/07f1x
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/06t2t	/m/06t2t
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0d0kn	/m/0d0kn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/02vzc	/m/02vzc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/03rt9	/m/03rt9
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/059j2	/m/059j2
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/03_3d	/m/03_3d
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/015qh	/m/015qh
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/03rj0	/m/03rj0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/07twz	/m/07twz
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/06mkj	/m/06mkj
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0chghy	/m/0chghy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0h7h6	/m/0h7h6
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/044rv	/m/044rv
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/035qy	/m/035qy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/01mjq	/m/01mjq
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/06t8v	/m/06t8v
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/06qd3	/m/06qd3
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/016wzw	/m/016wzw
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/0jgd	/m/0jgd
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/01znc_	/m/01znc_
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/077qn	/m/077qn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0734)
+___
+/m/09nqf	/m/09k56b7	/m/029j_	/m/029j_
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8907)
+___
+/m/09nqf	/m/09k56b7	/m/09nqf	/m/09nqf
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.2751)
+___
+/m/09nqf	/m/09k56b7	/m/099t8j	/m/099t8j
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/0gs9p	/m/0gs9p
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/0k611	/m/0k611
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/02qyntr	/m/02qyntr
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/02x4x18	/m/02x4x18
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/09sb52	/m/09sb52
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/05pcn59	/m/05pcn59
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/099c8n	/m/099c8n
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/02r0csl	/m/02r0csl
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/09td7p	/m/09td7p
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/019f4v	/m/019f4v
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/0gqwc	/m/0gqwc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/02r22gf	/m/02r22gf
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/0f_nbyh	/m/0f_nbyh
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/02qt02v	/m/02qt02v
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/09qwmm	/m/09qwmm
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/040njc	/m/040njc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/02qyp19	/m/02qyp19
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/09k56b7	/m/02hsq3m	/m/02hsq3m
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-10.0925)
+___
+/m/09nqf	/m/01wb95	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-10.5072)
+___
+/m/09nqf	/m/075cph	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-10.5072)
+___
+/m/09nqf	/m/02q8ms8	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-10.5072)
+___
+/m/09nqf	/m/03h4fq7	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-10.5072)
+___
+#####################
+/m/09f2j	/m/09c7w0
+Reward:1
+/m/09nqf	/m/01wb95	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/014l6_	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/02qzmz6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/03h4fq7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/09xbpt	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/02q8ms8	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/075cph	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/018f8	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/0241y7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/01br2w	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/01l_pn	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/0qm98	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/04j13sx	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/0sxmx	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.2960)
+___
+/m/09nqf	/m/033srr	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/0jsf6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/01jwxx	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.2960)
+___
+/m/09nqf	/m/085ccd	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/017z49	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2960)
+___
+/m/09nqf	/m/0dzlbx	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2961)
+___
+/m/09nqf	/m/03s5lz	/m/0chghy	/m/0chghy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9891)
+___
+/m/09nqf	/m/03s5lz	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9891)
+___
+/m/09nqf	/m/08ct6	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9891)
+___
+/m/09nqf	/m/01f8hf	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9891)
+___
+/m/09nqf	/m/01f8hf	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9891)
+___
+/m/09nqf	/m/08ct6	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9891)
+___
+/m/09nqf	/m/084302	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9891)
+___
+/m/09nqf	/m/084302	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9891)
+___
+/m/09nqf	/m/03176f	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9892)
+___
+/m/09nqf	/m/03176f	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9892)
+___
+/m/09nqf	/m/04yg13l	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.3946)
+___
+/m/09nqf	/m/04yg13l	/m/07ssc	/m/07ssc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.3946)
+___
+/m/09nqf	/m/04yg13l	/m/0345h	/m/0345h
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.3946)
+___
+/m/09nqf	/m/09k56b7	/m/04gzd	/m/04gzd
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/035qy	/m/035qy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/06t2t	/m/06t2t
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/016wzw	/m/016wzw
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/09pmkv	/m/09pmkv
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/05qhw	/m/05qhw
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/02vzc	/m/02vzc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/06c1y	/m/06c1y
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0d060g	/m/0d060g
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/06t8v	/m/06t8v
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/03gj2	/m/03gj2
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/01mjq	/m/01mjq
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/03h64	/m/03h64
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/05qx1	/m/05qx1
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/07f1x	/m/07f1x
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0d0vqn	/m/0d0vqn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/03spz	/m/03spz
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/059j2	/m/059j2
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0chghy	/m/0chghy
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/01znc_	/m/01znc_
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0f8l9c	/m/0f8l9c
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/06mkj	/m/06mkj
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/07twz	/m/07twz
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/077qn	/m/077qn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/03rj0	/m/03rj0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/015qh	/m/015qh
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/03_3d	/m/03_3d
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0154j	/m/0154j
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/03rt9	/m/03rt9
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/06qd3	/m/06qd3
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0jgd	/m/0jgd
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/02_286	/m/02_286
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0345h	/m/0345h
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/05v8c	/m/05v8c
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0b90_r	/m/0b90_r
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/03rk0	/m/03rk0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0k6nt	/m/0k6nt
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/05r4w	/m/05r4w
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/044rv	/m/044rv
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0d0kn	/m/0d0kn
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/0h7h6	/m/0h7h6
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0776)
+___
+/m/09nqf	/m/09k56b7	/m/029j_	/m/029j_
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8194)
+___
+/m/09nqf	/m/09k56b7	/m/09nqf	/m/09nqf
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.2148)
+___
+/m/09nqf	/m/09k56b7	/m/02hsq3m	/m/02hsq3m
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/099c8n	/m/099c8n
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/0gs9p	/m/0gs9p
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/019f4v	/m/019f4v
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/02qyntr	/m/02qyntr
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/099t8j	/m/099t8j
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/02qt02v	/m/02qt02v
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/02qyp19	/m/02qyp19
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/0gqwc	/m/0gqwc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/02r22gf	/m/02r22gf
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/02r0csl	/m/02r0csl
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/05pcn59	/m/05pcn59
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/09sb52	/m/09sb52
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/040njc	/m/040njc
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/0f_nbyh	/m/0f_nbyh
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/09qwmm	/m/09qwmm
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/09td7p	/m/09td7p
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/02x4x18	/m/02x4x18
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/09k56b7	/m/0k611	/m/0k611
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9370)
+___
+/m/09nqf	/m/01rgdw	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/location/location/contains
+1
+tensor(-11.2045)
+___
+/m/09nqf	/m/0bjqh	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/location/location/contains
+1
+tensor(-11.8960)
+___
+/m/09nqf	/m/0bjqh	/m/03v0t	/m/03v0t
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/location/location/contains
+-1
+tensor(-11.8960)
+___
+/m/09nqf	/m/023znp	/m/09c7w0	/m/09c7w0
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/location/location/contains
+1
+tensor(-11.8973)
+___
+#####################
+/m/01fkr_	/m/09c7w0
+Reward:1
+/m/01fkr_	/m/02_286	/m/09c7w0	/m/09c7w0
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/location/administrative_division/country
+1
+tensor(-0.2711)
+___
+/m/01fkr_	/m/02_286	/m/059rby	/m/059rby
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-1.4472)
+___
+/m/01fkr_	/m/01fkr_	/m/02_286	/m/02_286
+NO_OP	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.7180)
+___
+/m/01fkr_	/m/01fkr_	/m/059rby	/m/059rby
+NO_OP	NO_OP	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-7.3613)
+___
+/m/026b33f	/m/026b33f	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+1
+tensor(-9.1964)
+___
+/m/03bww6	/m/03bww6	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+1
+tensor(-9.2316)
+___
+/m/02_286	/m/02_286	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	/location/administrative_division/country
+1
+tensor(-9.8082)
+___
+/m/01hn_t	/m/01hn_t	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+1
+tensor(-9.8826)
+___
+/m/01hn_t	/m/01hn_t	/m/07ssc	/m/07ssc
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+-1
+tensor(-9.8826)
+___
+/m/01fkr_	/m/01fkr_	/m/026b33f	/m/026b33f
+NO_OP	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-12.7217)
+___
+/m/01fkr_	/m/01fkr_	/m/01hn_t	/m/01hn_t
+NO_OP	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-12.7217)
+___
+/m/01fkr_	/m/01fkr_	/m/03bww6	/m/03bww6
+NO_OP	NO_OP	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-12.7217)
+___
+/m/03bww6	/m/0d0l91	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-13.2269)
+___
+/m/03bww6	/m/01wgfp6	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-13.2269)
+___
+/m/03bww6	/m/01vxqyl	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-13.2269)
+___
+/m/02_286	/m/02_286	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	_/location/location/contains
+-1
+tensor(-13.2814)
+___
+/m/03bww6	/m/03xmy1	/m/0r3tq	/m/0r3tq
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-13.4029)
+___
+/m/026b33f	/m/0c1ps1	/m/03rjj	/m/03rjj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+-1
+tensor(-13.5311)
+___
+/m/01hn_t	/m/01vrnsk	/m/02jx1	/m/02jx1
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+-1
+tensor(-13.7342)
+___
+/m/01hn_t	/m/014z8v	/m/06_kh	/m/06_kh
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/deceased_person/place_of_death
+-1
+tensor(-13.7518)
+___
+/m/026b33f	/m/0436f4	/m/09nqf	/m/09nqf
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.7584)
+___
+/m/026b33f	/m/03ds3	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-13.7693)
+___
+/m/01fkr_	/m/01fkr_	/m/08mbj5d	/m/08mbj5d
+NO_OP	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-14.3204)
+___
+/m/01hn_t	/m/018p4y	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-14.4272)
+___
+/m/01hn_t	/m/018p4y	/m/03rt9	/m/03rt9
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+-1
+tensor(-14.4272)
+___
+/m/026b33f	/m/03ds3	/m/07g2v	/m/07g2v
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-15.0827)
+___
+/m/03bww6	/m/03xmy1	/m/0k049	/m/0k049
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-15.2982)
+___
+/m/03bww6	/m/0mdyn	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	/people/person/nationality
+1
+tensor(-15.6643)
+___
+/m/03bww6	/m/0mdyn	/m/09889g	/m/09889g
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-16.0155)
+___
+/m/02_286	/m/01cm8w	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+1
+tensor(-16.5106)
+___
+/m/059rby	/m/059rby	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	NO_OP	/location/administrative_division/country
+1
+tensor(-17.2545)
+___
+/m/026b33f	/m/0436f4	/m/01l1sq	/m/01l1sq
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/02lfcm	/m/02lfcm
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/021_rm	/m/021_rm
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/01z7_f	/m/01z7_f
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/02lfns	/m/02lfns
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/02lfl4	/m/02lfl4
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/01r42_g	/m/01r42_g
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/01dy7j	/m/01dy7j
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/02lf70	/m/02lf70
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/026b33f	/m/0436f4	/m/03zyvw	/m/03zyvw
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.4276)
+___
+/m/02_286	/m/01rwpj	/m/06mkj	/m/06mkj
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-17.6092)
+___
+/m/02_286	/m/01rwpj	/m/07ssc	/m/07ssc
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-17.6092)
+___
+/m/02_286	/m/01rwpj	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+1
+tensor(-17.6092)
+___
+/m/03bww6	/m/03xmy1	/m/015cjr	/m/015cjr
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/profession
+-1
+tensor(-18.1264)
+___
+/m/03bww6	/m/03xmy1	/m/02hrh1q	/m/02hrh1q
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/profession
+-1
+tensor(-18.1264)
+___
+/m/03bww6	/m/03xmy1	/m/09jwl	/m/09jwl
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/profession
+-1
+tensor(-18.1264)
+___
+/m/03bww6	/m/03xmy1	/m/0d1pc	/m/0d1pc
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/profession
+-1
+tensor(-18.1264)
+___
+/m/03bww6	/m/0187wh	/m/08mbj5d	/m/08mbj5d
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/common/topic/webpage./common/webpage/category
+-1
+tensor(-18.5578)
+___
+/m/02_286	/m/01wk51	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/01wjrn	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/021lby	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/02xp18	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/01fwpt	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/01h1b	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/08hp53	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/02n9k	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/04w1j9	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/01d494	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/016dgz	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/03pmty	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-18.8509)
+___
+/m/02_286	/m/023n39	/m/09nqf	/m/09nqf
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-18.8510)
+___
+/m/03bww6	/m/01fkr_	/m/02_286	/m/02_286
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-18.8906)
+___
+/m/02_286	/m/022q4j	/m/0cgbf	/m/0cgbf
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-18.9140)
+___
+/m/02_286	/m/06sn8m	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-19.0225)
+___
+/m/01hn_t	/m/014z8v	/m/0cc56	/m/0cc56
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-19.0464)
+___
+/m/01hn_t	/m/014z8v	/m/02_286	/m/02_286
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-19.0464)
+___
+/m/03bww6	/m/03xmy1	/m/0tc7	/m/0tc7
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity
+-1
+tensor(-19.1220)
+___
+/m/03bww6	/m/03xmy1	/m/0gn30	/m/0gn30
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity
+-1
+tensor(-19.1220)
+___
+/m/01hn_t	/m/013fn	/m/02h40lc	/m/02h40lc
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+tensor(-19.1373)
+___
+/m/03bww6	/m/01fkr_	/m/059rby	/m/059rby
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.2220)
+___
+/m/026b33f	/m/01fkr_	/m/02_286	/m/02_286
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.2637)
+___
+/m/01hn_t	/m/02qbjm	/m/08mbj5d	/m/08mbj5d
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/common/topic/webpage./common/webpage/category
+-1
+tensor(-19.3495)
+___
+/m/01hn_t	/m/014z8v	/m/0c8wxp	/m/0c8wxp
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/religion
+-1
+tensor(-19.4240)
+___
+/m/01hn_t	/m/014z8v	/m/0kpl	/m/0kpl
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/religion
+-1
+tensor(-19.4240)
+___
+/m/02_286	/m/01mv_n	/m/03dbww	/m/03dbww
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.4738)
+___
+/m/01hn_t	/m/01fkr_	/m/02_286	/m/02_286
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.6106)
+___
+/m/02_286	/m/01mv_n	/m/030qb3t	/m/030qb3t
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/deceased_person/place_of_death
+-1
+tensor(-19.6207)
+___
+/m/026b33f	/m/01fkr_	/m/059rby	/m/059rby
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.6717)
+___
+/m/01hn_t	/m/09bv45	/m/01hn_t	/m/01hn_t
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-19.8253)
+___
+/m/01hn_t	/m/0g4c1t	/m/0k0q73t	/m/0k0q73t
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-19.8253)
+___
+/m/01hn_t	/m/0g4c1t	/m/01hn_t	/m/01hn_t
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-19.8253)
+___
+/m/01hn_t	/m/09bv45	/m/045qmr	/m/045qmr
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-19.8253)
+___
+/m/03bww6	/m/09c7w0	/m/013cz2	/m/013cz2
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/country_of_origin	_/base/biblioness/bibs_location/country
+-1
+tensor(-19.9054)
+___
+/m/02_286	/m/0cc56	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-20.1204)
+___
+/m/01hn_t	/m/01fkr_	/m/059rby	/m/059rby
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-20.1302)
+___
+/m/026b33f	/m/09c7w0	/m/013cz2	/m/013cz2
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/country_of_origin	_/base/biblioness/bibs_location/country
+-1
+tensor(-20.3884)
+___
+/m/01hn_t	/m/05xbx	/m/0hm0k	/m/0hm0k
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.5769)
+___
+/m/01hn_t	/m/05xbx	/m/01w92	/m/01w92
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.5769)
+___
+/m/01hn_t	/m/05xbx	/m/07k2d	/m/07k2d
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.5769)
+___
+/m/01hn_t	/m/05xbx	/m/0g5lhl7	/m/0g5lhl7
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.5769)
+___
+/m/01hn_t	/m/02qbjm	/m/01hn_t	/m/01hn_t
+/tv/tv_network/programs./tv/tv_network_duration/program	_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-20.7652)
+___
+/m/02_286	/m/01r0t_j	/m/018vs	/m/018vs
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+/m/02_286	/m/01r0t_j	/m/03gvt	/m/03gvt
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+/m/02_286	/m/01r0t_j	/m/02sgy	/m/02sgy
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+/m/02_286	/m/01r0t_j	/m/03bx0bm	/m/03bx0bm
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+/m/02_286	/m/01r0t_j	/m/0gkd1	/m/0gkd1
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+/m/02_286	/m/01r0t_j	/m/028tv0	/m/028tv0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+/m/02_286	/m/01r0t_j	/m/0l14md	/m/0l14md
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+/m/02_286	/m/01r0t_j	/m/01s0ps	/m/01s0ps
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-20.9331)
+___
+#####################
+/m/01dbns	/m/06t2t
+Reward:0
+/m/0kz1h	/m/05p09dd	/m/09c7w0	/m/09c7w0
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-1.5015)
+___
+/m/0kz1h	/m/05p09dd	/m/07ssc	/m/07ssc
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-1.5015)
+___
+/m/0kz1h	/m/04z_3pm	/m/0chghy	/m/0chghy
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-1.5015)
+___
+/m/0kz1h	/m/04z_3pm	/m/0ctw_b	/m/0ctw_b
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-1.5015)
+___
+/m/01dbns	/m/0mgp	/m/0chghy	/m/0chghy
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/base/biblioness/bibs_location/country
+-1
+tensor(-2.9328)
+___
+/m/05jxkf	/m/01y888	/m/03902	/m/03902
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5184)
+___
+/m/05jxkf	/m/088gzp	/m/0dlv0	/m/0dlv0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5184)
+___
+/m/05jxkf	/m/01tpvt	/m/06mzp	/m/06mzp
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5184)
+___
+/m/05jxkf	/m/080z7	/m/0853g	/m/0853g
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5184)
+___
+/m/05jxkf	/m/01g4yw	/m/02jx1	/m/02jx1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5185)
+___
+/m/05jxkf	/m/02w6bq	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-7.5199)
+___
+/m/05jxkf	/m/01hx2t	/m/05kj_	/m/05kj_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5199)
+___
+/m/05jxkf	/m/01dbns	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-7.5203)
+___
+/m/05jxkf	/m/01lnyf	/m/0488g	/m/0488g
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5203)
+___
+/m/05jxkf	/m/09hgk	/m/05ywg	/m/05ywg
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5206)
+___
+/m/05jxkf	/m/02fjzt	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5209)
+___
+/m/05jxkf	/m/02yxjs	/m/03v0t	/m/03v0t
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5211)
+___
+/m/05jxkf	/m/07w6r	/m/059j2	/m/059j2
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5212)
+___
+/m/05jxkf	/m/0gk7z	/m/02jx1	/m/02jx1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5212)
+___
+/m/05jxkf	/m/01fy2s	/m/07sb1	/m/07sb1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-7.5213)
+___
+/m/05jxkf	/m/01p896	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.5417)
+___
+/m/05jxkf	/m/02gr81	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.5454)
+___
+/m/05jxkf	/m/024y8p	/m/0fsb8	/m/0fsb8
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/organization/place_founded
+-1
+tensor(-7.5771)
+___
+/m/05jxkf	/m/02jx_v	/m/0kz1h	/m/0kz1h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6868)
+___
+/m/05jxkf	/m/01w_sh	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7090)
+___
+/m/05jxkf	/m/0c5x_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9631)
+___
+/m/05jxkf	/m/02bd_f	/m/03rjj	/m/03rjj
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/02bd_f	/m/07mgr	/m/07mgr
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/02583l	/m/0h7h6	/m/0h7h6
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/02583l	/m/05kr_	/m/05kr_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/07w5rq	/m/0162b	/m/0162b
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/07w5rq	/m/0j0k	/m/0j0k
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01csqg	/m/0ftkx	/m/0ftkx
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01csqg	/m/06f32	/m/06f32
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01y9pk	/m/0843m	/m/0843m
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01y9pk	/m/05kr_	/m/05kr_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01dthg	/m/0k33p	/m/0k33p
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01dthg	/m/02jx1	/m/02jx1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/0gjv_	/m/02jx1	/m/02jx1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/0gjv_	/m/04jpl	/m/04jpl
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01ngz1	/m/06mz5	/m/06mz5
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/01ngz1	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/05gm16l	/m/06nrt	/m/06nrt
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/05gm16l	/m/018d5b	/m/018d5b
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/015401	/m/03shp	/m/03shp
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/015401	/m/0ftlx	/m/0ftlx
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2116)
+___
+/m/05jxkf	/m/0dy04	/m/0h7x	/m/0h7x
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2124)
+___
+/m/05jxkf	/m/0dy04	/m/0fhp9	/m/0fhp9
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2124)
+___
+/m/05jxkf	/m/05x_5	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2124)
+___
+/m/05jxkf	/m/05x_5	/m/03v1s	/m/03v1s
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2124)
+___
+/m/05jxkf	/m/04ld32	/m/0fpzwf	/m/0fpzwf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/04ld32	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/01hhvg	/m/01n7q	/m/01n7q
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/02zccd	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/02zccd	/m/0tl6d	/m/0tl6d
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/01hhvg	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/01314k	/m/0cxgc	/m/0cxgc
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/01314k	/m/02jx1	/m/02jx1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/01xvlc	/m/07ssc	/m/07ssc
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/01xvlc	/m/0glh3	/m/0glh3
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/0sxgh	/m/094jv	/m/094jv
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/0sxgh	/m/04rrd	/m/04rrd
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2125)
+___
+/m/05jxkf	/m/01qgr3	/m/07h34	/m/07h34
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2126)
+___
+/m/05jxkf	/m/01qgr3	/m/0_vn7	/m/0_vn7
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2126)
+___
+/m/05jxkf	/m/07vyf	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2126)
+___
+/m/05jxkf	/m/07vyf	/m/0vmt	/m/0vmt
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2126)
+___
+/m/05jxkf	/m/049dk	/m/013cz2	/m/013cz2
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/049dk	/m/0488g	/m/0488g
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/01_k7f	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/01_k7f	/m/01n4w	/m/01n4w
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/01r47h	/m/05fjf	/m/05fjf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/01r47h	/m/0xmp9	/m/0xmp9
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/02ldkf	/m/05fkf	/m/05fkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/02ldkf	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2127)
+___
+/m/05jxkf	/m/01xysf	/m/0ynfz	/m/0ynfz
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2128)
+___
+/m/05jxkf	/m/01xysf	/m/05fky	/m/05fky
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2128)
+___
+/m/05jxkf	/m/0xxc	/m/0d060g	/m/0d060g
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2128)
+___
+/m/05jxkf	/m/0xxc	/m/059t8	/m/059t8
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2128)
+___
+/m/05jxkf	/m/01hc1j	/m/0430_	/m/0430_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2129)
+___
+/m/05jxkf	/m/01hc1j	/m/03spz	/m/03spz
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2129)
+___
+/m/05jxkf	/m/02qwgk	/m/0d060g	/m/0d060g
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2129)
+___
+/m/05jxkf	/m/02qwgk	/m/036k0s	/m/036k0s
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2129)
+___
+/m/05jxkf	/m/015fsv	/m/08809	/m/08809
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/015fsv	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/01tzfz	/m/0dbdy	/m/0dbdy
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/01tzfz	/m/02jx1	/m/02jx1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/012vwb	/m/06yxd	/m/06yxd
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/012vwb	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/04bfg	/m/05kkh	/m/05kkh
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/04bfg	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/0m9_5	/m/0yjvm	/m/0yjvm
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/0m9_5	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2130)
+___
+/m/05jxkf	/m/01xrlm	/m/0j5g9	/m/0j5g9
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2131)
+___
+/m/05jxkf	/m/01xrlm	/m/01s3v	/m/01s3v
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2131)
+___
+/m/05jxkf	/m/01jsn5	/m/01x73	/m/01x73
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2131)
+___
+/m/05jxkf	/m/01jsn5	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2131)
+___
+/m/05jxkf	/m/01pl14	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2314)
+___
+/m/05jxkf	/m/01pl14	/m/04ly1	/m/04ly1
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2314)
+___
+/m/05jxkf	/m/03fmfs	/m/05tbn	/m/05tbn
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2326)
+___
+/m/05jxkf	/m/03fmfs	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-8.2326)
+___
+#####################
+/m/01r3kd	/m/09c7w0
+Reward:1
+/m/09nqf	/m/01wb95	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/014l6_	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/02qzmz6	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/03h4fq7	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/02q8ms8	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/075cph	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/018f8	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/0241y7	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/09xbpt	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/01br2w	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/01l_pn	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/0qm98	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/04j13sx	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/0jsf6	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/0sxmx	/m/07ssc	/m/07ssc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.2995)
+___
+/m/09nqf	/m/033srr	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2995)
+___
+/m/09nqf	/m/01jwxx	/m/07ssc	/m/07ssc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.2996)
+___
+/m/09nqf	/m/085ccd	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2996)
+___
+/m/09nqf	/m/017z49	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2996)
+___
+/m/09nqf	/m/0dzlbx	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.2997)
+___
+/m/09nqf	/m/03s5lz	/m/0chghy	/m/0chghy
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9927)
+___
+/m/09nqf	/m/03s5lz	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9927)
+___
+/m/09nqf	/m/08ct6	/m/07ssc	/m/07ssc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9927)
+___
+/m/09nqf	/m/08ct6	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9927)
+___
+/m/09nqf	/m/01f8hf	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9927)
+___
+/m/09nqf	/m/01f8hf	/m/07ssc	/m/07ssc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9927)
+___
+/m/09nqf	/m/084302	/m/07ssc	/m/07ssc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9927)
+___
+/m/09nqf	/m/084302	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9927)
+___
+/m/09nqf	/m/03176f	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-3.9927)
+___
+/m/09nqf	/m/03176f	/m/07ssc	/m/07ssc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-3.9927)
+___
+/m/09nqf	/m/04yg13l	/m/0345h	/m/0345h
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.3982)
+___
+/m/09nqf	/m/04yg13l	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+1
+tensor(-4.3982)
+___
+/m/09nqf	/m/04yg13l	/m/07ssc	/m/07ssc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/country
+-1
+tensor(-4.3982)
+___
+/m/09nqf	/m/09k56b7	/m/059j2	/m/059j2
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0f8l9c	/m/0f8l9c
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/015qh	/m/015qh
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0154j	/m/0154j
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/03rt9	/m/03rt9
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/03rj0	/m/03rj0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/07twz	/m/07twz
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/06qd3	/m/06qd3
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/01mjq	/m/01mjq
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/03gj2	/m/03gj2
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0d0vqn	/m/0d0vqn
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/07f1x	/m/07f1x
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0b90_r	/m/0b90_r
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0d060g	/m/0d060g
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/02_286	/m/02_286
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/06mkj	/m/06mkj
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/03rk0	/m/03rk0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/06c1y	/m/06c1y
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/05qhw	/m/05qhw
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0jgd	/m/0jgd
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/02vzc	/m/02vzc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/01znc_	/m/01znc_
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0345h	/m/0345h
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/09c7w0	/m/09c7w0
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/077qn	/m/077qn
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/05qx1	/m/05qx1
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0d0kn	/m/0d0kn
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/03h64	/m/03h64
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/035qy	/m/035qy
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/044rv	/m/044rv
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/05v8c	/m/05v8c
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/03spz	/m/03spz
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0chghy	/m/0chghy
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/016wzw	/m/016wzw
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0h7h6	/m/0h7h6
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/06t8v	/m/06t8v
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/0k6nt	/m/0k6nt
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/06t2t	/m/06t2t
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/03_3d	/m/03_3d
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/04gzd	/m/04gzd
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/05r4w	/m/05r4w
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/09pmkv	/m/09pmkv
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.0817)
+___
+/m/09nqf	/m/09k56b7	/m/029j_	/m/029j_
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.8156)
+___
+/m/031x_3	/m/031x_3	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	NO_OP	/people/person/nationality
+1
+tensor(-8.1581)
+___
+/m/057hz	/m/0qm98	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+1
+tensor(-8.1698)
+___
+/m/018_lb	/m/0sxlb	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+1
+tensor(-8.1785)
+___
+/m/09nqf	/m/09k56b7	/m/09nqf	/m/09nqf
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1831)
+___
+/m/01tj34	/m/02h2vv	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/country_of_origin
+1
+tensor(-8.1848)
+___
+/m/01vt9p3	/m/016dj8	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/country
+1
+tensor(-8.2374)
+___
+/m/0d06m5	/m/0d06m5	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	NO_OP	/people/person/nationality
+1
+tensor(-8.4943)
+___
+/m/01w_10	/m/013q07	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/country
+1
+tensor(-8.9047)
+___
+/m/01w_10	/m/01xbxn	/m/07ssc	/m/07ssc
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-8.9144)
+___
+/m/06rgq	/m/03hfmm	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/country
+1
+tensor(-9.3141)
+___
+/m/06rgq	/m/03hfmm	/m/07ssc	/m/07ssc
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/country
+-1
+tensor(-9.3141)
+___
+/m/0d06m5	/m/0d06m5	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	NO_OP	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+1
+tensor(-9.5487)
+___
+/m/01mmslz	/m/0f8j13	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/country
+1
+tensor(-9.8865)
+___
+/m/01mmslz	/m/01633c	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/country
+1
+tensor(-9.8865)
+___
+/m/01mmslz	/m/0258dh	/m/09c7w0	/m/09c7w0
+_/organization/organization_member/member_of./organization/organization_membership/organization	/film/actor/film./film/performance/film	/film/film/country
+1
+tensor(-9.8865)
+___
+/m/09nqf	/m/09k56b7	/m/02qyp19	/m/02qyp19
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/02hsq3m	/m/02hsq3m
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/09td7p	/m/09td7p
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/09sb52	/m/09sb52
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/05pcn59	/m/05pcn59
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/040njc	/m/040njc
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/09qwmm	/m/09qwmm
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/02qt02v	/m/02qt02v
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+/m/09nqf	/m/09k56b7	/m/0gs9p	/m/0gs9p
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-9.9307)
+___
+#####################

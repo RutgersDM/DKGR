@@ -1,0 +1,2012 @@
+/m/0vmt	/m/09nqf
+Reward:0
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-0.4223)
+___
+/m/0d35y	/m/0d35y	/m/0m27n	/m/0m27n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-2.0060)
+___
+/m/0d35y	/m/0d35y	/m/0m27n	/m/0m27n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-2.2810)
+___
+/m/0qpsn	/m/0vmt	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0203)
+___
+/m/0ny57	/m/0vmt	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0276)
+___
+/m/0qpqn	/m/0vmt	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0294)
+___
+/m/0fr0t	/m/0m2by	/m/0fr0t	/m/0fr0t
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0819)
+___
+/m/0d35y	/m/0d35y	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-4.4348)
+___
+/m/0fsv2	/m/0m24v	/m/0m28g	/m/0m28g
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.7806)
+___
+/m/0fsv2	/m/0m24v	/m/0m25p	/m/0m25p
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.7806)
+___
+/m/0d35y	/m/0d35y	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-5.4253)
+___
+/m/0fsv2	/m/0vmt	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.7654)
+___
+/m/0fr0t	/m/0vmt	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.7794)
+___
+/m/0d35y	/m/0vmt	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.9034)
+___
+/m/0ny57	/m/021npv	/m/01_d4	/m/01_d4
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-8.8354)
+___
+/m/0d35y	/m/0d35y	/m/0vmt	/m/0vmt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-9.1441)
+___
+/m/0fsv2	/m/0m24v	/m/0fsv2	/m/0fsv2
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-9.3265)
+___
+/m/0d35y	/m/0d35y	/m/0vmt	/m/0vmt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-9.4057)
+___
+/m/0d35y	/m/0d35y	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-9.5887)
+___
+/m/0d35y	/m/0d35y	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-10.2684)
+___
+/m/0qpqn	/m/0d7hg4	/m/09hd6f	/m/09hd6f
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.0405)
+___
+/m/0qpqn	/m/0d7hg4	/m/09_99w	/m/09_99w
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.0405)
+___
+/m/0qpqn	/m/0d7hg4	/m/09hd16	/m/09hd16
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.0405)
+___
+/m/0qpqn	/m/0d7hg4	/m/0h584v	/m/0h584v
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.0405)
+___
+/m/0qpqn	/m/0d7hg4	/m/0697kh	/m/0697kh
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.0405)
+___
+/m/0qpqn	/m/0d7hg4	/m/01xndd	/m/01xndd
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.0405)
+___
+/m/0qpqn	/m/0d7hg4	/m/0884hk	/m/0884hk
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.0405)
+___
+/m/0d35y	/m/0qpqn	/m/0qpqn	/m/0qpqn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-11.2096)
+___
+/m/0qpsn	/m/0vmt	/m/0fr0t	/m/0fr0t
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2389)
+___
+/m/0qpsn	/m/0vmt	/m/0ny57	/m/0ny57
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2389)
+___
+/m/0qpsn	/m/0vmt	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2389)
+___
+/m/0qpsn	/m/0vmt	/m/0fsv2	/m/0fsv2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2389)
+___
+/m/0qpsn	/m/0vmt	/m/0qpqn	/m/0qpqn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2389)
+___
+/m/0ny57	/m/0vmt	/m/0qpqn	/m/0qpqn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2483)
+___
+/m/0ny57	/m/0vmt	/m/0ny57	/m/0ny57
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2483)
+___
+/m/0ny57	/m/0vmt	/m/0fr0t	/m/0fr0t
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2483)
+___
+/m/0ny57	/m/0vmt	/m/0fsv2	/m/0fsv2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2483)
+___
+/m/0ny57	/m/0vmt	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2483)
+___
+/m/0qpqn	/m/0vmt	/m/0fsv2	/m/0fsv2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2502)
+___
+/m/0qpqn	/m/0vmt	/m/0ny57	/m/0ny57
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2502)
+___
+/m/0qpqn	/m/0vmt	/m/0qpqn	/m/0qpqn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2502)
+___
+/m/0qpqn	/m/0vmt	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2502)
+___
+/m/0qpqn	/m/0vmt	/m/0fr0t	/m/0fr0t
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2502)
+___
+/m/0qpsn	/m/0qpsn	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-11.2994)
+___
+/m/0qpqn	/m/0qpqn	/m/0qpqn	/m/0qpqn
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-11.4209)
+___
+/m/0d35y	/m/0d35y	/m/0qpqn	/m/0qpqn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-11.6830)
+___
+/m/0qpqn	/m/0d35y	/m/0m27n	/m/0m27n
+_/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/us_county/county_seat
+-1
+tensor(-11.9272)
+___
+/m/0qpqn	/m/0qpsn	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-11.9501)
+___
+/m/0d35y	/m/0d35y	/m/0qpqn	/m/0qpqn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-11.9852)
+___
+/m/0qpqn	/m/0d7hg4	/m/0h584v	/m/0h584v
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0qpqn	/m/0d7hg4	/m/0884hk	/m/0884hk
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0qpqn	/m/0d7hg4	/m/09_99w	/m/09_99w
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0qpqn	/m/0d7hg4	/m/0697kh	/m/0697kh
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0qpqn	/m/0d7hg4	/m/01xndd	/m/01xndd
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0qpqn	/m/0d7hg4	/m/06jrhz	/m/06jrhz
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0qpqn	/m/0d7hg4	/m/0brkwj	/m/0brkwj
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0qpqn	/m/0d7hg4	/m/09hd6f	/m/09hd6f
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.2599)
+___
+/m/0fr0t	/m/01bh6y	/m/09bx1k	/m/09bx1k
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.9382)
+___
+/m/0fr0t	/m/01bh6y	/m/015cbq	/m/015cbq
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.9382)
+___
+/m/0fr0t	/m/01bh6y	/m/013ybx	/m/013ybx
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.9382)
+___
+/m/0d35y	/m/0vmt	/m/0ny57	/m/0ny57
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.7394)
+___
+/m/0d35y	/m/0vmt	/m/0fsv2	/m/0fsv2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.7394)
+___
+/m/0d35y	/m/0vmt	/m/0qpqn	/m/0qpqn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.7394)
+___
+/m/0d35y	/m/0vmt	/m/0qpsn	/m/0qpsn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.7394)
+___
+/m/0d35y	/m/0vmt	/m/0fr0t	/m/0fr0t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.7394)
+___
+/m/0qpsn	/m/0m27n	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-13.9242)
+___
+/m/0qpsn	/m/0vmt	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-13.9276)
+___
+/m/0fsv2	/m/0vmt	/m/0fr0t	/m/0fr0t
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9865)
+___
+/m/0fsv2	/m/0vmt	/m/0fsv2	/m/0fsv2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9865)
+___
+/m/0fsv2	/m/0vmt	/m/0ny57	/m/0ny57
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9865)
+___
+/m/0fsv2	/m/0vmt	/m/0qpqn	/m/0qpqn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9865)
+___
+/m/0fsv2	/m/0vmt	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9865)
+___
+/m/0fr0t	/m/0vmt	/m/0qpqn	/m/0qpqn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.0008)
+___
+/m/0fr0t	/m/0vmt	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.0008)
+___
+/m/0fr0t	/m/0vmt	/m/0fsv2	/m/0fsv2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.0008)
+___
+/m/0fr0t	/m/0vmt	/m/0ny57	/m/0ny57
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.0008)
+___
+/m/0fr0t	/m/0vmt	/m/0fr0t	/m/0fr0t
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.0008)
+___
+/m/0qpqn	/m/0m27n	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.0309)
+___
+/m/0qpqn	/m/0d35y	/m/0m27n	/m/0m27n
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/us_county/county_seat
+-1
+tensor(-14.0315)
+___
+/m/0fr0t	/m/0fr0t	/m/0m2by	/m/0m2by
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-14.0504)
+___
+/m/0fsv2	/m/0fsv2	/m/0m24v	/m/0m24v
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-14.0798)
+___
+/m/0fr0t	/m/01bh6y	/m/09bx1k	/m/09bx1k
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.1496)
+___
+/m/0fr0t	/m/01bh6y	/m/013ybx	/m/013ybx
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.1496)
+___
+/m/0fr0t	/m/01bh6y	/m/015cbq	/m/015cbq
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.1496)
+___
+/m/0qpqn	/m/0kbwb	/m/09c7w0	/m/09c7w0
+_/base/biblioness/bibs_location/state	_/film/film/featured_film_locations	/film/film/country
+-1
+tensor(-14.1790)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.3288)
+___
+/m/0ny57	/m/0m2dk	/m/0qr4n	/m/0qr4n
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.4047)
+___
+/m/0fsv2	/m/0m24v	/m/0fsv2	/m/0fsv2
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-14.6458)
+___
+/m/0qpqn	/m/0qpqn	/m/0d35y	/m/0d35y
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.9160)
+___
+/m/0qpqn	/m/0qpqn	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.9160)
+___
+/m/0ny57	/m/0m24v	/m/0m28g	/m/0m28g
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.1008)
+___
+/m/0ny57	/m/0m24v	/m/0m25p	/m/0m25p
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.1008)
+___
+/m/0ny57	/m/021npv	/m/0sxmx	/m/0sxmx
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1744)
+___
+/m/0qpsn	/m/0qpsn	/m/0qpsn	/m/0qpsn
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.1759)
+___
+/m/0qpsn	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-15.1913)
+___
+/m/0qpsn	/m/09c7w0	/m/0d68qy	/m/0d68qy
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-15.1913)
+___
+/m/0qpsn	/m/09c7w0	/m/039c26	/m/039c26
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-15.1913)
+___
+/m/0qpqn	/m/0qpqn	/m/0qpqn	/m/0qpqn
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.2932)
+___
+/m/0fr0t	/m/0m2by	/m/0fr0t	/m/0fr0t
+_/base/biblioness/bibs_location/state	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-15.2943)
+___
+/m/0qpqn	/m/09c7w0	/m/0d68qy	/m/0d68qy
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-15.2998)
+___
+#####################
+/m/0gyh	/m/09nqf
+Reward:1
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-0.5012)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-1.1068)
+___
+/m/0qc7l	/m/0gyh	/m/0fttg	/m/0fttg
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-3.9624)
+___
+/m/0q8sw	/m/0kwgs	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0254)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-4.3903)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-5.3022)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-5.7310)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-5.8354)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-6.2731)
+___
+/m/0q8sw	/m/0gyh	/m/0fttg	/m/0fttg
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.7245)
+___
+/m/0qc7l	/m/0gyh	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.1828)
+___
+/m/0qc7l	/m/0gyh	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.1828)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-11.2730)
+___
+/m/0fttg	/m/0gyh	/m/0q8sw	/m/0q8sw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-12.5887)
+___
+/m/0fttg	/m/0gyh	/m/0qc7l	/m/0qc7l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-12.5887)
+___
+/m/0q8sw	/m/0gyh	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9454)
+___
+/m/0q8sw	/m/0gyh	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9454)
+___
+/m/0qc7l	/m/0gyh	/m/0fttg	/m/0fttg
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.3585)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-14.6313)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-14.7558)
+___
+/m/0qc7l	/m/01wdl3	/m/09nqf	/m/09nqf
+_/base/biblioness/bibs_location/state	/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-15.1140)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.1499)
+___
+/m/0q8sw	/m/0kwgs	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-15.2151)
+___
+/m/0qc7l	/m/09c7w0	/m/0d68qy	/m/0d68qy
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-15.6227)
+___
+/m/0qc7l	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-15.6227)
+___
+/m/0qc7l	/m/09c7w0	/m/039c26	/m/039c26
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-15.6227)
+___
+/m/0qc7l	/m/0gyh	/m/0fttg	/m/0fttg
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-16.6752)
+___
+/m/0q8sw	/m/0kwgs	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-16.7123)
+___
+/m/0q8sw	/m/0gyh	/m/0fttg	/m/0fttg
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-16.7137)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-16.8116)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-17.1643)
+___
+/m/0qc7l	/m/01wdl3	/m/09nqf	/m/09nqf
+_/base/biblioness/bibs_location/state	_/organization/organization/headquarters./location/mailing_address/citytown	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.5579)
+___
+/m/0q8sw	/m/09c7w0	/m/0d68qy	/m/0d68qy
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-17.9834)
+___
+/m/0q8sw	/m/09c7w0	/m/039c26	/m/039c26
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-17.9834)
+___
+/m/0q8sw	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-17.9834)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+/base/aareas/schema/administrative_area/capital	/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-18.7491)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-18.7749)
+___
+/m/0qc7l	/m/0gyh	/m/07h34	/m/07h34
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-18.9646)
+___
+/m/0qc7l	/m/0gyh	/m/02xry	/m/02xry
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-18.9646)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-19.1156)
+___
+/m/0qc7l	/m/09c7w0	/m/08hmch	/m/08hmch
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0g5qs2k	/m/0g5qs2k
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0f40w	/m/0f40w
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/02krdz	/m/02krdz
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/07xtqq	/m/07xtqq
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/03176f	/m/03176f
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0d61px	/m/0d61px
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/09g7vfw	/m/09g7vfw
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0c40vxk	/m/0c40vxk
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0gfsq9	/m/0gfsq9
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/02r79_h	/m/02r79_h
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/05q4y12	/m/05q4y12
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0cc846d	/m/0cc846d
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0b76t12	/m/0b76t12
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/026mfbr	/m/026mfbr
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/011ydl	/m/011ydl
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0192hw	/m/0192hw
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/04w7rn	/m/04w7rn
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0qc7l	/m/09c7w0	/m/0m2kd	/m/0m2kd
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-19.2360)
+___
+/m/0q8sw	/m/0kwgs	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	/location/hud_county_place/county	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-19.4361)
+___
+/m/0q8sw	/m/0gyh	/m/0fttg	/m/0fttg
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-19.4387)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-19.5624)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-19.6004)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-19.8865)
+___
+/m/0q8sw	/m/0q8sw	/m/0kwgs	/m/0kwgs
+_/base/biblioness/bibs_location/state	NO_OP	_/location/us_county/county_seat
+-1
+tensor(-19.9510)
+___
+/m/0qc7l	/m/06v_gh	/m/0603qp	/m/0603qp
+_/base/biblioness/bibs_location/state	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.9683)
+___
+/m/0qc7l	/m/06v_gh	/m/06yrj6	/m/06yrj6
+_/base/biblioness/bibs_location/state	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.9683)
+___
+/m/0qc7l	/m/06v_gh	/m/0q5hw	/m/0q5hw
+_/base/biblioness/bibs_location/state	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.9683)
+___
+/m/0qc7l	/m/06v_gh	/m/09gffmz	/m/09gffmz
+_/base/biblioness/bibs_location/state	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.9683)
+___
+/m/0qc7l	/m/027y151	/m/021yc7p	/m/021yc7p
+_/base/biblioness/bibs_location/state	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.9710)
+___
+/m/0q8sw	/m/0kwgs	/m/0kcnq	/m/0kcnq
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-20.0897)
+___
+/m/07h34	/m/05jbn	/m/0mtl5	/m/0mtl5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat
+-1
+tensor(-20.7830)
+___
+/m/0qc7l	/m/06v_gh	/m/0q5hw	/m/0q5hw
+_/base/biblioness/bibs_location/state	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.8251)
+___
+/m/0qc7l	/m/06v_gh	/m/09gffmz	/m/09gffmz
+_/base/biblioness/bibs_location/state	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.8251)
+___
+/m/0qc7l	/m/06v_gh	/m/06yrj6	/m/06yrj6
+_/base/biblioness/bibs_location/state	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.8251)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-20.8530)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	NO_OP	/location/hud_county_place/place
+-1
+tensor(-20.9571)
+___
+/m/0qc7l	/m/027y151	/m/021yc7p	/m/021yc7p
+_/base/biblioness/bibs_location/state	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.9943)
+___
+/m/0q8sw	/m/09c7w0	/m/05q4y12	/m/05q4y12
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0m2kd	/m/0m2kd
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/02r79_h	/m/02r79_h
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0cc846d	/m/0cc846d
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/08hmch	/m/08hmch
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0b76t12	/m/0b76t12
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/04w7rn	/m/04w7rn
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0g5qs2k	/m/0g5qs2k
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0192hw	/m/0192hw
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0f40w	/m/0f40w
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/02krdz	/m/02krdz
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/07xtqq	/m/07xtqq
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/09g7vfw	/m/09g7vfw
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0c40vxk	/m/0c40vxk
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0d61px	/m/0d61px
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/03176f	/m/03176f
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/011ydl	/m/011ydl
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/026mfbr	/m/026mfbr
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/0q8sw	/m/09c7w0	/m/0gfsq9	/m/0gfsq9
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-21.5611)
+___
+/m/07h34	/m/05jbn	/m/0mtl5	/m/0mtl5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-21.5714)
+___
+#####################
+/m/059_c	/m/09nqf
+Reward:0
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/us_county/county_seat
+-1
+tensor(-0.0406)
+___
+/m/06kx2	/m/0n6mc	/m/06kx2	/m/06kx2
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0258)
+___
+/m/0cv3w	/m/0d1y7	/m/0cv3w	/m/0cv3w
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0341)
+___
+/m/06kx2	/m/059_c	/m/0235l	/m/0235l
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.7444)
+___
+/m/0cv3w	/m/059_c	/m/0235l	/m/0235l
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.7601)
+___
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.0375)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.1665)
+___
+/m/06kx2	/m/01hkck	/m/0hwqg	/m/0hwqg
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-11.4998)
+___
+/m/06kx2	/m/023w9s	/m/01_d4	/m/01_d4
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-11.5140)
+___
+/m/0cv3w	/m/01vv6xv	/m/0sqc8	/m/0sqc8
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-11.5443)
+___
+/m/0cv3w	/m/03n52j	/m/030qb3t	/m/030qb3t
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-11.5443)
+___
+/m/0cv3w	/m/02jq1	/m/0wqwj	/m/0wqwj
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-11.5462)
+___
+/m/0cv3w	/m/03f6fl0	/m/0ygbf	/m/0ygbf
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-11.5472)
+___
+/m/0cv3w	/m/01pl9g	/m/0cr3d	/m/0cr3d
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-11.5757)
+___
+/m/0cv3w	/m/01l_vgt	/m/03h64	/m/03h64
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/place_of_birth
+-1
+tensor(-11.5842)
+___
+/m/0cv3w	/m/01vw87c	/m/01skmp	/m/01skmp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-11.7438)
+___
+/m/0cv3w	/m/0lh0c	/m/03m6t5	/m/03m6t5
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/base/americancomedy/celebrity_impressionist/celebrities_impersonated
+-1
+tensor(-11.7510)
+___
+/m/0cv3w	/m/01wv9p	/m/0cc5tgk	/m/0cc5tgk
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.8075)
+___
+/m/0cv3w	/m/0dx_q	/m/01pbwwl	/m/01pbwwl
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-11.9302)
+___
+/m/0cv3w	/m/01w02sy	/m/019389	/m/019389
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-11.9372)
+___
+/m/0cv3w	/m/0gs1_	/m/01qq_lp	/m/01qq_lp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.0154)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-12.3958)
+___
+/m/0cv3w	/m/014zcr	/m/04qz6n	/m/04qz6n
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.5761)
+___
+/m/06kx2	/m/013v5j	/m/0gbwp	/m/0gbwp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-12.5977)
+___
+/m/06kx2	/m/013v5j	/m/01zmpg	/m/01zmpg
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-12.5977)
+___
+/m/06kx2	/m/013v5j	/m/09889g	/m/09889g
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-12.5977)
+___
+/m/0cv3w	/m/01fh9	/m/01nzz8	/m/01nzz8
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-12.6559)
+___
+/m/0cv3w	/m/01fh9	/m/034zc0	/m/034zc0
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-12.6559)
+___
+/m/0cv3w	/m/01fh9	/m/016sp_	/m/016sp_
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-12.6559)
+___
+/m/0cv3w	/m/0dx_q	/m/01pbwwl	/m/01pbwwl
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-12.6946)
+___
+/m/0cv3w	/m/01w02sy	/m/0484q	/m/0484q
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity
+-1
+tensor(-12.8353)
+___
+/m/0cv3w	/m/01wv9p	/m/0cc5tgk	/m/0cc5tgk
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.0041)
+___
+/m/0cv3w	/m/0h7pj	/m/01515w	/m/01515w
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.1837)
+___
+/m/0cv3w	/m/0h7pj	/m/02tf1y	/m/02tf1y
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.1837)
+___
+/m/0cv3w	/m/0h7pj	/m/051wwp	/m/051wwp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.1837)
+___
+/m/0cv3w	/m/0h7pj	/m/0p_pd	/m/0p_pd
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.1837)
+___
+/m/0cv3w	/m/0h7pj	/m/01p7yb	/m/01p7yb
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.1837)
+___
+/m/0cv3w	/m/0bwh6	/m/059x0w	/m/059x0w
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.1928)
+___
+/m/0cv3w	/m/0bwh6	/m/0gdqy	/m/0gdqy
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.1928)
+___
+/m/0cv3w	/m/0bwh6	/m/02v3yy	/m/02v3yy
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.1928)
+___
+/m/0cv3w	/m/0bwh6	/m/0kjgl	/m/0kjgl
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.1928)
+___
+/m/0cv3w	/m/0gs1_	/m/01qq_lp	/m/01qq_lp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.2141)
+___
+/m/0cv3w	/m/0gs1_	/m/03f2_rc	/m/03f2_rc
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.2141)
+___
+/m/0cv3w	/m/0lh0c	/m/04ztj	/m/04ztj
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-13.5968)
+___
+/m/0cv3w	/m/01vw87c	/m/0mzkr	/m/0mzkr
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/music/record_label/artist
+-1
+tensor(-13.6873)
+___
+/m/0cv3w	/m/0f4vbz	/m/0h10vt	/m/0h10vt
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7532)
+___
+/m/0cv3w	/m/0f4vbz	/m/01pj5q	/m/01pj5q
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7532)
+___
+/m/0cv3w	/m/0f4vbz	/m/016khd	/m/016khd
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7532)
+___
+/m/0cv3w	/m/0f4vbz	/m/030hcs	/m/030hcs
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7532)
+___
+/m/0cv3w	/m/0f4vbz	/m/01swck	/m/01swck
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7532)
+___
+/m/0cv3w	/m/0f4vbz	/m/02t__3	/m/02t__3
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7532)
+___
+/m/0cv3w	/m/0f4vbz	/m/015rkw	/m/015rkw
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7532)
+___
+/m/0cv3w	/m/014zcr	/m/0151w_	/m/0151w_
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7755)
+___
+/m/0cv3w	/m/014zcr	/m/01t6xz	/m/01t6xz
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7755)
+___
+/m/0cv3w	/m/014zcr	/m/04qz6n	/m/04qz6n
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7755)
+___
+/m/0cv3w	/m/014zcr	/m/0350l7	/m/0350l7
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7755)
+___
+/m/0cv3w	/m/014zcr	/m/0gy6z9	/m/0gy6z9
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7755)
+___
+/m/0cv3w	/m/014zcr	/m/01z_g6	/m/01z_g6
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.7755)
+___
+/m/0cv3w	/m/015p37	/m/02bkdn	/m/02bkdn
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/04yqlk	/m/04yqlk
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/0hvb2	/m/0hvb2
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/047c9l	/m/047c9l
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/05l4yg	/m/05l4yg
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/022yb4	/m/022yb4
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/04bcb1	/m/04bcb1
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/04bd8y	/m/04bd8y
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/0jmj	/m/0jmj
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0cv3w	/m/015p37	/m/0335fp	/m/0335fp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.8867)
+___
+/m/0235l	/m/059_c	/m/06kx2	/m/06kx2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9258)
+___
+/m/0235l	/m/059_c	/m/0cv3w	/m/0cv3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9258)
+___
+/m/06kx2	/m/059_c	/m/06kx2	/m/06kx2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9630)
+___
+/m/06kx2	/m/059_c	/m/0cv3w	/m/0cv3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9630)
+___
+/m/0cv3w	/m/059_c	/m/06kx2	/m/06kx2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9753)
+___
+/m/0cv3w	/m/059_c	/m/0cv3w	/m/0cv3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.9753)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/location/us_county/county_seat
+-1
+tensor(-13.9774)
+___
+/m/06kx2	/m/06kx2	/m/0n6mc	/m/0n6mc
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-14.0107)
+___
+/m/0cv3w	/m/0p_pd	/m/01p7yb	/m/01p7yb
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/02f2dn	/m/02f2dn
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/0205dx	/m/0205dx
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/01j5ts	/m/01j5ts
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/01f7dd	/m/01f7dd
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/03hzl42	/m/03hzl42
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/0h7pj	/m/0h7pj
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/0154qm	/m/0154qm
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/030vnj	/m/030vnj
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/051wwp	/m/051wwp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/039bp	/m/039bp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/0mdqp	/m/0mdqp
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/01515w	/m/01515w
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0p_pd	/m/02qfhb	/m/02qfhb
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-14.1835)
+___
+/m/0cv3w	/m/0lh0c	/m/01pb34	/m/01pb34
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-14.3730)
+___
+/m/0cv3w	/m/0bwh6	/m/0gdqy	/m/0gdqy
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.3939)
+___
+/m/0cv3w	/m/0bwh6	/m/03f2_rc	/m/03f2_rc
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.3939)
+___
+/m/0cv3w	/m/0bwh6	/m/059x0w	/m/059x0w
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.3939)
+___
+/m/0cv3w	/m/0bwh6	/m/0kjgl	/m/0kjgl
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.3939)
+___
+/m/0cv3w	/m/01438g	/m/0237fw	/m/0237fw
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.4054)
+___
+/m/0cv3w	/m/01438g	/m/0154qm	/m/0154qm
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.4054)
+___
+/m/0cv3w	/m/01438g	/m/01wy5m	/m/01wy5m
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.4054)
+___
+/m/0cv3w	/m/01438g	/m/0686zv	/m/0686zv
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.4054)
+___
+/m/0cv3w	/m/01438g	/m/013knm	/m/013knm
+_/base/biblioness/bibs_location/state	_/people/person/spouse_s./people/marriage/location_of_ceremony	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.4054)
+___
+#####################
+/m/03s0w	/m/09nqf
+Reward:0
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-0.4816)
+___
+/m/02j3w	/m/02j3w	/m/0nrqh	/m/0nrqh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-2.1208)
+___
+/m/02j3w	/m/02j3w	/m/0nrqh	/m/0nrqh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-2.1422)
+___
+/m/084kf	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0571)
+___
+/m/0nmj	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0571)
+___
+/m/0sv6n	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0571)
+___
+/m/013crh	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0575)
+___
+/m/0ght2	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0596)
+___
+/m/02j3w	/m/02j3w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-4.0731)
+___
+/m/0t015	/m/0nr_q	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.0969)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.1258)
+___
+/m/02j3w	/m/02j3w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-5.3870)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.8032)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.9909)
+___
+/m/0t015	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.1669)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.0411)
+___
+/m/02j3w	/m/02j3w	/m/03s0w	/m/03s0w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.9257)
+___
+/m/02j3w	/m/02j3w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-9.2915)
+___
+/m/02j3w	/m/02j3w	/m/03s0w	/m/03s0w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-9.5106)
+___
+/m/02j3w	/m/02j3w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-10.2954)
+___
+/m/0ght2	/m/0ght2	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-10.3243)
+___
+/m/013crh	/m/013crh	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-10.9607)
+___
+/m/0ght2	/m/0chrx	/m/0chrx	/m/0chrx
+_/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-11.1650)
+___
+/m/0ght2	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2055)
+___
+/m/0ght2	/m/03s0w	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2055)
+___
+/m/0ght2	/m/03s0w	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2055)
+___
+/m/0ght2	/m/03s0w	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2055)
+___
+/m/0ght2	/m/03s0w	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2055)
+___
+/m/0ght2	/m/03s0w	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2055)
+___
+/m/0ght2	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2055)
+___
+/m/013crh	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2673)
+___
+/m/013crh	/m/03s0w	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2673)
+___
+/m/013crh	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2673)
+___
+/m/013crh	/m/03s0w	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2673)
+___
+/m/013crh	/m/03s0w	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2673)
+___
+/m/013crh	/m/03s0w	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2673)
+___
+/m/013crh	/m/03s0w	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2673)
+___
+/m/0sv6n	/m/03s0w	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2768)
+___
+/m/0sv6n	/m/03s0w	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2768)
+___
+/m/0sv6n	/m/03s0w	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2768)
+___
+/m/0sv6n	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2768)
+___
+/m/0sv6n	/m/03s0w	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2768)
+___
+/m/0sv6n	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2768)
+___
+/m/0sv6n	/m/03s0w	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2768)
+___
+/m/084kf	/m/03s0w	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/084kf	/m/03s0w	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/084kf	/m/03s0w	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/084kf	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/084kf	/m/03s0w	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/084kf	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/084kf	/m/03s0w	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0nmj	/m/03s0w	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0nmj	/m/03s0w	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0nmj	/m/03s0w	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0nmj	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0nmj	/m/03s0w	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0nmj	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0nmj	/m/03s0w	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-11.2776)
+___
+/m/0sv6n	/m/0sv6n	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-11.3443)
+___
+/m/084kf	/m/084kf	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-11.4161)
+___
+/m/0nmj	/m/0nmj	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-11.4161)
+___
+/m/0t015	/m/0t015	/m/0nr_q	/m/0nr_q
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-13.5514)
+___
+/m/02j3w	/m/03s0w	/m/0nmj	/m/0nmj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.6351)
+___
+/m/02j3w	/m/03s0w	/m/084kf	/m/084kf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.6351)
+___
+/m/02j3w	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.6351)
+___
+/m/02j3w	/m/03s0w	/m/013crh	/m/013crh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.6351)
+___
+/m/02j3w	/m/03s0w	/m/0t015	/m/0t015
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.6351)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.6351)
+___
+/m/02j3w	/m/03s0w	/m/0ght2	/m/0ght2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-13.6351)
+___
+/m/02j3w	/m/02j3w	/m/0nrqh	/m/0nrqh
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-13.9784)
+___
+/m/084kf	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.1463)
+___
+/m/0nmj	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.1463)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.2032)
+___
+/m/02j3w	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.2032)
+___
+/m/02j3w	/m/03s0w	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.2032)
+___
+/m/02j3w	/m/03s0w	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.2032)
+___
+/m/02j3w	/m/03s0w	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.2032)
+___
+/m/02j3w	/m/03s0w	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.2032)
+___
+/m/02j3w	/m/03s0w	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.2032)
+___
+/m/0t015	/m/03s0w	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.3240)
+___
+/m/0t015	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.3240)
+___
+/m/0t015	/m/03s0w	/m/084kf	/m/084kf
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.3240)
+___
+/m/0t015	/m/03s0w	/m/0nmj	/m/0nmj
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.3240)
+___
+/m/0t015	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.3240)
+___
+/m/0t015	/m/03s0w	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.3240)
+___
+/m/0t015	/m/03s0w	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-14.3240)
+___
+/m/0ght2	/m/0ght2	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-14.3659)
+___
+/m/0ght2	/m/0ght2	/m/0chrx	/m/0chrx
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.3715)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.4128)
+___
+/m/0sv6n	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.4649)
+___
+/m/013crh	/m/09c7w0	/m/039c26	/m/039c26
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-14.6613)
+___
+/m/013crh	/m/09c7w0	/m/0d68qy	/m/0d68qy
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-14.6613)
+___
+/m/013crh	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-14.6613)
+___
+/m/0ght2	/m/03s0w	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.7355)
+___
+/m/013crh	/m/013crh	/m/013crh	/m/013crh
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-14.8676)
+___
+/m/0ght2	/m/0chrx	/m/0ght2	/m/0ght2
+_/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.9210)
+___
+/m/0ght2	/m/0chrx	/m/0chrx	/m/0chrx
+_/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/place
+-1
+tensor(-15.1027)
+___
+/m/0t015	/m/0nr_q	/m/0t015	/m/0t015
+_/base/biblioness/bibs_location/state	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-15.1380)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+_/base/biblioness/bibs_location/state	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-15.2333)
+___
+/m/0sv6n	/m/0sv6n	/m/0sv6n	/m/0sv6n
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.2351)
+___
+#####################

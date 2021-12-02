@@ -1,0 +1,2012 @@
+/m/0f721s	/m/07zhjj
+Reward:0
+/m/0f721s	/m/0f721s	/m/0f721s	/m/0f721s
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-0.0028)
+___
+/m/0f721s	/m/0f721s	/m/0m7yy	/m/0m7yy
+NO_OP	NO_OP	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-6.2589)
+___
+/m/0f721s	/m/0f721s	/m/09d5h	/m/09d5h
+NO_OP	NO_OP	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5709)
+___
+/m/0f721s	/m/0f721s	/m/0gsg7	/m/0gsg7
+NO_OP	NO_OP	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5709)
+___
+/m/0f721s	/m/0f721s	/m/0cjdk	/m/0cjdk
+NO_OP	NO_OP	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5709)
+___
+/m/0f721s	/m/0f721s	/m/09nqf	/m/09nqf
+NO_OP	NO_OP	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.6701)
+___
+/m/0f721s	/m/0f721s	/m/09nqf	/m/09nqf
+NO_OP	NO_OP	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.2547)
+___
+/m/07c72	/m/07c72	/m/04s04	/m/04s04
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-12.1621)
+___
+/m/030k94	/m/030k94	/m/01my4f	/m/01my4f
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-12.1977)
+___
+/m/030k94	/m/030k94	/m/02h40lc	/m/02h40lc
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/languages
+-1
+tensor(-12.4766)
+___
+/m/07c72	/m/07c72	/m/02h40lc	/m/02h40lc
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/languages
+-1
+tensor(-12.5552)
+___
+/m/0f721s	/m/030k94	/m/01my4f	/m/01my4f
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/program_creator
+-1
+tensor(-14.3099)
+___
+/m/0f721s	/m/07c72	/m/04s04	/m/04s04
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/program_creator
+-1
+tensor(-14.3649)
+___
+/m/0f721s	/m/07c72	/m/02h40lc	/m/02h40lc
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-14.8470)
+___
+/m/0f721s	/m/030k94	/m/02h40lc	/m/02h40lc
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-14.8952)
+___
+/m/0f721s	/m/0f721s	/m/0gsg7	/m/0gsg7
+NO_OP	NO_OP	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.7787)
+___
+/m/0f721s	/m/0f721s	/m/0cjdk	/m/0cjdk
+NO_OP	NO_OP	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.7787)
+___
+/m/0f721s	/m/030p35	/m/01my4f	/m/01my4f
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-16.5112)
+___
+/m/0f721s	/m/099pks	/m/06jnvs	/m/06jnvs
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-16.5264)
+___
+/m/0f721s	/m/030k94	/m/01my4f	/m/01my4f
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-16.5278)
+___
+/m/0f721s	/m/0vjr	/m/0f721s	/m/0f721s
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-16.5282)
+___
+/m/0f721s	/m/05f4vxd	/m/09v6gc9	/m/09v6gc9
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-16.5408)
+___
+/m/0f721s	/m/02k_4g	/m/01qbg5	/m/01qbg5
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-16.5518)
+___
+/m/0f721s	/m/04p5cr	/m/08xwck	/m/08xwck
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-16.5683)
+___
+/m/07wqr6	/m/07wqr6	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-16.5793)
+___
+/m/0f721s	/m/07c72	/m/04s04	/m/04s04
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-16.5807)
+___
+/m/0f721s	/m/07wqr6	/m/02h40lc	/m/02h40lc
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-16.5903)
+___
+/m/0f721s	/m/019nnl	/m/021yw7	/m/021yw7
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-16.6065)
+___
+/m/0vjr	/m/0vjr	/m/0f721s	/m/0f721s
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-16.6377)
+___
+/m/04f6hhm	/m/04f6hhm	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-16.6441)
+___
+/m/0f721s	/m/04f6hhm	/m/02h40lc	/m/02h40lc
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-16.7236)
+___
+/m/030p35	/m/030p35	/m/01my4f	/m/01my4f
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-16.7349)
+___
+/m/030k94	/m/030k94	/m/01my4f	/m/01my4f
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-16.7408)
+___
+/m/099pks	/m/099pks	/m/06jnvs	/m/06jnvs
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-16.7412)
+___
+/m/04p5cr	/m/04p5cr	/m/08xwck	/m/08xwck
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-16.7716)
+___
+/m/05f4vxd	/m/05f4vxd	/m/09v6gc9	/m/09v6gc9
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-16.7856)
+___
+/m/07c72	/m/07c72	/m/04s04	/m/04s04
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-16.8162)
+___
+/m/01h72l	/m/01h72l	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-16.8164)
+___
+/m/019nnl	/m/019nnl	/m/021yw7	/m/021yw7
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-16.8216)
+___
+/m/02k_4g	/m/02k_4g	/m/01qbg5	/m/01qbg5
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-16.8413)
+___
+/m/0f721s	/m/01h72l	/m/02h40lc	/m/02h40lc
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-17.0190)
+___
+/m/0f721s	/m/01fx1l	/m/01my4f	/m/01my4f
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.1309)
+___
+/m/0f721s	/m/01fx1l	/m/0f721s	/m/0f721s
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.1309)
+___
+/m/0f721s	/m/05zr0xl	/m/026_dcw	/m/026_dcw
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-17.1391)
+___
+/m/0f721s	/m/05zr0xl	/m/0crx5w	/m/0crx5w
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-17.1391)
+___
+/m/0f721s	/m/03nymk	/m/021yw7	/m/021yw7
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-17.1709)
+___
+/m/0f721s	/m/03nymk	/m/02q6cv4	/m/02q6cv4
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-17.1709)
+___
+/m/0f721s	/m/015ppk	/m/05cqhl	/m/05cqhl
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-17.1924)
+___
+/m/0f721s	/m/015ppk	/m/019pkm	/m/019pkm
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-17.1924)
+___
+/m/01fx1l	/m/01fx1l	/m/0f721s	/m/0f721s
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.2212)
+___
+/m/01fx1l	/m/01fx1l	/m/01my4f	/m/01my4f
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.2212)
+___
+/m/05zr0xl	/m/05zr0xl	/m/0crx5w	/m/0crx5w
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-17.3421)
+___
+/m/05zr0xl	/m/05zr0xl	/m/026_dcw	/m/026_dcw
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-17.3421)
+___
+/m/03nymk	/m/03nymk	/m/021yw7	/m/021yw7
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-17.3967)
+___
+/m/03nymk	/m/03nymk	/m/02q6cv4	/m/02q6cv4
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-17.3967)
+___
+/m/015ppk	/m/015ppk	/m/019pkm	/m/019pkm
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-17.4120)
+___
+/m/015ppk	/m/015ppk	/m/05cqhl	/m/05cqhl
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-17.4120)
+___
+/m/07c72	/m/07c72	/m/03xpf_7	/m/03xpf_7
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4445)
+___
+/m/07c72	/m/07c72	/m/0721cy	/m/0721cy
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4445)
+___
+/m/07c72	/m/07c72	/m/04s04	/m/04s04
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4445)
+___
+/m/07c72	/m/07c72	/m/07fvf1	/m/07fvf1
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4445)
+___
+/m/07c72	/m/07c72	/m/0f721s	/m/0f721s
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4445)
+___
+/m/07c72	/m/07c72	/m/07_s4b	/m/07_s4b
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4445)
+___
+/m/030k94	/m/030k94	/m/01my4f	/m/01my4f
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4489)
+___
+/m/030k94	/m/030k94	/m/0f721s	/m/0f721s
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.4489)
+___
+/m/06dfz1	/m/06dfz1	/m/064_8sq	/m/064_8sq
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-17.6506)
+___
+/m/06dfz1	/m/06dfz1	/m/06nm1	/m/06nm1
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-17.6506)
+___
+/m/06dfz1	/m/06dfz1	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-17.6506)
+___
+/m/0f721s	/m/06dfz1	/m/06nm1	/m/06nm1
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-17.6913)
+___
+/m/0f721s	/m/06dfz1	/m/02h40lc	/m/02h40lc
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-17.6913)
+___
+/m/0f721s	/m/06dfz1	/m/064_8sq	/m/064_8sq
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-17.6913)
+___
+/m/0f721s	/m/07wqr6	/m/0f721s	/m/0f721s
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.2551)
+___
+/m/0f721s	/m/0hz55	/m/07lwsz	/m/07lwsz
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.3740)
+___
+/m/0f721s	/m/0hz55	/m/09_99w	/m/09_99w
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.3740)
+___
+/m/0f721s	/m/0hz55	/m/04511f	/m/04511f
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.3740)
+___
+/m/0f721s	/m/0hz55	/m/0f721s	/m/0f721s
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.3740)
+___
+/m/0f721s	/m/0hz55	/m/059j4x	/m/059j4x
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.3740)
+___
+/m/0f721s	/m/0hz55	/m/01rzqj	/m/01rzqj
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.3740)
+___
+/m/0f721s	/m/0hz55	/m/04wvhz	/m/04wvhz
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.3740)
+___
+/m/02k_4g	/m/01qbg5	/m/01qbg5	/m/01qbg5
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/award/award_winning_work/awards_won./award/award_honor/honored_for	NO_OP
+-1
+tensor(-18.3805)
+___
+/m/0f721s	/m/04f6hhm	/m/03w9sgh	/m/03w9sgh
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4433)
+___
+/m/0f721s	/m/04f6hhm	/m/0f721s	/m/0f721s
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4433)
+___
+/m/05f4vxd	/m/05f4vxd	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-18.4536)
+___
+/m/099pks	/m/099pks	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-18.4597)
+___
+/m/030p35	/m/030p35	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-18.4674)
+___
+/m/0hz55	/m/0hz55	/m/07lwsz	/m/07lwsz
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4680)
+___
+/m/0hz55	/m/0hz55	/m/09_99w	/m/09_99w
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4680)
+___
+/m/0hz55	/m/0hz55	/m/0f721s	/m/0f721s
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4680)
+___
+/m/0hz55	/m/0hz55	/m/04511f	/m/04511f
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4680)
+___
+/m/0hz55	/m/0hz55	/m/01rzqj	/m/01rzqj
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4680)
+___
+/m/0hz55	/m/0hz55	/m/04wvhz	/m/04wvhz
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4680)
+___
+/m/0hz55	/m/0hz55	/m/059j4x	/m/059j4x
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.4680)
+___
+/m/019nnl	/m/019nnl	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-18.5173)
+___
+/m/0f721s	/m/02k_4g	/m/01my4f	/m/01my4f
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/program_creator
+-1
+tensor(-18.5803)
+___
+/m/0f721s	/m/07g9f	/m/0bbxd3	/m/0bbxd3
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.6283)
+___
+/m/0f721s	/m/07g9f	/m/025y9fn	/m/025y9fn
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.6283)
+___
+/m/0f721s	/m/07g9f	/m/07lwsz	/m/07lwsz
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.6283)
+___
+/m/0f721s	/m/07g9f	/m/01gp_x	/m/01gp_x
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.6283)
+___
+/m/0f721s	/m/07g9f	/m/027hnjh	/m/027hnjh
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.6283)
+___
+/m/0f721s	/m/07g9f	/m/0b05xm	/m/0b05xm
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-18.6283)
+___
+#####################
+/m/02f9wb	/m/0d66j2
+Reward:0
+/m/02f9wb	/m/02f9wb	/m/02rzdcp	/m/02rzdcp
+NO_OP	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.0599e-06)
+___
+/m/02rzdcp	/m/02rzdcp	/m/0cp9f9	/m/0cp9f9
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/program_creator
+-1
+tensor(-12.2005)
+___
+/m/02rzdcp	/m/02rzdcp	/m/02h40lc	/m/02h40lc
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/languages
+-1
+tensor(-12.4815)
+___
+/m/0cskb	/m/0cskb	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-16.7026)
+___
+/m/02rzdcp	/m/02rzdcp	/m/04gnbv1	/m/04gnbv1
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.3698)
+___
+/m/02rzdcp	/m/02rzdcp	/m/0cp9f9	/m/0cp9f9
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.3698)
+___
+/m/02rzdcp	/m/02rzdcp	/m/04glr5h	/m/04glr5h
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.3698)
+___
+/m/02f9wb	/m/02rzdcp	/m/0cp9f9	/m/0cp9f9
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/program_creator
+-1
+tensor(-18.5756)
+___
+/m/02f9wb	/m/02rzdcp	/m/02h40lc	/m/02h40lc
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-19.1157)
+___
+/m/02f9wb	/m/02f9wb	/m/07vhb	/m/07vhb
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-19.1622)
+___
+/m/0cskb	/m/0cskb	/m/0bbxd3	/m/0bbxd3
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-19.4235)
+___
+/m/0cskb	/m/0cskb	/m/02f9wb	/m/02f9wb
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-19.4235)
+___
+/m/0cskb	/m/0cskb	/m/09_99w	/m/09_99w
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-19.4235)
+___
+/m/02f9wb	/m/0cskb	/m/02h40lc	/m/02h40lc
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-20.8363)
+___
+/m/0cskb	/m/02f9wb	/m/02rzdcp	/m/02rzdcp
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.9268)
+___
+/m/02rzdcp	/m/0cp9f9	/m/0kfv9	/m/0kfv9
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/program_creator	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.6130)
+___
+/m/0cskb	/m/09_99w	/m/0hz55	/m/0hz55
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.6421)
+___
+/m/0cskb	/m/09_99w	/m/0828jw	/m/0828jw
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.6421)
+___
+/m/0cskb	/m/0bbxd3	/m/07g9f	/m/07g9f
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-22.6880)
+___
+/m/0cskb	/m/0bbxd3	/m/0123qq	/m/0123qq
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-22.6880)
+___
+/m/02f9wb	/m/0cskb	/m/0bbxd3	/m/0bbxd3
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-23.0466)
+___
+/m/02f9wb	/m/0cskb	/m/09_99w	/m/09_99w
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-23.0466)
+___
+/m/02f9wb	/m/0cskb	/m/02f9wb	/m/02f9wb
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-23.0466)
+___
+/m/02f9wb	/m/02f9wb	/m/02f9wb	/m/02f9wb
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-23.1297)
+___
+/m/0cp9f9	/m/0cp9f9	/m/0kfv9	/m/0kfv9
+_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-23.1768)
+___
+/m/07vhb	/m/07vhb	/m/07vhb	/m/07vhb
+_/education/educational_institution/students_graduates./education/education/student	NO_OP	_/education/educational_institution/campuses
+-1
+tensor(-23.2289)
+___
+/m/02f9wb	/m/02rzdcp	/m/04gnbv1	/m/04gnbv1
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-23.2494)
+___
+/m/02f9wb	/m/02rzdcp	/m/0cp9f9	/m/0cp9f9
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-23.2494)
+___
+/m/02f9wb	/m/02rzdcp	/m/04glr5h	/m/04glr5h
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-23.2494)
+___
+/m/04glr5h	/m/04glr5h	/m/02rzdcp	/m/02rzdcp
+_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-23.6160)
+___
+/m/02d6cy	/m/02d6cy	/m/02rzdcp	/m/02rzdcp
+_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-23.8652)
+___
+/m/02d6cy	/m/02d6cy	/m/0ptx_	/m/0ptx_
+_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-23.8652)
+___
+/m/0cskb	/m/0cskb	/m/09_99w	/m/09_99w
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-23.8813)
+___
+/m/07vhb	/m/07vhb	/m/07vhb	/m/07vhb
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/education/educational_institution/campuses
+-1
+tensor(-24.1539)
+___
+/m/0cskb	/m/04bz7q	/m/04bz7q	/m/04bz7q
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP
+-1
+tensor(-24.3459)
+___
+/m/0cskb	/m/0gz5hs	/m/0584r4	/m/0584r4
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.3667)
+___
+/m/0cskb	/m/01jb26	/m/01jb26	/m/01jb26
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP
+-1
+tensor(-24.3732)
+___
+/m/02rzdcp	/m/04gnbv1	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6101)
+___
+/m/02rzdcp	/m/02rzdcp	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	NO_OP
+-1
+tensor(-24.6144)
+___
+/m/02rzdcp	/m/0cp9f9	/m/0kfv9	/m/0kfv9
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6201)
+___
+/m/0cskb	/m/0bbxd3	/m/0bbxd3	/m/0bbxd3
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP
+-1
+tensor(-24.6501)
+___
+/m/02rzdcp	/m/02f9wb	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6575)
+___
+/m/02rzdcp	/m/09btt1	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6575)
+___
+/m/02rzdcp	/m/027n4zv	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6575)
+___
+/m/02rzdcp	/m/03v1jf	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6576)
+___
+/m/02rzdcp	/m/08pth9	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6642)
+___
+/m/02rzdcp	/m/06vsbt	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6642)
+___
+/m/02rzdcp	/m/048q6x	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6643)
+___
+/m/02rzdcp	/m/0bbvr84	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6643)
+___
+/m/02rzdcp	/m/09r9dp	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6644)
+___
+/m/02rzdcp	/m/07s95_l	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6644)
+___
+/m/02rzdcp	/m/04kr63w	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6645)
+___
+/m/02rzdcp	/m/06_vpyq	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6647)
+___
+/m/02rzdcp	/m/0gd_b_	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6648)
+___
+/m/02rzdcp	/m/04gnbv1	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6700)
+___
+/m/02rzdcp	/m/044lyq	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.6709)
+___
+/m/0cskb	/m/0cskb	/m/07c52	/m/07c52
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/media_common/netflix_genre/titles
+-1
+tensor(-24.7201)
+___
+/m/04glr5h	/m/04glr5h	/m/02rzdcp	/m/02rzdcp
+_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-24.8192)
+___
+/m/04glr5h	/m/04glr5h	/m/02rzdcp	/m/02rzdcp
+_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-24.9607)
+___
+/m/07vhb	/m/07vhb	/m/07vhb	/m/07vhb
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	NO_OP
+-1
+tensor(-24.9944)
+___
+/m/02rzdcp	/m/02rzdcp	/m/04gnbv1	/m/04gnbv1
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-25.0416)
+___
+/m/02rzdcp	/m/02rzdcp	/m/04glr5h	/m/04glr5h
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-25.0416)
+___
+/m/0cskb	/m/06w6_	/m/0n6ds	/m/0n6ds
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.0476)
+___
+/m/0cskb	/m/06w6_	/m/0gj50	/m/0gj50
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.0476)
+___
+/m/0cskb	/m/09_99w	/m/0hz55	/m/0hz55
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.0905)
+___
+/m/0cskb	/m/09_99w	/m/0828jw	/m/0828jw
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.0905)
+___
+/m/0cskb	/m/01507p	/m/0123qq	/m/0123qq
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-25.1061)
+___
+/m/0cskb	/m/01507p	/m/07wqr6	/m/07wqr6
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-25.1061)
+___
+/m/0cskb	/m/02s_qz	/m/03ln8b	/m/03ln8b
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-25.1280)
+___
+/m/0cskb	/m/02s_qz	/m/01y6dz	/m/01y6dz
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-25.1280)
+___
+/m/02rzdcp	/m/04glr5h	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-25.2353)
+___
+/m/0cskb	/m/0cskb	/m/01507p	/m/01507p
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-25.3366)
+___
+/m/0cskb	/m/0cskb	/m/0gz5hs	/m/0gz5hs
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-25.3366)
+___
+/m/0cskb	/m/0cskb	/m/02s_qz	/m/02s_qz
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-25.3366)
+___
+/m/0cskb	/m/0cskb	/m/01jb26	/m/01jb26
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-25.3366)
+___
+/m/0cskb	/m/0cskb	/m/04bz7q	/m/04bz7q
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-25.3366)
+___
+/m/0cskb	/m/0cskb	/m/06w6_	/m/06w6_
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-25.3366)
+___
+/m/02rzdcp	/m/02d6cy	/m/0ptx_	/m/0ptx_
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.3575)
+___
+/m/02rzdcp	/m/02d6cy	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.3575)
+___
+/m/02rzdcp	/m/02rzdcp	/m/0ckd1	/m/0ckd1
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-25.4046)
+___
+/m/07vhb	/m/07vhb	/m/07vhb	/m/07vhb
+_/education/educational_institution/students_graduates./education/education/student	NO_OP	NO_OP
+-1
+tensor(-25.6076)
+___
+/m/02rzdcp	/m/04glr5h	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-25.6510)
+___
+/m/02f9wb	/m/07vhb	/m/07vhb	/m/07vhb
+NO_OP	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses
+-1
+tensor(-25.6794)
+___
+/m/0cskb	/m/02h40lc	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages	NO_OP
+-1
+tensor(-26.1612)
+___
+/m/0cp9f9	/m/0cp9f9	/m/0kfv9	/m/0kfv9
+/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2021)
+___
+/m/02rzdcp	/m/027n4zv	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2495)
+___
+/m/02rzdcp	/m/03v1jf	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2495)
+___
+/m/02rzdcp	/m/0bbvr84	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2529)
+___
+/m/02rzdcp	/m/048q6x	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2532)
+___
+/m/02rzdcp	/m/06_vpyq	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2532)
+___
+/m/02rzdcp	/m/04kr63w	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2533)
+___
+/m/02rzdcp	/m/07s95_l	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2533)
+___
+/m/02rzdcp	/m/044lyq	/m/02rzdcp	/m/02rzdcp
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-26.2571)
+___
+/m/0cskb	/m/07c52	/m/09dv8h	/m/09dv8h
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/media_common/netflix_genre/titles	_/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium
+-1
+tensor(-26.2739)
+___
+/m/0cskb	/m/0cskb	/m/0187wh	/m/0187wh
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-26.4779)
+___
+/m/0cskb	/m/0cskb	/m/07y2b	/m/07y2b
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-26.4779)
+___
+/m/02rzdcp	/m/02rzdcp	/m/0fbtbt	/m/0fbtbt
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-26.6048)
+___
+/m/02rzdcp	/m/02rzdcp	/m/0ck27z	/m/0ck27z
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-26.6048)
+___
+/m/02rzdcp	/m/02rzdcp	/m/02xcb6n	/m/02xcb6n
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-26.6048)
+___
+/m/02rzdcp	/m/02rzdcp	/m/0m7yy	/m/0m7yy
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-26.6048)
+___
+#####################
+/m/03ktjq	/m/0l76z
+Reward:0
+/m/03ktjq	/m/03ktjq	/m/0pk1p	/m/0pk1p
+NO_OP	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-0.6936)
+___
+/m/03ktjq	/m/03ktjq	/m/06rmdr	/m/06rmdr
+NO_OP	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-0.6936)
+___
+/m/03ktjq	/m/03ktjq	/m/06rmdr	/m/06rmdr
+NO_OP	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.9385)
+___
+/m/03ktjq	/m/03ktjq	/m/0pk1p	/m/0pk1p
+NO_OP	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.9385)
+___
+/m/03ktjq	/m/03ktjq	/m/060v34	/m/060v34
+NO_OP	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.9385)
+___
+/m/06rmdr	/m/06rmdr	/m/034hck	/m/034hck
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/film/director/film
+-1
+tensor(-11.6301)
+___
+/m/0pk1p	/m/0pk1p	/m/02h40lc	/m/02h40lc
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/film/film/language
+-1
+tensor(-12.3082)
+___
+/m/0pk1p	/m/0pk1p	/m/0h7pj	/m/0h7pj
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/film/film/written_by
+-1
+tensor(-12.6163)
+___
+/m/0pk1p	/m/0pk1p	/m/03ktjq	/m/03ktjq
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/film/film/produced_by
+-1
+tensor(-14.0053)
+___
+/m/03ktjq	/m/03ktjq	/m/0bmch_x	/m/0bmch_x
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/04n52p6	/m/04n52p6
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/0dlngsd	/m/0dlngsd
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/06rmdr	/m/06rmdr
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/0b6l1st	/m/0b6l1st
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/0645k5	/m/0645k5
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/026hh0m	/m/026hh0m
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/0127ps	/m/0127ps
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/01dyvs	/m/01dyvs
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/033g4d	/m/033g4d
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/07cz2	/m/07cz2
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/0p3_y	/m/0p3_y
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/04ydr95	/m/04ydr95
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/0pk1p	/m/0pk1p
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/03ktjq	/m/0946bb	/m/0946bb
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-14.1623)
+___
+/m/03ktjq	/m/06rmdr	/m/034hck	/m/034hck
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-14.8886)
+___
+/m/0pk1p	/m/0pk1p	/m/06w33f8	/m/06w33f8
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/film/film/costume_design_by
+-1
+tensor(-15.2826)
+___
+/m/03ktjq	/m/0pk1p	/m/0h7pj	/m/0h7pj
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/written_by
+-1
+tensor(-15.4846)
+___
+/m/03ktjq	/m/0pk1p	/m/02h40lc	/m/02h40lc
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/language
+-1
+tensor(-16.1932)
+___
+/m/03ktjq	/m/03ktjq	/m/0k2sk	/m/0k2sk
+NO_OP	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-16.2963)
+___
+/m/03_b1g	/m/03_b1g	/m/02h40lc	/m/02h40lc
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/tv/tv_program/languages
+-1
+tensor(-16.5721)
+___
+/m/03ktjq	/m/0pk1p	/m/03ktjq	/m/03ktjq
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/produced_by
+-1
+tensor(-16.9047)
+___
+/m/03ktjq	/m/03_b1g	/m/02h40lc	/m/02h40lc
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	/tv/tv_program/languages
+-1
+tensor(-17.6316)
+___
+/m/03ktjq	/m/0pk1p	/m/06w33f8	/m/06w33f8
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/costume_design_by
+-1
+tensor(-18.0532)
+___
+/m/06rmdr	/m/06rmdr	/m/02h40lc	/m/02h40lc
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/film/film/language
+-1
+tensor(-18.1228)
+___
+/m/04n52p6	/m/04n52p6	/m/0mm1q	/m/0mm1q
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.3443)
+___
+/m/0127ps	/m/0127ps	/m/021lby	/m/021lby
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.3708)
+___
+/m/033g4d	/m/033g4d	/m/021lby	/m/021lby
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.3853)
+___
+/m/0dlngsd	/m/0dlngsd	/m/0mm1q	/m/0mm1q
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.3862)
+___
+/m/06rmdr	/m/06rmdr	/m/034hck	/m/034hck
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.4128)
+___
+/m/0bmch_x	/m/0bmch_x	/m/0bmch_x	/m/0bmch_x
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-18.4226)
+___
+/m/0p3_y	/m/0p3_y	/m/0p3_y	/m/0p3_y
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-18.6448)
+___
+/m/0pk1p	/m/0pk1p	/m/0pk1p	/m/0pk1p
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-18.6873)
+___
+/m/0pk1p	/m/0pk1p	/m/09nqf	/m/09nqf
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-18.8401)
+___
+/m/03ktjq	/m/06rmdr	/m/034hck	/m/034hck
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-18.8455)
+___
+/m/03ktjq	/m/0127ps	/m/021lby	/m/021lby
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-18.8458)
+___
+/m/03ktjq	/m/033g4d	/m/021lby	/m/021lby
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-18.8475)
+___
+/m/03ktjq	/m/04n52p6	/m/0mm1q	/m/0mm1q
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-18.8572)
+___
+/m/03ktjq	/m/0dlngsd	/m/0mm1q	/m/0mm1q
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-18.8709)
+___
+/m/026hh0m	/m/026hh0m	/m/026hh0m	/m/026hh0m
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-18.9244)
+___
+/m/07cz2	/m/07cz2	/m/018nnz	/m/018nnz
+_/film/film/produced_by	NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.0470)
+___
+/m/07cz2	/m/07cz2	/m/01dyvs	/m/01dyvs
+_/film/film/produced_by	NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.0470)
+___
+/m/03ktjq	/m/0645k5	/m/0yxl	/m/0yxl
+NO_OP	_/film/film/produced_by	/film/film/story_by
+-1
+tensor(-19.0740)
+___
+/m/0645k5	/m/0645k5	/m/0645k5	/m/0645k5
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-19.0747)
+___
+/m/03ktjq	/m/026hh0m	/m/0glyyw	/m/0glyyw
+NO_OP	_/film/film/produced_by	/film/film/executive_produced_by
+-1
+tensor(-19.1027)
+___
+/m/060v34	/m/060v34	/m/060v34	/m/060v34
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	NO_OP
+-1
+tensor(-19.1331)
+___
+/m/01dyvs	/m/01dyvs	/m/0x25q	/m/0x25q
+_/film/film/produced_by	NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.1695)
+___
+/m/01dyvs	/m/01dyvs	/m/018nnz	/m/018nnz
+_/film/film/produced_by	NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.1695)
+___
+/m/0pk1p	/m/0pk1p	/m/0pk1p	/m/0pk1p
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	NO_OP
+-1
+tensor(-19.2650)
+___
+/m/03ktjq	/m/0bmch_x	/m/0bmch_x	/m/0bmch_x
+NO_OP	_/film/film/produced_by	NO_OP
+-1
+tensor(-19.2765)
+___
+/m/03_b1g	/m/03_b1g	/m/03ktjq	/m/03ktjq
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-19.3254)
+___
+/m/0645k5	/m/0645k5	/m/0yxl	/m/0yxl
+_/film/film/produced_by	NO_OP	/film/film/story_by
+-1
+tensor(-19.3471)
+___
+/m/04ydr95	/m/04ydr95	/m/04ydr95	/m/04ydr95
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-19.3965)
+___
+/m/026hh0m	/m/026hh0m	/m/0glyyw	/m/0glyyw
+_/film/film/produced_by	NO_OP	/film/film/executive_produced_by
+-1
+tensor(-19.4548)
+___
+/m/06rmdr	/m/06rmdr	/m/034hck	/m/034hck
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	_/film/director/film
+-1
+tensor(-19.4851)
+___
+/m/03ktjq	/m/03_b1g	/m/03ktjq	/m/03ktjq
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-19.5276)
+___
+/m/03ktjq	/m/04ydr95	/m/04ydr95	/m/04ydr95
+NO_OP	_/film/film/produced_by	NO_OP
+-1
+tensor(-19.5309)
+___
+/m/0pk1p	/m/0pk1p	/m/0h7pj	/m/0h7pj
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-19.5646)
+___
+/m/0pk1p	/m/0pk1p	/m/01r7t9	/m/01r7t9
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-19.5646)
+___
+/m/0pk1p	/m/0pk1p	/m/0m68w	/m/0m68w
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-19.5646)
+___
+/m/03ktjq	/m/07cz2	/m/018nnz	/m/018nnz
+NO_OP	_/film/film/produced_by	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.5902)
+___
+/m/03ktjq	/m/07cz2	/m/01dyvs	/m/01dyvs
+NO_OP	_/film/film/produced_by	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.5902)
+___
+/m/03ktjq	/m/01dyvs	/m/0x25q	/m/0x25q
+NO_OP	_/film/film/produced_by	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.6969)
+___
+/m/03ktjq	/m/01dyvs	/m/018nnz	/m/018nnz
+NO_OP	_/film/film/produced_by	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.6969)
+___
+/m/0b6l1st	/m/0b6l1st	/m/0b6l1st	/m/0b6l1st
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-19.7576)
+___
+/m/06rmdr	/m/06rmdr	/m/03ktjq	/m/03ktjq
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/film/film/produced_by
+-1
+tensor(-19.8812)
+___
+/m/04ydr95	/m/04ydr95	/m/03ktjq	/m/03ktjq
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-19.8979)
+___
+/m/04ydr95	/m/04ydr95	/m/0pmhf	/m/0pmhf
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-19.8979)
+___
+/m/03ktjq	/m/0b6l1st	/m/0b6l1st	/m/0b6l1st
+NO_OP	_/film/film/produced_by	NO_OP
+-1
+tensor(-19.9108)
+___
+/m/03ktjq	/m/06rmdr	/m/034hck	/m/034hck
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/film/director/film
+-1
+tensor(-19.9180)
+___
+/m/03ktjq	/m/060v34	/m/060v34	/m/060v34
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP
+-1
+tensor(-19.9463)
+___
+/m/03ktjq	/m/03ktjq	/m/0bwfn	/m/0bwfn
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-19.9694)
+___
+/m/03ktjq	/m/03ktjq	/m/02rg_4	/m/02rg_4
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-19.9694)
+___
+/m/03ktjq	/m/03ktjq	/m/04b_46	/m/04b_46
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-19.9694)
+___
+/m/03ktjq	/m/0p3_y	/m/06w33f8	/m/06w33f8
+NO_OP	_/film/film/produced_by	/film/film/costume_design_by
+-1
+tensor(-19.9880)
+___
+/m/03ktjq	/m/0pk1p	/m/0pk1p	/m/0pk1p
+NO_OP	_/film/film/produced_by	NO_OP
+-1
+tensor(-20.0008)
+___
+/m/0946bb	/m/0946bb	/m/07b1gq	/m/07b1gq
+_/film/film/produced_by	NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-20.0091)
+___
+/m/03ktjq	/m/0pk1p	/m/06w33f8	/m/06w33f8
+NO_OP	_/film/film/produced_by	/film/film/costume_design_by
+-1
+tensor(-20.0343)
+___
+/m/03ktjq	/m/0pk1p	/m/0pk1p	/m/0pk1p
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP
+-1
+tensor(-20.1275)
+___
+/m/03ktjq	/m/0p3_y	/m/0p3_y	/m/0p3_y
+NO_OP	_/film/film/produced_by	NO_OP
+-1
+tensor(-20.1554)
+___
+/m/06rmdr	/m/034hck	/m/037xlx	/m/037xlx
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/film/director/film	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-20.2212)
+___
+/m/04ydr95	/m/04ydr95	/m/02h40lc	/m/02h40lc
+_/film/film/produced_by	NO_OP	/film/film/language
+-1
+tensor(-20.2540)
+___
+/m/0pk1p	/m/0pk1p	/m/06w33f8	/m/06w33f8
+_/film/film/produced_by	NO_OP	/film/film/costume_design_by
+-1
+tensor(-20.3492)
+___
+/m/0pk1p	/m/0pk1p	/m/0pk1p	/m/0pk1p
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	NO_OP
+-1
+tensor(-20.3735)
+___
+/m/0p3_y	/m/0p3_y	/m/06w33f8	/m/06w33f8
+_/film/film/produced_by	NO_OP	/film/film/costume_design_by
+-1
+tensor(-20.4305)
+___
+/m/04ydr95	/m/04ydr95	/m/09nqf	/m/09nqf
+_/film/film/produced_by	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-20.4472)
+___
+/m/03ktjq	/m/0946bb	/m/07b1gq	/m/07b1gq
+NO_OP	_/film/film/produced_by	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-20.4493)
+___
+/m/0pk1p	/m/0pk1p	/m/09nqf	/m/09nqf
+_/film/film/produced_by	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-20.4548)
+___
+/m/0b6l1st	/m/0b6l1st	/m/06chf	/m/06chf
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.5969)
+___
+/m/0b6l1st	/m/0b6l1st	/m/09gffmz	/m/09gffmz
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.5969)
+___
+/m/0b6l1st	/m/0b6l1st	/m/03ktjq	/m/03ktjq
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.5969)
+___
+#####################
+/m/02tn0_	/m/0l76z
+Reward:0
+/m/02tn0_	/m/02tn0_	/m/05z43v	/m/05z43v
+NO_OP	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-0.2077)
+___
+/m/02tn0_	/m/02tn0_	/m/04g9gd	/m/04g9gd
+NO_OP	NO_OP	/film/director/film
+-1
+tensor(-3.7389)
+___
+/m/02tn0_	/m/02tn0_	/m/018js4	/m/018js4
+NO_OP	NO_OP	/film/director/film
+-1
+tensor(-3.7389)
+___
+/m/02tn0_	/m/02tn0_	/m/032sl_	/m/032sl_
+NO_OP	NO_OP	/film/director/film
+-1
+tensor(-3.7389)
+___
+/m/02tn0_	/m/02tn0_	/m/01qdmh	/m/01qdmh
+NO_OP	NO_OP	/film/director/film
+-1
+tensor(-3.7389)
+___
+/m/02tn0_	/m/02tn0_	/m/03wbqc4	/m/03wbqc4
+NO_OP	NO_OP	/film/director/film
+-1
+tensor(-3.7389)
+___
+/m/02tn0_	/m/02tn0_	/m/02_nsc	/m/02_nsc
+NO_OP	NO_OP	/film/director/film
+-1
+tensor(-3.7389)
+___
+/m/02tn0_	/m/02tn0_	/m/04f6df0	/m/04f6df0
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/01cssf	/m/01cssf
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/0gd0c7x	/m/0gd0c7x
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/076zy_g	/m/076zy_g
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/0b6l1st	/m/0b6l1st
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/03tbg6	/m/03tbg6
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/03wbqc4	/m/03wbqc4
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/04g9gd	/m/04g9gd
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/07_k0c0	/m/07_k0c0
+NO_OP	NO_OP	_/film/film/produced_by
+-1
+tensor(-5.3033)
+___
+/m/02tn0_	/m/02tn0_	/m/01c40n	/m/01c40n
+NO_OP	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-9.6475)
+___
+/m/02tn0_	/m/02tn0_	/m/06chf	/m/06chf
+NO_OP	NO_OP	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-10.3016)
+___
+/m/04kzqz	/m/04kzqz	/m/02tn0_	/m/02tn0_
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-12.3218)
+___
+/m/04kzqz	/m/04kzqz	/m/06chf	/m/06chf
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-12.3218)
+___
+/m/02tn0_	/m/02tn0_	/m/06chf	/m/06chf
+NO_OP	NO_OP	/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-13.4038)
+___
+/m/02tn0_	/m/02tn0_	/m/02tn0_	/m/02tn0_
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-14.1343)
+___
+/m/02tn0_	/m/02tn0_	/m/09nqf	/m/09nqf
+NO_OP	NO_OP	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.5273)
+___
+/m/02tn0_	/m/02tn0_	/m/0ckd1	/m/0ckd1
+NO_OP	NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type
+-1
+tensor(-15.7509)
+___
+/m/02tn0_	/m/04kzqz	/m/02tn0_	/m/02tn0_
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.2756)
+___
+/m/02tn0_	/m/04kzqz	/m/06chf	/m/06chf
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.2756)
+___
+/m/04kzqz	/m/04kzqz	/m/06chf	/m/06chf
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.5274)
+___
+/m/04kzqz	/m/04kzqz	/m/02tn0_	/m/02tn0_
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.5274)
+___
+/m/063ykwt	/m/063ykwt	/m/02tn0_	/m/02tn0_
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.6349)
+___
+/m/063ykwt	/m/063ykwt	/m/06chf	/m/06chf
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.6349)
+___
+/m/063ykwt	/m/063ykwt	/m/0h53p1	/m/0h53p1
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-17.6349)
+___
+/m/04kzqz	/m/04kzqz	/m/09nqf	/m/09nqf
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-17.8612)
+___
+/m/03wbqc4	/m/03wbqc4	/m/02tn0_	/m/02tn0_
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.3409)
+___
+/m/04g9gd	/m/04g9gd	/m/02tn0_	/m/02tn0_
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.3864)
+___
+/m/0gd0c7x	/m/0gd0c7x	/m/06chf	/m/06chf
+_/film/film/produced_by	NO_OP	_/film/director/film
+-1
+tensor(-18.4267)
+___
+/m/032sl_	/m/032sl_	/m/02tn0_	/m/02tn0_
+/film/director/film	NO_OP	_/film/director/film
+-1
+tensor(-18.4333)
+___
+/m/02_nsc	/m/02_nsc	/m/02tn0_	/m/02tn0_
+/film/director/film	NO_OP	_/film/director/film
+-1
+tensor(-18.4645)
+___
+/m/01qdmh	/m/01qdmh	/m/02tn0_	/m/02tn0_
+/film/director/film	NO_OP	_/film/director/film
+-1
+tensor(-18.4647)
+___
+/m/076zy_g	/m/076zy_g	/m/076zy_g	/m/076zy_g
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-18.5236)
+___
+/m/018js4	/m/018js4	/m/02tn0_	/m/02tn0_
+/film/director/film	NO_OP	_/film/director/film
+-1
+tensor(-18.5256)
+___
+/m/07_k0c0	/m/07_k0c0	/m/01qbjg	/m/01qbjg
+_/film/film/produced_by	NO_OP	/film/film/story_by
+-1
+tensor(-18.5957)
+___
+/m/03wbqc4	/m/03wbqc4	/m/02tn0_	/m/02tn0_
+/film/director/film	NO_OP	_/film/director/film
+-1
+tensor(-18.5962)
+___
+/m/03tbg6	/m/03tbg6	/m/047wh1	/m/047wh1
+_/film/film/produced_by	NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-18.6187)
+___
+/m/04g9gd	/m/04g9gd	/m/02tn0_	/m/02tn0_
+/film/director/film	NO_OP	_/film/director/film
+-1
+tensor(-18.6617)
+___
+/m/01cssf	/m/01cssf	/m/01cssf	/m/01cssf
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-18.8193)
+___
+/m/04f6df0	/m/04f6df0	/m/04f6df0	/m/04f6df0
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-19.2096)
+___
+/m/04f6df0	/m/04f6df0	/m/02z6l5f	/m/02z6l5f
+_/film/film/produced_by	NO_OP	/film/film/executive_produced_by
+-1
+tensor(-19.5624)
+___
+/m/04f6df0	/m/04f6df0	/m/06chf	/m/06chf
+_/film/film/produced_by	NO_OP	/film/film/executive_produced_by
+-1
+tensor(-19.5624)
+___
+/m/05z43v	/m/05z43v	/m/02h40lc	/m/02h40lc
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/tv/tv_program/languages
+-1
+tensor(-19.5631)
+___
+/m/02tn0_	/m/02tn0_	/m/0fbtbt	/m/0fbtbt
+NO_OP	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-19.5937)
+___
+/m/02tn0_	/m/02tn0_	/m/07z2lx	/m/07z2lx
+NO_OP	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-19.5937)
+___
+/m/01cssf	/m/01cssf	/m/081k8	/m/081k8
+_/film/film/produced_by	NO_OP	/film/film/story_by
+-1
+tensor(-19.6416)
+___
+/m/02tn0_	/m/02tn0_	/m/06chf	/m/06chf
+NO_OP	NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-19.7758)
+___
+/m/02tn0_	/m/02tn0_	/m/0h53p1	/m/0h53p1
+NO_OP	NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-19.7758)
+___
+/m/05z43v	/m/05z43v	/m/05z43v	/m/05z43v
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	NO_OP
+-1
+tensor(-19.8537)
+___
+/m/02tn0_	/m/04kzqz	/m/06chf	/m/06chf
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-19.9191)
+___
+/m/02tn0_	/m/04kzqz	/m/02tn0_	/m/02tn0_
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-19.9191)
+___
+/m/04kzqz	/m/04kzqz	/m/06chf	/m/06chf
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.0010)
+___
+/m/04kzqz	/m/04kzqz	/m/02tn0_	/m/02tn0_
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.0010)
+___
+/m/02tn0_	/m/02tn0_	/m/07tlfx	/m/07tlfx
+NO_OP	NO_OP	_/film/film/executive_produced_by
+-1
+tensor(-20.1392)
+___
+/m/063ykwt	/m/063ykwt	/m/02tn0_	/m/02tn0_
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.1717)
+___
+/m/063ykwt	/m/063ykwt	/m/0h53p1	/m/0h53p1
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.1717)
+___
+/m/063ykwt	/m/063ykwt	/m/06chf	/m/06chf
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.1717)
+___
+/m/01c40n	/m/01c40n	/m/01c40n	/m/01c40n
+/people/deceased_person/place_of_death	NO_OP	NO_OP
+-1
+tensor(-20.1956)
+___
+/m/04kzqz	/m/04kzqz	/m/0ckd1	/m/0ckd1
+_/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-20.2075)
+___
+/m/02tn0_	/m/063ykwt	/m/02tn0_	/m/02tn0_
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.2855)
+___
+/m/02tn0_	/m/063ykwt	/m/06chf	/m/06chf
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.2855)
+___
+/m/02tn0_	/m/063ykwt	/m/0h53p1	/m/0h53p1
+NO_OP	/tv/tv_producer/programs_produced./tv/tv_producer_term/program	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-20.2855)
+___
+/m/03tbg6	/m/03tbg6	/m/047wh1	/m/047wh1
+_/film/film/produced_by	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-20.3190)
+___
+/m/0b6l1st	/m/0b6l1st	/m/09gffmz	/m/09gffmz
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.3354)
+___
+/m/0b6l1st	/m/0b6l1st	/m/06dkzt	/m/06dkzt
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.3354)
+___
+/m/0b6l1st	/m/0b6l1st	/m/03ktjq	/m/03ktjq
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.3354)
+___
+/m/0b6l1st	/m/0b6l1st	/m/06chf	/m/06chf
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.3354)
+___
+/m/0b6l1st	/m/0b6l1st	/m/05nn4k	/m/05nn4k
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.3354)
+___
+/m/0b6l1st	/m/0b6l1st	/m/02tn0_	/m/02tn0_
+_/film/film/produced_by	NO_OP	/film/film/produced_by
+-1
+tensor(-20.3354)
+___
+/m/02tn0_	/m/02tn0_	/m/06z5s	/m/06z5s
+NO_OP	NO_OP	_/people/cause_of_death/people
+-1
+tensor(-20.3518)
+___
+/m/02tn0_	/m/02tn0_	/m/05zppz	/m/05zppz
+NO_OP	NO_OP	/people/person/gender
+-1
+tensor(-20.3863)
+___
+/m/04g9gd	/m/02tn0_	/m/05z43v	/m/05z43v
+/film/director/film	_/film/director/film	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-20.4108)
+___
+/m/04kzqz	/m/04kzqz	/m/09nqf	/m/09nqf
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-20.4576)
+___
+/m/076zy_g	/m/076zy_g	/m/09nqf	/m/09nqf
+_/film/film/produced_by	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-20.4729)
+___
+/m/02tn0_	/m/04g9gd	/m/02tn0_	/m/02tn0_
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-20.5812)
+___
+/m/02tn0_	/m/03wbqc4	/m/02tn0_	/m/02tn0_
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-20.5824)
+___
+/m/03wbqc4	/m/02tn0_	/m/05z43v	/m/05z43v
+/film/director/film	_/film/director/film	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-20.5886)
+___
+/m/02tn0_	/m/0gd0c7x	/m/06chf	/m/06chf
+NO_OP	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-20.5904)
+___
+/m/02tn0_	/m/01c40n	/m/01c40n	/m/01c40n
+NO_OP	/people/deceased_person/place_of_death	NO_OP
+-1
+tensor(-20.6149)
+___
+/m/0b6l1st	/m/0b6l1st	/m/0b6l1st	/m/0b6l1st
+_/film/film/produced_by	NO_OP	NO_OP
+-1
+tensor(-20.6658)
+___
+/m/0b6l1st	/m/0b6l1st	/m/02h40lc	/m/02h40lc
+_/film/film/produced_by	NO_OP	/film/film/language
+-1
+tensor(-20.6921)
+___
+/m/02tn0_	/m/01cssf	/m/081k8	/m/081k8
+NO_OP	_/film/film/produced_by	/film/film/story_by
+-1
+tensor(-20.8468)
+___
+/m/0h53p1	/m/0h53p1	/m/0828jw	/m/0828jw
+_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.8933)
+___
+/m/02tn0_	/m/03tbg6	/m/047wh1	/m/047wh1
+NO_OP	_/film/film/produced_by	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-20.9073)
+___
+/m/02tn0_	/m/01qdmh	/m/02tn0_	/m/02tn0_
+NO_OP	/film/director/film	_/film/director/film
+-1
+tensor(-20.9651)
+___
+/m/02tn0_	/m/02_nsc	/m/02tn0_	/m/02tn0_
+NO_OP	/film/director/film	_/film/director/film
+-1
+tensor(-20.9696)
+___
+/m/02tn0_	/m/03wbqc4	/m/02tn0_	/m/02tn0_
+NO_OP	/film/director/film	_/film/director/film
+-1
+tensor(-20.9780)
+___
+/m/02tn0_	/m/032sl_	/m/02tn0_	/m/02tn0_
+NO_OP	/film/director/film	_/film/director/film
+-1
+tensor(-20.9782)
+___
+/m/02tn0_	/m/018js4	/m/02tn0_	/m/02tn0_
+NO_OP	/film/director/film	_/film/director/film
+-1
+tensor(-20.9791)
+___
+/m/02tn0_	/m/04g9gd	/m/02tn0_	/m/02tn0_
+NO_OP	/film/director/film	_/film/director/film
+-1
+tensor(-20.9925)
+___
+/m/018js4	/m/02tn0_	/m/05z43v	/m/05z43v
+/film/director/film	_/film/director/film	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-21.0262)
+___
+/m/02tn0_	/m/07_k0c0	/m/01qbjg	/m/01qbjg
+NO_OP	_/film/film/produced_by	/film/film/story_by
+-1
+tensor(-21.0680)
+___
+/m/02tn0_	/m/076zy_g	/m/076zy_g	/m/076zy_g
+NO_OP	_/film/film/produced_by	NO_OP
+-1
+tensor(-21.0776)
+___
+/m/03tbg6	/m/03tbg6	/m/047wh1	/m/047wh1
+_/film/film/produced_by	NO_OP	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-21.0869)
+___
+#####################

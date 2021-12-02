@@ -1,0 +1,503 @@
+/m/01trhmt	/m/08swgx
+Reward:0
+/m/01trhmt	/m/01trhmt	/m/09nqf	/m/09nqf
+NO_OP	NO_OP	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-0.1417)
+___
+/m/01trhmt	/m/01trhmt	/m/0g824	/m/0g824
+NO_OP	NO_OP	_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend
+-1
+tensor(-2.9611)
+___
+/m/01trhmt	/m/01trhmt	/m/01q32bd	/m/01q32bd
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/019f9z	/m/019f9z
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/0cqt90	/m/0cqt90
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/01pcrw	/m/01pcrw
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/02d9k	/m/02d9k
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/04xrx	/m/04xrx
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/0g824	/m/0g824
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/04mn81	/m/04mn81
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/02x_h0	/m/02x_h0
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/0cgfb	/m/0cgfb
+NO_OP	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9686)
+___
+/m/01trhmt	/m/01trhmt	/m/026bfsh	/m/026bfsh
+NO_OP	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.8229)
+___
+/m/01trhmt	/m/0f2rq	/m/09c7w0	/m/09c7w0
+NO_OP	/people/person/place_of_birth	/base/biblioness/bibs_location/country
+-1
+tensor(-6.8727)
+___
+/m/01trhmt	/m/0pzpz	/m/09c7w0	/m/09c7w0
+NO_OP	/music/artist/origin	_/location/location/contains
+-1
+tensor(-7.1789)
+___
+/m/01trhmt	/m/0pzpz	/m/07h34	/m/07h34
+NO_OP	/music/artist/origin	_/location/location/contains
+-1
+tensor(-7.1789)
+___
+/m/01trhmt	/m/0pzpz	/m/0mtdx	/m/0mtdx
+NO_OP	/music/artist/origin	_/location/location/contains
+-1
+tensor(-7.1789)
+___
+/m/01trhmt	/m/01svry	/m/09nqf	/m/09nqf
+NO_OP	/film/actor/film./film/performance/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.3856)
+___
+/m/01trhmt	/m/05m_jsg	/m/06_wqk4	/m/06_wqk4
+NO_OP	/film/actor/film./film/performance/film	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.7938)
+___
+/m/01trhmt	/m/0pzpz	/m/0mtdx	/m/0mtdx
+NO_OP	/people/person/places_lived./people/place_lived/location	_/location/location/contains
+-1
+tensor(-8.1771)
+___
+/m/01trhmt	/m/0pzpz	/m/07h34	/m/07h34
+NO_OP	/people/person/places_lived./people/place_lived/location	_/location/location/contains
+-1
+tensor(-8.1771)
+___
+/m/01trhmt	/m/0pzpz	/m/09c7w0	/m/09c7w0
+NO_OP	/people/person/places_lived./people/place_lived/location	_/location/location/contains
+-1
+tensor(-8.1771)
+___
+/m/01trhmt	/m/0pzpz	/m/0pzpz	/m/0pzpz
+NO_OP	/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place
+-1
+tensor(-8.3675)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/music/artist/origin	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.5498)
+___
+/m/0pzpz	/m/0pzpz	/m/07h34	/m/07h34
+/music/artist/origin	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.5498)
+___
+/m/0pzpz	/m/0pzpz	/m/09c7w0	/m/09c7w0
+/music/artist/origin	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.5498)
+___
+/m/01trhmt	/m/05m_jsg	/m/09nqf	/m/09nqf
+NO_OP	/film/actor/film./film/performance/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.7450)
+___
+/m/01trhmt	/m/0pzpz	/m/0pzpz	/m/0pzpz
+NO_OP	/music/artist/origin	/location/hud_county_place/place
+-1
+tensor(-8.9248)
+___
+/m/026bfsh	/m/026bfsh	/m/015f7	/m/015f7
+_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.2743)
+___
+/m/026bfsh	/m/026bfsh	/m/01wyz92	/m/01wyz92
+_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.2743)
+___
+/m/026bfsh	/m/026bfsh	/m/04gycf	/m/04gycf
+_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.2743)
+___
+/m/026bfsh	/m/026bfsh	/m/016ksk	/m/016ksk
+_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.2743)
+___
+/m/01trhmt	/m/026bfsh	/m/015f7	/m/015f7
+NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.3103)
+___
+/m/01trhmt	/m/026bfsh	/m/01wyz92	/m/01wyz92
+NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.3103)
+___
+/m/01trhmt	/m/026bfsh	/m/04gycf	/m/04gycf
+NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.3103)
+___
+/m/01trhmt	/m/026bfsh	/m/016ksk	/m/016ksk
+NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program
+-1
+tensor(-9.3103)
+___
+/m/01trhmt	/m/0pzpz	/m/0pzpz	/m/0pzpz
+NO_OP	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-9.4911)
+___
+/m/01trhmt	/m/01trhmt	/m/064t9	/m/064t9
+NO_OP	NO_OP	_/music/genre/artists
+-1
+tensor(-9.5424)
+___
+/m/01trhmt	/m/01trhmt	/m/0ggx5q	/m/0ggx5q
+NO_OP	NO_OP	_/music/genre/artists
+-1
+tensor(-9.5424)
+___
+/m/01trhmt	/m/01trhmt	/m/02lnbg	/m/02lnbg
+NO_OP	NO_OP	_/music/genre/artists
+-1
+tensor(-9.5424)
+___
+/m/01trhmt	/m/01trhmt	/m/0glt670	/m/0glt670
+NO_OP	NO_OP	_/music/genre/artists
+-1
+tensor(-9.5424)
+___
+/m/01trhmt	/m/01trhmt	/m/06j6l	/m/06j6l
+NO_OP	NO_OP	_/music/genre/artists
+-1
+tensor(-9.5424)
+___
+/m/01trhmt	/m/01trhmt	/m/0gywn	/m/0gywn
+NO_OP	NO_OP	_/music/genre/artists
+-1
+tensor(-9.5424)
+___
+/m/01trhmt	/m/02x_h0	/m/09nqf	/m/09nqf
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.7323)
+___
+/m/01trhmt	/m/05m_jsg	/m/06_wqk4	/m/06_wqk4
+NO_OP	/film/actor/film./film/performance/film	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-9.8530)
+___
+/m/01trhmt	/m/05m_jsg	/m/0bs5f0b	/m/0bs5f0b
+NO_OP	/film/actor/film./film/performance/film	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-9.8530)
+___
+/m/01trhmt	/m/01svry	/m/02h40lc	/m/02h40lc
+NO_OP	/film/actor/film./film/performance/film	/film/film/language
+-1
+tensor(-9.9554)
+___
+/m/0pzpz	/m/0mtdx	/m/07h34	/m/07h34
+/music/artist/origin	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-10.2388)
+___
+/m/01trhmt	/m/02x_h0	/m/09nqf	/m/09nqf
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-10.4898)
+___
+/m/01trhmt	/m/02d9k	/m/09nqf	/m/09nqf
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-10.5052)
+___
+/m/01trhmt	/m/01w9wwg	/m/0gps0z	/m/0gps0z
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-10.5993)
+___
+/m/01trhmt	/m/0g824	/m/02l840	/m/02l840
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-10.6616)
+___
+/m/01trhmt	/m/01vw37m	/m/05sy_5	/m/05sy_5
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-10.6875)
+___
+/m/01trhmt	/m/0pzpz	/m/0f5xn	/m/0f5xn
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-10.7513)
+___
+/m/01trhmt	/m/0pzpz	/m/01trhmt	/m/01trhmt
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-10.7513)
+___
+/m/01trhmt	/m/01trhmt	/m/01pcrw	/m/01pcrw
+NO_OP	NO_OP	/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-10.7565)
+___
+/m/01trhmt	/m/0pzpz	/m/0pzpz	/m/0pzpz
+NO_OP	/music/artist/origin	_/location/hud_county_place/place
+-1
+tensor(-10.7717)
+___
+/m/01trhmt	/m/0f2rq	/m/07b_l	/m/07b_l
+NO_OP	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-10.9392)
+___
+/m/01trhmt	/m/0f2rq	/m/09c7w0	/m/09c7w0
+NO_OP	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-10.9392)
+___
+/m/01trhmt	/m/01vw37m	/m/02xbw2	/m/02xbw2
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.0153)
+___
+/m/01trhmt	/m/01w9wwg	/m/0gps0z	/m/0gps0z
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.1221)
+___
+/m/01trhmt	/m/01w9wwg	/m/018vs	/m/018vs
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.1563)
+___
+/m/01trhmt	/m/01w9wwg	/m/05148p4	/m/05148p4
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.1563)
+___
+/m/01trhmt	/m/01w9wwg	/m/02hnl	/m/02hnl
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.1563)
+___
+/m/01trhmt	/m/01vw_dv	/m/0l14qv	/m/0l14qv
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.1673)
+___
+/m/01trhmt	/m/01vw_dv	/m/01vdm0	/m/01vdm0
+NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.1673)
+___
+/m/01trhmt	/m/01pcrw	/m/013w7j	/m/013w7j
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.1720)
+___
+/m/01trhmt	/m/01pcrw	/m/09qr6	/m/09qr6
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.1720)
+___
+/m/01trhmt	/m/01trhmt	/m/05m_jsg	/m/05m_jsg
+NO_OP	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-11.3155)
+___
+/m/01trhmt	/m/01trhmt	/m/01svry	/m/01svry
+NO_OP	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-11.3155)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-11.3430)
+___
+/m/01trhmt	/m/0g824	/m/02l840	/m/02l840
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.3808)
+___
+/m/01trhmt	/m/0j1yf	/m/039cq4	/m/039cq4
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.4074)
+___
+/m/01trhmt	/m/01q32bd	/m/05zppz	/m/05zppz
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/gender
+-1
+tensor(-11.4334)
+___
+/m/01trhmt	/m/0g824	/m/0342h	/m/0342h
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.4450)
+___
+/m/01trhmt	/m/0g824	/m/05148p4	/m/05148p4
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.4450)
+___
+/m/01trhmt	/m/0g824	/m/05r5c	/m/05r5c
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.4450)
+___
+/m/01trhmt	/m/0g824	/m/01xqw	/m/01xqw
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-11.4450)
+___
+/m/01trhmt	/m/05m_jsg	/m/02h40lc	/m/02h40lc
+NO_OP	/film/actor/film./film/performance/film	/film/film/language
+-1
+tensor(-11.4503)
+___
+/m/01trhmt	/m/01vw37m	/m/09nqf	/m/09nqf
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-11.5033)
+___
+/m/01trhmt	/m/01vw20h	/m/02h40lc	/m/02h40lc
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/languages
+-1
+tensor(-11.5218)
+___
+/m/01trhmt	/m/019f9z	/m/02zsn	/m/02zsn
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/gender
+-1
+tensor(-11.5356)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/music/artist/origin	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-11.6628)
+___
+/m/0pzpz	/m/0pzpz	/m/07h34	/m/07h34
+/music/artist/origin	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-11.6628)
+___
+/m/0pzpz	/m/0pzpz	/m/09c7w0	/m/09c7w0
+/music/artist/origin	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-11.6628)
+___
+/m/01trhmt	/m/01vw37m	/m/02xbw2	/m/02xbw2
+NO_OP	_/award/award_winner/awards_won./award/award_honor/award_winner	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.6690)
+___
+/m/01trhmt	/m/04xrx	/m/05c46y6	/m/05c46y6
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-11.7150)
+___
+/m/0pzpz	/m/0pzpz	/m/07h34	/m/07h34
+/music/artist/origin	NO_OP	_/location/location/contains
+-1
+tensor(-11.7198)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/music/artist/origin	NO_OP	_/location/location/contains
+-1
+tensor(-11.7198)
+___
+/m/0pzpz	/m/0pzpz	/m/09c7w0	/m/09c7w0
+/music/artist/origin	NO_OP	_/location/location/contains
+-1
+tensor(-11.7198)
+___
+/m/01trhmt	/m/0pzpz	/m/01trhmt	/m/01trhmt
+NO_OP	/music/artist/origin	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-11.8601)
+___
+/m/01trhmt	/m/0pzpz	/m/0f5xn	/m/0f5xn
+NO_OP	/music/artist/origin	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-11.8601)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-11.8749)
+___
+/m/01trhmt	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+NO_OP	/film/actor/film./film/performance/film	/film/film/country
+-1
+tensor(-11.8980)
+___
+/m/01trhmt	/m/02x_h0	/m/09nqf	/m/09nqf
+NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-11.9064)
+___
+/m/01trhmt	/m/02d9k	/m/09nqf	/m/09nqf
+NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-11.9226)
+___
+/m/01trhmt	/m/04xrx	/m/01l1b90	/m/01l1b90
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.9303)
+___
+/m/01trhmt	/m/04xrx	/m/025n3p	/m/025n3p
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.9303)
+___
+/m/01trhmt	/m/04xrx	/m/0f7hc	/m/0f7hc
+NO_OP	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-11.9303)
+___
+/m/01trhmt	/m/0cqt90	/m/09nqf	/m/09nqf
+NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-11.9453)
+___
+#####################

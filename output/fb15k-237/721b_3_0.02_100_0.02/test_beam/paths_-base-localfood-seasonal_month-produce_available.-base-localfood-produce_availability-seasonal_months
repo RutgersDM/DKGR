@@ -1,0 +1,1509 @@
+/m/040fb	/m/02xx5
+Reward:0
+/m/0g6xq	/m/0g6xq	/m/0g6xq	/m/0g6xq
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-8.3095)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-8.3934)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-8.7154)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.7229)
+___
+/m/0g6xq	/m/0g6xq	/m/03_ly	/m/03_ly
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-8.7257)
+___
+/m/0g6xq	/m/0g6xq	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-8.7257)
+___
+/m/0g6xq	/m/0g6xq	/m/040fb	/m/040fb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-8.7257)
+___
+/m/049d1	/m/049d1	/m/049d1	/m/049d1
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.1656)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.2496)
+___
+/m/0177z	/m/0177z	/m/0177z	/m/0177z
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.2997)
+___
+/m/0177z	/m/0177z	/m/0154j	/m/0154j
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.3837)
+___
+/m/02sn34	/m/02sn34	/m/02sn34	/m/02sn34
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.3908)
+___
+/m/03902	/m/03902	/m/03902	/m/03902
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.4519)
+___
+/m/049d1	/m/049d1	/m/01pcql	/m/01pcql
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.4679)
+___
+/m/02sn34	/m/02sn34	/m/06bnz	/m/06bnz
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.4747)
+___
+/m/049d1	/m/049d1	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.5217)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/country/capital
+-1
+tensor(-9.5496)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.5716)
+___
+/m/049d1	/m/049d1	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5818)
+___
+/m/049d1	/m/049d1	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.5818)
+___
+/m/049d1	/m/049d1	/m/040fb	/m/040fb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5818)
+___
+/m/049d1	/m/049d1	/m/03_ly	/m/03_ly
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5818)
+___
+/m/0177z	/m/0177z	/m/0154j	/m/0154j
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/administrative_division/country
+-1
+tensor(-9.5977)
+___
+/m/0177z	/m/0177z	/m/02llzg	/m/02llzg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/time_zones
+-1
+tensor(-9.6532)
+___
+/m/049d1	/m/049d1	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.6841)
+___
+/m/02sn34	/m/02sn34	/m/0127gn	/m/0127gn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.6930)
+___
+/m/02sn34	/m/02sn34	/m/0151ns	/m/0151ns
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.6930)
+___
+/m/02sn34	/m/02sn34	/m/05bxwh	/m/05bxwh
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.6930)
+___
+/m/0177z	/m/0177z	/m/0154j	/m/0154j
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.7057)
+___
+/m/0177z	/m/0177z	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.7159)
+___
+/m/0177z	/m/0177z	/m/03_ly	/m/03_ly
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.7159)
+___
+/m/0177z	/m/0177z	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.7159)
+___
+/m/0177z	/m/0177z	/m/040fb	/m/040fb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.7159)
+___
+/m/03902	/m/03902	/m/01qq_lp	/m/01qq_lp
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.7542)
+___
+/m/03902	/m/03902	/m/07ym0	/m/07ym0
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.7542)
+___
+/m/02sn34	/m/02sn34	/m/07t21	/m/07t21
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.7967)
+___
+/m/03902	/m/03902	/m/01y888	/m/01y888
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/contains
+-1
+tensor(-9.7987)
+___
+/m/02sn34	/m/02sn34	/m/07t21	/m/07t21
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-9.8042)
+___
+/m/02sn34	/m/02sn34	/m/03_ly	/m/03_ly
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8070)
+___
+/m/02sn34	/m/02sn34	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.8070)
+___
+/m/02sn34	/m/02sn34	/m/040fb	/m/040fb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8070)
+___
+/m/03902	/m/03902	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.8080)
+___
+/m/0177z	/m/0177z	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.8181)
+___
+/m/02sn34	/m/02sn34	/m/0pqc5	/m/0pqc5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-9.8227)
+___
+/m/049d1	/m/049d1	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.8402)
+___
+/m/03902	/m/03902	/m/040db	/m/040db
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.8478)
+___
+/m/03902	/m/03902	/m/06mzp	/m/06mzp
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.8579)
+___
+/m/03902	/m/03902	/m/03_ly	/m/03_ly
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8682)
+___
+/m/03902	/m/03902	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8682)
+___
+/m/03902	/m/03902	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.8682)
+___
+/m/03902	/m/03902	/m/040fb	/m/040fb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8682)
+___
+/m/03902	/m/03902	/m/0pqc5	/m/0pqc5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-9.8838)
+___
+/m/049d1	/m/049d1	/m/02_p8v	/m/02_p8v
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-9.8986)
+___
+/m/02sn34	/m/02sn34	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.9092)
+___
+/m/01lfy	/m/01lfy	/m/01lfy	/m/01lfy
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.9417)
+___
+/m/0177z	/m/0177z	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.9743)
+___
+/m/0177z	/m/0177z	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.9743)
+___
+/m/0177z	/m/0177z	/m/01bjv	/m/01bjv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.9743)
+___
+/m/01lfy	/m/01lfy	/m/0k6nt	/m/0k6nt
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-10.0257)
+___
+/m/0177z	/m/0177z	/m/067pl7	/m/067pl7
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-10.0327)
+___
+/m/02sn34	/m/02sn34	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.0653)
+___
+/m/02sn34	/m/02sn34	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.0653)
+___
+/m/02sn34	/m/02sn34	/m/0cj2k3	/m/0cj2k3
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-10.1237)
+___
+/m/02sn34	/m/02sn34	/m/0151ns	/m/0151ns
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-10.1237)
+___
+/m/02sn34	/m/02sn34	/m/0127gn	/m/0127gn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-10.1237)
+___
+/m/03902	/m/03902	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.1265)
+___
+/m/03902	/m/03902	/m/01bjv	/m/01bjv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.1265)
+___
+/m/03902	/m/03902	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.1265)
+___
+/m/049d1	/m/049d1	/m/01__z0	/m/01__z0
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-10.1395)
+___
+/m/05lf_	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.1694)
+___
+/m/05lf_	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.1694)
+___
+/m/03902	/m/03902	/m/0420y	/m/0420y
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-10.1849)
+___
+/m/06vkl	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2304)
+___
+/m/06vkl	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2304)
+___
+/m/0g6xq	/m/040fb	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2316)
+___
+/m/0g6xq	/m/040fb	/m/03_ly	/m/03_ly
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2316)
+___
+/m/05cw8	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2333)
+___
+/m/05cw8	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2333)
+___
+/m/01lfy	/m/01lfy	/m/0k6nt	/m/0k6nt
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/administrative_division/country
+-1
+tensor(-10.2397)
+___
+/m/01lfy	/m/01lfy	/m/0807ml	/m/0807ml
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-10.2440)
+___
+/m/01lfy	/m/01lfy	/m/020hh3	/m/020hh3
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-10.2440)
+___
+/m/01lfy	/m/01lfy	/m/07h1h5	/m/07h1h5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-10.2440)
+___
+/m/0ll3	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2507)
+___
+/m/0ll3	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2507)
+___
+/m/0lkm	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2624)
+___
+/m/0lkm	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2624)
+___
+/m/028kb	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2727)
+___
+/m/028kb	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2727)
+___
+/m/0177z	/m/0177z	/m/041288	/m/041288
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-10.2736)
+___
+/m/0177z	/m/0177z	/m/02jxk	/m/02jxk
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-10.2736)
+___
+/m/0177z	/m/0177z	/m/059dn	/m/059dn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-10.2736)
+___
+/m/05lf_	/m/040fv	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2808)
+___
+/m/05lf_	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-10.2808)
+___
+/m/01lfy	/m/01lfy	/m/017ztv	/m/017ztv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/contains
+-1
+tensor(-10.2884)
+___
+/m/01lfy	/m/01lfy	/m/02llzg	/m/02llzg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/time_zones
+-1
+tensor(-10.2953)
+___
+/m/05lf_	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.2970)
+___
+/m/01lfy	/m/01lfy	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-10.2978)
+___
+/m/04wzr	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.3003)
+___
+/m/04wzr	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-10.3003)
+___
+/m/05lf_	/m/040fb	/m/040fb	/m/040fb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-10.3214)
+___
+#####################
+/m/028kb	/m/040fv
+Reward:1
+/m/0g6xq	/m/0g6xq	/m/0g6xq	/m/0g6xq
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-8.2711)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-8.3551)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-8.6771)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.6846)
+___
+/m/0g6xq	/m/0g6xq	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-8.6874)
+___
+/m/0g6xq	/m/0g6xq	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-8.6874)
+___
+/m/0h3tv	/m/0h3tv	/m/0h3tv	/m/0h3tv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-8.7380)
+___
+/m/0h3tv	/m/0h3tv	/m/06mkj	/m/06mkj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-8.8219)
+___
+/m/03khn	/m/0c75w	/m/0c75w	/m/0c75w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-8.9822)
+___
+/m/03khn	/m/0c75w	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-9.0600)
+___
+/m/03khn	/m/03khn	/m/03khn	/m/03khn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.0686)
+___
+/m/0h3tv	/m/0h3tv	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.0941)
+___
+/m/0h3tv	/m/0h3tv	/m/01bl8s	/m/01bl8s
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.0941)
+___
+/m/049d1	/m/049d1	/m/049d1	/m/049d1
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.1044)
+___
+/m/0h3tv	/m/01bl8s	/m/01bl8s	/m/01bl8s
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	NO_OP
+-1
+tensor(-9.1334)
+___
+/m/03khn	/m/0c75w	/m/03khn	/m/03khn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.1474)
+___
+/m/0h3tv	/m/0h3tv	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.1542)
+___
+/m/0h3tv	/m/0h3tv	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.1542)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.1883)
+___
+/m/03khn	/m/03khn	/m/0c75w	/m/0c75w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.2469)
+___
+/m/05l64	/m/05l64	/m/05l64	/m/05l64
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.2523)
+___
+/m/0h3tv	/m/0h3tv	/m/01njml	/m/01njml
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/sports/sports_team_location/teams
+-1
+tensor(-9.2545)
+___
+/m/0h3tv	/m/0h3tv	/m/080_y	/m/080_y
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/sports/sports_team_location/teams
+-1
+tensor(-9.2545)
+___
+/m/0h3tv	/m/0h3tv	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.2564)
+___
+/m/0h3tv	/m/01bl8s	/m/0cvw9	/m/0cvw9
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.2825)
+___
+/m/0h3tv	/m/01bl8s	/m/0h3tv	/m/0h3tv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.2825)
+___
+/m/0h3tv	/m/01bl8s	/m/0hsqf	/m/0hsqf
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.2825)
+___
+/m/0h3tv	/m/0h3tv	/m/019pm_	/m/019pm_
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-9.2997)
+___
+/m/03khn	/m/0c75w	/m/03plfd	/m/03plfd
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/time_zones
+-1
+tensor(-9.3097)
+___
+/m/05l64	/m/05l64	/m/05b4w	/m/05b4w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.3363)
+___
+/m/03khn	/m/0c75w	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/biblioness/bibs_location/country
+-1
+tensor(-9.3583)
+___
+/m/03khn	/m/03khn	/m/0lgxj	/m/0lgxj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/time/event/locations
+-1
+tensor(-9.3602)
+___
+/m/049d1	/m/049d1	/m/01pcql	/m/01pcql
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.4067)
+___
+/m/0fn2g	/m/0fn2g	/m/0fn2g	/m/0fn2g
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.4106)
+___
+/m/03902	/m/03902	/m/03902	/m/03902
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.4260)
+___
+/m/03khn	/m/03khn	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/country/capital
+-1
+tensor(-9.4525)
+___
+/m/049d1	/m/049d1	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.4605)
+___
+/m/03khn	/m/0c75w	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.4625)
+___
+/m/03khn	/m/03khn	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.4745)
+___
+/m/03khn	/m/03khn	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.4848)
+___
+/m/03khn	/m/03khn	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.4848)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/country/capital
+-1
+tensor(-9.4883)
+___
+/m/03khn	/m/0c75w	/m/03khn	/m/03khn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.5072)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.5103)
+___
+/m/049d1	/m/049d1	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5206)
+___
+/m/049d1	/m/049d1	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.5206)
+___
+/m/0h3tv	/m/01bl8s	/m/08433	/m/08433
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.5223)
+___
+/m/0h3tv	/m/01bl8s	/m/01w9ph_	/m/01w9ph_
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.5223)
+___
+/m/0h3tv	/m/01bl8s	/m/085q5	/m/085q5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.5223)
+___
+/m/0h3tv	/m/01bl8s	/m/019fz	/m/019fz
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.5223)
+___
+/m/0h3tv	/m/01bl8s	/m/03mv0b	/m/03mv0b
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.5223)
+___
+/m/05l64	/m/05l64	/m/05b4w	/m/05b4w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/administrative_division/country
+-1
+tensor(-9.5503)
+___
+/m/03khn	/m/03khn	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.5870)
+___
+/m/05l64	/m/05l64	/m/02llzg	/m/02llzg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/time_zones
+-1
+tensor(-9.6058)
+___
+/m/05l64	/m/05l64	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.6084)
+___
+/m/049d1	/m/049d1	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.6228)
+___
+/m/03khn	/m/03khn	/m/0c75w	/m/0c75w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.6354)
+___
+/m/05l64	/m/05l64	/m/03pm9	/m/03pm9
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.6482)
+___
+/m/05l64	/m/05l64	/m/05b4w	/m/05b4w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.6583)
+___
+/m/05l64	/m/05l64	/m/05b4w	/m/05b4w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-9.6658)
+___
+/m/05l64	/m/05l64	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.6685)
+___
+/m/0fn2g	/m/0fn2g	/m/07f1x	/m/07f1x
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/administrative_division/country
+-1
+tensor(-9.7086)
+___
+/m/03902	/m/03902	/m/01qq_lp	/m/01qq_lp
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.7283)
+___
+/m/03902	/m/03902	/m/07ym0	/m/07ym0
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.7283)
+___
+/m/03khn	/m/03khn	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.7431)
+___
+/m/03khn	/m/03khn	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.7431)
+___
+/m/03khn	/m/03khn	/m/01bjv	/m/01bjv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.7431)
+___
+/m/0fn2g	/m/0fn2g	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.7667)
+___
+/m/03902	/m/03902	/m/01y888	/m/01y888
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/contains
+-1
+tensor(-9.7728)
+___
+/m/049d1	/m/049d1	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.7789)
+___
+/m/03902	/m/03902	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.7822)
+___
+/m/03khn	/m/0c75w	/m/05b5c	/m/05b5c
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/organization/organization/place_founded
+-1
+tensor(-9.7899)
+___
+/m/05l64	/m/05l64	/m/016t0h	/m/016t0h
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/music/artist/origin
+-1
+tensor(-9.7931)
+___
+/m/0fn2g	/m/0fn2g	/m/07f1x	/m/07f1x
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/country/capital
+-1
+tensor(-9.7946)
+___
+/m/0fn2g	/m/0fn2g	/m/06kbb6	/m/06kbb6
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.8065)
+___
+/m/0fn2g	/m/0fn2g	/m/01cqz5	/m/01cqz5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.8065)
+___
+/m/05l64	/m/05l64	/m/0320jz	/m/0320jz
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-9.8141)
+___
+/m/0fn2g	/m/0fn2g	/m/07f1x	/m/07f1x
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.8166)
+___
+/m/03902	/m/03902	/m/040db	/m/040db
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.8219)
+___
+/m/0fn2g	/m/0fn2g	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.8269)
+___
+/m/0fn2g	/m/0fn2g	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8269)
+___
+/m/03902	/m/03902	/m/06mzp	/m/06mzp
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.8320)
+___
+/m/049d1	/m/049d1	/m/02_p8v	/m/02_p8v
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-9.8373)
+___
+/m/03902	/m/03902	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8423)
+___
+/m/03902	/m/03902	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.8423)
+___
+/m/03902	/m/03902	/m/0pqc5	/m/0pqc5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-9.8579)
+___
+/m/0fn2g	/m/0fn2g	/m/0192hw	/m/0192hw
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/film/film/featured_film_locations
+-1
+tensor(-9.8612)
+___
+/m/03khn	/m/0c75w	/m/05b5c	/m/05b5c
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-9.8844)
+___
+/m/05l64	/m/05l64	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.9269)
+___
+/m/0fn2g	/m/0fn2g	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.9291)
+___
+/m/01lfy	/m/01lfy	/m/01lfy	/m/01lfy
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.9960)
+___
+/m/03khn	/m/03khn	/m/01g6l8	/m/01g6l8
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-10.0425)
+___
+/m/049d1	/m/049d1	/m/01__z0	/m/01__z0
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-10.0783)
+___
+/m/01lfy	/m/01lfy	/m/0k6nt	/m/0k6nt
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-10.0799)
+___
+/m/0fn2g	/m/0fn2g	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.0852)
+___
+/m/0fn2g	/m/0fn2g	/m/01bjv	/m/01bjv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.0852)
+___
+/m/0fn2g	/m/0fn2g	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.0852)
+___
+/m/03902	/m/03902	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.1006)
+___
+/m/03902	/m/03902	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.1006)
+___
+/m/03902	/m/03902	/m/01bjv	/m/01bjv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-10.1006)
+___
+#####################
+/m/040fv	/m/028kb
+Reward:1
+/m/0g6xq	/m/0g6xq	/m/0g6xq	/m/0g6xq
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-8.3373)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-8.4213)
+___
+/m/0h3tv	/m/0h3tv	/m/0h3tv	/m/0h3tv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-8.6627)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-8.7433)
+___
+/m/0h3tv	/m/0h3tv	/m/06mkj	/m/06mkj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-8.7466)
+___
+/m/0g6xq	/m/0g6xq	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.7508)
+___
+/m/0g6xq	/m/0g6xq	/m/05cw8	/m/05cw8
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-8.7536)
+___
+/m/0g6xq	/m/0g6xq	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-8.7536)
+___
+/m/0g6xq	/m/0g6xq	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-8.7536)
+___
+/m/03khn	/m/0c75w	/m/0c75w	/m/0c75w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-8.9148)
+___
+/m/03khn	/m/0c75w	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9926)
+___
+/m/0h3tv	/m/0h3tv	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.0188)
+___
+/m/0h3tv	/m/0h3tv	/m/01bl8s	/m/01bl8s
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.0188)
+___
+/m/0h3tv	/m/01bl8s	/m/01bl8s	/m/01bl8s
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	NO_OP
+-1
+tensor(-9.0646)
+___
+/m/0h3tv	/m/0h3tv	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.0789)
+___
+/m/0h3tv	/m/0h3tv	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.0789)
+___
+/m/03khn	/m/0c75w	/m/03khn	/m/03khn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0800)
+___
+/m/049d1	/m/049d1	/m/049d1	/m/049d1
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.1298)
+___
+/m/03khn	/m/03khn	/m/03khn	/m/03khn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.1494)
+___
+/m/0h3tv	/m/0h3tv	/m/01njml	/m/01njml
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/sports/sports_team_location/teams
+-1
+tensor(-9.1792)
+___
+/m/0h3tv	/m/0h3tv	/m/080_y	/m/080_y
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/sports/sports_team_location/teams
+-1
+tensor(-9.1792)
+___
+/m/0h3tv	/m/0h3tv	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.1811)
+___
+/m/0h3tv	/m/01bl8s	/m/0h3tv	/m/0h3tv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.2137)
+___
+/m/0h3tv	/m/01bl8s	/m/0hsqf	/m/0hsqf
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.2137)
+___
+/m/0h3tv	/m/01bl8s	/m/0cvw9	/m/0cvw9
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.2137)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.2138)
+___
+/m/0h3tv	/m/0h3tv	/m/019pm_	/m/019pm_
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-9.2244)
+___
+/m/03khn	/m/0c75w	/m/03plfd	/m/03plfd
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/time_zones
+-1
+tensor(-9.2424)
+___
+/m/0177z	/m/0177z	/m/0177z	/m/0177z
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.2594)
+___
+/m/03khn	/m/0c75w	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/biblioness/bibs_location/country
+-1
+tensor(-9.2909)
+___
+/m/03khn	/m/03khn	/m/0c75w	/m/0c75w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.3278)
+___
+/m/0177z	/m/0177z	/m/0154j	/m/0154j
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.3433)
+___
+/m/03khn	/m/0c75w	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.3951)
+___
+/m/03902	/m/03902	/m/03902	/m/03902
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.4192)
+___
+/m/049d1	/m/049d1	/m/01pcql	/m/01pcql
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.4322)
+___
+/m/03khn	/m/0c75w	/m/03khn	/m/03khn
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.4399)
+___
+/m/03khn	/m/03khn	/m/0lgxj	/m/0lgxj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/time/event/locations
+-1
+tensor(-9.4411)
+___
+/m/0h3tv	/m/01bl8s	/m/019fz	/m/019fz
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.4535)
+___
+/m/0h3tv	/m/01bl8s	/m/01w9ph_	/m/01w9ph_
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.4535)
+___
+/m/0h3tv	/m/01bl8s	/m/03mv0b	/m/03mv0b
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.4535)
+___
+/m/0h3tv	/m/01bl8s	/m/08433	/m/08433
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.4535)
+___
+/m/0h3tv	/m/01bl8s	/m/085q5	/m/085q5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.4535)
+___
+/m/0fn2g	/m/0fn2g	/m/0fn2g	/m/0fn2g
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.4699)
+___
+/m/049d1	/m/049d1	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.4860)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/country/capital
+-1
+tensor(-9.5139)
+___
+/m/03khn	/m/03khn	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/country/capital
+-1
+tensor(-9.5334)
+___
+/m/049d1	/m/049d1	/m/09pmkv	/m/09pmkv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.5359)
+___
+/m/049d1	/m/049d1	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5461)
+___
+/m/049d1	/m/049d1	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.5461)
+___
+/m/049d1	/m/049d1	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5461)
+___
+/m/03khn	/m/03khn	/m/02vzc	/m/02vzc
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.5554)
+___
+/m/0177z	/m/0177z	/m/0154j	/m/0154j
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/administrative_division/country
+-1
+tensor(-9.5573)
+___
+/m/03khn	/m/03khn	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5657)
+___
+/m/03khn	/m/03khn	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5657)
+___
+/m/03khn	/m/03khn	/m/05cw8	/m/05cw8
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.5657)
+___
+/m/03khn	/m/03khn	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.5657)
+___
+/m/0177z	/m/0177z	/m/02llzg	/m/02llzg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/time_zones
+-1
+tensor(-9.6129)
+___
+/m/049d1	/m/049d1	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.6484)
+___
+/m/0177z	/m/0177z	/m/0154j	/m/0154j
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.6653)
+___
+/m/03khn	/m/03khn	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.6679)
+___
+/m/0177z	/m/0177z	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.6756)
+___
+/m/0177z	/m/0177z	/m/05cw8	/m/05cw8
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.6756)
+___
+/m/0177z	/m/0177z	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.6756)
+___
+/m/03khn	/m/03khn	/m/0c75w	/m/0c75w
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.7162)
+___
+/m/03902	/m/03902	/m/07ym0	/m/07ym0
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.7215)
+___
+/m/03902	/m/03902	/m/01qq_lp	/m/01qq_lp
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.7215)
+___
+/m/03khn	/m/0c75w	/m/05b5c	/m/05b5c
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/organization/organization/place_founded
+-1
+tensor(-9.7226)
+___
+/m/03902	/m/03902	/m/01y888	/m/01y888
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/location/contains
+-1
+tensor(-9.7659)
+___
+/m/0fn2g	/m/0fn2g	/m/07f1x	/m/07f1x
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/administrative_division/country
+-1
+tensor(-9.7678)
+___
+/m/03902	/m/03902	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.7753)
+___
+/m/0177z	/m/0177z	/m/08mbj5d	/m/08mbj5d
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.7778)
+___
+/m/049d1	/m/049d1	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.8045)
+___
+/m/03902	/m/03902	/m/040db	/m/040db
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.8151)
+___
+/m/03khn	/m/0c75w	/m/05b5c	/m/05b5c
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-9.8170)
+___
+/m/03khn	/m/03khn	/m/01bjv	/m/01bjv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.8240)
+___
+/m/03khn	/m/03khn	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.8240)
+___
+/m/03khn	/m/03khn	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.8240)
+___
+/m/03902	/m/03902	/m/06mzp	/m/06mzp
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.8252)
+___
+/m/0fn2g	/m/0fn2g	/m/04ztj	/m/04ztj
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-9.8260)
+___
+/m/03902	/m/03902	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8355)
+___
+/m/03902	/m/03902	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8355)
+___
+/m/03902	/m/03902	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.8355)
+___
+/m/08966	/m/08966	/m/08966	/m/08966
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	NO_OP
+-1
+tensor(-9.8409)
+___
+/m/03902	/m/03902	/m/0pqc5	/m/0pqc5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-9.8511)
+___
+/m/0fn2g	/m/0fn2g	/m/07f1x	/m/07f1x
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/country/capital
+-1
+tensor(-9.8538)
+___
+/m/049d1	/m/049d1	/m/02_p8v	/m/02_p8v
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-9.8629)
+___
+/m/0fn2g	/m/0fn2g	/m/01cqz5	/m/01cqz5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.8658)
+___
+/m/0fn2g	/m/0fn2g	/m/06kbb6	/m/06kbb6
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-9.8658)
+___
+/m/0fn2g	/m/0fn2g	/m/07f1x	/m/07f1x
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-9.8758)
+___
+/m/0fn2g	/m/0fn2g	/m/040fv	/m/040fv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8861)
+___
+/m/0fn2g	/m/0fn2g	/m/028kb	/m/028kb
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+1
+tensor(-9.8861)
+___
+/m/0fn2g	/m/0fn2g	/m/05cw8	/m/05cw8
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8861)
+___
+/m/0fn2g	/m/0fn2g	/m/02xx5	/m/02xx5
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-9.8861)
+___
+/m/0fn2g	/m/0fn2g	/m/0192hw	/m/0192hw
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/film/film/featured_film_locations
+-1
+tensor(-9.9205)
+___
+/m/08966	/m/08966	/m/06mzp	/m/06mzp
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.9249)
+___
+/m/08966	/m/08966	/m/01kk32	/m/01kk32
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	_/location/location/contains
+-1
+tensor(-9.9249)
+___
+/m/0177z	/m/0177z	/m/07jdr	/m/07jdr
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.9339)
+___
+/m/0177z	/m/0177z	/m/025t3bg	/m/025t3bg
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.9339)
+___
+/m/0177z	/m/0177z	/m/01bjv	/m/01bjv
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-9.9339)
+___
+/m/08966	/m/08966	/m/01kk32	/m/01kk32
+_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	NO_OP	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-9.9505)
+___
+#####################

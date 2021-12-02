@@ -1,0 +1,3521 @@
+/m/0r8c8	/m/0l38x
+Reward:0
+/m/046_v	/m/03g9xj	/m/02h40lc	/m/02h40lc
+_/people/deceased_person/place_of_death	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	/tv/tv_program/languages
+-1
+tensor(-2.9971)
+___
+/m/046_v	/m/0cc56	/m/0cc56	/m/0cc56
+_/people/deceased_person/place_of_death	/people/person/places_lived./people/place_lived/location	_/location/us_county/county_seat
+-1
+tensor(-3.2552)
+___
+/m/046_v	/m/0bc1yhb	/m/02h40lc	/m/02h40lc
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-3.6854)
+___
+/m/046_v	/m/0r8c8	/m/046_v	/m/046_v
+_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death	_/people/deceased_person/place_of_death
+-1
+tensor(-3.7518)
+___
+/m/046_v	/m/0cc56	/m/0cc56	/m/0cc56
+_/people/deceased_person/place_of_death	/people/person/places_lived./people/place_lived/location	/location/us_county/county_seat
+-1
+tensor(-3.8007)
+___
+/m/046_v	/m/02_286	/m/0cc56	/m/0cc56
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.9735)
+___
+/m/046_v	/m/057lbk	/m/02h40lc	/m/02h40lc
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.0469)
+___
+/m/046_v	/m/0cc846d	/m/05f_3	/m/05f_3
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.0878)
+___
+/m/046_v	/m/0r8c8	/m/0r8c8	/m/0r8c8
+_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death	NO_OP
+-1
+tensor(-4.1373)
+___
+/m/046_v	/m/0r8c8	/m/09c7w0	/m/09c7w0
+_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death	/base/biblioness/bibs_location/country
+-1
+tensor(-4.2807)
+___
+/m/0r8c8	/m/046_v	/m/041rx	/m/041rx
+NO_OP	_/people/deceased_person/place_of_death	_/people/ethnicity/people
+-1
+tensor(-4.2927)
+___
+/m/046_v	/m/024mpp	/m/02h40lc	/m/02h40lc
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.3534)
+___
+/m/046_v	/m/024mpp	/m/06nm1	/m/06nm1
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.3534)
+___
+/m/0r8c8	/m/0r8c8	/m/046_v	/m/046_v
+NO_OP	NO_OP	_/people/deceased_person/place_of_death
+-1
+tensor(-4.4585)
+___
+/m/0r8c8	/m/046_v	/m/0yxl	/m/0yxl
+NO_OP	_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by
+-1
+tensor(-4.4991)
+___
+/m/0r8c8	/m/0r8c8	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-4.5329)
+___
+/m/046_v	/m/05qbckf	/m/02h40lc	/m/02h40lc
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.5792)
+___
+/m/046_v	/m/05qbckf	/m/064_8sq	/m/064_8sq
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.5792)
+___
+/m/046_v	/m/05qbckf	/m/06b_j	/m/06b_j
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.5792)
+___
+/m/0r8c8	/m/046_v	/m/0cc56	/m/0cc56
+NO_OP	_/people/deceased_person/place_of_death	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.5917)
+___
+/m/046_v	/m/09sh8k	/m/03_9r	/m/03_9r
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.7166)
+___
+/m/046_v	/m/09sh8k	/m/01r2l	/m/01r2l
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.7166)
+___
+/m/046_v	/m/09sh8k	/m/0jzc	/m/0jzc
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/language
+-1
+tensor(-4.7166)
+___
+/m/046_v	/m/062zjtt	/m/01hmnh	/m/01hmnh
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-4.7211)
+___
+/m/046_v	/m/062zjtt	/m/0btmb	/m/0btmb
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-4.7211)
+___
+/m/046_v	/m/062zjtt	/m/02kdv5l	/m/02kdv5l
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-4.7211)
+___
+/m/046_v	/m/062zjtt	/m/03k9fj	/m/03k9fj
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-4.7211)
+___
+/m/0r8c8	/m/0r8c8	/m/0r8c8	/m/0r8c8
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-4.7249)
+___
+/m/046_v	/m/0yxl	/m/0fb1q	/m/0fb1q
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	_/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant
+-1
+tensor(-4.7601)
+___
+/m/0r8c8	/m/046_v	/m/02_286	/m/02_286
+NO_OP	_/people/deceased_person/place_of_death	/people/person/place_of_birth
+-1
+tensor(-4.8757)
+___
+/m/046_v	/m/0bc1yhb	/m/06n90	/m/06n90
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-4.9601)
+___
+/m/046_v	/m/0bc1yhb	/m/02xlf	/m/02xlf
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-4.9601)
+___
+/m/046_v	/m/046_v	/m/041rx	/m/041rx
+_/people/deceased_person/place_of_death	NO_OP	_/people/ethnicity/people
+-1
+tensor(-5.0133)
+___
+/m/09c7w0	/m/015zyd	/m/09nqf	/m/09nqf
+/base/biblioness/bibs_location/country	_/organization/organization/headquarters./location/mailing_address/country	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.1688)
+___
+/m/046_v	/m/046_v	/m/0yxl	/m/0yxl
+_/people/deceased_person/place_of_death	NO_OP	_/influence/influence_node/influenced_by
+-1
+tensor(-5.2198)
+___
+/m/046_v	/m/046_v	/m/0cc56	/m/0cc56
+_/people/deceased_person/place_of_death	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.2633)
+___
+/m/046_v	/m/057lbk	/m/02kdv5l	/m/02kdv5l
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3387)
+___
+/m/046_v	/m/057lbk	/m/01hmnh	/m/01hmnh
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3387)
+___
+/m/046_v	/m/057lbk	/m/06n90	/m/06n90
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3387)
+___
+/m/046_v	/m/057lbk	/m/04pbhw	/m/04pbhw
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3387)
+___
+/m/046_v	/m/0cc846d	/m/01jfsb	/m/01jfsb
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3796)
+___
+/m/046_v	/m/0cc846d	/m/06n90	/m/06n90
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3796)
+___
+/m/046_v	/m/0cc846d	/m/04pbhw	/m/04pbhw
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3796)
+___
+/m/046_v	/m/0cc846d	/m/02kdv5l	/m/02kdv5l
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.3796)
+___
+/m/046_v	/m/0yxl	/m/06196	/m/06196
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-5.4369)
+___
+/m/046_v	/m/0yxl	/m/039yzf	/m/039yzf
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-5.4369)
+___
+/m/09c7w0	/m/050l8	/m/0fvxg	/m/0fvxg
+/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-5.4922)
+___
+/m/09c7w0	/m/039c26	/m/02h40lc	/m/02h40lc
+/base/biblioness/bibs_location/country	_/tv/tv_program/country_of_origin	/tv/tv_program/languages
+-1
+tensor(-5.5397)
+___
+/m/09c7w0	/m/02rzdcp	/m/02h40lc	/m/02h40lc
+/base/biblioness/bibs_location/country	_/tv/tv_program/country_of_origin	/tv/tv_program/languages
+-1
+tensor(-5.5397)
+___
+/m/046_v	/m/0yxl	/m/01_k0d	/m/01_k0d
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.5413)
+___
+/m/09c7w0	/m/0d68qy	/m/02h40lc	/m/02h40lc
+/base/biblioness/bibs_location/country	_/tv/tv_program/country_of_origin	/tv/tv_program/languages
+-1
+tensor(-5.5414)
+___
+/m/046_v	/m/0r8c8	/m/01n7q	/m/01n7q
+_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death	_/location/location/contains
+-1
+tensor(-5.5560)
+___
+/m/046_v	/m/0yxl	/m/02w7gg	/m/02w7gg
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	_/people/ethnicity/people
+-1
+tensor(-5.6288)
+___
+/m/046_v	/m/024mpp	/m/03k9fj	/m/03k9fj
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.6452)
+___
+/m/046_v	/m/024mpp	/m/02kdv5l	/m/02kdv5l
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.6452)
+___
+/m/046_v	/m/024mpp	/m/06n90	/m/06n90
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.6452)
+___
+/m/0r8c8	/m/046_v	/m/024mpp	/m/024mpp
+NO_OP	_/people/deceased_person/place_of_death	_/film/film/story_by
+-1
+tensor(-5.6511)
+___
+/m/0r8c8	/m/046_v	/m/0bc1yhb	/m/0bc1yhb
+NO_OP	_/people/deceased_person/place_of_death	_/film/film/story_by
+-1
+tensor(-5.6511)
+___
+/m/0r8c8	/m/046_v	/m/062zjtt	/m/062zjtt
+NO_OP	_/people/deceased_person/place_of_death	_/film/film/story_by
+-1
+tensor(-5.6511)
+___
+/m/0r8c8	/m/046_v	/m/05qbckf	/m/05qbckf
+NO_OP	_/people/deceased_person/place_of_death	_/film/film/story_by
+-1
+tensor(-5.6511)
+___
+/m/0r8c8	/m/046_v	/m/09sh8k	/m/09sh8k
+NO_OP	_/people/deceased_person/place_of_death	_/film/film/story_by
+-1
+tensor(-5.6511)
+___
+/m/0r8c8	/m/046_v	/m/0cc846d	/m/0cc846d
+NO_OP	_/people/deceased_person/place_of_death	_/film/film/story_by
+-1
+tensor(-5.6511)
+___
+/m/0r8c8	/m/046_v	/m/057lbk	/m/057lbk
+NO_OP	_/people/deceased_person/place_of_death	_/film/film/story_by
+-1
+tensor(-5.6511)
+___
+/m/046_v	/m/02_286	/m/01rwpj	/m/01rwpj
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.6962)
+___
+/m/046_v	/m/02_286	/m/01cm8w	/m/01cm8w
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.6962)
+___
+/m/046_v	/m/01l2m3	/m/0dcp_	/m/0dcp_
+_/people/deceased_person/place_of_death	_/people/cause_of_death/people	/medicine/symptom/symptom_of
+-1
+tensor(-5.6995)
+___
+/m/046_v	/m/0yxl	/m/01_k0d	/m/01_k0d
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.7389)
+___
+/m/046_v	/m/0yxl	/m/07rd7	/m/07rd7
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.7389)
+___
+/m/046_v	/m/0yxl	/m/05jm7	/m/05jm7
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	_/influence/influence_node/influenced_by
+-1
+tensor(-5.7389)
+___
+/m/046_v	/m/046_v	/m/02_286	/m/02_286
+_/people/deceased_person/place_of_death	NO_OP	/people/person/place_of_birth
+-1
+tensor(-5.7430)
+___
+/m/0r8c8	/m/01n7q	/m/09nqf	/m/09nqf
+NO_OP	_/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7501)
+___
+/m/046_v	/m/0yxl	/m/01_k0d	/m/01_k0d
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.7520)
+___
+/m/046_v	/m/05qbckf	/m/06n90	/m/06n90
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.8580)
+___
+/m/046_v	/m/05qbckf	/m/04pbhw	/m/04pbhw
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-5.8580)
+___
+/m/046_v	/m/0cc846d	/m/09nqf	/m/09nqf
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.9168)
+___
+/m/046_v	/m/02_286	/m/0y62n	/m/0y62n
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	/location/location/contains
+-1
+tensor(-5.9330)
+___
+/m/046_v	/m/02_286	/m/02sdwt	/m/02sdwt
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	/location/location/contains
+-1
+tensor(-5.9330)
+___
+/m/046_v	/m/02_286	/m/06182p	/m/06182p
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	/location/location/contains
+-1
+tensor(-5.9330)
+___
+/m/046_v	/m/02_286	/m/05bjp6	/m/05bjp6
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	/location/location/contains
+-1
+tensor(-5.9330)
+___
+/m/046_v	/m/02_286	/m/03bmmc	/m/03bmmc
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	/location/location/contains
+-1
+tensor(-5.9330)
+___
+/m/046_v	/m/02_286	/m/01jzyx	/m/01jzyx
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	/location/location/contains
+-1
+tensor(-5.9330)
+___
+/m/046_v	/m/0yxl	/m/06196	/m/06196
+_/people/deceased_person/place_of_death	_/influence/influence_node/influenced_by	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-5.9515)
+___
+/m/0r8c8	/m/046_v	/m/046_v	/m/046_v
+NO_OP	_/people/deceased_person/place_of_death	NO_OP
+-1
+tensor(-5.9583)
+___
+/m/046_v	/m/09sh8k	/m/04pbhw	/m/04pbhw
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-6.0085)
+___
+/m/046_v	/m/09sh8k	/m/0btmb	/m/0btmb
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-6.0085)
+___
+/m/046_v	/m/09sh8k	/m/02kdv5l	/m/02kdv5l
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-6.0085)
+___
+/m/046_v	/m/09sh8k	/m/06n90	/m/06n90
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/genre
+-1
+tensor(-6.0085)
+___
+/m/0r8c8	/m/0r8c8	/m/01n7q	/m/01n7q
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-6.0128)
+___
+/m/0r8c8	/m/046_v	/m/0r8c8	/m/0r8c8
+NO_OP	_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death
+-1
+tensor(-6.0150)
+___
+/m/0r8c8	/m/046_v	/m/09c7w0	/m/09c7w0
+NO_OP	_/people/deceased_person/place_of_death	/people/person/nationality
+-1
+tensor(-6.0801)
+___
+/m/09c7w0	/m/015zyd	/m/09nqf	/m/09nqf
+/base/biblioness/bibs_location/country	_/organization/organization/headquarters./location/mailing_address/country	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0885)
+___
+/m/09c7w0	/m/015zyd	/m/09nqf	/m/09nqf
+/base/biblioness/bibs_location/country	_/organization/organization/headquarters./location/mailing_address/country	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0978)
+___
+/m/046_v	/m/01l2m3	/m/01cdt5	/m/01cdt5
+_/people/deceased_person/place_of_death	_/people/cause_of_death/people	_/medicine/symptom/symptom_of
+-1
+tensor(-6.1350)
+___
+/m/0r8c8	/m/046_v	/m/05zppz	/m/05zppz
+NO_OP	_/people/deceased_person/place_of_death	/people/person/gender
+-1
+tensor(-6.1622)
+___
+/m/046_v	/m/024mpp	/m/09nqf	/m/09nqf
+_/people/deceased_person/place_of_death	_/film/film/story_by	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1824)
+___
+/m/046_v	/m/01l2m3	/m/0g9pc	/m/0g9pc
+_/people/deceased_person/place_of_death	_/people/cause_of_death/people	/medicine/disease/risk_factors
+-1
+tensor(-6.2339)
+___
+/m/046_v	/m/01l2m3	/m/0c58k	/m/0c58k
+_/people/deceased_person/place_of_death	_/people/cause_of_death/people	/medicine/disease/risk_factors
+-1
+tensor(-6.2339)
+___
+/m/046_v	/m/0r8c8	/m/01cwkq	/m/01cwkq
+_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death	_/people/person/place_of_birth
+-1
+tensor(-6.2537)
+___
+/m/046_v	/m/0r8c8	/m/07sgfvl	/m/07sgfvl
+_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death	_/people/person/place_of_birth
+-1
+tensor(-6.2537)
+___
+/m/0r8c8	/m/046_v	/m/01l2m3	/m/01l2m3
+NO_OP	_/people/deceased_person/place_of_death	_/people/cause_of_death/people
+-1
+tensor(-6.2592)
+___
+#####################
+/m/0mhdz	/m/0l2xl
+Reward:1
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-0.0309)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-3.9285)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-5.4736)
+___
+/m/0mhdz	/m/0f04v	/m/0l2xl	/m/0l2xl
+_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/us_county/county_seat
+1
+tensor(-6.2373)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-6.4229)
+___
+/m/0mhdz	/m/0f04v	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-6.4779)
+___
+/m/0mhdz	/m/01n7q	/m/09nqf	/m/09nqf
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.2839)
+___
+/m/0mhdz	/m/01n7q	/m/07bcn	/m/07bcn
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.9528)
+___
+/m/0mhdz	/m/0f04v	/m/0l2xl	/m/0l2xl
+_/location/hud_county_place/place	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/us_county/county_seat
+1
+tensor(-9.1908)
+___
+/m/0mhdz	/m/0mhdz	/m/01n7q	/m/01n7q
+_/location/hud_county_place/place	_/location/hud_county_place/place	/base/biblioness/bibs_location/state
+-1
+tensor(-9.2187)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-9.3698)
+___
+/m/0mhdz	/m/0f04v	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-9.6520)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-10.1419)
+___
+/m/0mhdz	/m/01n7q	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0mzww	/m/0mzww
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0jbrr	/m/0jbrr
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0r1jr	/m/0r1jr
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0k9p4	/m/0k9p4
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0b2ds	/m/0b2ds
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0r4wn	/m/0r4wn
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/015zxh	/m/015zxh
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0r4z7	/m/0r4z7
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/07bcn	/m/07bcn
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/01n7q	/m/0r1yc	/m/0r1yc
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.3576)
+___
+/m/0mhdz	/m/0mhdz	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-10.8231)
+___
+/m/01n7q	/m/07bcn	/m/0bxqq	/m/0bxqq
+/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat
+-1
+tensor(-11.1156)
+___
+/m/01n7q	/m/0r4wn	/m/0r4wn	/m/0r4wn
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.2249)
+___
+/m/01n7q	/m/0r4z7	/m/0r4z7	/m/0r4z7
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.2249)
+___
+/m/01n7q	/m/0r1yc	/m/0r1yc	/m/0r1yc
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.2249)
+___
+/m/01n7q	/m/0mzww	/m/0mzww	/m/0mzww
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.2249)
+___
+/m/01n7q	/m/0k9p4	/m/0k9p4	/m/0k9p4
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.2249)
+___
+/m/01n7q	/m/0b2ds	/m/0b2ds	/m/0b2ds
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.2250)
+___
+/m/01n7q	/m/015zxh	/m/01n7q	/m/01n7q
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-11.3885)
+___
+/m/01n7q	/m/0f04v	/m/0l2xl	/m/0l2xl
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+1
+tensor(-11.5846)
+___
+/m/01n7q	/m/0r1jr	/m/0l2hf	/m/0l2hf
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-11.5856)
+___
+/m/01n7q	/m/07bcn	/m/0bxqq	/m/0bxqq
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-11.5970)
+___
+/m/01n7q	/m/0jbrr	/m/0cb4j	/m/0cb4j
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-11.6178)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/hud_county_place/place	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-11.7172)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-11.8260)
+___
+/m/0f04v	/m/0l2xl	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-11.9113)
+___
+/m/0mhdz	/m/0f04v	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/place
+-1
+tensor(-11.9359)
+___
+/m/0f04v	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-12.2047)
+___
+/m/0f04v	/m/0r679	/m/0r679	/m/0r679
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-12.2074)
+___
+/m/0mhdz	/m/0f04v	/m/0l2xl	/m/0l2xl
+_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+1
+tensor(-12.2490)
+___
+/m/0mhdz	/m/0mhdz	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-12.3401)
+___
+/m/0f04v	/m/0l2xl	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-12.3406)
+___
+/m/01n7q	/m/0jbrr	/m/0jbrr	/m/0jbrr
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-12.3438)
+___
+/m/01n7q	/m/07bcn	/m/07bcn	/m/07bcn
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-12.4029)
+___
+/m/01n7q	/m/0r1jr	/m/0r1jr	/m/0r1jr
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-12.4127)
+___
+/m/01n7q	/m/0f04v	/m/0f04v	/m/0f04v
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-12.4157)
+___
+/m/01n7q	/m/07bcn	/m/07bcn	/m/07bcn
+/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/place
+-1
+tensor(-12.4816)
+___
+/m/0mhdz	/m/0f04v	/m/0l2xl	/m/0l2xl
+/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/us_county/county_seat
+1
+tensor(-12.6521)
+___
+/m/0mhdz	/m/0f04v	/m/0f04v	/m/0f04v
+/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-12.9152)
+___
+/m/0mhdz	/m/0mhdz	/m/01n7q	/m/01n7q
+_/location/hud_county_place/place	/location/hud_county_place/place	/base/biblioness/bibs_location/state
+-1
+tensor(-13.0922)
+___
+/m/01n7q	/m/09nqf	/m/022xml	/m/022xml
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.1548)
+___
+/m/01n7q	/m/09nqf	/m/020923	/m/020923
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.1548)
+___
+/m/01n7q	/m/09nqf	/m/0bjqh	/m/0bjqh
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.1548)
+___
+/m/01n7q	/m/09nqf	/m/023znp	/m/023znp
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.1548)
+___
+/m/01n7q	/m/09nqf	/m/01rgdw	/m/01rgdw
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.1548)
+___
+/m/0f04v	/m/0f04v	/m/0l2xl	/m/0l2xl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place	_/location/us_county/county_seat
+1
+tensor(-13.3024)
+___
+/m/0f04v	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-13.3238)
+___
+/m/0f04v	/m/0r679	/m/0r679	/m/0r679
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-13.3257)
+___
+/m/0f04v	/m/0l2xl	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/county	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-13.3705)
+___
+/m/01n7q	/m/015zxh	/m/07vjm	/m/07vjm
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-13.5399)
+___
+/m/0mhdz	/m/0f04v	/m/0l2xl	/m/0l2xl
+_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/county
+1
+tensor(-13.5580)
+___
+/m/01n7q	/m/09nqf	/m/02s62q	/m/02s62q
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/01rr31	/m/01rr31
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/024y8p	/m/024y8p
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/06bw5	/m/06bw5
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/0778p	/m/0778p
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/01bzw5	/m/01bzw5
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/0473m9	/m/0473m9
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/0fnmz	/m/0fnmz
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/01n7q	/m/09nqf	/m/0288zy	/m/0288zy
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5742)
+___
+/m/0f04v	/m/0l2xl	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat
+-1
+tensor(-13.7183)
+___
+/m/0f04v	/m/0l2xl	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-14.2224)
+___
+/m/0f04v	/m/0f04v	/m/0l2xl	/m/0l2xl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/place	_/location/us_county/county_seat
+1
+tensor(-14.2762)
+___
+/m/0f04v	/m/0r6ff	/m/01n7q	/m/01n7q
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/biblioness/bibs_location/state
+-1
+tensor(-14.4083)
+___
+/m/0mhdz	/m/01n7q	/m/09nqf	/m/09nqf
+/location/hud_county_place/place	/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4626)
+___
+/m/01n7q	/m/09nqf	/m/01swxv	/m/01swxv
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/01n7q	/m/09nqf	/m/019dwp	/m/019dwp
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/01n7q	/m/09nqf	/m/05cwl_	/m/05cwl_
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/01n7q	/m/09nqf	/m/01ymvk	/m/01ymvk
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/01n7q	/m/09nqf	/m/012fvq	/m/012fvq
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/01n7q	/m/09nqf	/m/01p5xy	/m/01p5xy
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/01n7q	/m/09nqf	/m/0hd7j	/m/0hd7j
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/01n7q	/m/09nqf	/m/02zccd	/m/02zccd
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.6907)
+___
+/m/0mhdz	/m/0mhdz	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.6996)
+___
+/m/0mhdz	/m/0mhdz	/m/0mhdz	/m/0mhdz
+_/location/hud_county_place/place	_/location/hud_county_place/place	NO_OP
+-1
+tensor(-14.7964)
+___
+/m/01n7q	/m/015zxh	/m/07vjm	/m/07vjm
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.9766)
+___
+/m/0mhdz	/m/0f04v	/m/01n7q	/m/01n7q
+_/location/hud_county_place/place	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/biblioness/bibs_location/state
+-1
+tensor(-14.9967)
+___
+/m/0f04v	/m/0f04v	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-15.0005)
+___
+/m/0f04v	/m/0l2xl	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/county	/location/us_county/county_seat
+-1
+tensor(-15.1138)
+___
+/m/0mhdz	/m/01n7q	/m/07bcn	/m/07bcn
+/location/hud_county_place/place	/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-15.1399)
+___
+/m/0mhdz	/m/0f04v	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/place
+-1
+tensor(-15.2382)
+___
+/m/0f04v	/m/0r6ff	/m/0r6cx	/m/0r6cx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.2424)
+___
+/m/0f04v	/m/0r6ff	/m/0r679	/m/0r679
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.2424)
+___
+/m/0f04v	/m/0r6ff	/m/0f04v	/m/0f04v
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.2424)
+___
+/m/0f04v	/m/0r6ff	/m/0r6c4	/m/0r6c4
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.2424)
+___
+/m/0mhdz	/m/0mhdz	/m/01n7q	/m/01n7q
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-15.2874)
+___
+#####################
+/m/0bxbr	/m/0bx9y
+Reward:0
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-0.0263)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-3.9144)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-5.4805)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-6.4188)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-9.3669)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-10.1052)
+___
+/m/0bxbr	/m/0444x	/m/01lpx8	/m/01lpx8
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-11.6395)
+___
+/m/0bxbr	/m/0444x	/m/01c_d	/m/01c_d
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-11.6395)
+___
+/m/0bxbr	/m/0444x	/m/05tfm	/m/05tfm
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-11.6395)
+___
+/m/0bxbr	/m/0444x	/m/06rpd	/m/06rpd
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-11.6395)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-11.6832)
+___
+/m/0bxbr	/m/04fv0k	/m/09nqf	/m/09nqf
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-11.7059)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-11.8489)
+___
+/m/0bxbr	/m/0123j6	/m/0dq_5	/m/0dq_5
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-12.3598)
+___
+/m/0bxbr	/m/0123j6	/m/0123j6	/m/0123j6
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	NO_OP
+-1
+tensor(-12.9295)
+___
+/m/0bxbr	/m/04fv0k	/m/09nqf	/m/09nqf
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.9345)
+___
+/m/0bxbr	/m/021sv1	/m/02bqmq	/m/02bqmq
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/06f0dc	/m/06f0dc
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/04h1rz	/m/04h1rz
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/03rtmz	/m/03rtmz
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/032ft5	/m/032ft5
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/0495ys	/m/0495ys
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/024tcq	/m/024tcq
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/06r713	/m/06r713
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/03ww_x	/m/03ww_x
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/02bqn1	/m/02bqn1
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/02glc4	/m/02glc4
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/07p__7	/m/07p__7
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/070m6c	/m/070m6c
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/02bn_p	/m/02bn_p
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/05l2z4	/m/05l2z4
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/060ny2	/m/060ny2
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/024tkd	/m/024tkd
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/04gp1d	/m/04gp1d
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/02gkzs	/m/02gkzs
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/021sv1	/m/070mff	/m/070mff
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-13.2353)
+___
+/m/0bxbr	/m/0123j6	/m/04rrd	/m/04rrd
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-13.5458)
+___
+/m/0bxbr	/m/0123j6	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-14.0238)
+___
+/m/0bxbr	/m/0123j6	/m/0bxbb	/m/0bxbb
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-14.0238)
+___
+/m/0bxbr	/m/0pyww	/m/01w0yrc	/m/01w0yrc
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6473)
+___
+/m/0bxbr	/m/0pyww	/m/0q9vf	/m/0q9vf
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6473)
+___
+/m/0bxbr	/m/0123j6	/m/020mfr	/m/020mfr
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/business/business_operation/industry
+-1
+tensor(-14.7040)
+___
+/m/0bxbr	/m/0123j6	/m/01mw1	/m/01mw1
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/business/business_operation/industry
+-1
+tensor(-14.7040)
+___
+/m/0bxbr	/m/0444x	/m/09c7w0	/m/09c7w0
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-14.8045)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	_/location/hud_county_place/place	NO_OP
+-1
+tensor(-14.8077)
+___
+/m/0bxbr	/m/0123j6	/m/0bxbb	/m/0bxbb
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/organization/organization/place_founded
+-1
+tensor(-14.9100)
+___
+/m/0bxbr	/m/0pyww	/m/0q5hw	/m/0q5hw
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.0477)
+___
+/m/0bxbr	/m/0pyww	/m/0q9vf	/m/0q9vf
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.0477)
+___
+/m/0bxbr	/m/0pyww	/m/01w0yrc	/m/01w0yrc
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.0477)
+___
+/m/0bxbr	/m/0bxbr	/m/0444x	/m/0444x
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/people/deceased_person/place_of_death
+-1
+tensor(-15.1474)
+___
+/m/0bxbr	/m/0bxbr	/m/021sv1	/m/021sv1
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/people/deceased_person/place_of_death
+-1
+tensor(-15.1474)
+___
+/m/0bxbr	/m/0bxbr	/m/09c7w0	/m/09c7w0
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-15.2767)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.5326)
+___
+/m/0bxbr	/m/0bxbr	/m/0123j6	/m/0123j6
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-15.7418)
+___
+/m/0bxbr	/m/0bxbr	/m/04fv0k	/m/04fv0k
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-15.7418)
+___
+/m/0bxbr	/m/04fv0k	/m/09nqf	/m/09nqf
+_/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.7678)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+NO_OP	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-15.9088)
+___
+/m/0444x	/m/01lpx8	/m/06b1q	/m/06b1q
+_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team	/sports/sports_team/roster./american_football/football_roster_position/position
+-1
+tensor(-15.9995)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	NO_OP	/location/hud_county_place/place
+-1
+tensor(-16.0901)
+___
+/m/0bxbr	/m/0444x	/m/07wbk	/m/07wbk
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	_/government/political_party/politicians_in_this_party./government/political_party_tenure/politician
+-1
+tensor(-16.2190)
+___
+/m/0bxbr	/m/09c7w0	/m/050l8	/m/050l8
+_/location/hud_county_place/place	_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-16.3186)
+___
+/m/0bxbr	/m/09c7w0	/m/015zyd	/m/015zyd
+_/location/hud_county_place/place	_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-16.5821)
+___
+/m/0bxbr	/m/021sv1	/m/09c7w0	/m/09c7w0
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-16.7036)
+___
+/m/0bxbr	/m/0bxbr	/m/0jbk9	/m/0jbk9
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-17.3126)
+___
+/m/0bxbr	/m/0444x	/m/030qb3t	/m/030qb3t
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/people/person/place_of_birth
+-1
+tensor(-17.3382)
+___
+/m/0bxbr	/m/0444x	/m/0631_	/m/0631_
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/people/person/religion
+-1
+tensor(-17.4284)
+___
+/m/0bxbr	/m/09c7w0	/m/039c26	/m/039c26
+_/location/hud_county_place/place	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-17.5067)
+___
+/m/0bxbr	/m/09c7w0	/m/0d68qy	/m/0d68qy
+_/location/hud_county_place/place	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-17.5067)
+___
+/m/0bxbr	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+_/location/hud_county_place/place	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-17.5067)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+NO_OP	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-17.5549)
+___
+/m/0bxbr	/m/0bxbr	/m/0pyww	/m/0pyww
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-17.6186)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+/location/hud_county_place/place	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-17.6338)
+___
+/m/0bxbr	/m/04fv0k	/m/09nqf	/m/09nqf
+/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-17.6361)
+___
+/m/0bxbr	/m/0444x	/m/05tfm	/m/05tfm
+/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-17.6516)
+___
+/m/0bxbr	/m/0444x	/m/01c_d	/m/01c_d
+/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-17.6516)
+___
+/m/0bxbr	/m/0444x	/m/06rpd	/m/06rpd
+/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-17.6516)
+___
+/m/0bxbr	/m/0444x	/m/01lpx8	/m/01lpx8
+/location/hud_county_place/place	_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-17.6516)
+___
+/m/0bxbr	/m/0444x	/m/05q2c	/m/05q2c
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-18.2826)
+___
+/m/0bxbr	/m/0444x	/m/09c7w0	/m/09c7w0
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/people/person/nationality
+-1
+tensor(-18.2874)
+___
+/m/0bxbr	/m/0123j6	/m/0dq_5	/m/0dq_5
+/location/hud_county_place/place	_/organization/organization/headquarters./location/mailing_address/citytown	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-18.2900)
+___
+/m/0bxbr	/m/021sv1	/m/0cn68	/m/0cn68
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	_/people/ethnicity/people
+-1
+tensor(-18.3570)
+___
+/m/0bxbr	/m/0444x	/m/05njw	/m/05njw
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/people/person/employment_history./business/employment_tenure/company
+-1
+tensor(-18.4249)
+___
+/m/0bxbr	/m/0444x	/m/0444x	/m/0444x
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	NO_OP
+-1
+tensor(-18.4645)
+___
+/m/0bxbr	/m/09c7w0	/m/03v1s	/m/03v1s
+_/location/hud_county_place/place	_/location/location/contains	_/location/administrative_division/first_level_division_of
+-1
+tensor(-18.5493)
+___
+/m/0bxbr	/m/0444x	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death
+-1
+tensor(-18.5534)
+___
+/m/0123j6	/m/04rrd	/m/0fvwg	/m/0fvwg
+_/organization/organization/headquarters./location/mailing_address/citytown	/organization/organization/headquarters./location/mailing_address/state_province_region	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-18.6194)
+___
+/m/0bxbr	/m/0pyww	/m/01wd3l	/m/01wd3l
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-18.6206)
+___
+/m/0bxbr	/m/0pyww	/m/0q5hw	/m/0q5hw
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-18.6206)
+___
+/m/0bxbr	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/location/hud_county_place/place	/location/hud_county_place/place	NO_OP
+-1
+tensor(-18.6696)
+___
+/m/0123j6	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/organization/organization/headquarters./location/mailing_address/citytown	/organization/organization/headquarters./location/mailing_address/citytown	_/location/hud_county_place/place
+-1
+tensor(-18.6876)
+___
+/m/0444x	/m/0bxbr	/m/0bxbr	/m/0bxbr
+_/people/deceased_person/place_of_death	/people/deceased_person/place_of_death	_/location/hud_county_place/place
+-1
+tensor(-18.7314)
+___
+/m/0123j6	/m/0bxbb	/m/0bx9y	/m/0bx9y
+_/organization/organization/headquarters./location/mailing_address/citytown	/organization/organization/headquarters./location/mailing_address/citytown	_/location/us_county/county_seat
+1
+tensor(-18.7724)
+___
+/m/0bxbr	/m/09c7w0	/m/0498y	/m/0498y
+_/location/hud_county_place/place	_/location/location/contains	_/location/administrative_division/country
+-1
+tensor(-18.8222)
+___
+/m/0bxbr	/m/09c7w0	/m/059_c	/m/059_c
+_/location/hud_county_place/place	_/location/location/contains	_/location/administrative_division/country
+-1
+tensor(-18.8222)
+___
+/m/0bxbr	/m/0444x	/m/0qcr0	/m/0qcr0
+_/location/hud_county_place/place	_/people/deceased_person/place_of_death	_/people/cause_of_death/people
+-1
+tensor(-18.8336)
+___
+/m/0444x	/m/030qb3t	/m/0kpys	/m/0kpys
+_/people/deceased_person/place_of_death	/people/person/place_of_birth	/location/hud_county_place/county
+-1
+tensor(-18.8491)
+___
+/m/0bxbr	/m/0pyww	/m/0q9vf	/m/0q9vf
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-18.8550)
+___
+/m/0bxbr	/m/0pyww	/m/01w0yrc	/m/01w0yrc
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-18.8550)
+___
+/m/0bxbr	/m/0pyww	/m/01wd3l	/m/01wd3l
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-18.8550)
+___
+/m/0444x	/m/01c_d	/m/02qpbqj	/m/02qpbqj
+_/people/deceased_person/place_of_death	/sports/pro_athlete/teams./sports/sports_team_roster/team	/sports/sports_team/roster./american_football/football_roster_position/position
+-1
+tensor(-18.8570)
+___
+#####################
+/m/0xq63	/m/0n5d1
+Reward:0
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-0.0265)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-3.9107)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-5.4477)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-6.4173)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-9.3737)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-10.1789)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-11.6736)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-11.7640)
+___
+/m/0xq63	/m/0gcs9	/m/01kph_c	/m/01kph_c
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.2557)
+___
+/m/0xq63	/m/0gcs9	/m/01kph_c	/m/01kph_c
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.1425)
+___
+/m/0xq63	/m/05fjf	/m/0fvxz	/m/0fvxz
+_/location/hud_county_place/place	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.4382)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	_/location/hud_county_place/place	NO_OP
+-1
+tensor(-14.7659)
+___
+/m/0xq63	/m/0xq63	/m/05fjf	/m/05fjf
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-15.2996)
+___
+/m/0xq63	/m/019z7q	/m/041rx	/m/041rx
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/people/ethnicity/people
+-1
+tensor(-15.5701)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.5847)
+___
+/m/0xq63	/m/019z7q	/m/0c_dx	/m/0c_dx
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-15.8118)
+___
+/m/0xq63	/m/019z7q	/m/04hddx	/m/04hddx
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-15.8118)
+___
+/m/0xq63	/m/019z7q	/m/05b1610	/m/05b1610
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-15.8118)
+___
+/m/0xq63	/m/019z7q	/m/0g9wd99	/m/0g9wd99
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-15.8118)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+NO_OP	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-16.0213)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	NO_OP	/location/hud_county_place/place
+-1
+tensor(-16.0788)
+___
+/m/0xq63	/m/01l47f5	/m/01lmj3q	/m/01lmj3q
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/016sp_	/m/016sp_
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/03cfjg	/m/03cfjg
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/0x3b7	/m/0x3b7
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/016srn	/m/016srn
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/05sq20	/m/05sq20
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/01k_r5b	/m/01k_r5b
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/01ww2fs	/m/01ww2fs
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/051m56	/m/051m56
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/01l47f5	/m/05sq0m	/m/05sq0m
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.1107)
+___
+/m/0xq63	/m/019z7q	/m/0196kn	/m/0196kn
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-16.4553)
+___
+/m/0xq63	/m/019z7q	/m/0c_dx	/m/0c_dx
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-16.4553)
+___
+/m/0xq63	/m/019z7q	/m/05f4m9q	/m/05f4m9q
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-16.4553)
+___
+/m/0xq63	/m/019z7q	/m/07lp1	/m/07lp1
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/influence/influence_node/influenced_by
+-1
+tensor(-16.4758)
+___
+/m/0xq63	/m/019z7q	/m/014dq7	/m/014dq7
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/influence/influence_node/influenced_by
+-1
+tensor(-16.4758)
+___
+/m/0xq63	/m/019z7q	/m/01w9ph_	/m/01w9ph_
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/influence/influence_node/influenced_by
+-1
+tensor(-16.4758)
+___
+/m/0xq63	/m/019z7q	/m/0n6kf	/m/0n6kf
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/influence/influence_node/influenced_by
+-1
+tensor(-16.4758)
+___
+/m/0xq63	/m/019z7q	/m/018zvb	/m/018zvb
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/influence/influence_node/influenced_by
+-1
+tensor(-16.4758)
+___
+/m/0xq63	/m/01l47f5	/m/02cx90	/m/02cx90
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/01lmj3q	/m/01lmj3q
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/016sp_	/m/016sp_
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/05sq20	/m/05sq20
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/01ww2fs	/m/01ww2fs
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/051m56	/m/051m56
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/05sq0m	/m/05sq0m
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/0x3b7	/m/0x3b7
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/03cfjg	/m/03cfjg
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/01k_r5b	/m/01k_r5b
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/01l47f5	/m/0ggjt	/m/0ggjt
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5105)
+___
+/m/0xq63	/m/019z7q	/m/03cvwkr	/m/03cvwkr
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/film/film/written_by
+-1
+tensor(-16.5204)
+___
+/m/0xq63	/m/019z7q	/m/03cvwkr	/m/03cvwkr
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.5587)
+___
+/m/0xq63	/m/01l47f5	/m/03cfjg	/m/03cfjg
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/01k_r5b	/m/01k_r5b
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/01lmj3q	/m/01lmj3q
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/0x3b7	/m/0x3b7
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/016sp_	/m/016sp_
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/016srn	/m/016srn
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/01ww2fs	/m/01ww2fs
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/05sq0m	/m/05sq0m
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/051m56	/m/051m56
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/01l47f5	/m/05sq20	/m/05sq20
+_/location/hud_county_place/place	_/music/artist/origin	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.6253)
+___
+/m/0xq63	/m/019z7q	/m/05fjf	/m/05fjf
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-16.7131)
+___
+/m/0xq63	/m/019z7q	/m/0xq63	/m/0xq63
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-16.7131)
+___
+/m/0xq63	/m/019z7q	/m/0cr3d	/m/0cr3d
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-16.7131)
+___
+/m/0xq63	/m/01l47f5	/m/0ggjt	/m/0ggjt
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/01lmj3q	/m/01lmj3q
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/0x3b7	/m/0x3b7
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/051m56	/m/051m56
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/05sq0m	/m/05sq0m
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/05sq20	/m/05sq20
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/01k_r5b	/m/01k_r5b
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/02cx90	/m/02cx90
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/016sp_	/m/016sp_
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/01ww2fs	/m/01ww2fs
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/01l47f5	/m/03cfjg	/m/03cfjg
+_/location/hud_county_place/place	_/music/artist/origin	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.9204)
+___
+/m/0xq63	/m/0gcs9	/m/01kph_c	/m/01kph_c
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-16.9850)
+___
+/m/0xq63	/m/01l47f5	/m/03cfjg	/m/03cfjg
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/05sq20	/m/05sq20
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/01lmj3q	/m/01lmj3q
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/051m56	/m/051m56
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/05sq0m	/m/05sq0m
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/016sp_	/m/016sp_
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/016srn	/m/016srn
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/0x3b7	/m/0x3b7
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/01ww2fs	/m/01ww2fs
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/01l47f5	/m/01k_r5b	/m/01k_r5b
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.0149)
+___
+/m/0xq63	/m/019z7q	/m/03_gx	/m/03_gx
+_/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location	/people/person/religion
+-1
+tensor(-17.0329)
+___
+/m/0xq63	/m/0xq63	/m/01l47f5	/m/01l47f5
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/music/artist/origin
+-1
+tensor(-17.1115)
+___
+/m/0xq63	/m/0xq63	/m/0xq63	/m/0xq63
+NO_OP	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-17.2626)
+___
+/m/0xq63	/m/0xq63	/m/0jbk9	/m/0jbk9
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-17.3479)
+___
+/m/0xq63	/m/01l47f5	/m/01k_r5b	/m/01k_r5b
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/01ww2fs	/m/01ww2fs
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/05sq0m	/m/05sq0m
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/0x3b7	/m/0x3b7
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/0ggjt	/m/0ggjt
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/03cfjg	/m/03cfjg
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/01lmj3q	/m/01lmj3q
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/016sp_	/m/016sp_
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+/m/0xq63	/m/01l47f5	/m/05sq20	/m/05sq20
+_/location/hud_county_place/place	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-17.3710)
+___
+#####################
+/m/0rhp6	/m/0jgj7
+Reward:0
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-0.0271)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-3.9279)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-5.4675)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-6.4196)
+___
+/m/0rhp6	/m/02xry	/m/09nqf	/m/09nqf
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0385)
+___
+/m/0rhp6	/m/0rhp6	/m/02xry	/m/02xry
+_/location/hud_county_place/place	_/location/hud_county_place/place	/base/biblioness/bibs_location/state
+-1
+tensor(-9.2148)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-9.3673)
+___
+/m/0rhp6	/m/02xry	/m/0f2v0	/m/0f2v0
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0rrwt	/m/0rrwt
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0rh7t	/m/0rh7t
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0rsjf	/m/0rsjf
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0ply0	/m/0ply0
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0ftvz	/m/0ftvz
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0rkkv	/m/0rkkv
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0rmwd	/m/0rmwd
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/02xry	/m/0ggh3	/m/0ggh3
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-10.1165)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-10.1198)
+___
+/m/02xry	/m/0ply0	/m/0jrtv	/m/0jrtv
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-11.0653)
+___
+/m/02xry	/m/0rhp6	/m/0rhp6	/m/0rhp6
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.0680)
+___
+/m/02xry	/m/0rkkv	/m/0rkkv	/m/0rkkv
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.0680)
+___
+/m/02xry	/m/0rmwd	/m/0rmwd	/m/0rmwd
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.0680)
+___
+/m/02xry	/m/0f2v0	/m/0f2v0	/m/0f2v0
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.0681)
+___
+/m/02xry	/m/0ftvz	/m/0ftvz	/m/0ftvz
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-11.0701)
+___
+/m/02xry	/m/0rrwt	/m/02xry	/m/02xry
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-11.0834)
+___
+/m/02xry	/m/0rsjf	/m/0j_1v	/m/0j_1v
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/location/hud_county_place/county
+-1
+tensor(-11.2389)
+___
+/m/02xry	/m/0ggh3	/m/0jhz_	/m/0jhz_
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-11.4212)
+___
+/m/02xry	/m/0rh7t	/m/0jgg3	/m/0jgg3
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-11.4600)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-11.7227)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-11.8382)
+___
+/m/02xry	/m/0rh7t	/m/0rh7t	/m/0rh7t
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-12.1905)
+___
+/m/02xry	/m/0ggh3	/m/0ggh3	/m/0ggh3
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-12.2749)
+___
+/m/02xry	/m/0rsjf	/m/02xry	/m/02xry
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-12.9220)
+___
+/m/02xry	/m/09nqf	/m/022xml	/m/022xml
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.9715)
+___
+/m/02xry	/m/09nqf	/m/01rgdw	/m/01rgdw
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.9715)
+___
+/m/02xry	/m/09nqf	/m/023znp	/m/023znp
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.9715)
+___
+/m/02xry	/m/09nqf	/m/0bjqh	/m/0bjqh
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.9715)
+___
+/m/02xry	/m/09nqf	/m/020923	/m/020923
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.9715)
+___
+/m/0rhp6	/m/0rhp6	/m/02xry	/m/02xry
+_/location/hud_county_place/place	/location/hud_county_place/place	/base/biblioness/bibs_location/state
+-1
+tensor(-13.0924)
+___
+/m/0rhp6	/m/02xry	/m/0jgld	/m/0jgld
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.2810)
+___
+/m/0rhp6	/m/02xry	/m/0jrq9	/m/0jrq9
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.2810)
+___
+/m/0rhp6	/m/0rhp6	/m/09c7w0	/m/09c7w0
+_/location/hud_county_place/place	_/location/hud_county_place/place	/base/biblioness/bibs_location/country
+-1
+tensor(-13.3711)
+___
+/m/02xry	/m/0gyh	/m/0fttg	/m/0fttg
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-13.3733)
+___
+/m/02xry	/m/0d0x8	/m/013yq	/m/013yq
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-13.3781)
+___
+/m/02xry	/m/09nqf	/m/06bw5	/m/06bw5
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/02s62q	/m/02s62q
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/0778p	/m/0778p
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/0fnmz	/m/0fnmz
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/0288zy	/m/0288zy
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/0473m9	/m/0473m9
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/01bzw5	/m/01bzw5
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/01rr31	/m/01rr31
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/02xry	/m/09nqf	/m/024y8p	/m/024y8p
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3826)
+___
+/m/0rhp6	/m/02xry	/m/09nqf	/m/09nqf
+/location/hud_county_place/place	/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.1998)
+___
+/m/02xry	/m/09nqf	/m/01ymvk	/m/01ymvk
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/09nqf	/m/012fvq	/m/012fvq
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/09nqf	/m/01swxv	/m/01swxv
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/09nqf	/m/02zccd	/m/02zccd
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/09nqf	/m/0hd7j	/m/0hd7j
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/09nqf	/m/019dwp	/m/019dwp
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/09nqf	/m/01p5xy	/m/01p5xy
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/09nqf	/m/05cwl_	/m/05cwl_
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.4997)
+___
+/m/02xry	/m/0jrq9	/m/0rp46	/m/0rp46
+/base/biblioness/bibs_location/state	_/base/aareas/schema/administrative_area/administrative_parent	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-14.6952)
+___
+/m/02xry	/m/0jgld	/m/0fxkr	/m/0fxkr
+/base/biblioness/bibs_location/state	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.7749)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	_/location/hud_county_place/place	NO_OP
+-1
+tensor(-14.7899)
+___
+/m/02xry	/m/09nqf	/m/035wtd	/m/035wtd
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.1354)
+___
+/m/02xry	/m/09nqf	/m/03bmmc	/m/03bmmc
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.1354)
+___
+/m/02xry	/m/09nqf	/m/0221g_	/m/0221g_
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.1354)
+___
+/m/02xry	/m/09nqf	/m/02607j	/m/02607j
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.1354)
+___
+/m/0rhp6	/m/02xry	/m/09nqf	/m/09nqf
+_/location/hud_county_place/place	_/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.1661)
+___
+/m/0rhp6	/m/0rhp6	/m/02xry	/m/02xry
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-15.2853)
+___
+/m/0rhp6	/m/0rhp6	/m/09c7w0	/m/09c7w0
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-15.2853)
+___
+/m/0rhp6	/m/09c7w0	/m/050l8	/m/050l8
+_/location/hud_county_place/place	/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-15.2888)
+___
+/m/0rhp6	/m/09c7w0	/m/015zyd	/m/015zyd
+_/location/hud_county_place/place	/base/biblioness/bibs_location/country	_/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-15.3415)
+___
+/m/02xry	/m/0rrwt	/m/09c7w0	/m/09c7w0
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+-1
+tensor(-15.4878)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.5390)
+___
+/m/0rhp6	/m/0rhp6	/m/02xry	/m/02xry
+/location/hud_county_place/place	_/location/hud_county_place/place	/base/biblioness/bibs_location/state
+-1
+tensor(-15.5999)
+___
+/m/0rhp6	/m/02xry	/m/0gyh	/m/0gyh
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.8959)
+___
+/m/0rhp6	/m/02xry	/m/0d0x8	/m/0d0x8
+_/location/hud_county_place/place	/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.8959)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+NO_OP	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-15.9382)
+___
+/m/02xry	/m/0ply0	/m/0jrtv	/m/0jrtv
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/us_county/county_seat
+-1
+tensor(-15.9491)
+___
+/m/02xry	/m/0jxh9	/m/0rrhp	/m/0rrhp
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/county
+-1
+tensor(-15.9505)
+___
+/m/02xry	/m/0j_1v	/m/0rsjf	/m/0rsjf
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/county
+-1
+tensor(-15.9510)
+___
+/m/02xry	/m/0rs6x	/m/0rs6x	/m/0rs6x
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/place
+-1
+tensor(-15.9584)
+___
+/m/02xry	/m/0rn8q	/m/0rn8q	/m/0rn8q
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/place
+-1
+tensor(-15.9587)
+___
+/m/02xry	/m/0rkkv	/m/0rkkv	/m/0rkkv
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/place
+-1
+tensor(-15.9592)
+___
+/m/02xry	/m/0rhp6	/m/0rhp6	/m/0rhp6
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/place
+-1
+tensor(-15.9592)
+___
+/m/02xry	/m/02qvvv	/m/09nqf	/m/09nqf
+/base/biblioness/bibs_location/state	/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.9603)
+___
+/m/02xry	/m/0rrhp	/m/0rrhp	/m/0rrhp
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/place
+-1
+tensor(-15.9624)
+___
+/m/02xry	/m/0ftvz	/m/0ftvz	/m/0ftvz
+/base/biblioness/bibs_location/state	/location/location/contains	_/location/hud_county_place/place
+-1
+tensor(-15.9781)
+___
+/m/02xry	/m/03l78j	/m/09nqf	/m/09nqf
+/base/biblioness/bibs_location/state	/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.9812)
+___
+/m/02xry	/m/09s5q8	/m/09nqf	/m/09nqf
+/base/biblioness/bibs_location/state	/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.9834)
+___
+/m/02xry	/m/0rjg8	/m/0jgk3	/m/0jgk3
+/base/biblioness/bibs_location/state	/location/location/contains	/location/hud_county_place/county
+-1
+tensor(-15.9960)
+___
+/m/02xry	/m/0rrwt	/m/02xry	/m/02xry
+/base/biblioness/bibs_location/state	/location/location/contains	/base/biblioness/bibs_location/state
+-1
+tensor(-16.0005)
+___
+/m/02xry	/m/0rsjf	/m/0j_1v	/m/0j_1v
+/base/biblioness/bibs_location/state	/location/location/contains	/location/hud_county_place/county
+-1
+tensor(-16.0255)
+___
+/m/02xry	/m/0fxkr	/m/0rn0z	/m/0rn0z
+/base/biblioness/bibs_location/state	/location/location/contains	/location/us_county/county_seat
+-1
+tensor(-16.0265)
+___
+/m/02xry	/m/0jj6k	/m/0n1rj	/m/0n1rj
+/base/biblioness/bibs_location/state	/location/location/contains	/location/us_county/county_seat
+-1
+tensor(-16.0292)
+___
+/m/0rhp6	/m/01w9ph_	/m/07bch9	/m/07bch9
+_/location/hud_county_place/place	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-16.0729)
+___
+/m/0rhp6	/m/0rhp6	/m/0rhp6	/m/0rhp6
+_/location/hud_county_place/place	NO_OP	/location/hud_county_place/place
+-1
+tensor(-16.0745)
+___
+/m/02xry	/m/09nqf	/m/08z129	/m/08z129
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+-1
+tensor(-16.0958)
+___
+#####################
+/m/0mnm2	/m/0mnm2
+Reward:0
+/m/07z1m	/m/0dzt9	/m/0mnrb	/m/0mnrb
+/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat
+-1
+tensor(-0.4165)
+___
+/m/07z1m	/m/0dzt9	/m/0dzt9	/m/0dzt9
+/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place
+-1
+tensor(-1.5756)
+___
+/m/07z1m	/m/0dzt9	/m/0dzt9	/m/0dzt9
+/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county
+-1
+tensor(-2.9418)
+___
+/m/07z1m	/m/0dzt9	/m/0mnrb	/m/0mnrb
+/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat
+-1
+tensor(-5.3469)
+___
+/m/07z1m	/m/0mnm2	/m/07z1m	/m/07z1m
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-5.4718)
+___
+/m/07z1m	/m/0mp3l	/m/0mpdw	/m/0mpdw
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-5.5350)
+___
+/m/07z1m	/m/0dzt9	/m/07z1m	/m/07z1m
+/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-5.7701)
+___
+/m/07z1m	/m/0mpbx	/m/0mpbx	/m/0mpbx
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-6.1153)
+___
+/m/07z1m	/m/0mpbx	/m/0mpbx	/m/0mpbx
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/location/us_county/county_seat
+-1
+tensor(-6.1388)
+___
+/m/07z1m	/m/013h9	/m/013h9	/m/013h9
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-6.3589)
+___
+/m/07z1m	/m/013h9	/m/013h9	/m/013h9
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	/location/us_county/county_seat
+-1
+tensor(-6.3634)
+___
+/m/07z1m	/m/0dzt9	/m/0dzt9	/m/0dzt9
+/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/place
+-1
+tensor(-6.8898)
+___
+/m/07z1m	/m/013h9	/m/013h9	/m/013h9
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/place
+-1
+tensor(-7.2267)
+___
+/m/07z1m	/m/0dzt9	/m/0dzt9	/m/0dzt9
+/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place
+-1
+tensor(-7.3823)
+___
+/m/07z1m	/m/0rh6k	/m/0rh6k	/m/0rh6k
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/hud_county_place/place
+-1
+tensor(-7.3852)
+___
+/m/07z1m	/m/081mh	/m/0fw2f	/m/0fw2f
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.3872)
+___
+/m/07z1m	/m/0498y	/m/0fvvg	/m/0fvvg
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.3878)
+___
+/m/07z1m	/m/04rrd	/m/0fvwg	/m/0fvwg
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.3891)
+___
+/m/07z1m	/m/07h34	/m/05jbn	/m/05jbn
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.3907)
+___
+/m/07z1m	/m/05fkf	/m/0fvyg	/m/0fvyg
+/base/biblioness/bibs_location/state	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.3912)
+___
+/m/07z1m	/m/09nqf	/m/01rgdw	/m/01rgdw
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.4699)
+___
+/m/07z1m	/m/09nqf	/m/020923	/m/020923
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.4699)
+___
+/m/07z1m	/m/09nqf	/m/023znp	/m/023znp
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.4699)
+___
+/m/07z1m	/m/09nqf	/m/0bjqh	/m/0bjqh
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.4699)
+___
+/m/07z1m	/m/09nqf	/m/022xml	/m/022xml
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.4699)
+___
+/m/07z1m	/m/0dzt9	/m/07z1m	/m/07z1m
+/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.5963)
+___
+/m/07z1m	/m/0dzt9	/m/0mnrb	/m/0mnrb
+/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.5963)
+___
+/m/01ymvk	/m/09nqf	/m/023znp	/m/023znp
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6436)
+___
+/m/01ymvk	/m/09nqf	/m/020923	/m/020923
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6436)
+___
+/m/01ymvk	/m/09nqf	/m/01rgdw	/m/01rgdw
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6436)
+___
+/m/01ymvk	/m/09nqf	/m/0bjqh	/m/0bjqh
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6436)
+___
+/m/01ymvk	/m/09nqf	/m/022xml	/m/022xml
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6436)
+___
+/m/01ymvk	/m/09nqf	/m/023znp	/m/023znp
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7718)
+___
+/m/01ymvk	/m/09nqf	/m/01rgdw	/m/01rgdw
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7718)
+___
+/m/01ymvk	/m/09nqf	/m/020923	/m/020923
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7718)
+___
+/m/01ymvk	/m/09nqf	/m/0bjqh	/m/0bjqh
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7718)
+___
+/m/01ymvk	/m/09nqf	/m/022xml	/m/022xml
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7718)
+___
+/m/07z1m	/m/09nqf	/m/0473m9	/m/0473m9
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/024y8p	/m/024y8p
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/02s62q	/m/02s62q
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/0fnmz	/m/0fnmz
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/01bzw5	/m/01bzw5
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/0778p	/m/0778p
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/01rr31	/m/01rr31
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/0288zy	/m/0288zy
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/09nqf	/m/06bw5	/m/06bw5
+/base/biblioness/bibs_location/state	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.7871)
+___
+/m/07z1m	/m/0mp3l	/m/0mp3l	/m/0mp3l
+/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state	_/location/hud_county_place/county
+-1
+tensor(-7.7874)
+___
+/m/01n4w_	/m/09nqf	/m/022xml	/m/022xml
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9618)
+___
+/m/01n4w_	/m/09nqf	/m/020923	/m/020923
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9618)
+___
+/m/01n4w_	/m/09nqf	/m/01rgdw	/m/01rgdw
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9618)
+___
+/m/01n4w_	/m/09nqf	/m/023znp	/m/023znp
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9618)
+___
+/m/01n4w_	/m/09nqf	/m/0bjqh	/m/0bjqh
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9618)
+___
+/m/06f5j	/m/07z1m	/m/0dzt9	/m/0dzt9
+_/people/deceased_person/place_of_death	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.0120)
+___
+/m/01n4w_	/m/09nqf	/m/023znp	/m/023znp
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0739)
+___
+/m/01n4w_	/m/09nqf	/m/0bjqh	/m/0bjqh
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0739)
+___
+/m/01n4w_	/m/09nqf	/m/01rgdw	/m/01rgdw
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0739)
+___
+/m/01n4w_	/m/09nqf	/m/022xml	/m/022xml
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0739)
+___
+/m/01n4w_	/m/09nqf	/m/020923	/m/020923
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0739)
+___
+/m/06f5j	/m/0kbq	/m/06f5j	/m/06f5j
+_/people/deceased_person/place_of_death	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0870)
+___
+/m/06f5j	/m/0kbq	/m/0gzh	/m/0gzh
+_/people/deceased_person/place_of_death	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0870)
+___
+/m/06f5j	/m/0kbq	/m/07t2k	/m/07t2k
+_/people/deceased_person/place_of_death	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0870)
+___
+/m/06f5j	/m/0kbq	/m/020d5	/m/020d5
+_/people/deceased_person/place_of_death	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0870)
+___
+/m/01ymvk	/m/09nqf	/m/0fnmz	/m/0fnmz
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/06bw5	/m/06bw5
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/0778p	/m/0778p
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/02s62q	/m/02s62q
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/0473m9	/m/0473m9
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/01bzw5	/m/01bzw5
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/01rr31	/m/01rr31
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/024y8p	/m/024y8p
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/0288zy	/m/0288zy
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1501)
+___
+/m/01ymvk	/m/09nqf	/m/01rr31	/m/01rr31
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/0288zy	/m/0288zy
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/0473m9	/m/0473m9
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/024y8p	/m/024y8p
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/02s62q	/m/02s62q
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/06bw5	/m/06bw5
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/0778p	/m/0778p
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/0fnmz	/m/0fnmz
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/01ymvk	/m/09nqf	/m/01bzw5	/m/01bzw5
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1619)
+___
+/m/07z1m	/m/0dzt9	/m/0dzt9	/m/0dzt9
+/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/county
+-1
+tensor(-8.2545)
+___
+/m/01n4w_	/m/09nqf	/m/023znp	/m/023znp
+/location/location/contains	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.3716)
+___
+/m/01n4w_	/m/09nqf	/m/020923	/m/020923
+/location/location/contains	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.3716)
+___
+/m/01n4w_	/m/09nqf	/m/01rgdw	/m/01rgdw
+/location/location/contains	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.3716)
+___
+/m/01n4w_	/m/09nqf	/m/0bjqh	/m/0bjqh
+/location/location/contains	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.3716)
+___
+/m/01n4w_	/m/09nqf	/m/022xml	/m/022xml
+/location/location/contains	/business/business_operation/revenue./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.3716)
+___
+/m/07z1m	/m/0mpbj	/m/034lk7	/m/034lk7
+/base/biblioness/bibs_location/state	_/base/aareas/schema/administrative_area/administrative_parent	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.4168)
+___
+/m/01n4w_	/m/09nqf	/m/024y8p	/m/024y8p
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/02s62q	/m/02s62q
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/06bw5	/m/06bw5
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/0fnmz	/m/0fnmz
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/0778p	/m/0778p
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/0473m9	/m/0473m9
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/01bzw5	/m/01bzw5
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/01rr31	/m/01rr31
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/0288zy	/m/0288zy
+/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4697)
+___
+/m/01n4w_	/m/09nqf	/m/0fnmz	/m/0fnmz
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4741)
+___
+/m/01n4w_	/m/09nqf	/m/01rr31	/m/01rr31
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4741)
+___
+/m/01n4w_	/m/09nqf	/m/0778p	/m/0778p
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4741)
+___
+/m/01n4w_	/m/09nqf	/m/02s62q	/m/02s62q
+/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4741)
+___
+#####################
+/m/0lfyx	/m/0kvt9
+Reward:0
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-0.0255)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-3.9611)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-5.4433)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+/location/hud_county_place/place	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-6.4254)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-9.3788)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+/location/hud_county_place/place	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-9.8745)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-11.8134)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-11.8188)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	_/location/hud_county_place/place	NO_OP
+-1
+tensor(-14.7630)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+/location/hud_county_place/place	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-15.2583)
+___
+/m/0lfyx	/m/0lfyx	/m/01n7q	/m/01n7q
+_/location/hud_county_place/place	_/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-15.3060)
+___
+/m/0lfyx	/m/01n7q	/m/09nqf	/m/09nqf
+_/location/hud_county_place/place	_/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.4945)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+NO_OP	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-15.8928)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	NO_OP	/location/hud_county_place/place
+-1
+tensor(-16.1624)
+___
+/m/0lfyx	/m/01n7q	/m/07bcn	/m/07bcn
+_/location/hud_county_place/place	_/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-16.2432)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+/location/hud_county_place/place	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-17.1821)
+___
+/m/0lfyx	/m/0lfyx	/m/0jbk9	/m/0jbk9
+_/location/hud_county_place/place	_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-17.3598)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+NO_OP	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-17.5071)
+___
+/m/0lfyx	/m/01n7q	/m/0r1yc	/m/0r1yc
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/015zxh	/m/015zxh
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0mzww	/m/0mzww
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0r4z7	/m/0r4z7
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/07bcn	/m/07bcn
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0b2ds	/m/0b2ds
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0f04v	/m/0f04v
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0jbrr	/m/0jbrr
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0k9p4	/m/0k9p4
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0r4wn	/m/0r4wn
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/01n7q	/m/0r1jr	/m/0r1jr
+_/location/hud_county_place/place	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-17.8538)
+___
+/m/0lfyx	/m/0lfyx	/m/0lfyx	/m/0lfyx
+_/location/hud_county_place/place	/location/hud_county_place/place	NO_OP
+-1
+tensor(-18.6709)
+___
+/m/0lfyx	/m/0lfyx	/m/01n7q	/m/01n7q
+_/location/hud_county_place/place	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-19.1880)
+___
+/m/0lfyx	/m/01n7q	/m/09nqf	/m/09nqf
+/location/hud_county_place/place	_/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-20.6011)
+___
+/m/0lfyx	/m/0jbk9	/m/0wq3z	/m/0wq3z
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0qkcb	/m/0qkcb
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0fv_t	/m/0fv_t
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nht0	/m/0nht0
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/01zlwg6	/m/01zlwg6
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nj1c	/m/0nj1c
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0ggh3	/m/0ggh3
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0_kq3	/m/0_kq3
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0jrtv	/m/0jrtv
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0n5c9	/m/0n5c9
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0qy5v	/m/0qy5v
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nm42	/m/0nm42
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nm3n	/m/0nm3n
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/010dft	/m/010dft
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/01tlmw	/m/01tlmw
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0p01x	/m/0p01x
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0xynl	/m/0xynl
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0n5j7	/m/0n5j7
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0rkkv	/m/0rkkv
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0r62v	/m/0r62v
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0x335	/m/0x335
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nzlp	/m/0nzlp
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nn83	/m/0nn83
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nj07	/m/0nj07
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0plyy	/m/0plyy
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0f6zs	/m/0f6zs
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0sb1r	/m/0sb1r
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0m28g	/m/0m28g
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0jfqp	/m/0jfqp
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0mpzm	/m/0mpzm
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nt4s	/m/0nt4s
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0n1rj	/m/0n1rj
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0jgj7	/m/0jgj7
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0l_tn	/m/0l_tn
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/010cw1	/m/010cw1
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0m7d0	/m/0m7d0
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0kpys	/m/0kpys
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0smfm	/m/0smfm
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0mlyw	/m/0mlyw
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0k3jq	/m/0k3jq
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/094jv	/m/094jv
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nm6z	/m/0nm6z
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0rjg8	/m/0rjg8
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0r0m6	/m/0r0m6
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0h778	/m/0h778
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0fr59	/m/0fr59
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0_7z2	/m/0_7z2
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0r540	/m/0r540
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0m2lt	/m/0m2lt
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0ybkj	/m/0ybkj
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0l2l_	/m/0l2l_
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/013m43	/m/013m43
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0m2rv	/m/0m2rv
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0ntpv	/m/0ntpv
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0zygc	/m/0zygc
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0mzvm	/m/0mzvm
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0fr0t	/m/0fr0t
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0l0mk	/m/0l0mk
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0135g	/m/0135g
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0ftxw	/m/0ftxw
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0d8jf	/m/0d8jf
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0vm4s	/m/0vm4s
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0ygbf	/m/0ygbf
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0h3lt	/m/0h3lt
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0rn8q	/m/0rn8q
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0n22z	/m/0n22z
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0mn78	/m/0mn78
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+/m/0lfyx	/m/0jbk9	/m/0nh0f	/m/0nh0f
+_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	_/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-20.7748)
+___
+#####################

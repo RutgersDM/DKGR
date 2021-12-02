@@ -1,0 +1,2515 @@
+/m/059g4	/m/06ryl
+Reward:0
+/m/03gyl	/m/0fs1v	/m/0fs1v	/m/0fs1v
+/base/locations/continents/countries_within	/location/location/contains	NO_OP
+-1
+tensor(-6.4813)
+___
+/m/06n3y	/m/05t2fh4	/m/05t2fh4	/m/05t2fh4
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	NO_OP
+-1
+tensor(-6.8953)
+___
+/m/0db94	/m/0db94	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.1075)
+___
+/m/0db94	/m/0db94	/m/0db94	/m/0db94
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.4309)
+___
+/m/04kdn	/m/0824r	/m/0dyl9	/m/0dyl9
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-7.6540)
+___
+/m/04kdn	/m/0824r	/m/0fw2y	/m/0fw2y
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-7.6540)
+___
+/m/06n3y	/m/02wmy	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.6888)
+___
+/m/06n3y	/m/02wmy	/m/0j3b	/m/0j3b
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.6888)
+___
+/m/06n3y	/m/02wmy	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.6888)
+___
+/m/06n3y	/m/05t2fh4	/m/0d060g	/m/0d060g
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/time/event/locations
+-1
+tensor(-7.6939)
+___
+/m/06n3y	/m/05t2fh4	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/time/event/locations
+-1
+tensor(-7.6939)
+___
+/m/0k3nk	/m/0k3nk	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.7179)
+___
+/m/027nb	/m/0157g9	/m/0261m	/m/0261m
+/base/locations/continents/countries_within	_/location/location/contains	_/location/location/contains
+-1
+tensor(-7.7195)
+___
+/m/027nb	/m/0157g9	/m/01l3lx	/m/01l3lx
+/base/locations/continents/countries_within	_/location/location/contains	_/location/location/contains
+-1
+tensor(-7.7195)
+___
+/m/06n3y	/m/059g4	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-7.9088)
+___
+/m/04kdn	/m/0824r	/m/0fw2y	/m/0fw2y
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-7.9661)
+___
+/m/04kdn	/m/0824r	/m/0dyl9	/m/0dyl9
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-7.9661)
+___
+/m/0pmpl	/m/06nrt	/m/0pmpl	/m/0pmpl
+/location/location/contains	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.0131)
+___
+/m/0k3nk	/m/0k3nk	/m/0k3nk	/m/0k3nk
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.0268)
+___
+/m/06n3y	/m/02wmy	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0840)
+___
+/m/06n3y	/m/06nnj	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.1170)
+___
+/m/0db94	/m/0db94	/m/059_c	/m/059_c
+/location/location/contains	NO_OP	_/location/location/partially_contains
+-1
+tensor(-8.1532)
+___
+/m/0db94	/m/0db94	/m/01n7q	/m/01n7q
+/location/location/contains	NO_OP	_/location/location/partially_contains
+-1
+tensor(-8.1532)
+___
+/m/06n3y	/m/02wmy	/m/02wmy	/m/02wmy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.1606)
+___
+/m/06n3y	/m/059g4	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.2239)
+___
+/m/06n3y	/m/059g4	/m/02r1c18	/m/02r1c18
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.2433)
+___
+/m/06n3y	/m/059g4	/m/0btpm6	/m/0btpm6
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.2433)
+___
+/m/06n3y	/m/059g4	/m/03wh49y	/m/03wh49y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.2433)
+___
+/m/0typ5	/m/0k3gw	/m/0typ5	/m/0typ5
+/location/location/contains	/location/hud_county_place/county	_/location/hud_county_place/county
+-1
+tensor(-8.2606)
+___
+/m/0typ5	/m/0k3gw	/m/0tyww	/m/0tyww
+/location/location/contains	/location/hud_county_place/county	_/location/hud_county_place/county
+-1
+tensor(-8.2606)
+___
+/m/0typ5	/m/0k3gw	/m/0tyql	/m/0tyql
+/location/location/contains	/location/hud_county_place/county	_/location/hud_county_place/county
+-1
+tensor(-8.2606)
+___
+/m/06n3y	/m/059g4	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.3103)
+___
+/m/04kbn	/m/05kkh	/m/0yshw	/m/0yshw
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3703)
+___
+/m/04kbn	/m/05kkh	/m/01snm	/m/01snm
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3703)
+___
+/m/04kbn	/m/05kkh	/m/0z20d	/m/0z20d
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3703)
+___
+/m/04kdn	/m/04rrx	/m/013d_f	/m/013d_f
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3867)
+___
+/m/04kdn	/m/04rrx	/m/04pry	/m/04pry
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3867)
+___
+/m/04kdn	/m/04rrx	/m/0wh3	/m/0wh3
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3867)
+___
+/m/04kdn	/m/04rrx	/m/0v9qg	/m/0v9qg
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3867)
+___
+/m/04kdn	/m/04rrx	/m/0f67f	/m/0f67f
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3867)
+___
+/m/04kdn	/m/04rrx	/m/0vrmb	/m/0vrmb
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.3867)
+___
+/m/06n3y	/m/02wmy	/m/031x2	/m/031x2
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/time/event/locations
+-1
+tensor(-8.4524)
+___
+/m/0pmpl	/m/06nrt	/m/0pmpl	/m/0pmpl
+/location/location/contains	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.4638)
+___
+/m/06n3y	/m/06nnj	/m/034m8	/m/034m8
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5293)
+___
+/m/06n3y	/m/01ly5m	/m/047msdk	/m/047msdk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5555)
+___
+/m/06n3y	/m/01ly5m	/m/0gkz15s	/m/0gkz15s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5555)
+___
+/m/06n3y	/m/01ly5m	/m/08hmch	/m/08hmch
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5555)
+___
+/m/06n3y	/m/01ly5m	/m/0fq7dv_	/m/0fq7dv_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5555)
+___
+/m/06n3y	/m/01ly5m	/m/0bwfwpj	/m/0bwfwpj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5555)
+___
+/m/0typ5	/m/0k3gw	/m/0tyww	/m/0tyww
+/location/location/contains	/location/hud_county_place/county	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.5844)
+___
+/m/06n3y	/m/059g4	/m/0btpm6	/m/0btpm6
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5889)
+___
+/m/06n3y	/m/059g4	/m/02r1c18	/m/02r1c18
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5889)
+___
+/m/06n3y	/m/059g4	/m/03wh49y	/m/03wh49y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.5889)
+___
+/m/06n3y	/m/06nnj	/m/0hzc9wc	/m/0hzc9wc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.6065)
+___
+/m/0pmpl	/m/06nrt	/m/0d060g	/m/0d060g
+/location/location/contains	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/biblioness/bibs_location/country
+-1
+tensor(-8.6188)
+___
+/m/0db94	/m/059_c	/m/0cv3w	/m/0cv3w
+/location/location/contains	_/location/location/partially_contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6755)
+___
+/m/0db94	/m/059_c	/m/06kx2	/m/06kx2
+/location/location/contains	_/location/location/partially_contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6755)
+___
+/m/04kdn	/m/04rrx	/m/04pry	/m/04pry
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6804)
+___
+/m/04kdn	/m/04rrx	/m/0wh3	/m/0wh3
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6804)
+___
+/m/04kdn	/m/04rrx	/m/013d_f	/m/013d_f
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6804)
+___
+/m/04kdn	/m/04rrx	/m/0f67f	/m/0f67f
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6804)
+___
+/m/04kdn	/m/04rrx	/m/0v9qg	/m/0v9qg
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6804)
+___
+/m/04kdn	/m/04rrx	/m/0vrmb	/m/0vrmb
+/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.6804)
+___
+/m/06n3y	/m/059g4	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6857)
+___
+/m/027nb	/m/027nb	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	NO_OP	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.6858)
+___
+/m/06n3y	/m/06nnj	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.7034)
+___
+/m/06n3y	/m/06nnj	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.7034)
+___
+/m/06s6l	/m/06s6l	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	NO_OP	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.7228)
+___
+/m/0k3nk	/m/0k3nk	/m/015jr	/m/015jr
+/location/location/contains	NO_OP	_/location/location/partially_contains
+-1
+tensor(-8.7301)
+___
+/m/0k3nk	/m/0k3nk	/m/081yw	/m/081yw
+/location/location/contains	NO_OP	_/location/location/partially_contains
+-1
+tensor(-8.7301)
+___
+/m/0k3nk	/m/0k3nk	/m/01n7q	/m/01n7q
+/location/location/contains	NO_OP	_/location/location/partially_contains
+-1
+tensor(-8.7301)
+___
+/m/0k3nk	/m/0k3nk	/m/0d060g	/m/0d060g
+/location/location/contains	NO_OP	_/location/location/partially_contains
+-1
+tensor(-8.7301)
+___
+/m/027nb	/m/0157g9	/m/0157g9	/m/0157g9
+/base/locations/continents/countries_within	_/location/location/contains	NO_OP
+-1
+tensor(-8.7449)
+___
+/m/027nb	/m/0157g9	/m/04vg8	/m/04vg8
+/base/locations/continents/countries_within	_/location/location/contains	/location/location/contains
+-1
+tensor(-8.7708)
+___
+/m/027nb	/m/0157g9	/m/0j11	/m/0j11
+/base/locations/continents/countries_within	_/location/location/contains	/location/location/contains
+-1
+tensor(-8.7708)
+___
+/m/04kbn	/m/04rrx	/m/04pry	/m/04pry
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.7724)
+___
+/m/04kbn	/m/04rrx	/m/013d_f	/m/013d_f
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.7724)
+___
+/m/04kbn	/m/04rrx	/m/0vrmb	/m/0vrmb
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.7724)
+___
+/m/04kbn	/m/04rrx	/m/0v9qg	/m/0v9qg
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.7724)
+___
+/m/04kbn	/m/04rrx	/m/0wh3	/m/0wh3
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.7724)
+___
+/m/04kbn	/m/04rrx	/m/0f67f	/m/0f67f
+/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/biblioness/bibs_location/state
+-1
+tensor(-8.7724)
+___
+/m/06n3y	/m/01w1sx	/m/0fy66	/m/0fy66
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	_/film/film/genre
+-1
+tensor(-8.7778)
+___
+/m/06n3y	/m/06nnj	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+-1
+tensor(-8.7972)
+___
+/m/06n3y	/m/01ly5m	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.8169)
+___
+/m/06n3y	/m/02wmy	/m/04n6k	/m/04n6k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-8.8329)
+___
+/m/06s6l	/m/059g4	/m/07c5l	/m/07c5l
+/base/locations/continents/countries_within	_/base/locations/continents/countries_within	_/location/location/contains
+-1
+tensor(-8.8371)
+___
+/m/06s0l	/m/06s0l	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	NO_OP	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.8419)
+___
+/m/0pmpl	/m/06nrt	/m/0d060g	/m/0d060g
+/location/location/contains	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-8.8431)
+___
+/m/027nb	/m/059g4	/m/07c5l	/m/07c5l
+/base/locations/continents/countries_within	_/base/locations/continents/countries_within	_/location/location/contains
+-1
+tensor(-8.8477)
+___
+/m/06n3y	/m/059g4	/m/03wh49y	/m/03wh49y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-8.8534)
+___
+/m/06n3y	/m/01ly5m	/m/0jgd	/m/0jgd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+tensor(-8.8575)
+___
+/m/0typ5	/m/0k3gw	/m/0tyww	/m/0tyww
+/location/location/contains	/location/hud_county_place/county	/location/us_county/county_seat
+-1
+tensor(-8.8696)
+___
+/m/0db94	/m/059g4	/m/07c5l	/m/07c5l
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9098)
+___
+/m/06s0l	/m/059g4	/m/07c5l	/m/07c5l
+/base/locations/continents/countries_within	_/base/locations/continents/countries_within	_/location/location/contains
+-1
+tensor(-8.9183)
+___
+/m/06c6l	/m/02dwj	/m/07ssc	/m/07ssc
+/location/location/contains	_/film/film/featured_film_locations	/film/film/country
+-1
+tensor(-8.9203)
+___
+/m/06n3y	/m/01ly5m	/m/0jgd	/m/0jgd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/administrative_division/country
+-1
+tensor(-8.9453)
+___
+/m/06n3y	/m/034m8	/m/0j6b5	/m/0j6b5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.9525)
+___
+/m/0pmpl	/m/06nrt	/m/0d060g	/m/0d060g
+/location/location/contains	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/administrative_division/country
+-1
+tensor(-9.0127)
+___
+/m/06n3y	/m/0165v	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.0178)
+___
+/m/0typ5	/m/0k3gw	/m/05k7sb	/m/05k7sb
+/location/location/contains	/location/hud_county_place/county	_/location/location/contains
+-1
+tensor(-9.0291)
+___
+#####################
+/m/02j9z	/m/03rt9
+Reward:0
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.7917)
+___
+/m/04swx	/m/0k2q	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8909)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9648)
+___
+/m/07r_p	/m/07r_p	/m/07r_p	/m/07r_p
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.1116)
+___
+/m/018ym2	/m/018ym2	/m/018ym2	/m/018ym2
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.2701)
+___
+/m/04swx	/m/0k2q	/m/0k2q	/m/0k2q
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-7.3842)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.5476)
+___
+/m/04swx	/m/0p_x	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.6084)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.7236)
+___
+/m/04swx	/m/0f0sbl	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.7964)
+___
+/m/04fh3	/m/0jdx	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9042)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9732)
+___
+/m/07ytt	/m/07j9n	/m/01s47p	/m/01s47p
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-7.9917)
+___
+/m/07ytt	/m/07j9n	/m/01fvhp	/m/01fvhp
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-7.9917)
+___
+/m/06psyf	/m/06psyf	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.9950)
+___
+/m/06psyf	/m/06psyf	/m/0nccd	/m/0nccd
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.9950)
+___
+/m/04swx	/m/0727h	/m/01xpg	/m/01xpg
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0542)
+___
+/m/04swx	/m/0727h	/m/06frc	/m/06frc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0542)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.0727)
+___
+/m/04swx	/m/0p_x	/m/0p_x	/m/0p_x
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.1038)
+___
+/m/04swx	/m/06w92	/m/0536sd	/m/0536sd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.2097)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.2323)
+___
+/m/06psyf	/m/0nccd	/m/036wy	/m/036wy
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2421)
+___
+/m/06psyf	/m/0nccd	/m/02jx1	/m/02jx1
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2421)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.2435)
+___
+/m/04fh3	/m/0jdx	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.2508)
+___
+/m/04swx	/m/078lk	/m/05314s	/m/05314s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.2677)
+___
+/m/04swx	/m/0f0sbl	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.2734)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.3109)
+___
+/m/06psyf	/m/06psyf	/m/06psyf	/m/06psyf
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.3217)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.3408)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.4889)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4895)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5140)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5140)
+___
+/m/04swx	/m/078lk	/m/07fj_	/m/07fj_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5255)
+___
+/m/04swx	/m/078lk	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5255)
+___
+/m/07y2s	/m/07y2s	/m/02j9z	/m/02j9z
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5340)
+___
+/m/07y2s	/m/07y2s	/m/0b90_r	/m/0b90_r
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5340)
+___
+/m/07y2s	/m/07y2s	/m/0d060g	/m/0d060g
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5340)
+___
+/m/07y2s	/m/07y2s	/m/09c7w0	/m/09c7w0
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5340)
+___
+/m/04swx	/m/06w92	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5399)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.5591)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.5810)
+___
+/m/04fh3	/m/0jdx	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.5940)
+___
+/m/04fh3	/m/0jdx	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.5940)
+___
+/m/04swx	/m/078lk	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5984)
+___
+/m/0ftns	/m/0ftns	/m/072x7s	/m/072x7s
+/location/location/contains	NO_OP	_/film/film/featured_film_locations
+-1
+tensor(-8.5988)
+___
+/m/06psyf	/m/06psyf	/m/02z2xdf	/m/02z2xdf
+/location/location/contains	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-8.6288)
+___
+/m/04fh3	/m/04fh3	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6311)
+___
+/m/04fh3	/m/04fh3	/m/0jdx	/m/0jdx
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6311)
+___
+/m/04fh3	/m/04fh3	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6311)
+___
+/m/0ftns	/m/0ftns	/m/0ftns	/m/0ftns
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.6534)
+___
+/m/06sff	/m/01rz1	/m/0jgx	/m/0jgx
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6583)
+___
+/m/06sff	/m/01rz1	/m/03rt9	/m/03rt9
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+1
+tensor(-8.6583)
+___
+/m/06sff	/m/01rz1	/m/04gzd	/m/04gzd
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6583)
+___
+/m/06sff	/m/01rz1	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6583)
+___
+/m/06sff	/m/01rz1	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6583)
+___
+/m/06sff	/m/01rz1	/m/04g5k	/m/04g5k
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6583)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6625)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6625)
+___
+/m/01nhhz	/m/02tvsn	/m/01nhhz	/m/01nhhz
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6682)
+___
+/m/01nhhz	/m/02tvsn	/m/01flgk	/m/01flgk
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6682)
+___
+/m/01nhhz	/m/02tvsn	/m/0cdbq	/m/0cdbq
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6682)
+___
+/m/01nhhz	/m/02tvsn	/m/01k6y1	/m/01k6y1
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6682)
+___
+/m/01nhhz	/m/02tvsn	/m/01m41_	/m/01m41_
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6682)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.7197)
+___
+/m/06sff	/m/01rz1	/m/01rz1	/m/01rz1
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	NO_OP
+-1
+tensor(-8.7579)
+___
+/m/04swx	/m/0727h	/m/0727h	/m/0727h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	NO_OP
+-1
+tensor(-8.7694)
+___
+/m/04fh3	/m/0bjv6	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.8247)
+___
+/m/06psyf	/m/0nccd	/m/02jx1	/m/02jx1
+/location/location/contains	_/location/location/contains	_/location/country/second_level_divisions
+-1
+tensor(-8.8977)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9139)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9139)
+___
+/m/06sff	/m/01rz1	/m/03rt9	/m/03rt9
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_founder/organizations_founded
+1
+tensor(-8.9335)
+___
+/m/06sff	/m/01rz1	/m/04g61	/m/04g61
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_founder/organizations_founded
+-1
+tensor(-8.9335)
+___
+/m/07ytt	/m/07ytt	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/country/capital	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.9410)
+___
+/m/04fh3	/m/04fh3	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	NO_OP	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9434)
+___
+/m/04swx	/m/06w92	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9462)
+___
+/m/04fh3	/m/0jdx	/m/02vxq9m	/m/02vxq9m
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.9567)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9628)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9628)
+___
+/m/04swx	/m/078lk	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9879)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0025)
+___
+/m/04swx	/m/06w92	/m/0c630	/m/0c630
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-9.0058)
+___
+/m/04swx	/m/06w92	/m/0536sd	/m/0536sd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-9.0058)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-9.0058)
+___
+/m/04swx	/m/06w92	/m/06w92	/m/06w92
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-9.0295)
+___
+/m/04fh3	/m/056vv	/m/0h3xztt	/m/0h3xztt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0344)
+___
+/m/04fh3	/m/056vv	/m/0879bpq	/m/0879bpq
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0344)
+___
+/m/04fh3	/m/056vv	/m/02qyv3h	/m/02qyv3h
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0344)
+___
+/m/04swx	/m/078lk	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0455)
+___
+/m/04swx	/m/078lk	/m/07fj_	/m/07fj_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0455)
+___
+/m/01nhhz	/m/0cbvg	/m/0j5b8	/m/0j5b8
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0457)
+___
+/m/01nhhz	/m/0cbvg	/m/02c4s	/m/02c4s
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0457)
+___
+/m/01nhhz	/m/0cbvg	/m/01m41_	/m/01m41_
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0457)
+___
+/m/01nhhz	/m/0cbvg	/m/01flgk	/m/01flgk
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0457)
+___
+/m/06psyf	/m/0nccd	/m/036wy	/m/036wy
+/location/location/contains	_/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-9.0464)
+___
+/m/04swx	/m/078lk	/m/05314s	/m/05314s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-9.0517)
+___
+/m/035qv8	/m/035qv8	/m/035qv8	/m/035qv8
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-9.0599)
+___
+/m/04fh3	/m/0bjv6	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-9.0602)
+___
+#####################
+/m/02j9z	/m/06mkj
+Reward:0
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.7925)
+___
+/m/04swx	/m/0k2q	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8382)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9410)
+___
+/m/07r_p	/m/07r_p	/m/07r_p	/m/07r_p
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.1062)
+___
+/m/018ym2	/m/018ym2	/m/018ym2	/m/018ym2
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.2612)
+___
+/m/04swx	/m/0k2q	/m/0k2q	/m/0k2q
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-7.3053)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.4292)
+___
+/m/04swx	/m/0p_x	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.6021)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.6118)
+___
+/m/04swx	/m/0f0sbl	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.7496)
+___
+/m/04fh3	/m/0jdx	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.8715)
+___
+/m/04swx	/m/0727h	/m/01xpg	/m/01xpg
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-7.8912)
+___
+/m/04swx	/m/0727h	/m/06frc	/m/06frc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-7.8912)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9577)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.9934)
+___
+/m/06psyf	/m/06psyf	/m/0nccd	/m/0nccd
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.0013)
+___
+/m/06psyf	/m/06psyf	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.0013)
+___
+/m/04swx	/m/0p_x	/m/0p_x	/m/0p_x
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.0685)
+___
+/m/07ytt	/m/07j9n	/m/01s47p	/m/01s47p
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0745)
+___
+/m/07ytt	/m/07j9n	/m/01fvhp	/m/01fvhp
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0745)
+___
+/m/04swx	/m/06w92	/m/0536sd	/m/0536sd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.1314)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.1664)
+___
+/m/04swx	/m/078lk	/m/05314s	/m/05314s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.2001)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.2243)
+___
+/m/04fh3	/m/0jdx	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.2250)
+___
+/m/06psyf	/m/0nccd	/m/02jx1	/m/02jx1
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2308)
+___
+/m/06psyf	/m/0nccd	/m/036wy	/m/036wy
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2308)
+___
+/m/04swx	/m/0f0sbl	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.2314)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.2991)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.3254)
+___
+/m/06psyf	/m/06psyf	/m/06psyf	/m/06psyf
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.3754)
+___
+/m/04swx	/m/078lk	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.4105)
+___
+/m/04swx	/m/078lk	/m/07fj_	/m/07fj_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.4105)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.4348)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.4732)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.4915)
+___
+/m/04swx	/m/06w92	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5050)
+___
+/m/04fh3	/m/0jdx	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.5533)
+___
+/m/04fh3	/m/0jdx	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.5533)
+___
+/m/06sff	/m/01rz1	/m/06mkj	/m/06mkj
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+1
+tensor(-8.5566)
+___
+/m/06sff	/m/01rz1	/m/0jgx	/m/0jgx
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5566)
+___
+/m/06sff	/m/01rz1	/m/04gzd	/m/04gzd
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5566)
+___
+/m/06sff	/m/01rz1	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5566)
+___
+/m/06sff	/m/01rz1	/m/04g5k	/m/04g5k
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5566)
+___
+/m/06sff	/m/01rz1	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5566)
+___
+/m/07y2s	/m/07y2s	/m/02j9z	/m/02j9z
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5630)
+___
+/m/07y2s	/m/07y2s	/m/0d060g	/m/0d060g
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5630)
+___
+/m/07y2s	/m/07y2s	/m/0b90_r	/m/0b90_r
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5630)
+___
+/m/07y2s	/m/07y2s	/m/09c7w0	/m/09c7w0
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5630)
+___
+/m/04swx	/m/078lk	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5688)
+___
+/m/04swx	/m/0727h	/m/0727h	/m/0727h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	NO_OP
+-1
+tensor(-8.5733)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5883)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5883)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.5947)
+___
+/m/0ftns	/m/0ftns	/m/072x7s	/m/072x7s
+/location/location/contains	NO_OP	_/film/film/featured_film_locations
+-1
+tensor(-8.6056)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6365)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6365)
+___
+/m/06sff	/m/01rz1	/m/01rz1	/m/01rz1
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	NO_OP
+-1
+tensor(-8.6538)
+___
+/m/0ftns	/m/0ftns	/m/0ftns	/m/0ftns
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.6744)
+___
+/m/04fh3	/m/04fh3	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6817)
+___
+/m/04fh3	/m/04fh3	/m/0jdx	/m/0jdx
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6817)
+___
+/m/04fh3	/m/04fh3	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6817)
+___
+/m/01nhhz	/m/02tvsn	/m/01nhhz	/m/01nhhz
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6985)
+___
+/m/01nhhz	/m/02tvsn	/m/01m41_	/m/01m41_
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6985)
+___
+/m/01nhhz	/m/02tvsn	/m/01flgk	/m/01flgk
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6985)
+___
+/m/01nhhz	/m/02tvsn	/m/01k6y1	/m/01k6y1
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6985)
+___
+/m/01nhhz	/m/02tvsn	/m/0cdbq	/m/0cdbq
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.6985)
+___
+/m/06psyf	/m/06psyf	/m/02z2xdf	/m/02z2xdf
+/location/location/contains	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-8.7158)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.7184)
+___
+/m/06sff	/m/01rz1	/m/04g61	/m/04g61
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_founder/organizations_founded
+-1
+tensor(-8.8287)
+___
+/m/04fh3	/m/0bjv6	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.8409)
+___
+/m/020vx9	/m/020vx9	/m/020vx9	/m/020vx9
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-8.8621)
+___
+/m/04swx	/m/06w92	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.8937)
+___
+/m/06psyf	/m/0nccd	/m/02jx1	/m/02jx1
+/location/location/contains	_/location/location/contains	_/location/country/second_level_divisions
+-1
+tensor(-8.9161)
+___
+/m/04swx	/m/06w92	/m/0c630	/m/0c630
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-8.9277)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-8.9277)
+___
+/m/04swx	/m/06w92	/m/0536sd	/m/0536sd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-8.9277)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9353)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9353)
+___
+/m/04fh3	/m/0jdx	/m/02vxq9m	/m/02vxq9m
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.9390)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9470)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9476)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9476)
+___
+/m/04fh3	/m/04fh3	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	NO_OP	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9626)
+___
+/m/04swx	/m/078lk	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9675)
+___
+/m/04swx	/m/078lk	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9716)
+___
+/m/04swx	/m/078lk	/m/07fj_	/m/07fj_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9716)
+___
+/m/04swx	/m/06w92	/m/06w92	/m/06w92
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.9724)
+___
+/m/07ytt	/m/07ytt	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/country/capital	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.9777)
+___
+/m/04swx	/m/078lk	/m/05314s	/m/05314s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-8.9999)
+___
+/m/04fh3	/m/056vv	/m/02qyv3h	/m/02qyv3h
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0066)
+___
+/m/04fh3	/m/056vv	/m/0879bpq	/m/0879bpq
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0066)
+___
+/m/04fh3	/m/056vv	/m/0h3xztt	/m/0h3xztt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0066)
+___
+/m/035qv8	/m/035qv8	/m/035qv8	/m/035qv8
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-9.0396)
+___
+/m/04swx	/m/078lk	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-9.0425)
+___
+/m/04swx	/m/0f0sbl	/m/0kjrx	/m/0kjrx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-9.0502)
+___
+/m/06psyf	/m/0nccd	/m/036wy	/m/036wy
+/location/location/contains	_/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-9.0574)
+___
+/m/04fh3	/m/0bjv6	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-9.0868)
+___
+/m/04fh3	/m/04fh3	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.1115)
+___
+/m/04fh3	/m/04fh3	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.1115)
+___
+#####################
+/m/02j9z	/m/03rjj
+Reward:0
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.8341)
+___
+/m/04swx	/m/0k2q	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8360)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9484)
+___
+/m/07r_p	/m/07r_p	/m/07r_p	/m/07r_p
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.1519)
+___
+/m/018ym2	/m/018ym2	/m/018ym2	/m/018ym2
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.2786)
+___
+/m/04swx	/m/0k2q	/m/0k2q	/m/0k2q
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-7.3078)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.4297)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.5976)
+___
+/m/04swx	/m/0p_x	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.6003)
+___
+/m/04swx	/m/0f0sbl	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.7671)
+___
+/m/04swx	/m/0727h	/m/01xpg	/m/01xpg
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-7.8782)
+___
+/m/04swx	/m/0727h	/m/06frc	/m/06frc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-7.8782)
+___
+/m/04fh3	/m/0jdx	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9652)
+___
+/m/06psyf	/m/06psyf	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.9829)
+___
+/m/06psyf	/m/06psyf	/m/0nccd	/m/0nccd
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.9829)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9915)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.9935)
+___
+/m/07ytt	/m/07j9n	/m/01fvhp	/m/01fvhp
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0391)
+___
+/m/07ytt	/m/07j9n	/m/01s47p	/m/01s47p
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0391)
+___
+/m/04swx	/m/0p_x	/m/0p_x	/m/0p_x
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.0680)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.1608)
+___
+/m/06psyf	/m/0nccd	/m/02jx1	/m/02jx1
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2279)
+___
+/m/06psyf	/m/0nccd	/m/036wy	/m/036wy
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2279)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.2342)
+___
+/m/04swx	/m/0f0sbl	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.2347)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.2890)
+___
+/m/04fh3	/m/0jdx	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.2928)
+___
+/m/06psyf	/m/06psyf	/m/06psyf	/m/06psyf
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.3085)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.3183)
+___
+/m/04swx	/m/06w92	/m/0536sd	/m/0536sd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.3462)
+___
+/m/04swx	/m/078lk	/m/05314s	/m/05314s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.4038)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.5149)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5367)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5367)
+___
+/m/0ftns	/m/0ftns	/m/072x7s	/m/072x7s
+/location/location/contains	NO_OP	_/film/film/featured_film_locations
+-1
+tensor(-8.5596)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.5633)
+___
+/m/07y2s	/m/07y2s	/m/09c7w0	/m/09c7w0
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5675)
+___
+/m/07y2s	/m/07y2s	/m/0d060g	/m/0d060g
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5675)
+___
+/m/07y2s	/m/07y2s	/m/02j9z	/m/02j9z
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5675)
+___
+/m/07y2s	/m/07y2s	/m/0b90_r	/m/0b90_r
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5675)
+___
+/m/04swx	/m/0727h	/m/0727h	/m/0727h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	NO_OP
+-1
+tensor(-8.5760)
+___
+/m/06sff	/m/01rz1	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5913)
+___
+/m/06sff	/m/01rz1	/m/04g5k	/m/04g5k
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5913)
+___
+/m/06sff	/m/01rz1	/m/03rjj	/m/03rjj
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+1
+tensor(-8.5913)
+___
+/m/06sff	/m/01rz1	/m/0jgx	/m/0jgx
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5913)
+___
+/m/06sff	/m/01rz1	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5913)
+___
+/m/06sff	/m/01rz1	/m/04gzd	/m/04gzd
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.5913)
+___
+/m/04fh3	/m/04fh3	/m/0jdx	/m/0jdx
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5923)
+___
+/m/04fh3	/m/04fh3	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5923)
+___
+/m/04fh3	/m/04fh3	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5923)
+___
+/m/04swx	/m/078lk	/m/07fj_	/m/07fj_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6062)
+___
+/m/04swx	/m/078lk	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.6062)
+___
+/m/0ftns	/m/0ftns	/m/0ftns	/m/0ftns
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.6125)
+___
+/m/06psyf	/m/06psyf	/m/02z2xdf	/m/02z2xdf
+/location/location/contains	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-8.6138)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.6514)
+___
+/m/04fh3	/m/0jdx	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6588)
+___
+/m/04fh3	/m/0jdx	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6588)
+___
+/m/06sff	/m/01rz1	/m/01rz1	/m/01rz1
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	NO_OP
+-1
+tensor(-8.6793)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6822)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6822)
+___
+/m/04swx	/m/06w92	/m/03rjj	/m/03rjj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+1
+tensor(-8.7127)
+___
+/m/04swx	/m/06w92	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.7127)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.7149)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.7198)
+___
+/m/01nhhz	/m/02tvsn	/m/0cdbq	/m/0cdbq
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7695)
+___
+/m/01nhhz	/m/02tvsn	/m/01k6y1	/m/01k6y1
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7695)
+___
+/m/01nhhz	/m/02tvsn	/m/01m41_	/m/01m41_
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7695)
+___
+/m/01nhhz	/m/02tvsn	/m/01flgk	/m/01flgk
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7695)
+___
+/m/01nhhz	/m/02tvsn	/m/01nhhz	/m/01nhhz
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7695)
+___
+/m/01nhhz	/m/01nhhz	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.7763)
+___
+/m/04swx	/m/078lk	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.7778)
+___
+/m/04swx	/m/078lk	/m/03rjj	/m/03rjj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+1
+tensor(-8.7778)
+___
+/m/01nhhz	/m/01nhhz	/m/05d1y	/m/05d1y
+/location/location/contains	NO_OP	_/people/person/nationality
+-1
+tensor(-8.8009)
+___
+/m/06sff	/m/01rz1	/m/04g61	/m/04g61
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_founder/organizations_founded
+-1
+tensor(-8.8519)
+___
+/m/06psyf	/m/0nccd	/m/02jx1	/m/02jx1
+/location/location/contains	_/location/location/contains	_/location/country/second_level_divisions
+-1
+tensor(-8.8758)
+___
+/m/04fh3	/m/0bjv6	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.8960)
+___
+/m/04fh3	/m/04fh3	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	NO_OP	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.8967)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9113)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9369)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9369)
+___
+/m/020vx9	/m/020vx9	/m/020vx9	/m/020vx9
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-8.9562)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9747)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9747)
+___
+/m/035qv8	/m/035qv8	/m/035qv8	/m/035qv8
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-8.9946)
+___
+/m/04fh3	/m/04fh3	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0303)
+___
+/m/04fh3	/m/04fh3	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0303)
+___
+/m/04fh3	/m/0jdx	/m/02vxq9m	/m/02vxq9m
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0312)
+___
+/m/07ytt	/m/07ytt	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/country/capital	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-9.0358)
+___
+/m/06psyf	/m/0nccd	/m/036wy	/m/036wy
+/location/location/contains	_/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-9.0378)
+___
+/m/01nhhz	/m/0cbvg	/m/0j5b8	/m/0j5b8
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0401)
+___
+/m/01nhhz	/m/0cbvg	/m/01m41_	/m/01m41_
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0401)
+___
+/m/01nhhz	/m/0cbvg	/m/02c4s	/m/02c4s
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0401)
+___
+/m/01nhhz	/m/0cbvg	/m/01flgk	/m/01flgk
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0401)
+___
+/m/04fh3	/m/0bjv6	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-9.0493)
+___
+/m/04swx	/m/0f0sbl	/m/0kjrx	/m/0kjrx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-9.0498)
+___
+/m/04fh3	/m/056vv	/m/0879bpq	/m/0879bpq
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0618)
+___
+/m/04fh3	/m/056vv	/m/0h3xztt	/m/0h3xztt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0618)
+___
+/m/04fh3	/m/056vv	/m/02qyv3h	/m/02qyv3h
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0618)
+___
+/m/01nhhz	/m/01nhhz	/m/01nhhz	/m/01nhhz
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-9.0725)
+___
+/m/04swx	/m/06w92	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.1108)
+___
+#####################
+/m/02j9z	/m/07ssc
+Reward:0
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.7914)
+___
+/m/04swx	/m/0k2q	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8853)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9433)
+___
+/m/07r_p	/m/07r_p	/m/07r_p	/m/07r_p
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.0947)
+___
+/m/018ym2	/m/018ym2	/m/018ym2	/m/018ym2
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-7.2622)
+___
+/m/04swx	/m/0k2q	/m/0k2q	/m/0k2q
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-7.3690)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.5357)
+___
+/m/04swx	/m/0p_x	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.6198)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.7219)
+___
+/m/04swx	/m/0f0sbl	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.7944)
+___
+/m/04fh3	/m/0jdx	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.9415)
+___
+/m/06psyf	/m/06psyf	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.9869)
+___
+/m/06psyf	/m/06psyf	/m/0nccd	/m/0nccd
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.9869)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.0234)
+___
+/m/04swx	/m/0727h	/m/06frc	/m/06frc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0380)
+___
+/m/04swx	/m/0727h	/m/01xpg	/m/01xpg
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0380)
+___
+/m/04swx	/m/0p_x	/m/0jdx	/m/0jdx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.0509)
+___
+/m/07ytt	/m/07j9n	/m/01fvhp	/m/01fvhp
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0746)
+___
+/m/07ytt	/m/07j9n	/m/01s47p	/m/01s47p
+/base/locations/continents/countries_within	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.0746)
+___
+/m/04swx	/m/0p_x	/m/0p_x	/m/0p_x
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.0788)
+___
+/m/04swx	/m/06w92	/m/0536sd	/m/0536sd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.2123)
+___
+/m/04fh3	/m/056vv	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.2232)
+___
+/m/04swx	/m/0f0sbl	/m/078lk	/m/078lk
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.2351)
+___
+/m/04swx	/m/0f0sbl	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-8.2600)
+___
+/m/04swx	/m/078lk	/m/05314s	/m/05314s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.2667)
+___
+/m/04fh3	/m/0jdx	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.2802)
+___
+/m/06psyf	/m/06psyf	/m/06psyf	/m/06psyf
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.2817)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.2895)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.3739)
+___
+/m/06psyf	/m/0nccd	/m/036wy	/m/036wy
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.4601)
+___
+/m/06psyf	/m/0nccd	/m/02jx1	/m/02jx1
+/location/location/contains	_/location/location/contains	_/location/location/contains
+-1
+tensor(-8.4601)
+___
+/m/06psyf	/m/0nccd	/m/07ssc	/m/07ssc
+/location/location/contains	_/location/location/contains	_/location/location/contains
+1
+tensor(-8.4601)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.4806)
+___
+/m/04swx	/m/078lk	/m/07fj_	/m/07fj_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5228)
+___
+/m/04swx	/m/078lk	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5228)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.5285)
+___
+/m/04swx	/m/06w92	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5395)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.5419)
+___
+/m/07y2s	/m/07y2s	/m/0d060g	/m/0d060g
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5524)
+___
+/m/07y2s	/m/07y2s	/m/0b90_r	/m/0b90_r
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5524)
+___
+/m/07y2s	/m/07y2s	/m/09c7w0	/m/09c7w0
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5524)
+___
+/m/07y2s	/m/07y2s	/m/02j9z	/m/02j9z
+_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	NO_OP	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-8.5524)
+___
+/m/0ftns	/m/0ftns	/m/072x7s	/m/072x7s
+/location/location/contains	NO_OP	_/film/film/featured_film_locations
+-1
+tensor(-8.5544)
+___
+/m/04fh3	/m/04fh3	/m/0jdx	/m/0jdx
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5581)
+___
+/m/04fh3	/m/04fh3	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5581)
+___
+/m/04fh3	/m/04fh3	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5581)
+___
+/m/04fh3	/m/056vv	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.5636)
+___
+/m/06psyf	/m/06psyf	/m/02z2xdf	/m/02z2xdf
+/location/location/contains	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-8.5679)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5698)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.5698)
+___
+/m/04swx	/m/078lk	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5953)
+___
+/m/0ftns	/m/0ftns	/m/0ftns	/m/0ftns
+/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-8.6008)
+___
+/m/04fh3	/m/0jdx	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6188)
+___
+/m/04fh3	/m/0jdx	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.6188)
+___
+/m/06sff	/m/01rz1	/m/07ssc	/m/07ssc
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+1
+tensor(-8.6743)
+___
+/m/06sff	/m/01rz1	/m/04g5k	/m/04g5k
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6743)
+___
+/m/06sff	/m/01rz1	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6743)
+___
+/m/06sff	/m/01rz1	/m/0jgx	/m/0jgx
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6743)
+___
+/m/06sff	/m/01rz1	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6743)
+___
+/m/06sff	/m/01rz1	/m/04gzd	/m/04gzd
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-8.6743)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.7025)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.7025)
+___
+/m/04fh3	/m/0bjv6	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.7064)
+___
+/m/04swx	/m/0727h	/m/0727h	/m/0727h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/time/event/locations	NO_OP
+-1
+tensor(-8.7205)
+___
+/m/06sff	/m/01rz1	/m/01rz1	/m/01rz1
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	NO_OP
+-1
+tensor(-8.7737)
+___
+/m/01nhhz	/m/02tvsn	/m/0cdbq	/m/0cdbq
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7760)
+___
+/m/01nhhz	/m/02tvsn	/m/01m41_	/m/01m41_
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7760)
+___
+/m/01nhhz	/m/02tvsn	/m/01flgk	/m/01flgk
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7760)
+___
+/m/01nhhz	/m/02tvsn	/m/01nhhz	/m/01nhhz
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7760)
+___
+/m/01nhhz	/m/02tvsn	/m/01k6y1	/m/01k6y1
+/location/location/contains	_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved
+-1
+tensor(-8.7760)
+___
+/m/01nhhz	/m/01nhhz	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-8.8051)
+___
+/m/01nhhz	/m/01nhhz	/m/05d1y	/m/05d1y
+/location/location/contains	NO_OP	_/people/person/nationality
+-1
+tensor(-8.8086)
+___
+/m/04fh3	/m/04fh3	/m/09nqf	/m/09nqf
+/base/locations/continents/countries_within	NO_OP	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.8148)
+___
+/m/020vx9	/m/020vx9	/m/020vx9	/m/020vx9
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-8.8626)
+___
+/m/04fh3	/m/0bjv6	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.8672)
+___
+/m/04swx	/m/06w92	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9261)
+___
+/m/07ytt	/m/07ytt	/m/0hzc9wc	/m/0hzc9wc
+/base/locations/continents/countries_within	_/location/country/capital	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-8.9401)
+___
+/m/06sff	/m/01rz1	/m/07ssc	/m/07ssc
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_founder/organizations_founded
+1
+tensor(-8.9496)
+___
+/m/06sff	/m/01rz1	/m/04g61	/m/04g61
+/base/locations/continents/countries_within	/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_founder/organizations_founded
+-1
+tensor(-8.9496)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9571)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9638)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9638)
+___
+/m/04fh3	/m/056vv	/m/02j9z	/m/02j9z
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9652)
+___
+/m/04fh3	/m/056vv	/m/02qkt	/m/02qkt
+/base/locations/continents/countries_within	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-8.9652)
+___
+/m/04swx	/m/078lk	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9657)
+___
+/m/04fh3	/m/04fh3	/m/0bjv6	/m/0bjv6
+/base/locations/continents/countries_within	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9820)
+___
+/m/04fh3	/m/04fh3	/m/056vv	/m/056vv
+/base/locations/continents/countries_within	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-8.9820)
+___
+/m/04swx	/m/06w92	/m/09pxc	/m/09pxc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-8.9956)
+___
+/m/04swx	/m/06w92	/m/0c630	/m/0c630
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-8.9956)
+___
+/m/04swx	/m/06w92	/m/0536sd	/m/0536sd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-8.9956)
+___
+/m/04swx	/m/06w92	/m/06w92	/m/06w92
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	NO_OP
+-1
+tensor(-9.0168)
+___
+/m/035qv8	/m/035qv8	/m/035qv8	/m/035qv8
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-9.0303)
+___
+/m/04swx	/m/078lk	/m/07fj_	/m/07fj_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0359)
+___
+/m/04swx	/m/078lk	/m/0f0sbl	/m/0f0sbl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.0359)
+___
+/m/04fh3	/m/0jdx	/m/02vxq9m	/m/02vxq9m
+/base/locations/continents/countries_within	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0369)
+___
+/m/04swx	/m/078lk	/m/05314s	/m/05314s
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	/location/location/contains
+-1
+tensor(-9.0392)
+___
+/m/01nhhz	/m/0cbvg	/m/02c4s	/m/02c4s
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0464)
+___
+/m/01nhhz	/m/0cbvg	/m/01flgk	/m/01flgk
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0464)
+___
+/m/01nhhz	/m/0cbvg	/m/01m41_	/m/01m41_
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0464)
+___
+/m/01nhhz	/m/0cbvg	/m/0j5b8	/m/0j5b8
+/location/location/contains	_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved
+-1
+tensor(-9.0464)
+___
+#####################

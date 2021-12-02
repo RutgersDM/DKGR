@@ -1,0 +1,2515 @@
+/m/04ycjk	/m/09nqf
+Reward:1
+/m/09c7w0	/m/015zyd	/m/09nqf	/m/09nqf
+_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/country	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-0.6931)
+___
+/m/05k7sb	/m/0tz01	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-2.4849)
+___
+/m/05k7sb	/m/0tz54	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-2.4849)
+___
+/m/05k7sb	/m/0tz41	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-2.4849)
+___
+/m/05k7sb	/m/0mzvm	/m/0k3jc	/m/0k3jc
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-2.4849)
+___
+/m/05k7sb	/m/01lxw6	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-2.4849)
+___
+/m/05k7sb	/m/01cx_	/m/040fb	/m/040fb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2767)
+___
+/m/05k7sb	/m/01cx_	/m/02xx5	/m/02xx5
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2767)
+___
+/m/05k7sb	/m/01cx_	/m/040fv	/m/040fv
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2767)
+___
+/m/05k7sb	/m/01cx_	/m/06vkl	/m/06vkl
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2767)
+___
+/m/05k7sb	/m/01cx_	/m/05lf_	/m/05lf_
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2767)
+___
+/m/05k7sb	/m/01cx_	/m/04w_7	/m/04w_7
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2767)
+___
+/m/01rs41	/m/04d5v9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01p5xy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/05bnq8	/m/01rs41	/m/01rs41
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/03_fmr	/m/03z19	/m/03z19
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+tensor(-28.9460)
+___
+/m/01rs41	/m/0l0wv	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02_2kg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/0bjqh	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/03zj9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/03cz83	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01pdgp	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/027xx3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/026vcc	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02g839	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/031n8c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02l1fn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/0160nk	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01n951	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02p8454	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/04344j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01b1mj	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/037q2p	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/03bmmc	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01p7x7	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/05cwl_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/04p_hy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01w3vc	/m/01rs41	/m/01rs41
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/02bhj4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/012mzw	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/030w19	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/03818y	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/01hjy5	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/04wlz2	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02pdhz	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/03205_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02qw_v	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/05cwl_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02bf58	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01_f90	/m/01rs41	/m/01rs41
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/01q2sk	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/022xml	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/065y4w7	/m/030qb3t	/m/030qb3t
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-28.9460)
+___
+/m/01rs41	/m/04cnp4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/012mzw	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/02s8qk	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/018t8f	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01wrwf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/07wrz	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02nvg1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01rgn3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/0gdm1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/0bthb	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/03hpkp	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/0lfgr	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01ljpm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/06thjt	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/06rkfs	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/016wyn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/08qs09	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/03hdz8	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/043q2z	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/037s9x	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/0gl5_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/09kvv	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/014zws	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01hnb	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02mzg9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/02bq1j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/03_fmr	/m/03z19	/m/03z19
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+tensor(-28.9460)
+___
+/m/01rs41	/m/086xm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/017d77	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/01rgn3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/07lx1s	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02q636	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01c333	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/017z88	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/02ccqg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/02sjgpq	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/05njyy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/05q2c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/0kqj1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/05qgd9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/01dq5z	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/0gl5_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/02mj7c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/05pcjw	/m/03y5ky	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.9460)
+___
+/m/01rs41	/m/016w7b	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6245)
+___
+/m/01rs41	/m/036hnm	/m/0j0k	/m/0j0k
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-29.6392)
+___
+/m/01rs41	/m/036hnm	/m/05v8c	/m/05v8c
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-29.6392)
+___
+#####################
+/m/0m7yh	/m/02l6h
+Reward:0
+/m/0150n	/m/09ksp	/m/0m7yh	/m/0m7yh
+_/location/location/contains	_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-0.6931)
+___
+/m/0150n	/m/0345h	/m/047p798	/m/047p798
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0g9wdmc	/m/0g9wdmc
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/07pd_j	/m/07pd_j
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/07g_0c	/m/07g_0c
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0ddj0x	/m/0ddj0x
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/05c26ss	/m/05c26ss
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/06zn2v2	/m/06zn2v2
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0cc7hmk	/m/0cc7hmk
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/02ylg6	/m/02ylg6
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0hv27	/m/0hv27
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0hgnl3t	/m/0hgnl3t
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0db94w	/m/0db94w
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0gtsxr4	/m/0gtsxr4
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/07jnt	/m/07jnt
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0dgst_d	/m/0dgst_d
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/07l50vn	/m/07l50vn
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0ds3t5x	/m/0ds3t5x
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/047p7fr	/m/047p7fr
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0gtv7pk	/m/0gtv7pk
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0372j5	/m/0372j5
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0g4vmj8	/m/0g4vmj8
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0fphgb	/m/0fphgb
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0gg8z1f	/m/0gg8z1f
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0g5qs2k	/m/0g5qs2k
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0gtvpkw	/m/0gtvpkw
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0dt8xq	/m/0dt8xq
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/05dss7	/m/05dss7
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0by1wkq	/m/0by1wkq
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0_92w	/m/0_92w
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0hx4y	/m/0hx4y
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0crs0b8	/m/0crs0b8
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0g56t9t	/m/0g56t9t
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0gg5kmg	/m/0gg5kmg
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/0glqh5_	/m/0glqh5_
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/0150n	/m/0345h	/m/040rmy	/m/040rmy
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2485)
+___
+/m/05jxkf	/m/012vwb	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02482c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01g4yw	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/03fmfs	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01y888	/m/03902	/m/03902
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01xrlm	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/09hgk	/m/02l6h	/m/02l6h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/07w5rq	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/03l78j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02fs_d	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01ky7c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02gnh0	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/020vx9	/m/02l6h	/m/02l6h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/05zjtn4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/016ndm	/m/0ptk_	/m/0ptk_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01xysf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01q7q2	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/07vyf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01hx2t	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/0820xz	/m/05d49	/m/05d49
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02yxjs	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01r47h	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/020923	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02w6bq	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01p896	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01jq0j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02fjzt	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/09f2j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01hc1j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01y8zd	/m/0ptk_	/m/0ptk_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/0dy04	/m/02l6h	/m/02l6h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01jsn5	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/052nd	/m/0ptk_	/m/0ptk_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02qwgk	/m/0ptk_	/m/0ptk_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/0c5x_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/0f1nl	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/015wy_	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/015fsv	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/018sg9	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/0xxc	/m/0ptk_	/m/0ptk_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01zn4y	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/07vk2	/m/0kz1h	/m/0kz1h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/0lwyk	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01s7pm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02583l	/m/0ptk_	/m/0ptk_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01tpvt	/m/06mzp	/m/06mzp
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/088gzp	/m/0dlv0	/m/0dlv0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02gr81	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/09k23	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01ngz1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/024y8p	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/0gl6x	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01csqg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01hhvg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/049dk	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01lnyf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01nkcn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/014d4v	/m/01nv4h	/m/01nv4h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01fy2s	/m/02l6h	/m/02l6h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/01dbns	/m/0kz1h	/m/0kz1h
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/02ldkf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/04ld32	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/05gm16l	/m/0ptk_	/m/0ptk_
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+/m/05jxkf	/m/021l5s	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-28.2529)
+___
+#####################
+/m/06b7s9	/m/09nqf
+Reward:1
+/m/09c7w0	/m/015zyd	/m/09nqf	/m/09nqf
+_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/country	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-1.0986)
+___
+/m/01n7q	/m/0r1jr	/m/0l2hf	/m/0l2hf
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/0b2ds	/m/01n7q	/m/01n7q
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/0r1yc	/m/01n7q	/m/01n7q
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/015zxh	/m/01n7q	/m/01n7q
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/0r4wn	/m/01n7q	/m/01n7q
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/0k9p4	/m/01n7q	/m/01n7q
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/07bcn	/m/0bxqq	/m/0bxqq
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/0mzww	/m/01n7q	/m/01n7q
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/0r4z7	/m/01n7q	/m/01n7q
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.4965)
+___
+/m/01n7q	/m/0jbrr	/m/0cb4j	/m/0cb4j
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-3.4965)
+___
+/m/030qb3t	/m/06vkl	/m/04jpl	/m/04jpl
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/05qtj	/m/05qtj
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/01f62	/m/01f62
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/04jpl	/m/04jpl
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/06y57	/m/06y57
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0f2rq	/m/0f2rq
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/06t2t	/m/06t2t
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0f04v	/m/0f04v
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/05ywg	/m/05ywg
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0chgzm	/m/0chgzm
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0947l	/m/0947l
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0h7h6	/m/0h7h6
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0ply0	/m/0ply0
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/06mxs	/m/06mxs
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0f2rq	/m/0f2rq
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/071vr	/m/071vr
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/02sn34	/m/02sn34
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0156q	/m/0156q
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/08966	/m/08966
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0f04v	/m/0f04v
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0156q	/m/0156q
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/013yq	/m/013yq
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0l0mk	/m/0l0mk
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0dclg	/m/0dclg
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0rh6k	/m/0rh6k
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0rh6k	/m/0rh6k
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/02_286	/m/02_286
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/05ywg	/m/05ywg
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/05l64	/m/05l64
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0h3tv	/m/0h3tv
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/01914	/m/01914
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0g6xq	/m/0g6xq
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/05qtj	/m/05qtj
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/056_y	/m/056_y
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/03hrz	/m/03hrz
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0k3p	/m/0k3p
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0d9jr	/m/0d9jr
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0cv3w	/m/0cv3w
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0177z	/m/0177z
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0f2v0	/m/0f2v0
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/049d1	/m/049d1
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0d6lp	/m/0d6lp
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/07dfk	/m/07dfk
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/02cl1	/m/02cl1
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0dclg	/m/0dclg
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/02frhbc	/m/02frhbc
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/01cx_	/m/01cx_
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/07dfk	/m/07dfk
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/030qb3t	/m/030qb3t
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/052p7	/m/052p7
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/06mxs	/m/06mxs
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0f2v0	/m/0f2v0
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/02z0j	/m/02z0j
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/030qb3t	/m/030qb3t
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0vzm	/m/0vzm
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/049d1	/m/049d1
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/01f62	/m/01f62
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/071vr	/m/071vr
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0177z	/m/0177z
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0947l	/m/0947l
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/08966	/m/08966
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/02cft	/m/02cft
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/080h2	/m/080h2
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/02cl1	/m/02cl1
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/02sn34	/m/02sn34
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/06wjf	/m/06wjf
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0cv3w	/m/0cv3w
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/06c62	/m/06c62
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/01lfy	/m/01lfy
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/01_d4	/m/01_d4
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/01cx_	/m/01cx_
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/02z0j	/m/02z0j
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0vzm	/m/0vzm
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/01914	/m/01914
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0fn2g	/m/0fn2g
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/02frhbc	/m/02frhbc
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/03hrz	/m/03hrz
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/02_286	/m/02_286
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/03902	/m/03902
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0fhp9	/m/0fhp9
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/040fb	/m/0k3p	/m/0k3p
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/06vkl	/m/0g6xq	/m/0g6xq
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9108)
+___
+/m/030qb3t	/m/05lf_	/m/030qb3t	/m/030qb3t
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9584)
+___
+/m/030qb3t	/m/05lf_	/m/02_286	/m/02_286
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9584)
+___
+/m/030qb3t	/m/05lf_	/m/03khn	/m/03khn
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9584)
+___
+/m/030qb3t	/m/05lf_	/m/0177z	/m/0177z
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9584)
+___
+/m/030qb3t	/m/05lf_	/m/0d6lp	/m/0d6lp
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9584)
+___
+/m/030qb3t	/m/05lf_	/m/0dclg	/m/0dclg
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9584)
+___
+/m/030qb3t	/m/05lf_	/m/0cv3w	/m/0cv3w
+_/location/location/contains	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-5.9584)
+___
+#####################
+/m/01mpwj	/m/09nqf
+Reward:1
+/m/09c7w0	/m/015zyd	/m/09nqf	/m/09nqf
+_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/country	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-1.3863)
+___
+/m/05k7sb	/m/0mzvm	/m/0k3jc	/m/0k3jc
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/us_county/county_seat
+-1
+tensor(-3.1781)
+___
+/m/01qh7	/m/05k7sb	/m/01cx_	/m/01cx_
+_/location/location/contains	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/05k7sb	/m/0tz01	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/01qh7	/m/05k7sb	/m/0mzvm	/m/0mzvm
+_/location/location/contains	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/05k7sb	/m/0tz54	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/01qh7	/m/05k7sb	/m/0tz01	/m/0tz01
+_/location/location/contains	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/01qh7	/m/05k7sb	/m/0tz41	/m/0tz41
+_/location/location/contains	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/01qh7	/m/05k7sb	/m/0tz54	/m/0tz54
+_/location/location/contains	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/05k7sb	/m/0tz41	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/059g4	/m/03wh49y	/m/0f0kz	/m/0f0kz
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-3.1781)
+___
+/m/01qh7	/m/05k7sb	/m/01lxw6	/m/01lxw6
+_/location/location/contains	/base/biblioness/bibs_location/state	_/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/059g4	/m/03wh49y	/m/0svqs	/m/0svqs
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-3.1781)
+___
+/m/05k7sb	/m/01lxw6	/m/05k7sb	/m/05k7sb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state
+-1
+tensor(-3.1781)
+___
+/m/059g4	/m/02r1c18	/m/02r96rf	/m/02r96rf
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-3.8712)
+___
+/m/059g4	/m/02r1c18	/m/09vw2b7	/m/09vw2b7
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-3.8712)
+___
+/m/059g4	/m/02r1c18	/m/09zzb8	/m/09zzb8
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-3.8712)
+___
+/m/059g4	/m/02r1c18	/m/0ch6mp2	/m/0ch6mp2
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-3.8712)
+___
+/m/059g4	/m/0btpm6	/m/02r96rf	/m/02r96rf
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.0943)
+___
+/m/059g4	/m/0btpm6	/m/09zzb8	/m/09zzb8
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.0943)
+___
+/m/059g4	/m/0btpm6	/m/0d2b38	/m/0d2b38
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.0943)
+___
+/m/059g4	/m/0btpm6	/m/0dxtw	/m/0dxtw
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.0943)
+___
+/m/059g4	/m/0btpm6	/m/0ch6mp2	/m/0ch6mp2
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.0943)
+___
+/m/05k7sb	/m/01cx_	/m/05lf_	/m/05lf_
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.9698)
+___
+/m/05k7sb	/m/01cx_	/m/06vkl	/m/06vkl
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.9698)
+___
+/m/05k7sb	/m/01cx_	/m/040fb	/m/040fb
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.9698)
+___
+/m/05k7sb	/m/01cx_	/m/040fv	/m/040fv
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.9698)
+___
+/m/05k7sb	/m/01cx_	/m/02xx5	/m/02xx5
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.9698)
+___
+/m/05k7sb	/m/01cx_	/m/04w_7	/m/04w_7
+_/location/location/contains	_/base/biblioness/bibs_location/state	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.9698)
+___
+/m/059g4	/m/03wh49y	/m/02r96rf	/m/02r96rf
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-19.8890)
+___
+/m/059g4	/m/03wh49y	/m/09vw2b7	/m/09vw2b7
+_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-19.8890)
+___
+/m/01rs41	/m/0gdm1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02nvg1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/018t8f	/m/09c7w0	/m/09c7w0
+/education/educational_institution/school_type	_/education/educational_institution/school_type	_/location/location/contains
+-1
+tensor(-29.6392)
+___
+/m/01rs41	/m/017z88	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01hnb	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01pdgp	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0kqj1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/05bnq8	/m/01rs41	/m/01rs41
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02hft3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/038czx	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/06rkfs	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/05cwl_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02ccqg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/012mzw	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01swxv	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02sjgpq	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/019_6d	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/03_fmr	/m/03z19	/m/03z19
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency
+-1
+tensor(-29.6392)
+___
+/m/01rs41	/m/03hvk2	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/07lx1s	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/030w19	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01wrwf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/021s9n	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02p8454	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/04p_hy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0l0wv	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02_2kg	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02l1fn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/027xx3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/05njyy	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0lfgr	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01rgn3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01b1mj	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/086xm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01dq5z	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/016wyn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/05q2c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0gl5_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02q636	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/03cz83	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/04344j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02mj7c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01vc5m	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/03205_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0hpv3	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/026vcc	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01k2wn	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0172jm	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01c333	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0lyjf	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0558_1	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/021q2j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02bf58	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/06jk5_	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02rky4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/07w3r	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02g839	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/06l32y	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/031n8c	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01n951	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/017d77	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/015y3j	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/01p7x7	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0225v9	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02qw_v	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/0bjqh	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/03hpkp	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/02rg_4	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+/m/01rs41	/m/04ftdq	/m/09nqf	/m/09nqf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-29.6392)
+___
+#####################
+/m/027xq5	/m/01nv4h
+Reward:0
+/m/06q1r	/m/03rjj	/m/0jdx	/m/0jdx
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-2.6391)
+___
+/m/0hyxv	/m/06q1r	/m/0f8l9c	/m/0f8l9c
+_/location/location/contains	_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-3.3322)
+___
+/m/0hyxv	/m/06q1r	/m/03rjj	/m/03rjj
+_/location/location/contains	_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-3.3322)
+___
+/m/0hyxv	/m/06q1r	/m/06mkj	/m/06mkj
+_/location/location/contains	_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-3.3322)
+___
+/m/0hyxv	/m/06q1r	/m/06mzp	/m/06mzp
+_/location/location/contains	_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-3.3322)
+___
+/m/0hyxv	/m/06q1r	/m/059j2	/m/059j2
+_/location/location/contains	_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-3.3322)
+___
+/m/0hyxv	/m/06q1r	/m/0345h	/m/0345h
+_/location/location/contains	_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-3.3322)
+___
+/m/0hyxv	/m/06q1r	/m/06t2t	/m/06t2t
+_/location/location/contains	_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to
+-1
+tensor(-3.3322)
+___
+/m/0hyxv	/m/07ssc	/m/0crh5_f	/m/0crh5_f
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/0gvvf4j	/m/0gvvf4j
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/01srq2	/m/01srq2
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/035yn8	/m/035yn8
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/0j43swk	/m/0j43swk
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/0gh65c5	/m/0gh65c5
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/04vh83	/m/04vh83
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/0cc5mcj	/m/0cc5mcj
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/0cc7hmk	/m/0cc7hmk
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/02yvct	/m/02yvct
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/089j8p	/m/089j8p
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/06ztvyx	/m/06ztvyx
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/0cc97st	/m/0cc97st
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/017jd9	/m/017jd9
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/0372j5	/m/0372j5
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/05dss7	/m/05dss7
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/0hyxv	/m/07ssc	/m/02mt51	/m/02mt51
+_/location/location/contains	_/location/location/contains	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-4.2195)
+___
+/m/06q1r	/m/06t2t	/m/05cw8	/m/05cw8
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2485)
+___
+/m/06q1r	/m/06t2t	/m/040fv	/m/040fv
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2485)
+___
+/m/06q1r	/m/06t2t	/m/02xx5	/m/02xx5
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2485)
+___
+/m/06q1r	/m/06t2t	/m/028kb	/m/028kb
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2485)
+___
+/m/06q1r	/m/06t2t	/m/04wzr	/m/04wzr
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-4.2485)
+___
+/m/06q1r	/m/0f8l9c	/m/0h63gl9	/m/0h63gl9
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/043sct5	/m/043sct5
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0bh8tgs	/m/0bh8tgs
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0b44shh	/m/0b44shh
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/01jrbb	/m/01jrbb
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0k4fz	/m/0k4fz
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0gj8t_b	/m/0gj8t_b
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/01d259	/m/01d259
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0233bn	/m/0233bn
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/02xbyr	/m/02xbyr
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0184tc	/m/0184tc
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0hhggmy	/m/0hhggmy
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/01srq2	/m/01srq2
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0g4pl7z	/m/0g4pl7z
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/07j8r	/m/07j8r
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0gvrws1	/m/0gvrws1
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0gh8zks	/m/0gh8zks
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0dckvs	/m/0dckvs
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0gwjw0c	/m/0gwjw0c
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/01ffx4	/m/01ffx4
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/02dpl9	/m/02dpl9
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0j6b5	/m/0j6b5
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/032clf	/m/032clf
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0198b6	/m/0198b6
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/040rmy	/m/040rmy
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/03g90h	/m/03g90h
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0j43swk	/m/0j43swk
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0jqn5	/m/0jqn5
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0gj8nq2	/m/0gj8nq2
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0gkz3nz	/m/0gkz3nz
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/01kjr0	/m/01kjr0
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0crfwmx	/m/0crfwmx
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0f8l9c	/m/0992d9	/m/0992d9
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1356)
+___
+/m/06q1r	/m/0345h	/m/0hv27	/m/0hv27
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0hgnl3t	/m/0hgnl3t
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/07g_0c	/m/07g_0c
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/07pd_j	/m/07pd_j
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/07l50vn	/m/07l50vn
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0db94w	/m/0db94w
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0cc7hmk	/m/0cc7hmk
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0by1wkq	/m/0by1wkq
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0gg8z1f	/m/0gg8z1f
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0gtvpkw	/m/0gtvpkw
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0_92w	/m/0_92w
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0ds3t5x	/m/0ds3t5x
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0glqh5_	/m/0glqh5_
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0dgst_d	/m/0dgst_d
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0gtsxr4	/m/0gtsxr4
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/07jnt	/m/07jnt
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0g9wdmc	/m/0g9wdmc
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/040rmy	/m/040rmy
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0gg5kmg	/m/0gg5kmg
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/05dss7	/m/05dss7
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/047p798	/m/047p798
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0372j5	/m/0372j5
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/06zn2v2	/m/06zn2v2
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0hx4y	/m/0hx4y
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/047p7fr	/m/047p7fr
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0fphgb	/m/0fphgb
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0g4vmj8	/m/0g4vmj8
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0g56t9t	/m/0g56t9t
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0ddj0x	/m/0ddj0x
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0gtv7pk	/m/0gtv7pk
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0g5qs2k	/m/0g5qs2k
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/02ylg6	/m/02ylg6
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0dt8xq	/m/0dt8xq
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/05c26ss	/m/05c26ss
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/0345h	/m/0crs0b8	/m/0crs0b8
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1944)
+___
+/m/06q1r	/m/06mzp	/m/0dr3sl	/m/0dr3sl
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4232)
+___
+/m/06q1r	/m/06mzp	/m/0j3d9tn	/m/0j3d9tn
+_/location/location/contains	/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4232)
+___
+#####################

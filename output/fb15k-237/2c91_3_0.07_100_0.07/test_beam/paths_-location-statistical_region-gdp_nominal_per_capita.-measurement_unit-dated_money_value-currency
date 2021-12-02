@@ -1,0 +1,1509 @@
+/m/0168t	/m/09nqf
+Reward:1
+/m/0168t	/m/0168t	/m/0261m	/m/0261m
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.0274)
+___
+/m/0168t	/m/0168t	/m/07c5l	/m/07c5l
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.0274)
+___
+/m/01q20	/m/06v36	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9875)
+___
+/m/01q20	/m/02wmy	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9880)
+___
+/m/01q20	/m/020p1	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9891)
+___
+/m/01q20	/m/088q1s	/m/0n2z	/m/0n2z
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-5.9899)
+___
+/m/01q20	/m/035v3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9909)
+___
+/m/01q20	/m/02w9s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0159)
+___
+/m/01q20	/m/047yc	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0174)
+___
+/m/01q20	/m/0ctw_b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0188)
+___
+/m/01q20	/m/0154j	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0254)
+___
+/m/018wl5	/m/06v36	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0792)
+___
+/m/018wl5	/m/035v3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0794)
+___
+/m/018wl5	/m/02wmy	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0794)
+___
+/m/018wl5	/m/088q1s	/m/0n2z	/m/0n2z
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-6.0804)
+___
+/m/018wl5	/m/0hzlz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0810)
+___
+/m/018wl5	/m/03rk0	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0821)
+___
+/m/018wl5	/m/01pj7	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0876)
+___
+/m/01q20	/m/0161c	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0884)
+___
+/m/018wl5	/m/0ctw_b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0922)
+___
+/m/018wl5	/m/02w9s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0999)
+___
+/m/01q20	/m/0162v	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1023)
+___
+/m/01q20	/m/06s6l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1043)
+___
+/m/018wl5	/m/049nq	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1133)
+___
+/m/01q20	/m/0160w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1142)
+___
+/m/018wl5	/m/0d0vqn	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1148)
+___
+/m/018wl5	/m/0162v	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1217)
+___
+/m/018wl5	/m/0160w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1230)
+___
+/m/01q20	/m/0j11	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1278)
+___
+/m/01q20	/m/0k6nt	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1516)
+___
+/m/018wl5	/m/05r4w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1517)
+___
+/m/01q20	/m/06q1r	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1520)
+___
+/m/018wl5	/m/07t21	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1525)
+___
+/m/018wl5	/m/0162b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1584)
+___
+/m/01q20	/m/049nq	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1664)
+___
+/m/018wl5	/m/0k6nt	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1675)
+___
+/m/018wl5	/m/01n8qg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1702)
+___
+/m/01q20	/m/0d0vqn	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1712)
+___
+/m/01q20	/m/03_r3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1730)
+___
+/m/01q20	/m/06s0l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1732)
+___
+/m/01q20	/m/0164b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1772)
+___
+/m/018wl5	/m/03spz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1793)
+___
+/m/01q20	/m/01n8qg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1796)
+___
+/m/018wl5	/m/06ryl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1849)
+___
+/m/018wl5	/m/03__y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1918)
+___
+/m/018wl5	/m/01xbgx	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1978)
+___
+/m/018wl5	/m/015qh	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.1990)
+___
+/m/018wl5	/m/04hqz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2015)
+___
+/m/018wl5	/m/03rt9	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2109)
+___
+/m/018wl5	/m/04g61	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2320)
+___
+/m/018wl5	/m/0164b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2379)
+___
+/m/01q20	/m/06ryl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2499)
+___
+/m/01q20	/m/035yg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2550)
+___
+/m/01q20	/m/07fb6	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2607)
+___
+/m/01q20	/m/03__y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2630)
+___
+/m/018wl5	/m/05qkp	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2691)
+___
+/m/018wl5	/m/06dfg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2707)
+___
+/m/018wl5	/m/07bxhl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2714)
+___
+/m/018wl5	/m/07fb6	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2748)
+___
+/m/018wl5	/m/06s9y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2762)
+___
+/m/01q20	/m/01xbgx	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2776)
+___
+/m/01q20	/m/07bxhl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2886)
+___
+/m/01q20	/m/05qkp	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3003)
+___
+/m/018wl5	/m/035hm	/m/07ssc	/m/07ssc
+/location/country/form_of_government	_/location/country/form_of_government	/location/administrative_division/country
+-1
+tensor(-6.3160)
+___
+/m/01q20	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4207)
+___
+/m/01q20	/m/0n3g	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4215)
+___
+/m/01q20	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4245)
+___
+/m/01q20	/m/03t1s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4263)
+___
+/m/01q20	/m/04w58	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4334)
+___
+/m/01q20	/m/04j53	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4339)
+___
+/m/01q20	/m/0165b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4339)
+___
+/m/01q20	/m/04hvw	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4807)
+___
+/m/01q20	/m/04wgh	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4860)
+___
+/m/01q20	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4880)
+___
+/m/01q20	/m/07fsv	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4986)
+___
+/m/018wl5	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.5201)
+___
+/m/018wl5	/m/03t1s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.5228)
+___
+/m/018wl5	/m/0165b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.5271)
+___
+/m/018wl5	/m/05c17	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.5326)
+___
+/m/01q20	/m/05bcl	/m/07ssc	/m/07ssc
+/location/country/form_of_government	_/location/country/form_of_government	/location/administrative_division/first_level_division_of
+-1
+tensor(-6.5377)
+___
+/m/018wl5	/m/04wgh	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.5421)
+___
+/m/01q20	/m/059j2	/m/049nq	/m/049nq
+/location/country/form_of_government	_/location/country/form_of_government	/location/administrative_division/first_level_division_of
+-1
+tensor(-6.5587)
+___
+/m/018wl5	/m/09pmkv	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.5590)
+___
+/m/018wl5	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.5645)
+___
+/m/01q20	/m/0168t	/m/07c5l	/m/07c5l
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-6.6821)
+___
+/m/01q20	/m/0168t	/m/0261m	/m/0261m
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-6.6821)
+___
+/m/01q20	/m/02psqkz	/m/07mgr	/m/07mgr
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-6.7103)
+___
+/m/01q20	/m/02psqkz	/m/031y2	/m/031y2
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-6.7103)
+___
+/m/018wl5	/m/0168t	/m/0261m	/m/0261m
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-6.7740)
+___
+/m/018wl5	/m/0168t	/m/07c5l	/m/07c5l
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-6.7740)
+___
+/m/01q20	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0255)
+___
+/m/01q20	/m/0n3g	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0317)
+___
+/m/01q20	/m/04j53	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0344)
+___
+/m/01q20	/m/04w58	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0355)
+___
+/m/01q20	/m/0165b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0359)
+___
+/m/01q20	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0377)
+___
+/m/01q20	/m/03t1s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0544)
+___
+/m/01q20	/m/04hvw	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0748)
+___
+/m/01q20	/m/04wgh	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0858)
+___
+/m/01q20	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0900)
+___
+#####################
+/m/035hm	/m/09nqf
+Reward:1
+/m/035hm	/m/035hm	/m/02j9z	/m/02j9z
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.3293)
+___
+/m/035hm	/m/035hm	/m/02qkt	/m/02qkt
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.3293)
+___
+/m/035hm	/m/035hm	/m/03v9w	/m/03v9w
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.3293)
+___
+/m/035hm	/m/035hm	/m/07ssc	/m/07ssc
+NO_OP	NO_OP	/location/administrative_division/country
+-1
+tensor(-3.0143)
+___
+/m/018wl5	/m/06v36	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9144)
+___
+/m/018wl5	/m/02wmy	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9148)
+___
+/m/018wl5	/m/06jnv	/m/0fngf	/m/0fngf
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-5.9148)
+___
+/m/018wl5	/m/088q1s	/m/0n2z	/m/0n2z
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-5.9167)
+___
+/m/018wl5	/m/035v3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9174)
+___
+/m/018wl5	/m/0hzlz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9190)
+___
+/m/018wl5	/m/03rk0	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9212)
+___
+/m/018wl5	/m/01pj7	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9298)
+___
+/m/018wl5	/m/02lx0	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9356)
+___
+/m/018wl5	/m/02w9s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9430)
+___
+/m/018wl5	/m/0ctw_b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9447)
+___
+/m/018wl5	/m/0162b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0218)
+___
+/m/018wl5	/m/07t21	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0256)
+___
+/m/018wl5	/m/06s6l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0262)
+___
+/m/018wl5	/m/0162v	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0264)
+___
+/m/018wl5	/m/0160w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0355)
+___
+/m/018wl5	/m/049nq	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0603)
+___
+/m/018wl5	/m/015qh	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.0693)
+___
+/m/018wl5	/m/0d0vqn	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0715)
+___
+/m/018wl5	/m/04hqz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0771)
+___
+/m/018wl5	/m/03rt9	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0794)
+___
+/m/018wl5	/m/01n8qg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0843)
+___
+/m/018wl5	/m/035hm	/m/07ssc	/m/07ssc
+/location/country/form_of_government	_/location/country/form_of_government	/location/administrative_division/country
+-1
+tensor(-6.0846)
+___
+/m/018wl5	/m/03spz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0847)
+___
+/m/018wl5	/m/0164b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0913)
+___
+/m/018wl5	/m/03_r3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0963)
+___
+/m/018wl5	/m/0k6nt	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1020)
+___
+/m/018wl5	/m/05r4w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1274)
+___
+/m/018wl5	/m/01xbgx	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1543)
+___
+/m/018wl5	/m/06ryl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1646)
+___
+/m/018wl5	/m/06dfg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1665)
+___
+/m/018wl5	/m/06s9y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1728)
+___
+/m/018wl5	/m/03__y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1782)
+___
+/m/018wl5	/m/07fb6	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1956)
+___
+/m/018wl5	/m/05qkp	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2002)
+___
+/m/018wl5	/m/07f1x	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.2026)
+___
+/m/018wl5	/m/07bxhl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2171)
+___
+/m/018wl5	/m/04g61	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2380)
+___
+/m/018wl5	/m/035yg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2405)
+___
+/m/018wl5	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3517)
+___
+/m/018wl5	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3526)
+___
+/m/018wl5	/m/0165b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3614)
+___
+/m/018wl5	/m/04j53	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3636)
+___
+/m/018wl5	/m/03t1s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3640)
+___
+/m/018wl5	/m/05c17	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3769)
+___
+/m/018wl5	/m/04hvw	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4117)
+___
+/m/018wl5	/m/04wgh	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4198)
+___
+/m/018wl5	/m/09pmkv	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4226)
+___
+/m/018wl5	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4269)
+___
+/m/018wl5	/m/0168t	/m/07c5l	/m/07c5l
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-6.6091)
+___
+/m/018wl5	/m/0168t	/m/0261m	/m/0261m
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-6.6091)
+___
+/m/018wl5	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.9504)
+___
+/m/018wl5	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.9546)
+___
+/m/018wl5	/m/04j53	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.9560)
+___
+/m/018wl5	/m/03t1s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.9574)
+___
+/m/018wl5	/m/0165b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.9612)
+___
+/m/018wl5	/m/05c17	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.9753)
+___
+/m/018wl5	/m/09pmkv	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0203)
+___
+/m/018wl5	/m/04hvw	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0211)
+___
+/m/018wl5	/m/04wgh	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0224)
+___
+/m/018wl5	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-7.0554)
+___
+/m/018wl5	/m/084n_	/m/01kx1j	/m/01kx1j
+/location/country/form_of_government	_/location/country/form_of_government	_/people/person/nationality
+-1
+tensor(-7.0620)
+___
+/m/018wl5	/m/084n_	/m/0jcx	/m/0jcx
+/location/country/form_of_government	_/location/country/form_of_government	_/people/person/nationality
+-1
+tensor(-7.0620)
+___
+/m/018wl5	/m/084n_	/m/01llxp	/m/01llxp
+/location/country/form_of_government	_/location/country/form_of_government	_/people/person/nationality
+-1
+tensor(-7.0620)
+___
+/m/018wl5	/m/014tss	/m/0kn4c	/m/0kn4c
+/location/country/form_of_government	_/location/country/form_of_government	_/people/person/nationality
+-1
+tensor(-7.3574)
+___
+/m/018wl5	/m/014tss	/m/03s9v	/m/03s9v
+/location/country/form_of_government	_/location/country/form_of_government	_/people/person/nationality
+-1
+tensor(-7.3574)
+___
+/m/018wl5	/m/014tss	/m/034rd	/m/034rd
+/location/country/form_of_government	_/location/country/form_of_government	_/people/person/nationality
+-1
+tensor(-7.3574)
+___
+/m/018wl5	/m/014tss	/m/0465_	/m/0465_
+/location/country/form_of_government	_/location/country/form_of_government	_/people/person/nationality
+-1
+tensor(-7.3574)
+___
+/m/018wl5	/m/05r4w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.5943)
+___
+/m/018wl5	/m/0k6nt	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.7019)
+___
+/m/018wl5	/m/035yg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.7074)
+___
+/m/018wl5	/m/04g61	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.7123)
+___
+/m/018wl5	/m/07bxhl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.7607)
+___
+/m/018wl5	/m/03_r3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.7926)
+___
+/m/018wl5	/m/03spz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8021)
+___
+/m/018wl5	/m/0164b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8089)
+___
+/m/018wl5	/m/05qkp	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8093)
+___
+/m/018wl5	/m/07fb6	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8110)
+___
+/m/018wl5	/m/03rt9	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8187)
+___
+/m/018wl5	/m/01n8qg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8529)
+___
+/m/018wl5	/m/06dfg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8627)
+___
+/m/018wl5	/m/06ryl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8672)
+___
+/m/018wl5	/m/03__y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8744)
+___
+/m/018wl5	/m/06s9y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8904)
+___
+/m/018wl5	/m/04hqz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.8966)
+___
+/m/018wl5	/m/07f1x	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-7.9210)
+___
+/m/018wl5	/m/01xbgx	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-7.9533)
+___
+/m/018wl5	/m/049nq	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-7.9699)
+___
+/m/018wl5	/m/0d0vqn	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.0606)
+___
+/m/018wl5	/m/0160w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-8.2478)
+___
+/m/018wl5	/m/06s6l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-8.3201)
+___
+/m/018wl5	/m/0162v	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-8.3204)
+___
+/m/018wl5	/m/07t21	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-8.3230)
+___
+/m/018wl5	/m/035yg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-8.3341)
+___
+/m/018wl5	/m/04g61	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-8.3389)
+___
+/m/018wl5	/m/0162b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-8.3525)
+___
+#####################
+/m/0chghy	/m/0kz1h
+Reward:0
+/m/062qg	/m/0847q	/m/062qg	/m/062qg
+_/base/biblioness/bibs_location/country	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.3924)
+___
+/m/06sks6	/m/01lb14	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.9899)
+___
+/m/06sks6	/m/01lb14	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.9899)
+___
+/m/018ctl	/m/09qgm	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.3166)
+___
+/m/018ctl	/m/09qgm	/m/0swbd	/m/0swbd
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.3166)
+___
+/m/018ctl	/m/09qgm	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.3166)
+___
+/m/018ctl	/m/01yfj	/m/0swbd	/m/0swbd
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.4626)
+___
+/m/018ctl	/m/01yfj	/m/0kbvv	/m/0kbvv
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.4626)
+___
+/m/018ctl	/m/01yfj	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.4626)
+___
+/m/018ctl	/m/01yfj	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.4626)
+___
+/m/018ctl	/m/09_b4	/m/0swff	/m/0swff
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.5354)
+___
+/m/018ctl	/m/09_b4	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.5354)
+___
+/m/018ctl	/m/09_b4	/m/0kbvv	/m/0kbvv
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.5354)
+___
+/m/018ctl	/m/09_b4	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.5354)
+___
+/m/06sks6	/m/07gyv	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.6145)
+___
+/m/06sks6	/m/07gyv	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.6145)
+___
+/m/06sks6	/m/07gyv	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.6145)
+___
+/m/06sks6	/m/06z68	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.7876)
+___
+/m/06sks6	/m/06z68	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.7876)
+___
+/m/06sks6	/m/06z68	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.7876)
+___
+/m/018ctl	/m/09_bl	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9126)
+___
+/m/018ctl	/m/09_bl	/m/0swbd	/m/0swbd
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9126)
+___
+/m/018ctl	/m/09_bl	/m/0sx7r	/m/0sx7r
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9126)
+___
+/m/018ctl	/m/09_bl	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9126)
+___
+/m/018ctl	/m/09_bl	/m/0kbvv	/m/0kbvv
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9126)
+___
+/m/018ctl	/m/09_bl	/m/0swff	/m/0swff
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9126)
+___
+/m/018ctl	/m/03tmr	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9773)
+___
+/m/018ctl	/m/03tmr	/m/0sx7r	/m/0sx7r
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9773)
+___
+/m/018ctl	/m/03tmr	/m/0kbvv	/m/0kbvv
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9773)
+___
+/m/018ctl	/m/03tmr	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9773)
+___
+/m/018ctl	/m/03tmr	/m/0swff	/m/0swff
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.9773)
+___
+/m/0jdk_	/m/02vx4	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.2813)
+___
+/m/0jdk_	/m/02vx4	/m/0lbbj	/m/0lbbj
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.2813)
+___
+/m/06sks6	/m/071t0	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3146)
+___
+/m/06sks6	/m/071t0	/m/0sxrz	/m/0sxrz
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3146)
+___
+/m/06sks6	/m/071t0	/m/0nbjq	/m/0nbjq
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3146)
+___
+/m/06sks6	/m/071t0	/m/018qb4	/m/018qb4
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3146)
+___
+/m/06sks6	/m/071t0	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3146)
+___
+/m/0l998	/m/02vx4	/m/0lbbj	/m/0lbbj
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3382)
+___
+/m/0l998	/m/02vx4	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3382)
+___
+/m/018ctl	/m/02_5h	/m/0swff	/m/0swff
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/018ctl	/m/02_5h	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/018ctl	/m/02_5h	/m/0sx92	/m/0sx92
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/018ctl	/m/02_5h	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/018ctl	/m/02_5h	/m/015l4k	/m/015l4k
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/018ctl	/m/02_5h	/m/0blfl	/m/0blfl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/018ctl	/m/02_5h	/m/0124ld	/m/0124ld
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/018ctl	/m/02_5h	/m/01f1kd	/m/01f1kd
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3469)
+___
+/m/0l6vl	/m/02vx4	/m/0lbbj	/m/0lbbj
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3477)
+___
+/m/0l6vl	/m/02vx4	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3477)
+___
+/m/06sks6	/m/0dwxr	/m/018ljb	/m/018ljb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4054)
+___
+/m/06sks6	/m/0dwxr	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4054)
+___
+/m/06sks6	/m/0dwxr	/m/0l6m5	/m/0l6m5
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4054)
+___
+/m/06sks6	/m/0dwxr	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4054)
+___
+/m/0swbd	/m/09qgm	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4407)
+___
+/m/0swbd	/m/09qgm	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4407)
+___
+/m/0swbd	/m/09qgm	/m/0swbd	/m/0swbd
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4407)
+___
+/m/0jdk_	/m/018jz	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4739)
+___
+/m/0jdk_	/m/018jz	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4739)
+___
+/m/0jdk_	/m/018jz	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4739)
+___
+/m/0jdk_	/m/07gyv	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4739)
+___
+/m/0jdk_	/m/07gyv	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4739)
+___
+/m/0jdk_	/m/07gyv	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4739)
+___
+/m/0jdk_	/m/02vx4	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5067)
+___
+/m/0jdk_	/m/02vx4	/m/0lbbj	/m/0lbbj
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5067)
+___
+/m/0jdk_	/m/01gqfm	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5084)
+___
+/m/0jdk_	/m/01gqfm	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5084)
+___
+/m/0swbd	/m/01yfj	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5402)
+___
+/m/0swbd	/m/01yfj	/m/0kbvv	/m/0kbvv
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5402)
+___
+/m/0swbd	/m/01yfj	/m/0swbd	/m/0swbd
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5402)
+___
+/m/0swbd	/m/01yfj	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5402)
+___
+/m/06sks6	/m/07_53	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5780)
+___
+/m/06sks6	/m/07_53	/m/0jhn7	/m/0jhn7
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5780)
+___
+/m/06sks6	/m/07_53	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5780)
+___
+/m/06sks6	/m/07_53	/m/0l6ny	/m/0l6ny
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5780)
+___
+/m/06sks6	/m/07_53	/m/0l6mp	/m/0l6mp
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5780)
+___
+/m/06sks6	/m/07_53	/m/0l98s	/m/0l98s
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5780)
+___
+/m/06sks6	/m/07_53	/m/0l6m5	/m/0l6m5
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5780)
+___
+/m/0jdk_	/m/03rbzn	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5798)
+___
+/m/0jdk_	/m/03rbzn	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5798)
+___
+/m/0jdk_	/m/03rbzn	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5798)
+___
+/m/0jdk_	/m/03rbzn	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.5798)
+___
+/m/0jdk_	/m/07rlg	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.6519)
+___
+/m/0jdk_	/m/07rlg	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.6519)
+___
+/m/0jdk_	/m/07rlg	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.6519)
+___
+/m/0jdk_	/m/07rlg	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.6519)
+___
+/m/06sks6	/m/06f41	/m/0kbvb	/m/0kbvb
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7084)
+___
+/m/06sks6	/m/06f41	/m/0jhn7	/m/0jhn7
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7084)
+___
+/m/06sks6	/m/06f41	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7084)
+___
+/m/06sks6	/m/06f41	/m/0jkvj	/m/0jkvj
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7084)
+___
+/m/06sks6	/m/06f41	/m/0l6mp	/m/0l6mp
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7084)
+___
+/m/06sks6	/m/06f41	/m/0l6ny	/m/0l6ny
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7084)
+___
+/m/06sks6	/m/06f41	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7084)
+___
+/m/0swbd	/m/09qgm	/m/018ctl	/m/018ctl
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7188)
+___
+/m/0swbd	/m/09qgm	/m/09n48	/m/09n48
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7188)
+___
+/m/0swbd	/m/09qgm	/m/0swbd	/m/0swbd
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7188)
+___
+/m/0jdk_	/m/07gyv	/m/06sks6	/m/06sks6
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7211)
+___
+/m/0jdk_	/m/07gyv	/m/0jdk_	/m/0jdk_
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7211)
+___
+/m/0jdk_	/m/07gyv	/m/0kbws	/m/0kbws
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/user/jg/default_domain/olympic_games/sports	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7211)
+___
+/m/06sks6	/m/01cgz	/m/0l6m5	/m/0l6m5
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.7421)
+___
+#####################

@@ -52,7 +52,7 @@ def entity_level_vocab():
     with open(vocab_dir + 'relation_vocab.json', 'w') as fout:
         json.dump(relation_vocab, fout)
 
-entity_level_vocab()
+# entity_level_vocab()
 
 def cluster_level_vocab():
     root_dir = '../../../'

@@ -1,0 +1,503 @@
+/m/04sv4	/m/09nqf
+Reward:1
+/m/0krdk	/m/02630g	/m/09nqf	/m/09nqf
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-3.5350)
+___
+/m/0krdk	/m/054lpb6	/m/0dbpwb	/m/0dbpwb
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/role/leaders./organization/leadership/organization	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-3.5453)
+___
+/m/02y6fz	/m/0b7l4x	/m/09c7w0	/m/09c7w0
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.2243)
+___
+/m/02y6fz	/m/0d99k_	/m/09c7w0	/m/09c7w0
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.2243)
+___
+/m/02y6fz	/m/0d99k_	/m/0chghy	/m/0chghy
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.2243)
+___
+/m/02y6fz	/m/0b7l4x	/m/07ssc	/m/07ssc
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.2243)
+___
+/m/01rk91	/m/0537b	/m/09nqf	/m/09nqf
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9177)
+___
+/m/01rk91	/m/0k8z	/m/09nqf	/m/09nqf
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9177)
+___
+/m/01rk91	/m/0157m	/m/01qq_lp	/m/01qq_lp
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.9182)
+___
+/m/01rk91	/m/06pwq	/m/09nqf	/m/09nqf
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9183)
+___
+/m/01rk91	/m/0d6qjf	/m/09x7p1	/m/09x7p1
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	_/base/culturalevent/event/entity_involved
+-1
+tensor(-4.9385)
+___
+/m/02211by	/m/02211by	/m/02211by	/m/02211by
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/dataworld/gardening_hint/split_to	/dataworld/gardening_hint/split_to
+-1
+tensor(-5.1527)
+___
+/m/01rk91	/m/0gsgr	/m/01_8w2	/m/01_8w2
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.2520)
+___
+/m/02h40lc	/m/027rpym	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/09zf_q	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/05_5rjx	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/02p76f9	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/02_1sj	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/03ynwqj	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/0191n	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/02wyzmv	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/03mz5b	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/01k0xy	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/035w2k	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/09g8vhw	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/047csmy	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/02krdz	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/08r4x3	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/01f7gh	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/011yd2	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/06z8s_	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/01pj_5	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/09m6kg	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/0f4_2k	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/026wlxw	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/0283_zv	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/077q8x	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/0jwmp	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/0hx4y	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/014lc_	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/017z49	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/03qnc6q	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/03bx2lk	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5010)
+___
+/m/02h40lc	/m/0b1y_2	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.5027)
+___
+/m/02h40lc	/m/01g3gq	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.5037)
+___
+/m/02h40lc	/m/04m1bm	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.5040)
+___
+/m/064_8sq	/m/02qrv7	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/03hmt9b	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/04mzf8	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/09gdh6k	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/0hfzr	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/020fcn	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/01xq8v	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/035w2k	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/0ft18	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/04954r	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/03z106	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/034xyf	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/025twgf	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/07024	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/03x7hd	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/01jwxx	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/04zl8	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5650)
+___
+/m/064_8sq	/m/02wtp6	/m/0f8l9c	/m/0f8l9c
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5651)
+___
+/m/064_8sq	/m/0b76d_m	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5651)
+___
+/m/064_8sq	/m/0_7w6	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-5.5651)
+___
+/m/064_8sq	/m/0cbl95	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.5662)
+___
+/m/01rk91	/m/0kc6x	/m/06nm1	/m/06nm1
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+tensor(-5.7111)
+___
+/m/01rk91	/m/0kc6x	/m/02h40lc	/m/02h40lc
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+tensor(-5.7111)
+___
+/m/01rk91	/m/0gsgr	/m/01_8w2	/m/01_8w2
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1759)
+___
+/m/02h40lc	/m/01hq1	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/0x25q	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/01hq1	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/0x25q	/m/0chghy	/m/0chghy
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/03lv4x	/m/0ctw_b	/m/0ctw_b
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/03hj5lq	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/03lv4x	/m/0chghy	/m/0chghy
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/03hj5lq	/m/0f8l9c	/m/0f8l9c
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/04z257	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/04z257	/m/01mjq	/m/01mjq
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/01_mdl	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/01_mdl	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/0gh6j94	/m/0f8l9c	/m/0f8l9c
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/0gh6j94	/m/03rjj	/m/03rjj
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/09v71cj	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/09v71cj	/m/0j1z8	/m/0j1z8
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/0bpm4yw	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/02h40lc	/m/0bpm4yw	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.1941)
+___
+/m/01rk91	/m/04sv4	/m/04306rv	/m/04306rv
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+tensor(-6.2364)
+___
+/m/01rk91	/m/04sv4	/m/02h40lc	/m/02h40lc
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+tensor(-6.2364)
+___
+/m/01rk91	/m/04sv4	/m/064_8sq	/m/064_8sq
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language
+-1
+tensor(-6.2364)
+___
+/m/064_8sq	/m/08g_jw	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+/m/064_8sq	/m/031786	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+/m/064_8sq	/m/012kyx	/m/07ssc	/m/07ssc
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+/m/064_8sq	/m/012kyx	/m/059j2	/m/059j2
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+/m/064_8sq	/m/08g_jw	/m/03rk0	/m/03rk0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+/m/064_8sq	/m/031786	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+/m/064_8sq	/m/03n3gl	/m/09c7w0	/m/09c7w0
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+/m/064_8sq	/m/03n3gl	/m/0345h	/m/0345h
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	_/film/film/language	/film/film/country
+-1
+tensor(-6.2582)
+___
+#####################

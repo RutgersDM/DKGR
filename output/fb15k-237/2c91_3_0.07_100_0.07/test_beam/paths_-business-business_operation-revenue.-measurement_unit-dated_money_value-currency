@@ -1,0 +1,503 @@
+/m/04sv4	/m/09nqf
+Reward:1
+/m/02y6fz	/m/0d99k_	/m/09c7w0	/m/09c7w0
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.6709)
+___
+/m/02y6fz	/m/0d99k_	/m/0chghy	/m/0chghy
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.6709)
+___
+/m/02y6fz	/m/0b7l4x	/m/07ssc	/m/07ssc
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.7133)
+___
+/m/02y6fz	/m/0b7l4x	/m/09c7w0	/m/09c7w0
+_/business/job_title/people_with_this_title./business/employment_tenure/company	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-4.7133)
+___
+/m/01pd60	/m/0lwkh	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0849)
+___
+/m/01pd60	/m/06gst	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0849)
+___
+/m/01pd60	/m/0l8sx	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0849)
+___
+/m/01pd60	/m/04f0xq	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0849)
+___
+/m/01pd60	/m/05w3y	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0849)
+___
+/m/01pd60	/m/0206k5	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0849)
+___
+/m/01pd60	/m/0k9ts	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0871)
+___
+/m/01pd60	/m/09b3v	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0871)
+___
+/m/01pd60	/m/01xdn1	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0872)
+___
+/m/01pd60	/m/0dmtp	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0873)
+___
+/m/01pd60	/m/01tmng	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0874)
+___
+/m/01pd60	/m/035nm	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0875)
+___
+/m/01pd60	/m/026v5	/m/0dq_5	/m/0dq_5
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+tensor(-5.0894)
+___
+/m/01pd60	/m/0k8z	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1009)
+___
+/m/01pd60	/m/0178g	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1010)
+___
+/m/01pd60	/m/04htfd	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1010)
+___
+/m/01pd60	/m/0537b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1018)
+___
+/m/01pd60	/m/0cv9b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1030)
+___
+/m/01pd60	/m/087c7	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1031)
+___
+/m/01pd60	/m/01yx7f	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1031)
+___
+/m/01pd60	/m/01yfp7	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1031)
+___
+/m/01pd60	/m/02630g	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1031)
+___
+/m/01pd60	/m/08z129	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1032)
+___
+/m/01pd60	/m/03s7h	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1032)
+___
+/m/01pd60	/m/06py2	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1032)
+___
+/m/01pd60	/m/0168nq	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1033)
+___
+/m/01pd60	/m/02l48d	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1034)
+___
+/m/01pd60	/m/0hkqn	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1034)
+___
+/m/01pd60	/m/01frpd	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1034)
+___
+/m/01pd60	/m/01qygl	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1039)
+___
+/m/04k4rt	/m/01_bp	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1349)
+___
+/m/04k4rt	/m/0l8sx	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1349)
+___
+/m/04k4rt	/m/02d6ph	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1349)
+___
+/m/04k4rt	/m/05w3y	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1349)
+___
+/m/04k4rt	/m/06q07	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1349)
+___
+/m/04k4rt	/m/0lwkh	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1349)
+___
+/m/04k4rt	/m/04f0xq	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1349)
+___
+/m/04k4rt	/m/01xdn1	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1370)
+___
+/m/04k4rt	/m/01bvx1	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/05b5c	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/01tmng	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/09b3v	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/07gyp7	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/035nm	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/0jvs0	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/01nn79	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1371)
+___
+/m/04k4rt	/m/0dmtp	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1372)
+___
+/m/04k4rt	/m/0sxdg	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1372)
+___
+/m/04k4rt	/m/0k9ts	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1373)
+___
+/m/04k4rt	/m/04htfd	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1505)
+___
+/m/04k4rt	/m/045c7b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1507)
+___
+/m/04k4rt	/m/0178g	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1512)
+___
+/m/04k4rt	/m/0537b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1512)
+___
+/m/04k4rt	/m/0gvbw	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1526)
+___
+/m/04k4rt	/m/077w0b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1526)
+___
+/m/04k4rt	/m/01frpd	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1528)
+___
+/m/04k4rt	/m/0168nq	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1528)
+___
+/m/04k4rt	/m/01qygl	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1533)
+___
+/m/04k4rt	/m/0841v	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1535)
+___
+/m/04k4rt	/m/0hkqn	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1537)
+___
+/m/04k4rt	/m/01yx7f	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1538)
+___
+/m/04k4rt	/m/02zs4	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1538)
+___
+/m/04k4rt	/m/0cv9b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1540)
+___
+/m/01pd60	/m/0dq23	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2140)
+___
+/m/01pd60	/m/02ktt7	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2141)
+___
+/m/01pd60	/m/01pf21	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2154)
+___
+/m/01pd60	/m/03sc8	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2207)
+___
+/m/01pd60	/m/03phgz	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2209)
+___
+/m/04k4rt	/m/01s73z	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2643)
+___
+/m/04k4rt	/m/01dfb6	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2643)
+___
+/m/04k4rt	/m/03sc8	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2649)
+___
+/m/04k4rt	/m/02ktt7	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2650)
+___
+/m/04k4rt	/m/0py9b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2655)
+___
+/m/04k4rt	/m/03phgz	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2671)
+___
+/m/01rk91	/m/0d6qjf	/m/01rk91	/m/01rk91
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+tensor(-5.3193)
+___
+/m/01rk91	/m/06pwq	/m/09nqf	/m/09nqf
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3225)
+___
+/m/01rk91	/m/0gsgr	/m/01_8w2	/m/01_8w2
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.3254)
+___
+/m/01rk91	/m/0537b	/m/09nqf	/m/09nqf
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3508)
+___
+/m/01rk91	/m/0k8z	/m/09nqf	/m/09nqf
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3558)
+___
+/m/01ptsx	/m/01hlwv	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4989)
+___
+/m/01ptsx	/m/045c7b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5151)
+___
+/m/01ptsx	/m/019rl6	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5167)
+___
+/m/01ptsx	/m/0cv9b	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5169)
+___
+/m/01ptsx	/m/018c_r	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5171)
+___
+/m/01ptsx	/m/0hkqn	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5182)
+___
+/m/01ptsx	/m/03s7h	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5186)
+___
+/m/01pd60	/m/018_q8	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.5845)
+___
+/m/01ptsx	/m/02ktt7	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6276)
+___
+/m/01ptsx	/m/0dq23	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6313)
+___
+/m/01rk91	/m/0157m	/m/01qq_lp	/m/01qq_lp
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.7201)
+___
+/m/01ptsx	/m/018_q8	/m/09nqf	/m/09nqf
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0221)
+___
+/m/01rk91	/m/0kc6x	/m/09c7w0	/m/09c7w0
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-6.0524)
+___
+/m/01pd60	/m/018_q8	/m/04rqd	/m/04rqd
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.2573)
+___
+/m/01rk91	/m/0157m	/m/01qq_lp	/m/01qq_lp
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.4167)
+___
+/m/01ptsx	/m/018_q8	/m/04rqd	/m/04rqd
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	_/award/ranked_item/appears_in_ranked_lists./award/ranking/list	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6198)
+___
+/m/01rk91	/m/0kc6x	/m/01rk91	/m/01rk91
+_/business/job_title/people_with_this_title./business/employment_tenure/company	/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+tensor(-6.6602)
+___
+#####################

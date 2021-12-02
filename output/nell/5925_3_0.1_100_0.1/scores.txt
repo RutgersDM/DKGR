@@ -1,0 +1,16 @@
+Score for iteration 1000
+Hits@1:  0.5764
+Hits@3:  0.6372
+Hits@5:  0.6593
+Hits@10:  0.6869
+Hits@20:  0.6998
+auc:  0.6140
+
+Test (beam) scores with best model from output/nell//5925_3_0.1_100_0.1/model/model.ckpt
+Hits@1:  0.6231
+Hits@3:  0.7370
+Hits@5:  0.7761
+Hits@10:  0.8091
+Hits@20:  0.8350
+auc:  0.6915
+

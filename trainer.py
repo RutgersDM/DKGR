@@ -55,6 +55,17 @@ class Trainer(object):
 
 		self.optimizer = optim.Adam(list(self.e_agent.parameters()) + list(self.c_agent.parameters()),
 									lr=self.learning_rate)
+		self.two_embeds_sim_criterion = torch.nn.KLDivLoss()
+
+		root_dir = './'
+		dir = root_dir + 'datasets/data_preprocessed/FB15K-237/'
+		f1 = open(os.path.join(dir, 'entity2clusterid.txt'))
+		ent2cluster = f1.readlines()
+
+		self.cluster2ent_ = defaultdict(list)
+		for line in ent2cluster:
+			self.cluster2ent_[int(line.split()[1])].append(int(line.split()[0]))
+
 
 	def calc_reinforce_loss(self, all_loss, all_logits, cum_discounted_reward, decaying_beta, baseline):
 
@@ -141,19 +152,19 @@ class Trainer(object):
 			cum_disc_reward[:, t] = running_add
 		return cum_disc_reward
 
-	def calc_cum_discounted_reward_without_credit(self, approx_rewards, rewards):
-
-		num_instances = rewards.size(0)
-		# approx_rewards = approx_rewards.t()
-		running_add = torch.zeros([num_instances]).to(self.device)  # [original batch_size * num_rollout]
-		cum_disc_reward = torch.zeros([num_instances, self.path_length]).to(
-			self.device)  # [original batch_size * num_rollout, T]
-		cum_disc_reward[:,
-		self.path_length - 1] = rewards  # set the last time step to the reward received at the last state
-		for t in reversed(range(self.path_length)):
-			running_add = self.gamma * running_add + cum_disc_reward[:, t] + approx_rewards[:, t]
-			cum_disc_reward[:, t] = running_add
-		return cum_disc_reward
+	# def calc_cum_discounted_reward_without_credit(self, approx_rewards, rewards):
+	#
+	# 	num_instances = rewards.size(0)
+	# 	# approx_rewards = approx_rewards.t()
+	# 	running_add = torch.zeros([num_instances]).to(self.device)  # [original batch_size * num_rollout]
+	# 	cum_disc_reward = torch.zeros([num_instances, self.path_length]).to(
+	# 		self.device)  # [original batch_size * num_rollout, T]
+	# 	cum_disc_reward[:,
+	# 	self.path_length - 1] = rewards  # set the last time step to the reward received at the last state
+	# 	for t in reversed(range(self.path_length)):
+	# 		running_add = self.gamma * running_add + cum_disc_reward[:, t] + approx_rewards[:, t]
+	# 		cum_disc_reward[:, t] = running_add
+	# 	return cum_disc_reward
 
 	def calc_cum_discounted_reward_credit(self, approx_credits, entity_rewards, cluster_rewards):
 
@@ -165,8 +176,7 @@ class Trainer(object):
 		self.path_length - 1] = entity_rewards  # set the last time step to the reward received at the last state
 
 		for t in reversed(range(1, self.path_length)):
-			running_add = self.gamma * running_add + cum_disc_reward[:, t] + approx_credits[t].to(
-				self.device) * cluster_rewards
+			running_add = self.gamma * running_add + cum_disc_reward[:, t] + cluster_rewards # approx_credits[t].to(self.device) * cluster_rewards
 			cum_disc_reward[:, t-1] = running_add
 
 		return cum_disc_reward
@@ -175,6 +185,20 @@ class Trainer(object):
 
 		cluster_scores = torch.cat(cluster_scores, dim=0)
 		reg_loss = torch.nn.functional.cross_entropy(cluster_scores, e_agent_pred_clusters)
+		return reg_loss
+
+	def cluster_entity_embeddings_sim_reg(self):
+
+		reg_loss = 0
+		for cls, ents in self.cluster2ent_.items():
+				# print(ent)
+				# print(self.e_agent.entity_embedding(torch.LongTensor([ent]).to(self.device)).size())
+			ent_emb = [self.e_agent.entity_embedding(torch.LongTensor([ent]).to(self.device)) for ent in ents]
+			ent_emb = torch.cat(ent_emb, dim=0)
+			ent_emb = torch.mean(ent_emb, dim=0)
+			cls_emb = self.c_agent.cluster_embedding(torch.LongTensor([cls]).to(self.device))
+			reg_loss += self.two_embeds_sim_criterion(ent_emb, cls_emb)
+
 		return reg_loss
 
 	def train(self):
@@ -186,7 +210,7 @@ class Trainer(object):
 		current_decay = self.decaying_beta_init
 		current_decay_count = 0
 
-		for entity_episode, cluster_episode in self.train_environment.get_episodes():
+		for entity_episode, cluster_episode in self.train_environment.get_episodes(self.batch_counter):
 
 			self.batch_counter += 1
 
@@ -287,8 +311,9 @@ class Trainer(object):
 			entity_rewards_torch = torch.tensor(entity_rewards).to(self.device)
 			cluster_rewards_torch = torch.tensor(cluster_rewards).to(self.device)
 
-			c_cum_discounted_reward = self.calc_cum_discounted_reward(
-				cluster_rewards_torch)  # [original batch_size * num_rollout, T]
+			# c_cum_discounted_reward = self.calc_cum_discounted_reward(
+			# 	cluster_rewards_torch)  # [original batch_size * num_rollout, T]
+			c_cum_discounted_reward = self.calc_cum_discounted_reward(cluster_rewards_torch)  # [original batch_size * num_rollout, T]
 			c_reinforce_loss = self.calc_reinforce_loss(c_all_losses, c_all_logits, c_cum_discounted_reward,
 														current_decay, self.baseline_c)
 
@@ -329,6 +354,11 @@ class Trainer(object):
 							   (num_ep_correct / self.batch_size), train_loss))
 
 			if self.batch_counter % self.eval_every == 0:
+
+				self.test_rollouts = 100
+				self.test_environment = self.test_test_environment
+
+
 				with open(self.output_dir + '/scores.txt', 'a') as score_file:
 					score_file.write("Score for iteration " + str(self.batch_counter) + "\n")
 				os.mkdir(self.path_logger_file + "/" + str(self.batch_counter))
@@ -360,7 +390,7 @@ class Trainer(object):
 
 			total_examples = self.test_environment.total_no_examples
 
-			for entity_episode, cluster_episode in tqdm(self.test_environment.get_episodes()):
+			for entity_episode, cluster_episode in tqdm(self.test_environment.get_episodes(0)):
 				batch_counter += 1
 
 				temp_batch_size = entity_episode.no_examples
@@ -677,6 +707,7 @@ if __name__ == '__main__':
 	options = read_options()
 	options = read_pretrained_embeddings(options)
 	options['device'] = 'cuda' if options['use_cuda'] else 'cpu'
+	# options['device'] = 'cpu'
 	# Set logging
 	logger.setLevel(logging.INFO)
 	fmt = logging.Formatter('%(asctime)s: [ %(message)s ]',
@@ -740,12 +771,12 @@ if __name__ == '__main__':
 		logger.info("Loading model from {}".format(options["model_load_dir"]))
 
 	# trainer = Trainer(options)
-	if options['load_model']:
-		save_path = options['model_load_dir']
-		path_logger_file = trainer.path_logger_file
-		output_dir = trainer.output_dir
-
-	trainer.agent.load_state_dict(torch.load(save_path))
+	# if options['load_model']:
+	# 	save_path = options['model_load_dir']
+	# 	path_logger_file = trainer.path_logger_file
+	# 	output_dir = trainer.output_dir
+	#
+	# trainer.agent.load_state_dict(torch.load(save_path))
 
 	trainer.test_rollouts = 100
 

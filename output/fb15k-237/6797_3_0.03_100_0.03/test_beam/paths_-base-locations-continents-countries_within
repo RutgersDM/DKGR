@@ -1,0 +1,2515 @@
+/m/059g4	/m/06ryl
+Reward:0
+/m/059g4	/m/059g4	/m/07c5l	/m/07c5l
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-0.4968)
+___
+/m/06n3y	/m/06n3y	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-2.6511)
+___
+/m/059g4	/m/06n3y	/m/07c5l	/m/07c5l
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-3.3678)
+___
+/m/059g4	/m/059g4	/m/02r1c18	/m/02r1c18
+NO_OP	NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.0229)
+___
+/m/059g4	/m/059g4	/m/0btpm6	/m/0btpm6
+NO_OP	NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.0229)
+___
+/m/059g4	/m/059g4	/m/03wh49y	/m/03wh49y
+NO_OP	NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.0229)
+___
+/m/059g4	/m/0db94	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2371)
+___
+/m/059g4	/m/0k3nk	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2379)
+___
+/m/059g4	/m/04yf_	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2401)
+___
+/m/059g4	/m/04_1l0v	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2411)
+___
+/m/059g4	/m/04kbn	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2447)
+___
+/m/059g4	/m/04kdn	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2449)
+___
+/m/059g4	/m/020d5	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2882)
+___
+/m/06n3y	/m/06n3y	/m/07c5l	/m/07c5l
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-5.3869)
+___
+/m/059g4	/m/06n3y	/m/07c5l	/m/07c5l
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-5.4555)
+___
+/m/06n3y	/m/059g4	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-5.4941)
+___
+/m/059g4	/m/059g4	/m/06n3y	/m/06n3y
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.7113)
+___
+/m/059g4	/m/06c6l	/m/0d060g	/m/0d060g
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9298)
+___
+/m/059g4	/m/06c6l	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9298)
+___
+/m/059g4	/m/0fb18	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9309)
+___
+/m/059g4	/m/0fb18	/m/059rby	/m/059rby
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9309)
+___
+/m/059g4	/m/01p8s	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0082)
+___
+/m/059g4	/m/01p8s	/m/07c5l	/m/07c5l
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0082)
+___
+/m/059g4	/m/01jswq	/m/07z1m	/m/07z1m
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0752)
+___
+/m/059g4	/m/01jswq	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0752)
+___
+/m/059g4	/m/05qx1	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1295)
+___
+/m/0db94	/m/0db94	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.2221)
+___
+/m/0k3nk	/m/0k3nk	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.2231)
+___
+/m/04yf_	/m/04yf_	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.2267)
+___
+/m/059g4	/m/0pmpl	/m/06nrt	/m/06nrt
+NO_OP	/location/location/contains	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.2517)
+___
+/m/059g4	/m/0345_	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2546)
+___
+/m/059g4	/m/0345_	/m/04pnx	/m/04pnx
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2546)
+___
+/m/059g4	/m/0hz35	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3350)
+___
+/m/059g4	/m/0hz35	/m/029jpy	/m/029jpy
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3350)
+___
+/m/059g4	/m/0hz35	/m/0k3k1	/m/0k3k1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3350)
+___
+/m/059g4	/m/035v3	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3384)
+___
+/m/059g4	/m/035v3	/m/07c5l	/m/07c5l
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3384)
+___
+/m/059g4	/m/035v3	/m/06mx8	/m/06mx8
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3384)
+___
+/m/059g4	/m/0n5yh	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3424)
+___
+/m/059g4	/m/0n5yh	/m/029jpy	/m/029jpy
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3424)
+___
+/m/059g4	/m/0n5yh	/m/059f4	/m/059f4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3424)
+___
+/m/059g4	/m/0typ5	/m/05k7sb	/m/05k7sb
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3479)
+___
+/m/059g4	/m/0typ5	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3479)
+___
+/m/059g4	/m/0typ5	/m/0k3gw	/m/0k3gw
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3479)
+___
+/m/059g4	/m/01mpwj	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3558)
+___
+/m/059g4	/m/01mpwj	/m/01qh7	/m/01qh7
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3558)
+___
+/m/059g4	/m/01mpwj	/m/05k7sb	/m/05k7sb
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3558)
+___
+/m/059g4	/m/0pmpl	/m/0d060g	/m/0d060g
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3792)
+___
+/m/059g4	/m/0pmpl	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3792)
+___
+/m/04kdn	/m/04kdn	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3864)
+___
+/m/04kbn	/m/04kbn	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3921)
+___
+/m/059g4	/m/01k2wn	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.4871)
+___
+/m/059g4	/m/01k2wn	/m/01p726	/m/01p726
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.4871)
+___
+/m/059g4	/m/01k2wn	/m/01x73	/m/01x73
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.4871)
+___
+/m/059g4	/m/03h2c	/m/07c5l	/m/07c5l
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5373)
+___
+/m/059g4	/m/03h2c	/m/04pnx	/m/04pnx
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5373)
+___
+/m/059g4	/m/03h2c	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5373)
+___
+/m/059g4	/m/0164b	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5378)
+___
+/m/059g4	/m/0164b	/m/04pnx	/m/04pnx
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5378)
+___
+/m/059g4	/m/0164b	/m/07c5l	/m/07c5l
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5378)
+___
+/m/059g4	/m/05c74	/m/07c5l	/m/07c5l
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5513)
+___
+/m/059g4	/m/05c74	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5513)
+___
+/m/059g4	/m/05c74	/m/04pnx	/m/04pnx
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5513)
+___
+/m/059g4	/m/059f4	/m/04_1l0v	/m/04_1l0v
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5774)
+___
+/m/059g4	/m/059f4	/m/029jpy	/m/029jpy
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5774)
+___
+/m/059g4	/m/059f4	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5774)
+___
+/m/059g4	/m/01y9st	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6374)
+___
+/m/059g4	/m/01y9st	/m/05kr_	/m/05kr_
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6374)
+___
+/m/059g4	/m/01y9st	/m/0d060g	/m/0d060g
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6374)
+___
+/m/059g4	/m/01y9st	/m/0h7h6	/m/0h7h6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6374)
+___
+/m/04_1l0v	/m/04_1l0v	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.6842)
+___
+/m/020d5	/m/020d5	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.7291)
+___
+/m/059g4	/m/05qx1	/m/09nqf	/m/09nqf
+NO_OP	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.8427)
+___
+/m/06c6l	/m/06c6l	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9152)
+___
+/m/06c6l	/m/06c6l	/m/0d060g	/m/0d060g
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9152)
+___
+/m/0pmpl	/m/06nrt	/m/0d060g	/m/0d060g
+/location/location/contains	_/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-6.9449)
+___
+/m/0fb18	/m/0fb18	/m/059rby	/m/059rby
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9470)
+___
+/m/0fb18	/m/0fb18	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9470)
+___
+/m/059g4	/m/0345_	/m/09nqf	/m/09nqf
+NO_OP	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.0104)
+___
+/m/0btpm6	/m/04hw4b	/m/04ztj	/m/04ztj
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.0163)
+___
+/m/0btpm6	/m/04hw4b	/m/0wh3	/m/0wh3
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/place_of_birth
+-1
+tensor(-7.0537)
+___
+/m/01k2wn	/m/01k2wn	/m/01k2wn	/m/01k2wn
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.1106)
+___
+/m/06n3y	/m/01ly5m	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2573)
+___
+/m/059g4	/m/03h2c	/m/09nqf	/m/09nqf
+NO_OP	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.3006)
+___
+/m/059g4	/m/05c74	/m/09nqf	/m/09nqf
+NO_OP	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.3013)
+___
+/m/059g4	/m/0164b	/m/09nqf	/m/09nqf
+NO_OP	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.3158)
+___
+/m/0hz35	/m/0hz35	/m/059g4	/m/059g4
+/location/location/contains	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-7.3272)
+___
+/m/0hz35	/m/0hz35	/m/029jpy	/m/029jpy
+/location/location/contains	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-7.3272)
+___
+/m/0hz35	/m/0hz35	/m/0k3k1	/m/0k3k1
+/location/location/contains	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-7.3272)
+___
+/m/0typ5	/m/0typ5	/m/05k7sb	/m/05k7sb
+/location/location/contains	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-7.3698)
+___
+/m/0typ5	/m/0typ5	/m/0k3gw	/m/0k3gw
+/location/location/contains	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-7.3698)
+___
+/m/0typ5	/m/0typ5	/m/059g4	/m/059g4
+/location/location/contains	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-7.3698)
+___
+/m/03wh49y	/m/03wh49y	/m/07ssc	/m/07ssc
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-7.3756)
+___
+/m/035v3	/m/035v3	/m/07c5l	/m/07c5l
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.4430)
+___
+/m/035v3	/m/035v3	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.4430)
+___
+/m/035v3	/m/035v3	/m/06mx8	/m/06mx8
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.4430)
+___
+/m/06n3y	/m/034m8	/m/06n3y	/m/06n3y
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.4436)
+___
+/m/01mpwj	/m/01mpwj	/m/05k7sb	/m/05k7sb
+/location/location/contains	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-7.4548)
+___
+/m/01mpwj	/m/01mpwj	/m/059g4	/m/059g4
+/location/location/contains	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-7.4548)
+___
+/m/01mpwj	/m/01mpwj	/m/01qh7	/m/01qh7
+/location/location/contains	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-7.4548)
+___
+#####################
+/m/02j9z	/m/03rt9
+Reward:0
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.6534)
+___
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.6534)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6935)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.5476)
+___
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.5476)
+___
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.5476)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.6569)
+___
+/m/0j0k	/m/0j0k	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.8957)
+___
+/m/02j9z	/m/0j0k	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.6183)
+___
+/m/0j0k	/m/0j0k	/m/0qdzd	/m/0qdzd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-5.4377)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4833)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4833)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4838)
+___
+/m/02j9z	/m/034cm	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4944)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.5090)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.5557)
+___
+/m/02j9z	/m/03gk2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.5746)
+___
+/m/02j9z	/m/04j53	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.5895)
+___
+/m/02j9z	/m/012m_	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.6909)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.7453)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.7503)
+___
+/m/0j0k	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.7623)
+___
+/m/0j0k	/m/0j0k	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.7623)
+___
+/m/0j0k	/m/0j0k	/m/0cdbq	/m/0cdbq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.7623)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.7624)
+___
+/m/02j9z	/m/06mzp	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9153)
+___
+/m/02j9z	/m/02vzc	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9783)
+___
+/m/02j9z	/m/0j0k	/m/0qdzd	/m/0qdzd
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-5.9988)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0528)
+___
+/m/02j9z	/m/015qh	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0820)
+___
+/m/02j9z	/m/05qhw	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0898)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1333)
+___
+/m/02j9z	/m/06psyf	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1764)
+___
+/m/02j9z	/m/06psyf	/m/0nccd	/m/0nccd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1764)
+___
+/m/02j9z	/m/02_gzx	/m/06pr6	/m/06pr6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1831)
+___
+/m/02j9z	/m/02_gzx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1831)
+___
+/m/02j9z	/m/0lk0l	/m/05qtj	/m/05qtj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1831)
+___
+/m/02j9z	/m/0lk0l	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.1831)
+___
+/m/02j9z	/m/020vx9	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2089)
+___
+/m/02j9z	/m/020vx9	/m/04swd	/m/04swd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2089)
+___
+/m/02j9z	/m/035qv8	/m/09b83	/m/09b83
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2116)
+___
+/m/02j9z	/m/035qv8	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2116)
+___
+/m/02j9z	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.2236)
+___
+/m/02j9z	/m/0j0k	/m/0jgx	/m/0jgx
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.2236)
+___
+/m/02j9z	/m/0j0k	/m/0cdbq	/m/0cdbq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.2236)
+___
+/m/02j9z	/m/04w58	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2265)
+___
+/m/02j9z	/m/04w58	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.2265)
+___
+/m/0dg3n1	/m/0dg3n1	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.2848)
+___
+/m/02j9z	/m/01pj7	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3044)
+___
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3144)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3145)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3149)
+___
+/m/02j9z	/m/0dg3n1	/m/02j9z	/m/02j9z
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.3314)
+___
+/m/02j9z	/m/0166b	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3444)
+___
+/m/02j9z	/m/0166b	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.3444)
+___
+/m/034cm	/m/034cm	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3645)
+___
+/m/02j9z	/m/06c1y	/m/09b69	/m/09b69
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.4644)
+___
+/m/02j9z	/m/06c1y	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.4644)
+___
+/m/020vx9	/m/020vx9	/m/020vx9	/m/020vx9
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.4997)
+___
+/m/02j9z	/m/04gzd	/m/09nqf	/m/09nqf
+NO_OP	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.5052)
+___
+/m/02j9z	/m/0k6nt	/m/09nqf	/m/09nqf
+NO_OP	/location/location/contains	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.5192)
+___
+/m/02j9z	/m/0jhd	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5200)
+___
+/m/02j9z	/m/0jhd	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5200)
+___
+/m/02j9z	/m/0163v	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5423)
+___
+/m/02j9z	/m/0163v	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5423)
+___
+/m/02j9z	/m/0bjv6	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5529)
+___
+/m/02j9z	/m/0bjv6	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5529)
+___
+/m/02j9z	/m/0366c	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5820)
+___
+/m/02j9z	/m/0366c	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5820)
+___
+/m/02j9z	/m/0366c	/m/02j7k	/m/02j7k
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5820)
+___
+/m/02j9z	/m/04g5k	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5957)
+___
+/m/02j9z	/m/04g5k	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5957)
+___
+/m/01nhhz	/m/01nhhz	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.6025)
+___
+/m/02j9z	/m/014d4v	/m/088cp	/m/088cp
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6035)
+___
+/m/02j9z	/m/014d4v	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6035)
+___
+/m/02j9z	/m/014d4v	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6035)
+___
+/m/02j9z	/m/07tg4	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6047)
+___
+/m/02j9z	/m/07tg4	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6047)
+___
+/m/02j9z	/m/07tg4	/m/0978r	/m/0978r
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6047)
+___
+/m/02j9z	/m/01b_d4	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6060)
+___
+/m/02j9z	/m/01b_d4	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6060)
+___
+/m/02j9z	/m/01b_d4	/m/09ctj	/m/09ctj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6060)
+___
+/m/02j9z	/m/07wtc	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6061)
+___
+/m/02j9z	/m/07wtc	/m/023sm8	/m/023sm8
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6061)
+___
+/m/02j9z	/m/07wtc	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6061)
+___
+/m/02j9z	/m/0d0kn	/m/09b69	/m/09b69
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6244)
+___
+/m/02j9z	/m/0d0kn	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6244)
+___
+/m/02j9z	/m/0hg5	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6358)
+___
+/m/02j9z	/m/0hg5	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6358)
+___
+/m/02j9z	/m/0hg5	/m/065ky	/m/065ky
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6358)
+___
+/m/02j9z	/m/04g61	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6378)
+___
+/m/02j9z	/m/04g61	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6378)
+___
+/m/07tg4	/m/07tg4	/m/07tg4	/m/07tg4
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.6619)
+___
+/m/012wgb	/m/012wgb	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.6920)
+___
+/m/015wy_	/m/015wy_	/m/015wy_	/m/015wy_
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.7106)
+___
+/m/04swx	/m/0f8l9c	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.7236)
+___
+/m/0lvng	/m/0lvng	/m/0lvng	/m/0lvng
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8103)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.8213)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.8213)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.8213)
+___
+#####################
+/m/02j9z	/m/06mkj
+Reward:1
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.3765)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.3765)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.8268)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.2946)
+___
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.2946)
+___
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.2946)
+___
+/m/0j0k	/m/0j0k	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.5953)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.0330)
+___
+/m/04swx	/m/04swx	/m/06mkj	/m/06mkj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+1
+tensor(-4.7054)
+___
+/m/02j9z	/m/0j0k	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.7728)
+___
+/m/0j0k	/m/0j0k	/m/0qdzd	/m/0qdzd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-5.1522)
+___
+/m/0j0k	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.4710)
+___
+/m/0j0k	/m/0j0k	/m/0cdbq	/m/0cdbq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.4710)
+___
+/m/0j0k	/m/0j0k	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.4710)
+___
+/m/02j9z	/m/04swx	/m/06mkj	/m/06mkj
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+1
+tensor(-5.6924)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.8673)
+___
+/m/02j9z	/m/0j0k	/m/0qdzd	/m/0qdzd
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-6.2002)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3144)
+___
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3145)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3157)
+___
+/m/034cm	/m/034cm	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3801)
+___
+/m/02j9z	/m/0j0k	/m/0cdbq	/m/0cdbq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.4219)
+___
+/m/02j9z	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.4219)
+___
+/m/02j9z	/m/0j0k	/m/0jgx	/m/0jgx
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.4219)
+___
+/m/020vx9	/m/020vx9	/m/020vx9	/m/020vx9
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.4994)
+___
+/m/015wy_	/m/015wy_	/m/015wy_	/m/015wy_
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.6053)
+___
+/m/01nhhz	/m/01nhhz	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.6146)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6505)
+___
+/m/02j9z	/m/02j9z	/m/07j9n	/m/07j9n
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6505)
+___
+/m/02j9z	/m/02j9z	/m/0k4y6	/m/0k4y6
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6505)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6505)
+___
+/m/02j9z	/m/02j9z	/m/0845v	/m/0845v
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6505)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6505)
+___
+/m/04swx	/m/0f8l9c	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.7469)
+___
+/m/07tg4	/m/07tg4	/m/07tg4	/m/07tg4
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.7527)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7677)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7677)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7681)
+___
+/m/02j9z	/m/034cm	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7770)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7911)
+___
+/m/0lvng	/m/0lvng	/m/0lvng	/m/0lvng
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8234)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8338)
+___
+/m/02j9z	/m/03gk2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8479)
+___
+/m/02j9z	/m/04j53	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8640)
+___
+/m/0dg3n1	/m/0dg3n1	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.8646)
+___
+/m/02_gzx	/m/02_gzx	/m/02_gzx	/m/02_gzx
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8682)
+___
+/m/0lk0l	/m/0lk0l	/m/0lk0l	/m/0lk0l
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8701)
+___
+/m/035qv8	/m/035qv8	/m/035qv8	/m/035qv8
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8731)
+___
+/m/012m_	/m/012m_	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.8953)
+___
+/m/082fr	/m/082fr	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9164)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.9521)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.9521)
+___
+/m/07wtc	/m/07wtc	/m/07wtc	/m/07wtc
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.9548)
+___
+/m/01b_d4	/m/01b_d4	/m/01b_d4	/m/01b_d4
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.9550)
+___
+/m/02j9z	/m/012m_	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.9634)
+___
+/m/0j0k	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.9708)
+___
+/m/0j0k	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.9708)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.0013)
+___
+/m/06psyf	/m/06psyf	/m/0nccd	/m/0nccd
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0076)
+___
+/m/06psyf	/m/06psyf	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0076)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0711)
+___
+/m/02j9z	/m/02j9z	/m/0dg3n1	/m/0dg3n1
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0711)
+___
+/m/02j9z	/m/02j9z	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0711)
+___
+/m/02j9z	/m/02j9z	/m/034cm	/m/034cm
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/014d4v	/m/014d4v
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/035qv8	/m/035qv8
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/012m_	/m/012m_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/0bjv6	/m/0bjv6
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/07wtc	/m/07wtc
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/07r_p	/m/07r_p
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/0366c	/m/0366c
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/018ym2	/m/018ym2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/04w58	/m/04w58
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/04g5k	/m/04g5k
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/0ftns	/m/0ftns
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/07tg4	/m/07tg4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/04gzd	/m/04gzd
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/020vx9	/m/020vx9
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/03gk2	/m/03gk2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/082fr	/m/082fr
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/0lvng	/m/0lvng
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/01b_d4	/m/01b_d4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/015wy_	/m/015wy_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/01nhhz	/m/01nhhz
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/0lk0l	/m/0lk0l
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/02_gzx	/m/02_gzx
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/06psyf	/m/06psyf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/012wgb	/m/012wgb
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/02j9z	/m/02j9z	/m/04g61	/m/04g61
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1314)
+___
+/m/012wgb	/m/012wgb	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.1395)
+___
+/m/02j9z	/m/06mzp	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.1454)
+___
+/m/02vzc	/m/02vzc	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.1835)
+___
+/m/02j9z	/m/02vzc	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2084)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.2186)
+___
+/m/06mzp	/m/06mzp	/m/02qkt	/m/02qkt
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.2315)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2706)
+___
+/m/02j9z	/m/015qh	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.3141)
+___
+/m/02j9z	/m/05qhw	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.3257)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.3540)
+___
+/m/0366c	/m/0366c	/m/02qkt	/m/02qkt
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.4237)
+___
+#####################
+/m/02j9z	/m/03rjj
+Reward:0
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.3835)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.3835)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.8156)
+___
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.2914)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.2914)
+___
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.2914)
+___
+/m/0j0k	/m/0j0k	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.6668)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.8567)
+___
+/m/02j9z	/m/0j0k	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.7530)
+___
+/m/0j0k	/m/0j0k	/m/0qdzd	/m/0qdzd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-5.2158)
+___
+/m/0j0k	/m/0j0k	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.5306)
+___
+/m/0j0k	/m/0j0k	/m/0cdbq	/m/0cdbq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.5306)
+___
+/m/0j0k	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.5306)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.6334)
+___
+/m/02j9z	/m/0j0k	/m/0qdzd	/m/0qdzd
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-6.1870)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3145)
+___
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3145)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3149)
+___
+/m/034cm	/m/034cm	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.4045)
+___
+/m/02j9z	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.4229)
+___
+/m/02j9z	/m/0j0k	/m/0jgx	/m/0jgx
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.4229)
+___
+/m/02j9z	/m/0j0k	/m/0cdbq	/m/0cdbq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.4229)
+___
+/m/04swx	/m/0f8l9c	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.4428)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.5560)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.5560)
+___
+/m/07tg4	/m/07tg4	/m/07tg4	/m/07tg4
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.5584)
+___
+/m/015wy_	/m/015wy_	/m/015wy_	/m/015wy_
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.5688)
+___
+/m/020vx9	/m/020vx9	/m/020vx9	/m/020vx9
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.5712)
+___
+/m/0dg3n1	/m/0dg3n1	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.6114)
+___
+/m/01nhhz	/m/01nhhz	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.6294)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6453)
+___
+/m/02j9z	/m/02j9z	/m/0k4y6	/m/0k4y6
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6453)
+___
+/m/02j9z	/m/02j9z	/m/07j9n	/m/07j9n
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6453)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6453)
+___
+/m/02j9z	/m/02j9z	/m/0845v	/m/0845v
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6453)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6453)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7205)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7205)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7208)
+___
+/m/02j9z	/m/034cm	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7299)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7440)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7870)
+___
+/m/02j9z	/m/03gk2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8024)
+___
+/m/02j9z	/m/04j53	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.8156)
+___
+/m/0lvng	/m/0lvng	/m/0lvng	/m/0lvng
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8366)
+___
+/m/02_gzx	/m/02_gzx	/m/02_gzx	/m/02_gzx
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8680)
+___
+/m/012wgb	/m/012wgb	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.8698)
+___
+/m/0lk0l	/m/0lk0l	/m/0lk0l	/m/0lk0l
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8723)
+___
+/m/035qv8	/m/035qv8	/m/035qv8	/m/035qv8
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8799)
+___
+/m/02j9z	/m/012m_	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.9137)
+___
+/m/0j0k	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.9353)
+___
+/m/0j0k	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.9353)
+___
+/m/01b_d4	/m/01b_d4	/m/01b_d4	/m/01b_d4
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.9389)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.9553)
+___
+/m/07wtc	/m/07wtc	/m/07wtc	/m/07wtc
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.9767)
+___
+/m/06psyf	/m/06psyf	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0076)
+___
+/m/06psyf	/m/06psyf	/m/0nccd	/m/0nccd
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0076)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0111)
+___
+/m/02j9z	/m/02j9z	/m/0dg3n1	/m/0dg3n1
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0744)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0744)
+___
+/m/02j9z	/m/02j9z	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0744)
+___
+/m/02j9z	/m/06mzp	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.1012)
+___
+/m/082fr	/m/082fr	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.1030)
+___
+/m/02j9z	/m/02j9z	/m/0lvng	/m/0lvng
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/07r_p	/m/07r_p
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/034cm	/m/034cm
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/03gk2	/m/03gk2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/0ftns	/m/0ftns
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/082fr	/m/082fr
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/01nhhz	/m/01nhhz
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/04g5k	/m/04g5k
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/018ym2	/m/018ym2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/020vx9	/m/020vx9
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/0bjv6	/m/0bjv6
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/0366c	/m/0366c
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/035qv8	/m/035qv8
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/06psyf	/m/06psyf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/014d4v	/m/014d4v
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/07wtc	/m/07wtc
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/01b_d4	/m/01b_d4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/0lk0l	/m/0lk0l
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/04g61	/m/04g61
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/012wgb	/m/012wgb
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/07tg4	/m/07tg4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/02_gzx	/m/02_gzx
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/012m_	/m/012m_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/04w58	/m/04w58
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/04gzd	/m/04gzd
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/02j9z	/m/02j9z	/m/015wy_	/m/015wy_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1260)
+___
+/m/03gk2	/m/03gk2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.1297)
+___
+/m/02vzc	/m/02vzc	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.1582)
+___
+/m/02j9z	/m/02vzc	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.1643)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2331)
+___
+/m/02j9z	/m/015qh	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2670)
+___
+/m/02j9z	/m/05qhw	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2765)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.3101)
+___
+/m/02j9z	/m/06psyf	/m/0nccd	/m/0nccd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.4136)
+___
+/m/02j9z	/m/06psyf	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.4136)
+___
+/m/02j9z	/m/02_gzx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.4191)
+___
+/m/02j9z	/m/02_gzx	/m/06pr6	/m/06pr6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.4191)
+___
+#####################
+/m/02j9z	/m/07ssc
+Reward:0
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.4005)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-1.4005)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.7306)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.3378)
+___
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.3378)
+___
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-3.3378)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.8133)
+___
+/m/0j0k	/m/0j0k	/m/02j9z	/m/02j9z
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.9610)
+___
+/m/02j9z	/m/0j0k	/m/02j9z	/m/02j9z
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.7211)
+___
+/m/0j0k	/m/0j0k	/m/0qdzd	/m/0qdzd
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-5.5106)
+___
+/m/04swx	/m/04swx	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.6806)
+___
+/m/0j0k	/m/0j0k	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.8532)
+___
+/m/0j0k	/m/0j0k	/m/0cdbq	/m/0cdbq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.8532)
+___
+/m/0j0k	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/partially_contains
+-1
+tensor(-5.8532)
+___
+/m/02j9z	/m/0j0k	/m/0qdzd	/m/0qdzd
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-6.1457)
+___
+/m/018ym2	/m/018ym2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3144)
+___
+/m/07r_p	/m/07r_p	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3144)
+___
+/m/0ftns	/m/0ftns	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.3158)
+___
+/m/02j9z	/m/0j0k	/m/05vz3zq	/m/05vz3zq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.3761)
+___
+/m/02j9z	/m/0j0k	/m/0jgx	/m/0jgx
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.3761)
+___
+/m/02j9z	/m/0j0k	/m/0cdbq	/m/0cdbq
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-6.3761)
+___
+/m/0dg3n1	/m/0dg3n1	/m/02j9z	/m/02j9z
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.4075)
+___
+/m/01nhhz	/m/01nhhz	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.4299)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5188)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5188)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5193)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5436)
+___
+/m/04swx	/m/0f8l9c	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.5594)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5858)
+___
+/m/020vx9	/m/020vx9	/m/020vx9	/m/020vx9
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.5989)
+___
+/m/02j9z	/m/03gk2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.5995)
+___
+/m/015wy_	/m/015wy_	/m/015wy_	/m/015wy_
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.6094)
+___
+/m/02j9z	/m/04j53	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.6155)
+___
+/m/02j9z	/m/02j9z	/m/0k4y6	/m/0k4y6
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6833)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6833)
+___
+/m/02j9z	/m/02j9z	/m/07j9n	/m/07j9n
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6833)
+___
+/m/02j9z	/m/02j9z	/m/0845v	/m/0845v
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6833)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6833)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-6.6833)
+___
+/m/02j9z	/m/012m_	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7143)
+___
+/m/07tg4	/m/07tg4	/m/07tg4	/m/07tg4
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.7534)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.7555)
+___
+/m/04swx	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.7586)
+___
+/m/04swx	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.7586)
+___
+/m/012wgb	/m/012wgb	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.8037)
+___
+/m/02j9z	/m/04swx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.8052)
+___
+/m/0lvng	/m/0lvng	/m/0lvng	/m/0lvng
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8252)
+___
+/m/03gk2	/m/03gk2	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.8293)
+___
+/m/02_gzx	/m/02_gzx	/m/02_gzx	/m/02_gzx
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8677)
+___
+/m/035qv8	/m/035qv8	/m/035qv8	/m/035qv8
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8712)
+___
+/m/0lk0l	/m/0lk0l	/m/0lk0l	/m/0lk0l
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8770)
+___
+/m/0j0k	/m/02j9z	/m/0j0k	/m/0j0k
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.8990)
+___
+/m/0j0k	/m/02j9z	/m/04swx	/m/04swx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.8990)
+___
+/m/02j9z	/m/06mzp	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.9035)
+___
+/m/01b_d4	/m/01b_d4	/m/01b_d4	/m/01b_d4
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.9524)
+___
+/m/02j9z	/m/02vzc	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.9613)
+___
+/m/07wtc	/m/07wtc	/m/07wtc	/m/07wtc
+/location/location/contains	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.9706)
+___
+/m/012m_	/m/012m_	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-6.9840)
+___
+/m/06psyf	/m/06psyf	/m/0nccd	/m/0nccd
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0077)
+___
+/m/06psyf	/m/06psyf	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0077)
+___
+/m/034cm	/m/034cm	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0358)
+___
+/m/034cm	/m/034cm	/m/07ssc	/m/07ssc
+/location/location/contains	NO_OP	_/location/location/contains
+1
+tensor(-7.0358)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.0362)
+___
+/m/06mzp	/m/06mzp	/m/02qkt	/m/02qkt
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.0560)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0685)
+___
+/m/02j9z	/m/02j9z	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0685)
+___
+/m/02j9z	/m/02j9z	/m/0dg3n1	/m/0dg3n1
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-7.0685)
+___
+/m/02j9z	/m/015qh	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.0729)
+___
+/m/02j9z	/m/05qhw	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.0817)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.1087)
+___
+/m/082fr	/m/082fr	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.1439)
+___
+/m/02j9z	/m/02j9z	/m/012wgb	/m/012wgb
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/04g61	/m/04g61
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/015wy_	/m/015wy_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/03gk2	/m/03gk2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/07wtc	/m/07wtc
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/012m_	/m/012m_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/01nhhz	/m/01nhhz
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/0366c	/m/0366c
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/06psyf	/m/06psyf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/04w58	/m/04w58
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/04g5k	/m/04g5k
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/0bjv6	/m/0bjv6
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/07r_p	/m/07r_p
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/0lvng	/m/0lvng
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/07tg4	/m/07tg4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/0ftns	/m/0ftns
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/01b_d4	/m/01b_d4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/034cm	/m/034cm
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/014d4v	/m/014d4v
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/035qv8	/m/035qv8
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/0lk0l	/m/0lk0l
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/082fr	/m/082fr
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/02_gzx	/m/02_gzx
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/018ym2	/m/018ym2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/04gzd	/m/04gzd
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02j9z	/m/02j9z	/m/020vx9	/m/020vx9
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-7.1606)
+___
+/m/02vzc	/m/02vzc	/m/02j9z	/m/02j9z
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.2049)
+___
+/m/02j9z	/m/06psyf	/m/0nccd	/m/0nccd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2120)
+___
+/m/02j9z	/m/06psyf	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-7.2120)
+___
+#####################

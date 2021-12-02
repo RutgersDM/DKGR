@@ -1,0 +1,1006 @@
+/m/0y62n	/m/0y62n
+Reward:0
+/m/02_286	/m/0cc56	/m/0cc56	/m/0cc56
+_/location/hud_county_place/county	_/base/aareas/schema/administrative_area/administrative_parent	/location/us_county/county_seat
+-1
+tensor(-0.0159)
+___
+/m/02_286	/m/0cc56	/m/0cc56	/m/0cc56
+_/location/hud_county_place/county	_/base/aareas/schema/administrative_area/administrative_parent	_/location/us_county/county_seat
+-1
+tensor(-4.8896)
+___
+/m/02_286	/m/0cc56	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-4.9243)
+___
+/m/02_286	/m/0y62n	/m/02_286	/m/02_286
+_/location/hud_county_place/county	/location/location/contains	_/location/hud_county_place/county
+-1
+tensor(-8.9452)
+___
+/m/02_286	/m/03bmmc	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9597)
+___
+/m/02_286	/m/01jzyx	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9867)
+___
+/m/02_286	/m/06182p	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.0300)
+___
+/m/02_286	/m/01sby_	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	_/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.1042)
+___
+/m/02_286	/m/05bjp6	/m/02_286	/m/02_286
+_/location/hud_county_place/county	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3579)
+___
+/m/02_286	/m/02sdwt	/m/02_286	/m/02_286
+_/location/hud_county_place/county	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.9622)
+___
+/m/02_286	/m/02sdwt	/m/0cr3d	/m/0cr3d
+_/location/hud_county_place/county	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.9622)
+___
+/m/02_286	/m/05bjp6	/m/05bjp6	/m/05bjp6
+_/location/hud_county_place/county	/location/location/contains	_/education/educational_institution/campuses
+-1
+tensor(-10.0914)
+___
+/m/02_286	/m/02sdwt	/m/02sdwt	/m/02sdwt
+_/location/hud_county_place/county	/location/location/contains	_/education/educational_institution/campuses
+-1
+tensor(-10.2838)
+___
+/m/02_286	/m/06182p	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-11.8286)
+___
+/m/02_286	/m/01jzyx	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/business/business_operation/operating_income./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.2340)
+___
+/m/02_286	/m/01r0t_j	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.5702)
+___
+/m/02_286	/m/06sn8m	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.5946)
+___
+/m/02_286	/m/01h1b	/m/06cgy	/m/06cgy
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.6015)
+___
+/m/02_286	/m/02xp18	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.6046)
+___
+/m/02_286	/m/01d494	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.6081)
+___
+/m/02_286	/m/08hp53	/m/030_1m	/m/030_1m
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.6138)
+___
+/m/02_286	/m/01wjrn	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.6175)
+___
+/m/02_286	/m/01fwpt	/m/01gkmx	/m/01gkmx
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-12.6207)
+___
+/m/02_286	/m/01mv_n	/m/03dbww	/m/03dbww
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.6244)
+___
+/m/02_286	/m/016dgz	/m/0d6d2	/m/0d6d2
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-12.6354)
+___
+/m/02_286	/m/023n39	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.6468)
+___
+/m/02_286	/m/02n9k	/m/02yy8	/m/02yy8
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-12.8082)
+___
+/m/02_286	/m/01wk51	/m/02v60l	/m/02v60l
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-12.9324)
+___
+/m/02_286	/m/03bmmc	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.1852)
+___
+/m/02_286	/m/01cm8w	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3061)
+___
+/m/02_286	/m/01rwpj	/m/01nv4h	/m/01nv4h
+_/location/hud_county_place/county	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3122)
+___
+/m/02_286	/m/06182p	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.3380)
+___
+/m/02_286	/m/022q4j	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-13.3789)
+___
+/m/02_286	/m/0ll3	/m/04w_7	/m/04w_7
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/02xx5	/m/02xx5
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/04wzr	/m/04wzr
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/040fb	/m/040fb
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/06vkl	/m/06vkl
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/05cw8	/m/05cw8
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/028kb	/m/028kb
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/03_ly	/m/03_ly
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/0ll3	/m/040fv	/m/040fv
+_/location/hud_county_place/county	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5145)
+___
+/m/02_286	/m/06182p	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.5257)
+___
+/m/02_286	/m/04w1j9	/m/0kvqv	/m/0kvqv
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.6776)
+___
+/m/02_286	/m/04w1j9	/m/02_n5d	/m/02_n5d
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.6776)
+___
+/m/02_286	/m/04w1j9	/m/02lfwp	/m/02lfwp
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.6776)
+___
+/m/02_286	/m/022q4j	/m/0cgbf	/m/0cgbf
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-13.7546)
+___
+/m/02_286	/m/021lby	/m/0cv9fc	/m/0cv9fc
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.9078)
+___
+/m/02_286	/m/021lby	/m/01f7j9	/m/01f7j9
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.9078)
+___
+/m/02_286	/m/021lby	/m/03ktjq	/m/03ktjq
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-13.9078)
+___
+/m/02_286	/m/01wk51	/m/02jxmr	/m/02jxmr
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-14.0748)
+___
+/m/02_286	/m/02n9k	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-14.2844)
+___
+/m/02_286	/m/05bjp6	/m/01f5q5	/m/01f5q5
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-14.4866)
+___
+/m/02_286	/m/05bjp6	/m/04bdqk	/m/04bdqk
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-14.4866)
+___
+/m/02_286	/m/05bjp6	/m/033jkj	/m/033jkj
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-14.4866)
+___
+/m/02_286	/m/05bjp6	/m/0m66w	/m/0m66w
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-14.4866)
+___
+/m/02_286	/m/05bjp6	/m/033wx9	/m/033wx9
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-14.4866)
+___
+/m/02_286	/m/03pmty	/m/01y665	/m/01y665
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/03pmty	/m/01nm3s	/m/01nm3s
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/03pmty	/m/0151w_	/m/0151w_
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/03pmty	/m/069nzr	/m/069nzr
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/03pmty	/m/01y9xg	/m/01y9xg
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/03pmty	/m/05fnl9	/m/05fnl9
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/03pmty	/m/034g2b	/m/034g2b
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/03pmty	/m/015grj	/m/015grj
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6915)
+___
+/m/02_286	/m/01jzyx	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.0210)
+___
+/m/02_286	/m/059rby	/m/0lpk3	/m/0lpk3
+_/location/hud_county_place/county	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-15.1271)
+___
+/m/02_286	/m/059rby	/m/0yc7f	/m/0yc7f
+_/location/hud_county_place/county	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-15.1271)
+___
+/m/02_286	/m/059rby	/m/03v_5	/m/03v_5
+_/location/hud_county_place/county	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-15.1271)
+___
+/m/02_286	/m/059rby	/m/01mc11	/m/01mc11
+_/location/hud_county_place/county	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-15.1271)
+___
+/m/02_286	/m/059rby	/m/0yc84	/m/0yc84
+_/location/hud_county_place/county	_/location/location/contains	_/base/biblioness/bibs_location/state
+-1
+tensor(-15.1271)
+___
+/m/02_286	/m/02sdwt	/m/0bw6y	/m/0bw6y
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-15.1550)
+___
+/m/02_286	/m/02sdwt	/m/015_30	/m/015_30
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-15.1550)
+___
+/m/02_286	/m/02sdwt	/m/01k56k	/m/01k56k
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-15.1550)
+___
+/m/02_286	/m/02sdwt	/m/01vrlqd	/m/01vrlqd
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-15.1550)
+___
+/m/02_286	/m/02sdwt	/m/02cvp8	/m/02cvp8
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-15.1550)
+___
+/m/02_286	/m/02sdwt	/m/012t1	/m/012t1
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-15.1550)
+___
+/m/02_286	/m/02sdwt	/m/03f2_rc	/m/03f2_rc
+_/location/hud_county_place/county	/location/location/contains	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-15.1550)
+___
+/m/02_286	/m/01wk51	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-15.1706)
+___
+/m/02_286	/m/0fvf9q	/m/01_x6d	/m/01_x6d
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/0l6qt	/m/0l6qt
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/061dn_	/m/061dn_
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/04q5zw	/m/04q5zw
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/01_x6v	/m/01_x6v
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/017s11	/m/017s11
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/02kxbx3	/m/02kxbx3
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/06cgy	/m/06cgy
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/0c2dl	/m/0c2dl
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/03m9c8	/m/03m9c8
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/02rchht	/m/02rchht
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/04cw0j	/m/04cw0j
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/0fvf9q	/m/0499lc	/m/0499lc
+_/location/hud_county_place/county	_/people/person/place_of_birth	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1729)
+___
+/m/02_286	/m/021lby	/m/01f7j9	/m/01f7j9
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-15.1869)
+___
+/m/02_286	/m/021lby	/m/0cv9fc	/m/0cv9fc
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-15.1869)
+___
+/m/02_286	/m/021lby	/m/03ktjq	/m/03ktjq
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-15.1869)
+___
+/m/02_286	/m/06182p	/m/09nqf	/m/09nqf
+_/location/hud_county_place/county	/location/location/contains	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-15.2387)
+___
+/m/02_286	/m/016dgz	/m/0d6d2	/m/0d6d2
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.2396)
+___
+/m/02_286	/m/01mv_n	/m/03dbww	/m/03dbww
+_/location/hud_county_place/county	_/people/person/place_of_birth	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.3961)
+___
+/m/02_286	/m/01sby_	/m/029j_	/m/029j_
+_/location/hud_county_place/county	_/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-15.4516)
+___
+/m/02_286	/m/01fwpt	/m/02_286	/m/02_286
+_/location/hud_county_place/county	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-15.4895)
+___
+#####################
+/m/0d6lp	/m/0d6lp
+Reward:0
+/m/01n7q	/m/07bcn	/m/01n7q	/m/01n7q
+/base/biblioness/bibs_location/state	/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-4.2564)
+___
+/m/028kb	/m/05lf_	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.0433)
+___
+/m/028kb	/m/05lf_	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.0433)
+___
+/m/028kb	/m/05lf_	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.0433)
+___
+/m/028kb	/m/05lf_	/m/040fv	/m/040fv
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.0433)
+___
+/m/028kb	/m/05lf_	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.0433)
+___
+/m/028kb	/m/05lf_	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.0433)
+___
+/m/028kb	/m/05lf_	/m/040fb	/m/040fb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.0433)
+___
+/m/04wzr	/m/05lf_	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1293)
+___
+/m/04wzr	/m/05lf_	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1293)
+___
+/m/04wzr	/m/05lf_	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1293)
+___
+/m/04wzr	/m/05lf_	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1293)
+___
+/m/04wzr	/m/05lf_	/m/040fv	/m/040fv
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1293)
+___
+/m/04wzr	/m/05lf_	/m/040fb	/m/040fb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1293)
+___
+/m/04wzr	/m/05lf_	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1293)
+___
+/m/04w_7	/m/05lf_	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1378)
+___
+/m/04w_7	/m/05lf_	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1378)
+___
+/m/04w_7	/m/05lf_	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1378)
+___
+/m/04w_7	/m/05lf_	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1378)
+___
+/m/04w_7	/m/05lf_	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1378)
+___
+/m/04w_7	/m/05lf_	/m/040fv	/m/040fv
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1378)
+___
+/m/04w_7	/m/05lf_	/m/040fb	/m/040fb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1378)
+___
+/m/0lkm	/m/02xx5	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/02xx5	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/02xx5	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/02xx5	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/02xx5	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/02xx5	/m/0ll3	/m/0ll3
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/02xx5	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/02xx5	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1530)
+___
+/m/0lkm	/m/03_ly	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0lkm	/m/03_ly	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0lkm	/m/03_ly	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0lkm	/m/03_ly	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0lkm	/m/03_ly	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0lkm	/m/03_ly	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0lkm	/m/03_ly	/m/040fv	/m/040fv
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0lkm	/m/03_ly	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1601)
+___
+/m/0ll3	/m/03_ly	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/0ll3	/m/03_ly	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/0ll3	/m/03_ly	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/0ll3	/m/03_ly	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/0ll3	/m/03_ly	/m/040fv	/m/040fv
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/0ll3	/m/03_ly	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/0ll3	/m/03_ly	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/0ll3	/m/03_ly	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1608)
+___
+/m/028kb	/m/02xx5	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/028kb	/m/02xx5	/m/0ll3	/m/0ll3
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/028kb	/m/02xx5	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/028kb	/m/02xx5	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/028kb	/m/02xx5	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/028kb	/m/02xx5	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/028kb	/m/02xx5	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/028kb	/m/02xx5	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1627)
+___
+/m/0ll3	/m/02xx5	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/0ll3	/m/02xx5	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/0ll3	/m/02xx5	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/0ll3	/m/02xx5	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/0ll3	/m/02xx5	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/0ll3	/m/02xx5	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/0ll3	/m/02xx5	/m/0ll3	/m/0ll3
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/0ll3	/m/02xx5	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1634)
+___
+/m/028kb	/m/03_ly	/m/040fv	/m/040fv
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/028kb	/m/03_ly	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/028kb	/m/03_ly	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/028kb	/m/03_ly	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/028kb	/m/03_ly	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/028kb	/m/03_ly	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/028kb	/m/03_ly	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/028kb	/m/03_ly	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.1872)
+___
+/m/0lkm	/m/040fv	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/0ll3	/m/0ll3
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0lkm	/m/040fv	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2098)
+___
+/m/0ll3	/m/040fb	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/0ll3	/m/0ll3
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/040fv	/m/040fv
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fb	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2099)
+___
+/m/0ll3	/m/040fv	/m/0ll3	/m/0ll3
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/04wzr	/m/04wzr
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/05cw8	/m/05cw8
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/0lkm	/m/0lkm
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/02xx5	/m/02xx5
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/06vkl	/m/06vkl
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0ll3	/m/040fv	/m/04w_7	/m/04w_7
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2119)
+___
+/m/0lkm	/m/040fb	/m/05lf_	/m/05lf_
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2214)
+___
+/m/0lkm	/m/040fb	/m/03_ly	/m/03_ly
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2214)
+___
+/m/0lkm	/m/040fb	/m/028kb	/m/028kb
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-6.2214)
+___
+#####################

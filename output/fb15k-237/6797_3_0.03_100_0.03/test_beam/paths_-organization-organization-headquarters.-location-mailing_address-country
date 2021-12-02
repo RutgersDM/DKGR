@@ -1,0 +1,3521 @@
+/m/09v3hq_	/m/09c7w0
+Reward:0
+/m/09v3hq_	/m/09v3hq_	/m/02vxn	/m/02vxn
+NO_OP	NO_OP	/business/business_operation/industry
+-1
+tensor(-3.0256)
+___
+/m/09v3hq_	/m/09v3hq_	/m/01kqq7	/m/01kqq7
+NO_OP	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.8320)
+___
+/m/09v3hq_	/m/09v3hq_	/m/09lcsj	/m/09lcsj
+NO_OP	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.8320)
+___
+/m/09v3hq_	/m/09v3hq_	/m/016z7s	/m/016z7s
+NO_OP	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.8320)
+___
+/m/09v3hq_	/m/09v3hq_	/m/020fcn	/m/020fcn
+NO_OP	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.8320)
+___
+/m/09v3hq_	/m/09v3hq_	/m/09gdm7q	/m/09gdm7q
+NO_OP	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.8320)
+___
+/m/09v3hq_	/m/09v3hq_	/m/027rpym	/m/027rpym
+NO_OP	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.8320)
+___
+/m/09v3hq_	/m/09v3hq_	/m/0286vp	/m/0286vp
+NO_OP	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.8320)
+___
+/m/09lcsj	/m/09c7w0	/m/03v1s	/m/03v1s
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-4.0895)
+___
+/m/0286vp	/m/07ssc	/m/059dn	/m/059dn
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-4.1984)
+___
+/m/016z7s	/m/07ssc	/m/059dn	/m/059dn
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-4.2629)
+___
+/m/09lcsj	/m/05p606	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.2968)
+___
+/m/027rpym	/m/06g60w	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+1
+tensor(-4.3164)
+___
+/m/09gdm7q	/m/0d060g	/m/05j49	/m/05j49
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-4.3300)
+___
+/m/09gdm7q	/m/09c7w0	/m/03v1s	/m/03v1s
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-4.3587)
+___
+/m/016z7s	/m/016zp5	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-4.4685)
+___
+/m/09lcsj	/m/05dtsb	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.5031)
+___
+/m/0286vp	/m/09c7w0	/m/03v1s	/m/03v1s
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-4.6367)
+___
+/m/027rpym	/m/09c7w0	/m/03v1s	/m/03v1s
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-4.6435)
+___
+/m/0286vp	/m/0d500h	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+1
+tensor(-4.6585)
+___
+/m/0286vp	/m/02nwxc	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+1
+tensor(-4.6722)
+___
+/m/027rpym	/m/03fvqg	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.6982)
+___
+/m/027rpym	/m/0gm34	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.7060)
+___
+/m/027rpym	/m/015qyf	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.7143)
+___
+/m/020fcn	/m/0c3ns	/m/0chghy	/m/0chghy
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-4.7295)
+___
+/m/020fcn	/m/09c7w0	/m/03v1s	/m/03v1s
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-4.7550)
+___
+/m/016z7s	/m/0l6qt	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-4.8069)
+___
+/m/0286vp	/m/0333wf	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.8377)
+___
+/m/027rpym	/m/01tl50z	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.8502)
+___
+/m/016z7s	/m/04y9dk	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-4.9514)
+___
+/m/09lcsj	/m/018p4y	/m/03rt9	/m/03rt9
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-4.9982)
+___
+/m/09lcsj	/m/018p4y	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-4.9982)
+___
+/m/09gdm7q	/m/014x77	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-5.0188)
+___
+/m/09gdm7q	/m/014x77	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+1
+tensor(-5.0188)
+___
+/m/01kqq7	/m/09c7w0	/m/03v1s	/m/03v1s
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/location/administrative_division/first_level_division_of
+-1
+tensor(-5.0228)
+___
+/m/01kqq7	/m/01jrp0	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+1
+tensor(-5.0847)
+___
+/m/01kqq7	/m/023n39	/m/05zppz	/m/05zppz
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/gender
+-1
+tensor(-5.1312)
+___
+/m/01kqq7	/m/09zmys	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.1371)
+___
+/m/016z7s	/m/04kj2v	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-5.1396)
+___
+/m/016z7s	/m/04kj2v	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-5.1396)
+___
+/m/01kqq7	/m/015p3p	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.1429)
+___
+/m/0286vp	/m/070yzk	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.1507)
+___
+/m/09gdm7q	/m/0h32q	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.1640)
+___
+/m/09lcsj	/m/0h5g_	/m/03rt9	/m/03rt9
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.1741)
+___
+/m/09lcsj	/m/0h5g_	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.1741)
+___
+/m/0286vp	/m/02nwxc	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.1929)
+___
+/m/016z7s	/m/01hkhq	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.2079)
+___
+/m/020fcn	/m/01chc7	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-5.2672)
+___
+/m/020fcn	/m/01chc7	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-5.2672)
+___
+/m/02_286	/m/05bjp6	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2770)
+___
+/m/020fcn	/m/06dv3	/m/0chghy	/m/0chghy
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-5.2812)
+___
+/m/020fcn	/m/06dv3	/m/0ctw_b	/m/0ctw_b
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-5.2812)
+___
+/m/0286vp	/m/02lfcm	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.2870)
+___
+/m/020fcn	/m/022q4l9	/m/0d060g	/m/0d060g
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.3400)
+___
+/m/01kqq7	/m/01f7dd	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+1
+tensor(-5.3618)
+___
+/m/016z7s	/m/01vh3r	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.3641)
+___
+/m/016z7s	/m/01vh3r	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.3641)
+___
+/m/01kqq7	/m/01f7dd	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.3686)
+___
+/m/09v3hq_	/m/09v3hq_	/m/02_286	/m/02_286
+NO_OP	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-5.4138)
+___
+/m/09lcsj	/m/09lcsj	/m/02h40lc	/m/02h40lc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/language
+-1
+tensor(-5.4501)
+___
+/m/020fcn	/m/01v9l67	/m/06q1r	/m/06q1r
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.4802)
+___
+/m/01kqq7	/m/01vvb4m	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.4862)
+___
+/m/0286vp	/m/02nwxc	/m/04ztj	/m/04ztj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.4893)
+___
+/m/0286vp	/m/0d500h	/m/01g63y	/m/01g63y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.5028)
+___
+/m/020fcn	/m/0c3ns	/m/04ztj	/m/04ztj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.5730)
+___
+/m/01kqq7	/m/0htlr	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.6195)
+___
+/m/01kqq7	/m/0htlr	/m/03rjj	/m/03rjj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.6195)
+___
+/m/016z7s	/m/0l6qt	/m/01g63y	/m/01g63y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.6467)
+___
+/m/09gdm7q	/m/014x77	/m/09c7w0	/m/09c7w0
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+1
+tensor(-5.6712)
+___
+/m/09gdm7q	/m/014x77	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.6712)
+___
+/m/027rpym	/m/027rpym	/m/09nqf	/m/09nqf
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7636)
+___
+/m/09gdm7q	/m/014x77	/m/04ztj	/m/04ztj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.8364)
+___
+/m/09gdm7q	/m/014x77	/m/01g63y	/m/01g63y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.8364)
+___
+/m/01kqq7	/m/0bbxx9b	/m/05zppz	/m/05zppz
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/gender
+-1
+tensor(-5.8678)
+___
+/m/020fcn	/m/01chc7	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.9327)
+___
+/m/020fcn	/m/01chc7	/m/07ssc	/m/07ssc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.9327)
+___
+/m/01kqq7	/m/01jrp0	/m/04ztj	/m/04ztj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.9419)
+___
+/m/02_286	/m/02sdwt	/m/0cr3d	/m/0cr3d
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9701)
+___
+/m/02_286	/m/02sdwt	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9701)
+___
+/m/02_286	/m/0y62n	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+1
+tensor(-5.9703)
+___
+/m/02_286	/m/0y62n	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.9703)
+___
+/m/020fcn	/m/06dv3	/m/0ctw_b	/m/0ctw_b
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.9916)
+___
+/m/020fcn	/m/06dv3	/m/0chghy	/m/0chghy
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-5.9916)
+___
+/m/027rpym	/m/07zhd7	/m/02jx1	/m/02jx1
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.0036)
+___
+/m/02_286	/m/02_286	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	_/location/location/contains
+-1
+tensor(-6.0240)
+___
+/m/020fcn	/m/06dv3	/m/04ztj	/m/04ztj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.0475)
+___
+/m/0286vp	/m/0286vp	/m/02h40lc	/m/02h40lc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/language
+-1
+tensor(-6.0664)
+___
+/m/016z7s	/m/016z7s	/m/02h40lc	/m/02h40lc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/language
+-1
+tensor(-6.0844)
+___
+/m/020fcn	/m/01chc7	/m/04ztj	/m/04ztj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.0882)
+___
+/m/01kqq7	/m/01f7dd	/m/04ztj	/m/04ztj
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.1923)
+___
+/m/01kqq7	/m/01f7dd	/m/01g63y	/m/01g63y
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.1923)
+___
+/m/09lcsj	/m/09c7w0	/m/0d68qy	/m/0d68qy
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.2163)
+___
+/m/09lcsj	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.2163)
+___
+/m/09lcsj	/m/09c7w0	/m/039c26	/m/039c26
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.2163)
+___
+/m/09lcsj	/m/05dtsb	/m/05zppz	/m/05zppz
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/gender
+-1
+tensor(-6.2773)
+___
+/m/01kqq7	/m/01kqq7	/m/02h40lc	/m/02h40lc
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/language
+-1
+tensor(-6.2848)
+___
+/m/027rpym	/m/03fvqg	/m/05zppz	/m/05zppz
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/gender
+-1
+tensor(-6.2970)
+___
+/m/027rpym	/m/0gm34	/m/05zppz	/m/05zppz
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/gender
+-1
+tensor(-6.3008)
+___
+/m/027rpym	/m/015qyf	/m/05zppz	/m/05zppz
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/actor/film./film/performance/film	/people/person/gender
+-1
+tensor(-6.3104)
+___
+/m/020fcn	/m/020fcn	/m/09nqf	/m/09nqf
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.3253)
+___
+#####################
+/m/02htv6	/m/09c7w0
+Reward:1
+/m/02htv6	/m/02htv6	/m/0dclg	/m/0dclg
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-1.1057)
+___
+/m/02htv6	/m/02htv6	/m/05tbn	/m/05tbn
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-1.1057)
+___
+/m/02htv6	/m/02htv6	/m/0dclg	/m/0dclg
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-4.8582)
+___
+/m/02htv6	/m/02htv6	/m/05tbn	/m/05tbn
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-4.8582)
+___
+/m/060c4	/m/0ljl8	/m/060c4	/m/060c4
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-5.3137)
+___
+/m/060c4	/m/01qwb5	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-5.3142)
+___
+/m/060c4	/m/022fj_	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3145)
+___
+/m/060c4	/m/01r3w7	/m/01rs41	/m/01rs41
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3145)
+___
+/m/060c4	/m/01nnsv	/m/0325pb	/m/0325pb
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/fraternities_and_sororities
+-1
+tensor(-5.3185)
+___
+/m/060c4	/m/0ymcz	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3240)
+___
+/m/060c4	/m/07wkd	/m/0ptk_	/m/0ptk_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3277)
+___
+/m/02htv6	/m/02htv6	/m/0dclg	/m/0dclg
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-5.5764)
+___
+/m/02htv6	/m/02htv6	/m/05tbn	/m/05tbn
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-5.5764)
+___
+/m/060c4	/m/01q0kg	/m/071vr	/m/071vr
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.6694)
+___
+/m/060c4	/m/03y5ky	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-5.6694)
+___
+/m/060c4	/m/017v71	/m/05k7sb	/m/05k7sb
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.6702)
+___
+/m/060c4	/m/02fjzt	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-5.6722)
+___
+/m/060c4	/m/01dq5z	/m/04ykg	/m/04ykg
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.9311)
+___
+/m/060c4	/m/01rgn3	/m/01x73	/m/01x73
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.9316)
+___
+/m/060c4	/m/01j_06	/m/05fjf	/m/05fjf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.9336)
+___
+/m/02htv6	/m/02htv6	/m/05tbn	/m/05tbn
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-5.9760)
+___
+/m/02htv6	/m/02htv6	/m/0dclg	/m/0dclg
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-5.9760)
+___
+/m/060c4	/m/027b43	/m/05fky	/m/05fky
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0068)
+___
+/m/060c4	/m/027b43	/m/0yp21	/m/0yp21
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0068)
+___
+/m/060c4	/m/02cw8s	/m/0f8l9c	/m/0f8l9c
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0068)
+___
+/m/060c4	/m/02cw8s	/m/05qtj	/m/05qtj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0068)
+___
+/m/060c4	/m/0k__z	/m/01n7q	/m/01n7q
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0068)
+___
+/m/060c4	/m/0k__z	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0068)
+___
+/m/060c4	/m/01s0_f	/m/02dtg	/m/02dtg
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0070)
+___
+/m/060c4	/m/01s0_f	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0070)
+___
+/m/060c4	/m/0234_c	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0070)
+___
+/m/060c4	/m/0234_c	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0070)
+___
+/m/060c4	/m/02fy0z	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0072)
+___
+/m/060c4	/m/02fy0z	/m/05kkh	/m/05kkh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0072)
+___
+/m/060c4	/m/02gr81	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0072)
+___
+/m/060c4	/m/02gr81	/m/07tf8	/m/07tf8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0072)
+___
+/m/060c4	/m/01jq4b	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0074)
+___
+/m/060c4	/m/01jq4b	/m/0ygbf	/m/0ygbf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0074)
+___
+/m/060c4	/m/0b1xl	/m/05pcjw	/m/05pcjw
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0082)
+___
+/m/060c4	/m/0b1xl	/m/04399	/m/04399
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0082)
+___
+/m/0dclg	/m/0dclg	/m/09c7w0	/m/09c7w0
+_/location/location/contains	NO_OP	_/location/location/contains
+1
+tensor(-6.1128)
+___
+/m/060c4	/m/0qlnr	/m/05tbn	/m/05tbn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.1996)
+___
+/m/060c4	/m/0qlnr	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.1996)
+___
+/m/060c4	/m/017y6l	/m/03v1s	/m/03v1s
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.1998)
+___
+/m/060c4	/m/017y6l	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.1998)
+___
+/m/060c4	/m/0pspl	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.1999)
+___
+/m/060c4	/m/0pspl	/m/0rh6k	/m/0rh6k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.1999)
+___
+/m/060c4	/m/02kbtf	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2000)
+___
+/m/060c4	/m/02kbtf	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2000)
+___
+/m/060c4	/m/017zq0	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2000)
+___
+/m/060c4	/m/017zq0	/m/03v0t	/m/03v0t
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2000)
+___
+/m/060c4	/m/029d_	/m/05tbn	/m/05tbn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2003)
+___
+/m/060c4	/m/029d_	/m/0dclg	/m/0dclg
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2003)
+___
+/m/060c4	/m/01n4w_	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2003)
+___
+/m/060c4	/m/01n4w_	/m/0mnm2	/m/0mnm2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2003)
+___
+/m/060c4	/m/05mv4	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2003)
+___
+/m/060c4	/m/05mv4	/m/05kkh	/m/05kkh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2003)
+___
+/m/060c4	/m/06fq2	/m/07b_l	/m/07b_l
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2007)
+___
+/m/060c4	/m/06fq2	/m/03l2n	/m/03l2n
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2007)
+___
+/m/060c4	/m/0jhjl	/m/0d05w3	/m/0d05w3
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2008)
+___
+/m/060c4	/m/0jhjl	/m/01914	/m/01914
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2008)
+___
+/m/060c4	/m/02_cx_	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2008)
+___
+/m/060c4	/m/02_cx_	/m/07h34	/m/07h34
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2008)
+___
+/m/060c4	/m/0bthb	/m/05tbn	/m/05tbn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2013)
+___
+/m/060c4	/m/0bthb	/m/013ksx	/m/013ksx
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2013)
+___
+/m/060c4	/m/02kth6	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2016)
+___
+/m/060c4	/m/02kth6	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2016)
+___
+/m/060c4	/m/06jk5_	/m/07_f2	/m/07_f2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2017)
+___
+/m/060c4	/m/06jk5_	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2017)
+___
+/m/060c4	/m/020ddc	/m/050ks	/m/050ks
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2024)
+___
+/m/060c4	/m/020ddc	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2024)
+___
+/m/060c4	/m/01q460	/m/06t2t	/m/06t2t
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3609)
+___
+/m/060c4	/m/01q460	/m/0j0k	/m/0j0k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3609)
+___
+/m/060c4	/m/01xysf	/m/05fky	/m/05fky
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3617)
+___
+/m/060c4	/m/01xysf	/m/0ynfz	/m/0ynfz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3617)
+___
+/m/060c4	/m/015cz0	/m/03spz	/m/03spz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3636)
+___
+/m/060c4	/m/015cz0	/m/07qzv	/m/07qzv
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3636)
+___
+/m/060c4	/m/01wv24	/m/05v8c	/m/05v8c
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3642)
+___
+/m/060c4	/m/01wv24	/m/0j0k	/m/0j0k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3642)
+___
+/m/060c4	/m/02jyr8	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.4124)
+___
+/m/060c4	/m/02jyr8	/m/0lphb	/m/0lphb
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4124)
+___
+/m/060c4	/m/02jyr8	/m/0gyh	/m/0gyh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4124)
+___
+/m/060c4	/m/06182p	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4124)
+___
+/m/060c4	/m/06182p	/m/02_286	/m/02_286
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4124)
+___
+/m/060c4	/m/06182p	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.4124)
+___
+/m/02htv6	/m/02htv6	/m/02htv6	/m/02htv6
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.4340)
+___
+/m/060c4	/m/02fjzt	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5162)
+___
+/m/060c4	/m/017v71	/m/01rs41	/m/01rs41
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5190)
+___
+/m/060c4	/m/03y5ky	/m/05pcjw	/m/05pcjw
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5206)
+___
+/m/060c4	/m/01q0kg	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5207)
+___
+/m/060c4	/m/03818y	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.5452)
+___
+/m/060c4	/m/03818y	/m/0d0x8	/m/0d0x8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5452)
+___
+/m/060c4	/m/03818y	/m/013yq	/m/013yq
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5452)
+___
+/m/060c4	/m/01yqqv	/m/0sf9_	/m/0sf9_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5454)
+___
+/m/060c4	/m/01yqqv	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.5454)
+___
+/m/060c4	/m/0lyjf	/m/0rn8q	/m/0rn8q
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5454)
+___
+/m/060c4	/m/0lyjf	/m/02xry	/m/02xry
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5454)
+___
+/m/060c4	/m/01yqqv	/m/03v0t	/m/03v0t
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5454)
+___
+/m/060c4	/m/0lyjf	/m/0f2v0	/m/0f2v0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5454)
+___
+/m/060c4	/m/04p_hy	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.5454)
+___
+#####################
+/m/01dq5z	/m/09c7w0
+Reward:1
+/m/01dq5z	/m/01dq5z	/m/04ykg	/m/04ykg
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-1.1531)
+___
+/m/01dq5z	/m/01dq5z	/m/01rs41	/m/01rs41
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-1.8025)
+___
+/m/01dq5z	/m/01dq5z	/m/04qbv	/m/04qbv
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-1.8025)
+___
+/m/01dq5z	/m/01dq5z	/m/04ykg	/m/04ykg
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-5.0428)
+___
+/m/01dq5z	/m/01dq5z	/m/01rs41	/m/01rs41
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-5.2390)
+___
+/m/01dq5z	/m/01dq5z	/m/04qbv	/m/04qbv
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-5.2390)
+___
+/m/060c4	/m/0ljl8	/m/060c4	/m/060c4
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-5.3415)
+___
+/m/060c4	/m/01qwb5	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-5.3420)
+___
+/m/060c4	/m/01r3w7	/m/01rs41	/m/01rs41
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3424)
+___
+/m/060c4	/m/022fj_	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3424)
+___
+/m/060c4	/m/01nnsv	/m/0325pb	/m/0325pb
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/fraternities_and_sororities
+-1
+tensor(-5.3468)
+___
+/m/060c4	/m/0ymcz	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3529)
+___
+/m/060c4	/m/07wkd	/m/0ptk_	/m/0ptk_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.3567)
+___
+/m/01dq5z	/m/01dq5z	/m/04ykg	/m/04ykg
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-5.6511)
+___
+/m/060c4	/m/03y5ky	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-5.7094)
+___
+/m/060c4	/m/01q0kg	/m/071vr	/m/071vr
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.7094)
+___
+/m/060c4	/m/017v71	/m/05k7sb	/m/05k7sb
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.7095)
+___
+/m/060c4	/m/02fjzt	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-5.7100)
+___
+/m/060c4	/m/01rgn3	/m/01x73	/m/01x73
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.9740)
+___
+/m/060c4	/m/01dq5z	/m/04ykg	/m/04ykg
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.9774)
+___
+/m/060c4	/m/01j_06	/m/05fjf	/m/05fjf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-5.9793)
+___
+/m/060c4	/m/027b43	/m/05fky	/m/05fky
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0347)
+___
+/m/060c4	/m/027b43	/m/0yp21	/m/0yp21
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0347)
+___
+/m/060c4	/m/02cw8s	/m/0f8l9c	/m/0f8l9c
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0347)
+___
+/m/060c4	/m/02cw8s	/m/05qtj	/m/05qtj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0347)
+___
+/m/060c4	/m/0k__z	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0347)
+___
+/m/060c4	/m/0k__z	/m/01n7q	/m/01n7q
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0347)
+___
+/m/060c4	/m/0234_c	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0349)
+___
+/m/060c4	/m/0234_c	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0349)
+___
+/m/060c4	/m/01s0_f	/m/02dtg	/m/02dtg
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0349)
+___
+/m/060c4	/m/01s0_f	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0349)
+___
+/m/060c4	/m/02gr81	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0351)
+___
+/m/060c4	/m/02gr81	/m/07tf8	/m/07tf8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0351)
+___
+/m/060c4	/m/02fy0z	/m/05kkh	/m/05kkh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0351)
+___
+/m/060c4	/m/02fy0z	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0351)
+___
+/m/060c4	/m/01jq4b	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.0353)
+___
+/m/060c4	/m/01jq4b	/m/0ygbf	/m/0ygbf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.0353)
+___
+/m/060c4	/m/0b1xl	/m/05pcjw	/m/05pcjw
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0360)
+___
+/m/060c4	/m/0b1xl	/m/04399	/m/04399
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.0360)
+___
+/m/060c4	/m/05mv4	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2325)
+___
+/m/060c4	/m/05mv4	/m/05kkh	/m/05kkh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2325)
+___
+/m/060c4	/m/0bthb	/m/013ksx	/m/013ksx
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2341)
+___
+/m/060c4	/m/0bthb	/m/05tbn	/m/05tbn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2341)
+___
+/m/060c4	/m/029d_	/m/05tbn	/m/05tbn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2341)
+___
+/m/060c4	/m/029d_	/m/0dclg	/m/0dclg
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2341)
+___
+/m/060c4	/m/020ddc	/m/050ks	/m/050ks
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2342)
+___
+/m/060c4	/m/020ddc	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2342)
+___
+/m/060c4	/m/0jhjl	/m/01914	/m/01914
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2344)
+___
+/m/060c4	/m/0jhjl	/m/0d05w3	/m/0d05w3
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2344)
+___
+/m/060c4	/m/0qlnr	/m/05tbn	/m/05tbn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2348)
+___
+/m/060c4	/m/0qlnr	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2348)
+___
+/m/060c4	/m/02kbtf	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2349)
+___
+/m/060c4	/m/02kbtf	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2349)
+___
+/m/060c4	/m/02_cx_	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2351)
+___
+/m/060c4	/m/02_cx_	/m/07h34	/m/07h34
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2351)
+___
+/m/060c4	/m/02kth6	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2353)
+___
+/m/060c4	/m/02kth6	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2353)
+___
+/m/060c4	/m/017y6l	/m/03v1s	/m/03v1s
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2353)
+___
+/m/060c4	/m/017y6l	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2353)
+___
+/m/060c4	/m/0pspl	/m/0rh6k	/m/0rh6k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2354)
+___
+/m/060c4	/m/0pspl	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2354)
+___
+/m/060c4	/m/06fq2	/m/07b_l	/m/07b_l
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2354)
+___
+/m/060c4	/m/06fq2	/m/03l2n	/m/03l2n
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2354)
+___
+/m/060c4	/m/01n4w_	/m/0mnm2	/m/0mnm2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2354)
+___
+/m/060c4	/m/01n4w_	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2354)
+___
+/m/060c4	/m/06jk5_	/m/07_f2	/m/07_f2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2354)
+___
+/m/060c4	/m/06jk5_	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2354)
+___
+/m/060c4	/m/017zq0	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.2359)
+___
+/m/060c4	/m/017zq0	/m/03v0t	/m/03v0t
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.2359)
+___
+/m/060c4	/m/01q460	/m/06t2t	/m/06t2t
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3972)
+___
+/m/060c4	/m/01q460	/m/0j0k	/m/0j0k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3972)
+___
+/m/060c4	/m/01wv24	/m/05v8c	/m/05v8c
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3992)
+___
+/m/060c4	/m/01wv24	/m/0j0k	/m/0j0k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3992)
+___
+/m/060c4	/m/015cz0	/m/07qzv	/m/07qzv
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3998)
+___
+/m/060c4	/m/015cz0	/m/03spz	/m/03spz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.3998)
+___
+/m/060c4	/m/01xysf	/m/05fky	/m/05fky
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4018)
+___
+/m/060c4	/m/01xysf	/m/0ynfz	/m/0ynfz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4018)
+___
+/m/060c4	/m/02jyr8	/m/0gyh	/m/0gyh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4403)
+___
+/m/060c4	/m/02jyr8	/m/0lphb	/m/0lphb
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4403)
+___
+/m/060c4	/m/02jyr8	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.4403)
+___
+/m/060c4	/m/06182p	/m/02_286	/m/02_286
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4403)
+___
+/m/060c4	/m/06182p	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.4403)
+___
+/m/060c4	/m/06182p	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.4403)
+___
+/m/01dq5z	/m/01dq5z	/m/04ykg	/m/04ykg
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-6.4762)
+___
+/m/01dq5z	/m/01dq5z	/m/04qbv	/m/04qbv
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	/education/educational_institution/school_type
+-1
+tensor(-6.4862)
+___
+/m/01dq5z	/m/01dq5z	/m/01rs41	/m/01rs41
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	/education/educational_institution/school_type
+-1
+tensor(-6.4862)
+___
+/m/060c4	/m/03y5ky	/m/05pcjw	/m/05pcjw
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5207)
+___
+/m/060c4	/m/01q0kg	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5207)
+___
+/m/060c4	/m/017v71	/m/01rs41	/m/01rs41
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5208)
+___
+/m/060c4	/m/02fjzt	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-6.5213)
+___
+/m/04ykg	/m/0xddr	/m/0jbk9	/m/0jbk9
+_/location/location/contains	_/base/biblioness/bibs_location/state	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-6.5521)
+___
+/m/060c4	/m/02l1fn	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.5765)
+___
+/m/060c4	/m/02l1fn	/m/0drs7	/m/0drs7
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5765)
+___
+/m/060c4	/m/02l1fn	/m/059rby	/m/059rby
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5765)
+___
+/m/060c4	/m/04p_hy	/m/01n7q	/m/01n7q
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5767)
+___
+/m/060c4	/m/04p_hy	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.5767)
+___
+/m/060c4	/m/04p_hy	/m/0r2l7	/m/0r2l7
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5767)
+___
+/m/060c4	/m/01b1mj	/m/010v8k	/m/010v8k
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5782)
+___
+/m/060c4	/m/01b1mj	/m/081yw	/m/081yw
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-6.5782)
+___
+/m/060c4	/m/01b1mj	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+1
+tensor(-6.5782)
+___
+#####################
+/m/09f2j	/m/09c7w0
+Reward:1
+/m/09f2j	/m/09f2j	/m/05jxkf	/m/05jxkf
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-0.9160)
+___
+/m/09f2j	/m/09f2j	/m/034h1h	/m/034h1h
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-1.8003)
+___
+/m/034h1h	/m/01w5m	/m/05pcjw	/m/05pcjw
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8081)
+___
+/m/034h1h	/m/06pwq	/m/034h1h	/m/034h1h
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-4.8503)
+___
+/m/034h1h	/m/08815	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.0078)
+___
+/m/034h1h	/m/05zl0	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.0089)
+___
+/m/034h1h	/m/09f2j	/m/05jxkf	/m/05jxkf
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.1118)
+___
+/m/034h1h	/m/0ks67	/m/01_9fk	/m/01_9fk
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.1126)
+___
+/m/034h1h	/m/0g2jl	/m/01rs41	/m/01rs41
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.1127)
+___
+/m/034h1h	/m/065y4w7	/m/030qb3t	/m/030qb3t
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.2900)
+___
+/m/034h1h	/m/07wjk	/m/0h7h6	/m/0h7h6
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.4235)
+___
+/m/034h1h	/m/07wrz	/m/01_d4	/m/01_d4
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.4254)
+___
+/m/034h1h	/m/0187nd	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.6062)
+___
+/m/034h1h	/m/0187nd	/m/01z1c	/m/01z1c
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.6062)
+___
+/m/034h1h	/m/0kz2w	/m/05pcjw	/m/05pcjw
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.6636)
+___
+/m/034h1h	/m/0kz2w	/m/07tf8	/m/07tf8
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.6636)
+___
+/m/034h1h	/m/01w3v	/m/05pcjw	/m/05pcjw
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.6643)
+___
+/m/034h1h	/m/01w3v	/m/01_9fk	/m/01_9fk
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.6643)
+___
+/m/034h1h	/m/065y4w7	/m/07tf8	/m/07tf8
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.7651)
+___
+/m/034h1h	/m/07vfj	/m/059rby	/m/059rby
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8529)
+___
+/m/034h1h	/m/07vfj	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.8529)
+___
+/m/034h1h	/m/01bm_	/m/06btq	/m/06btq
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8539)
+___
+/m/034h1h	/m/01bm_	/m/0c1d0	/m/0c1d0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8539)
+___
+/m/034h1h	/m/09kvv	/m/04rrd	/m/04rrd
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8546)
+___
+/m/034h1h	/m/09kvv	/m/094jv	/m/094jv
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8546)
+___
+/m/034h1h	/m/03v6t	/m/0nmj	/m/0nmj
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8549)
+___
+/m/034h1h	/m/03v6t	/m/03s0w	/m/03s0w
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8549)
+___
+/m/034h1h	/m/02vnp2	/m/0rh6k	/m/0rh6k
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8551)
+___
+/m/034h1h	/m/02vnp2	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.8551)
+___
+/m/034h1h	/m/03ksy	/m/01qh7	/m/01qh7
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8553)
+___
+/m/034h1h	/m/03ksy	/m/05k7sb	/m/05k7sb
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8553)
+___
+/m/034h1h	/m/01n6r0	/m/05kj_	/m/05kj_
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8554)
+___
+/m/034h1h	/m/01n6r0	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.8554)
+___
+/m/034h1h	/m/02cttt	/m/059rby	/m/059rby
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8556)
+___
+/m/034h1h	/m/02cttt	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.8556)
+___
+/m/034h1h	/m/0dzst	/m/013hxv	/m/013hxv
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8560)
+___
+/m/034h1h	/m/0dzst	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.8560)
+___
+/m/034h1h	/m/01f1r4	/m/0r62v	/m/0r62v
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8564)
+___
+/m/034h1h	/m/01f1r4	/m/01n7q	/m/01n7q
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.8564)
+___
+/m/034h1h	/m/07wrz	/m/05pcjw	/m/05pcjw
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.8859)
+___
+/m/034h1h	/m/07wjk	/m/05jxkf	/m/05jxkf
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.8867)
+___
+/m/034h1h	/m/01jssp	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.9771)
+___
+/m/034h1h	/m/01jssp	/m/05tbn	/m/05tbn
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.9771)
+___
+/m/034h1h	/m/01jssp	/m/068p2	/m/068p2
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.9771)
+___
+/m/034h1h	/m/01pq4w	/m/07h34	/m/07h34
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.9773)
+___
+/m/034h1h	/m/01pq4w	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.9773)
+___
+/m/034h1h	/m/01pq4w	/m/05jbn	/m/05jbn
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.9773)
+___
+/m/034h1h	/m/01qd_r	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-5.9778)
+___
+/m/034h1h	/m/01qd_r	/m/01n4w	/m/01n4w
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.9778)
+___
+/m/034h1h	/m/01qd_r	/m/0ncj8	/m/0ncj8
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-5.9778)
+___
+/m/034h1h	/m/05x_5	/m/03v1s	/m/03v1s
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.0500)
+___
+/m/034h1h	/m/05x_5	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.0500)
+___
+/m/034h1h	/m/07vht	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.0519)
+___
+/m/034h1h	/m/07vht	/m/01n7q	/m/01n7q
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.0519)
+___
+/m/034h1h	/m/07w0v	/m/0vzm	/m/0vzm
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.0522)
+___
+/m/034h1h	/m/07w0v	/m/07b_l	/m/07b_l
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.0522)
+___
+/m/034h1h	/m/025v3k	/m/04ykg	/m/04ykg
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.0523)
+___
+/m/034h1h	/m/025v3k	/m/0fpzwf	/m/0fpzwf
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.0523)
+___
+/m/034h1h	/m/07vyf	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.0530)
+___
+/m/034h1h	/m/07vyf	/m/0vmt	/m/0vmt
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.0530)
+___
+/m/034h1h	/m/09f2j	/m/034h1h	/m/034h1h
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-6.1430)
+___
+/m/034h1h	/m/0g2jl	/m/034h1h	/m/034h1h
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-6.1434)
+___
+/m/034h1h	/m/0ks67	/m/034h1h	/m/034h1h
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-6.1439)
+___
+/m/034h1h	/m/07t90	/m/0d9jr	/m/0d9jr
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1543)
+___
+/m/034h1h	/m/07t90	/m/081yw	/m/081yw
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1543)
+___
+/m/034h1h	/m/07t90	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1543)
+___
+/m/034h1h	/m/01j_9c	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1546)
+___
+/m/034h1h	/m/01j_9c	/m/03s0w	/m/03s0w
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1546)
+___
+/m/034h1h	/m/01j_9c	/m/0t015	/m/0t015
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1546)
+___
+/m/034h1h	/m/07ccs	/m/0_ytw	/m/0_ytw
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1546)
+___
+/m/034h1h	/m/07ccs	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1546)
+___
+/m/034h1h	/m/07ccs	/m/07b_l	/m/07b_l
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1546)
+___
+/m/034h1h	/m/0160nk	/m/04ly1	/m/04ly1
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1546)
+___
+/m/034h1h	/m/0160nk	/m/0f2tj	/m/0f2tj
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1546)
+___
+/m/034h1h	/m/0160nk	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1546)
+___
+/m/034h1h	/m/052nd	/m/052p7	/m/052p7
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1550)
+___
+/m/034h1h	/m/052nd	/m/0694j	/m/0694j
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1550)
+___
+/m/034h1h	/m/052nd	/m/0d060g	/m/0d060g
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1550)
+___
+/m/034h1h	/m/078bz	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1552)
+___
+/m/034h1h	/m/078bz	/m/071cn	/m/071cn
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1552)
+___
+/m/034h1h	/m/078bz	/m/059rby	/m/059rby
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1552)
+___
+/m/034h1h	/m/01l8t8	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1553)
+___
+/m/034h1h	/m/01l8t8	/m/059rby	/m/059rby
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1553)
+___
+/m/034h1h	/m/01l8t8	/m/0d_kd	/m/0d_kd
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1553)
+___
+/m/034h1h	/m/07szy	/m/0wh3	/m/0wh3
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1555)
+___
+/m/034h1h	/m/07szy	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1555)
+___
+/m/034h1h	/m/07szy	/m/04rrx	/m/04rrx
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1555)
+___
+/m/034h1h	/m/01p5xy	/m/0pc7r	/m/0pc7r
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1561)
+___
+/m/034h1h	/m/01p5xy	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1561)
+___
+/m/034h1h	/m/01p5xy	/m/05k7sb	/m/05k7sb
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1561)
+___
+/m/034h1h	/m/0g8rj	/m/07z1m	/m/07z1m
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1562)
+___
+/m/034h1h	/m/0g8rj	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1562)
+___
+/m/034h1h	/m/0g8rj	/m/0mp3l	/m/0mp3l
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1562)
+___
+/m/034h1h	/m/07tds	/m/05tbn	/m/05tbn
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1565)
+___
+/m/034h1h	/m/07tds	/m/0dclg	/m/0dclg
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1565)
+___
+/m/034h1h	/m/07tds	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1565)
+___
+/m/034h1h	/m/04hgpt	/m/05tbn	/m/05tbn
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1566)
+___
+/m/034h1h	/m/04hgpt	/m/09c7w0	/m/09c7w0
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+1
+tensor(-6.1566)
+___
+/m/034h1h	/m/04hgpt	/m/0zqq8	/m/0zqq8
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.1566)
+___
+/m/034h1h	/m/01qrb2	/m/0snty	/m/0snty
+/organization/organization_member/member_of./organization/organization_membership/organization	_/organization/organization_member/member_of./organization/organization_membership/organization	_/location/location/contains
+-1
+tensor(-6.3066)
+___
+#####################
+/m/01fkr_	/m/09c7w0
+Reward:1
+/m/026b33f	/m/026b33f	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+1
+tensor(-2.3123)
+___
+/m/03bww6	/m/03bww6	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+1
+tensor(-2.5079)
+___
+/m/01hn_t	/m/01hn_t	/m/07ssc	/m/07ssc
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+-1
+tensor(-3.4727)
+___
+/m/01hn_t	/m/01hn_t	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	NO_OP	/tv/tv_program/country_of_origin
+1
+tensor(-3.4727)
+___
+/m/01hn_t	/m/014z8v	/m/04ztj	/m/04ztj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-3.8810)
+___
+/m/01hn_t	/m/01vrnsk	/m/02jx1	/m/02jx1
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+-1
+tensor(-4.1196)
+___
+/m/03bww6	/m/0d0l91	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-4.1959)
+___
+/m/026b33f	/m/0c1ps1	/m/03rjj	/m/03rjj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+-1
+tensor(-4.2293)
+___
+/m/026b33f	/m/0436f4	/m/04ztj	/m/04ztj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.2669)
+___
+/m/03bww6	/m/01vxqyl	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-4.4251)
+___
+/m/03bww6	/m/01wgfp6	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-4.4416)
+___
+/m/026b33f	/m/03ds3	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-4.4559)
+___
+/m/0m7yy	/m/02x0gx	/m/0m7yy	/m/0m7yy
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-4.4777)
+___
+/m/0m7yy	/m/0cv_2	/m/03mbdx_	/m/03mbdx_
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-4.4778)
+___
+/m/0m7yy	/m/0ph2w	/m/04ztj	/m/04ztj
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.4779)
+___
+/m/0m7yy	/m/0121rx	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-4.4781)
+___
+/m/0m7yy	/m/01l1ls	/m/04ztj	/m/04ztj
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.4782)
+___
+/m/0m7yy	/m/04glx0	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_program/country_of_origin
+1
+tensor(-4.4783)
+___
+/m/0m7yy	/m/0c_mvb	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-4.4787)
+___
+/m/0m7yy	/m/01kkx2	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-4.4788)
+___
+/m/0m7yy	/m/01y67v	/m/020qr4	/m/020qr4
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-4.4792)
+___
+/m/0m7yy	/m/06v99d	/m/095sx6	/m/095sx6
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-4.4792)
+___
+/m/0m7yy	/m/049rl0	/m/0m7yy	/m/0m7yy
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-4.4798)
+___
+/m/0m7yy	/m/0kc9f	/m/0fkwzs	/m/0fkwzs
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-4.4890)
+___
+/m/01hn_t	/m/018p4y	/m/03rt9	/m/03rt9
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+-1
+tensor(-4.5395)
+___
+/m/01hn_t	/m/018p4y	/m/09c7w0	/m/09c7w0
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/nationality
+1
+tensor(-4.5395)
+___
+/m/0m7yy	/m/026v1z	/m/031kyy	/m/031kyy
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-4.5799)
+___
+/m/0m7yy	/m/01gl9g	/m/0m7yy	/m/0m7yy
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-4.6066)
+___
+/m/0m7yy	/m/0381pn	/m/0m7yy	/m/0m7yy
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-4.6626)
+___
+/m/0m7yy	/m/0c0sl	/m/09nqf	/m/09nqf
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.7295)
+___
+/m/0m7yy	/m/0g51l1	/m/02_286	/m/02_286
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/place_of_birth
+-1
+tensor(-4.7496)
+___
+/m/0m7yy	/m/02dh86	/m/04ztj	/m/04ztj
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.7652)
+___
+/m/0m7yy	/m/05kh_	/m/04ztj	/m/04ztj
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.7665)
+___
+/m/0m7yy	/m/015cbq	/m/04ztj	/m/04ztj
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.7666)
+___
+/m/0m7yy	/m/0l5yl	/m/04ztj	/m/04ztj
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.7682)
+___
+/m/0m7yy	/m/01p5yn	/m/0gsg7	/m/0gsg7
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.7715)
+___
+/m/0m7yy	/m/01vsy9_	/m/04ztj	/m/04ztj
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.7776)
+___
+/m/0m7yy	/m/05s34b	/m/0gsg7	/m/0gsg7
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.7792)
+___
+/m/0m7yy	/m/02h48	/m/0cr3d	/m/0cr3d
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/place_of_birth
+-1
+tensor(-4.7871)
+___
+/m/0m7yy	/m/065y4w7	/m/030qb3t	/m/030qb3t
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/location/location/contains
+-1
+tensor(-4.8070)
+___
+/m/03bww6	/m/03xmy1	/m/04ztj	/m/04ztj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.8859)
+___
+/m/03bww6	/m/03xmy1	/m/01g63y	/m/01g63y
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-4.8859)
+___
+/m/0m7yy	/m/044f7	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-4.9195)
+___
+/m/0m7yy	/m/01_8w2	/m/0gsgr	/m/0gsgr
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.9214)
+___
+/m/0m7yy	/m/01ygv2	/m/03h64	/m/03h64
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-5.1242)
+___
+/m/0m7yy	/m/01zwy	/m/01f7j9	/m/01f7j9
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.1881)
+___
+/m/0m7yy	/m/0gsgr	/m/01_8w2	/m/01_8w2
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.1897)
+___
+/m/0m7yy	/m/01zcrv	/m/05fgr_	/m/05fgr_
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.1932)
+___
+/m/0m7yy	/m/01zcrv	/m/0h95b81	/m/0h95b81
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.1932)
+___
+/m/0m7yy	/m/01ygv2	/m/0m7yy	/m/0m7yy
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_category/winners./award/award_honor/award_winner
+-1
+tensor(-5.2219)
+___
+/m/0m7yy	/m/030_1_	/m/016tw3	/m/016tw3
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.3432)
+___
+/m/0m7yy	/m/0kc8y	/m/026v1z	/m/026v1z
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.3768)
+___
+/m/0m7yy	/m/0kc8y	/m/01j53q	/m/01j53q
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.3768)
+___
+/m/0m7yy	/m/03yxwq	/m/030_1_	/m/030_1_
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4014)
+___
+/m/0m7yy	/m/03yxwq	/m/03lpbx	/m/03lpbx
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4014)
+___
+/m/0m7yy	/m/07k2d	/m/05xbx	/m/05xbx
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4048)
+___
+/m/0m7yy	/m/07k2d	/m/0hm0k	/m/0hm0k
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4048)
+___
+/m/0m7yy	/m/01jq34	/m/04rrd	/m/04rrd
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/location/location/contains
+-1
+tensor(-5.5007)
+___
+/m/0m7yy	/m/01jq34	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/location/location/contains
+1
+tensor(-5.5007)
+___
+/m/0m7yy	/m/06pj8	/m/01pb34	/m/01pb34
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.5132)
+___
+/m/0m7yy	/m/044f7	/m/0b005	/m/0b005
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-5.5279)
+___
+/m/0m7yy	/m/01fkr_	/m/03bww6	/m/03bww6
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.5769)
+___
+/m/0m7yy	/m/01fkr_	/m/01hn_t	/m/01hn_t
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.5769)
+___
+/m/0m7yy	/m/01fkr_	/m/026b33f	/m/026b33f
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.5769)
+___
+/m/0m7yy	/m/01w92	/m/02q_x_l	/m/02q_x_l
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.6091)
+___
+/m/0m7yy	/m/01w92	/m/016zfm	/m/016zfm
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.6091)
+___
+/m/0m7yy	/m/01w92	/m/047m_w	/m/047m_w
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.6091)
+___
+/m/0m7yy	/m/05xbx	/m/04glx0	/m/04glx0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.6534)
+___
+/m/0m7yy	/m/05xbx	/m/021gzd	/m/021gzd
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.6534)
+___
+/m/0m7yy	/m/05xbx	/m/01hn_t	/m/01hn_t
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.6534)
+___
+/m/0m7yy	/m/06pj8	/m/0343h	/m/0343h
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-5.6604)
+___
+/m/01hn_t	/m/01vrnsk	/m/04ztj	/m/04ztj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.6924)
+___
+/m/0m7yy	/m/065y4w7	/m/07tf8	/m/07tf8
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/education/educational_institution/school_type
+-1
+tensor(-5.7489)
+___
+/m/026b33f	/m/03ds3	/m/01g63y	/m/01g63y
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.7724)
+___
+/m/03bww6	/m/01vxqyl	/m/04ztj	/m/04ztj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.8010)
+___
+/m/03bww6	/m/01wgfp6	/m/04ztj	/m/04ztj
+/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.8175)
+___
+/m/0m7yy	/m/015cbq	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-5.8623)
+___
+/m/0m7yy	/m/0l5yl	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-5.8642)
+___
+/m/0m7yy	/m/02dh86	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-5.8650)
+___
+/m/0m7yy	/m/05kh_	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-5.8651)
+___
+/m/0m7yy	/m/01vsy9_	/m/09c7w0	/m/09c7w0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-5.8781)
+___
+/m/0m7yy	/m/027_tg	/m/0h3mh3q	/m/0h3mh3q
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.8807)
+___
+/m/0m7yy	/m/027_tg	/m/01xr2s	/m/01xr2s
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.8807)
+___
+/m/0m7yy	/m/027_tg	/m/04f6hhm	/m/04f6hhm
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.8807)
+___
+/m/0m7yy	/m/027_tg	/m/05r1_t	/m/05r1_t
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.8807)
+___
+/m/0m7yy	/m/03jvmp	/m/031rx9	/m/031rx9
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.0567)
+___
+/m/0m7yy	/m/03jvmp	/m/01w92	/m/01w92
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.0567)
+___
+/m/0m7yy	/m/05qd_	/m/01v5h	/m/01v5h
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.0648)
+___
+/m/0m7yy	/m/05qd_	/m/0jz9f	/m/0jz9f
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.0648)
+___
+/m/0m7yy	/m/05qd_	/m/016tt2	/m/016tt2
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.0648)
+___
+/m/0m7yy	/m/05qd_	/m/0p__8	/m/0p__8
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.0648)
+___
+/m/0m7yy	/m/0f721s	/m/09nqf	/m/09nqf
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1245)
+___
+/m/0m7yy	/m/0146mv	/m/07vqnc	/m/07vqnc
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1293)
+___
+/m/0m7yy	/m/0146mv	/m/019g8j	/m/019g8j
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1293)
+___
+/m/0m7yy	/m/0146mv	/m/017dbx	/m/017dbx
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1293)
+___
+/m/0m7yy	/m/0146mv	/m/04mx8h4	/m/04mx8h4
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1293)
+___
+/m/0m7yy	/m/0146mv	/m/01hvv0	/m/01hvv0
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1293)
+___
+/m/0m7yy	/m/0f721s	/m/07c72	/m/07c72
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1442)
+___
+/m/0m7yy	/m/0f721s	/m/030k94	/m/030k94
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1442)
+___
+/m/0m7yy	/m/0kctd	/m/0fhzwl	/m/0fhzwl
+_/award/award_category/winners./award/award_honor/award_winner	/award/award_category/winners./award/award_honor/award_winner	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.2774)
+___
+#####################
+/m/01dbns	/m/06t2t
+Reward:0
+/m/0hm4q	/m/02pbzv	/m/096gm	/m/096gm
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/012gyf	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/07tjf	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/01dbns	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/07th_	/m/05b4w	/m/05b4w
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/0pz6q	/m/0345h	/m/0345h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/05d9y_	/m/07t21	/m/07t21
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/02185j	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/017ztv	/m/01lfy	/m/01lfy
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-3.6732)
+___
+/m/0hm4q	/m/01g6l8	/m/02vzc	/m/02vzc
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-3.6736)
+___
+/m/0hm4q	/m/0ylvj	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-3.6871)
+___
+/m/0hm4q	/m/0ym1n	/m/0hm4q	/m/0hm4q
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-3.9209)
+___
+/m/0hm4q	/m/07w6r	/m/059j2	/m/059j2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0327)
+___
+/m/0hm4q	/m/01fy2s	/m/07sb1	/m/07sb1
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0346)
+___
+/m/0hm4q	/m/01nm8w	/m/037n3	/m/037n3
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0349)
+___
+/m/0hm4q	/m/01y888	/m/03902	/m/03902
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0353)
+___
+/m/0hm4q	/m/0lvng	/m/02j9z	/m/02j9z
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0357)
+___
+/m/0hm4q	/m/0m7yh	/m/0150n	/m/0150n
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0363)
+___
+/m/0hm4q	/m/04jhp	/m/0d0vqn	/m/0d0vqn
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0363)
+___
+/m/0hm4q	/m/09hgk	/m/05ywg	/m/05ywg
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.0364)
+___
+/m/0hm4q	/m/0277jc	/m/06mzp	/m/06mzp
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.3663)
+___
+/m/0hm4q	/m/02f8zw	/m/0jgd	/m/0jgd
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.3663)
+___
+/m/0hm4q	/m/02f8zw	/m/01ly5m	/m/01ly5m
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.3663)
+___
+/m/0hm4q	/m/0277jc	/m/01k4f	/m/01k4f
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.3663)
+___
+/m/0hm4q	/m/0dy04	/m/0h7x	/m/0h7x
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5627)
+___
+/m/0hm4q	/m/0342z_	/m/06bnz	/m/06bnz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5627)
+___
+/m/0hm4q	/m/0dy04	/m/0fhp9	/m/0fhp9
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5627)
+___
+/m/0hm4q	/m/0342z_	/m/04swd	/m/04swd
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5627)
+___
+/m/0hm4q	/m/04jr87	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5635)
+___
+/m/0hm4q	/m/04jr87	/m/06c62	/m/06c62
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5635)
+___
+/m/0hm4q	/m/01n1pp	/m/015m08	/m/015m08
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5637)
+___
+/m/0hm4q	/m/01n1pp	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5637)
+___
+/m/0hm4q	/m/02bd_f	/m/07mgr	/m/07mgr
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5642)
+___
+/m/0hm4q	/m/02bd_f	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.5642)
+___
+/m/0hm4q	/m/02bbyw	/m/064xp	/m/064xp
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7259)
+___
+/m/0hm4q	/m/02bbyw	/m/03rjj	/m/03rjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7259)
+___
+/m/0hm4q	/m/0pmcz	/m/0cm5m	/m/0cm5m
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7295)
+___
+/m/0hm4q	/m/0pmcz	/m/0345h	/m/0345h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7295)
+___
+/m/0hm4q	/m/01zzy3	/m/0345h	/m/0345h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7718)
+___
+/m/0hm4q	/m/01zzy3	/m/07nf6	/m/07nf6
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7718)
+___
+/m/0hm4q	/m/01zzy3	/m/018_7x	/m/018_7x
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7718)
+___
+/m/0hm4q	/m/057bxr	/m/0bzty	/m/0bzty
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7719)
+___
+/m/0hm4q	/m/057bxr	/m/0947l	/m/0947l
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7719)
+___
+/m/0hm4q	/m/057bxr	/m/0ggyr	/m/0ggyr
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.7719)
+___
+/m/0hm4q	/m/09hgk	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8622)
+___
+/m/0hm4q	/m/04jhp	/m/07tf8	/m/07tf8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8624)
+___
+/m/0hm4q	/m/0m7yh	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8624)
+___
+/m/0hm4q	/m/0lvng	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8637)
+___
+/m/0hm4q	/m/01y888	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8646)
+___
+/m/0hm4q	/m/01nm8w	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8655)
+___
+/m/0hm4q	/m/01fy2s	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8671)
+___
+/m/0hm4q	/m/07w6r	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-4.8706)
+___
+/m/0hm4q	/m/0gl6x	/m/02jx1	/m/02jx1
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9067)
+___
+/m/0hm4q	/m/0gl6x	/m/04jpl	/m/04jpl
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9067)
+___
+/m/0hm4q	/m/0gl6x	/m/07ssc	/m/07ssc
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9067)
+___
+/m/0hm4q	/m/020vx9	/m/06bnz	/m/06bnz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9069)
+___
+/m/0hm4q	/m/020vx9	/m/04swd	/m/04swd
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9069)
+___
+/m/0hm4q	/m/020vx9	/m/02j9z	/m/02j9z
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9069)
+___
+/m/0hm4q	/m/01lhdt	/m/02h6_6p	/m/02h6_6p
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9072)
+___
+/m/0hm4q	/m/01lhdt	/m/017v_	/m/017v_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9072)
+___
+/m/0hm4q	/m/01lhdt	/m/0345h	/m/0345h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9072)
+___
+/m/0hm4q	/m/025ttz4	/m/0bdd_	/m/0bdd_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9077)
+___
+/m/0hm4q	/m/025ttz4	/m/05qhw	/m/05qhw
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9077)
+___
+/m/0hm4q	/m/025ttz4	/m/081m_	/m/081m_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9077)
+___
+/m/0hm4q	/m/01zh3_	/m/0694j	/m/0694j
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9078)
+___
+/m/0hm4q	/m/01zh3_	/m/0d060g	/m/0d060g
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9078)
+___
+/m/0hm4q	/m/01zh3_	/m/0pmp2	/m/0pmp2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9078)
+___
+/m/0hm4q	/m/035yzw	/m/019fv4	/m/019fv4
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9080)
+___
+/m/0hm4q	/m/035yzw	/m/0345h	/m/0345h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9080)
+___
+/m/0hm4q	/m/035yzw	/m/09hrc	/m/09hrc
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/location/location/contains
+-1
+tensor(-4.9080)
+___
+/m/0hm4q	/m/0ym1n	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.2193)
+___
+/m/0hm4q	/m/02bd_f	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3906)
+___
+/m/0hm4q	/m/01n1pp	/m/07tf8	/m/07tf8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3929)
+___
+/m/0hm4q	/m/04jr87	/m/07tf8	/m/07tf8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3937)
+___
+/m/0hm4q	/m/0342z_	/m/01y64	/m/01y64
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3977)
+___
+/m/0hm4q	/m/0dy04	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.3977)
+___
+/m/0hm4q	/m/0pmcz	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.5553)
+___
+/m/0hm4q	/m/0pmcz	/m/07tf8	/m/07tf8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.5553)
+___
+/m/0hm4q	/m/02bbyw	/m/07tf8	/m/07tf8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.5637)
+___
+/m/0hm4q	/m/02bbyw	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.5637)
+___
+/m/0hm4q	/m/035yzw	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.7339)
+___
+/m/0hm4q	/m/01zh3_	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.7355)
+___
+/m/0hm4q	/m/025ttz4	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.7361)
+___
+/m/0hm4q	/m/01lhdt	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.7397)
+___
+/m/0hm4q	/m/020vx9	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.7418)
+___
+/m/0hm4q	/m/0gl6x	/m/05jxkf	/m/05jxkf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/school_type
+-1
+tensor(-5.7430)
+___
+/m/05jxkf	/m/01w_sh	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-7.4791)
+___
+/m/05jxkf	/m/02w6bq	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-7.4791)
+___
+/m/05jxkf	/m/01p896	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-7.4798)
+___
+/m/05jxkf	/m/024y8p	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-7.4798)
+___
+/m/05jxkf	/m/080z7	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1346)
+___
+/m/05jxkf	/m/088gzp	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1363)
+___
+/m/05jxkf	/m/07w6r	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1365)
+___
+/m/05jxkf	/m/0gk7z	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1367)
+___
+/m/05jxkf	/m/01fy2s	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1367)
+___
+/m/05jxkf	/m/01tpvt	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1394)
+___
+/m/05jxkf	/m/0820xz	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1395)
+___
+/m/05jxkf	/m/01g4yw	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1397)
+___
+/m/05jxkf	/m/01lnyf	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1410)
+___
+/m/05jxkf	/m/02fjzt	/m/05jxkf	/m/05jxkf
+/education/educational_institution/school_type	_/education/educational_institution/school_type	/education/educational_institution/school_type
+-1
+tensor(-8.1445)
+___
+#####################
+/m/01r3kd	/m/09c7w0
+Reward:0
+/m/0dq_5	/m/02z_b	/m/03mbdx_	/m/03mbdx_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/organization_member/member_of./organization/organization_membership/organization
+-1
+tensor(-4.3034)
+___
+/m/0dq_5	/m/01dycg	/m/0ftqr	/m/0ftqr
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-4.3038)
+___
+/m/0dq_5	/m/05w3y	/m/048xh	/m/048xh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-4.3039)
+___
+/m/0dq_5	/m/02wbnv	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3043)
+___
+/m/0dq_5	/m/02h758	/m/043qqt5	/m/043qqt5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-4.3060)
+___
+/m/0dq_5	/m/0dwl2	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3080)
+___
+/m/0dq_5	/m/04l7mn	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3122)
+___
+/m/0dq_5	/m/04vgq5	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3132)
+___
+/m/0dq_5	/m/05md3l	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3134)
+___
+/m/0dq_5	/m/02975m	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3375)
+___
+/m/0dq_5	/m/0537b	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.3451)
+___
+/m/0dq_5	/m/0178g	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.3791)
+___
+/m/0dq_5	/m/01xl5	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3888)
+___
+/m/0dq_5	/m/049ql1	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3922)
+___
+/m/0dq_5	/m/025504	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3959)
+___
+/m/0dq_5	/m/0123j6	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.3985)
+___
+/m/0dq_5	/m/01f9wm	/m/0n839	/m/0n839
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/organization_founder/organizations_founded
+-1
+tensor(-4.4651)
+___
+/m/0dq_5	/m/02d6ph	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.4778)
+___
+/m/0dq_5	/m/0206k5	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.4808)
+___
+/m/0dq_5	/m/03_05	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.4901)
+___
+/m/0dq_5	/m/01c7j1	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.4927)
+___
+/m/0dq_5	/m/01xdn1	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.4997)
+___
+/m/0dq_5	/m/019rl6	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5244)
+___
+/m/0dq_5	/m/03d6fyn	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5268)
+___
+/m/0dq_5	/m/03y7ml	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5269)
+___
+/m/0dq_5	/m/05th69	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5314)
+___
+/m/0dq_5	/m/03phgz	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5531)
+___
+/m/0dq_5	/m/01ym8l	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5532)
+___
+/m/0dq_5	/m/02l48d	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5532)
+___
+/m/0dq_5	/m/0mgkg	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5550)
+___
+/m/0dq_5	/m/01yfp7	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5550)
+___
+/m/0dq_5	/m/018c_r	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5553)
+___
+/m/0dq_5	/m/018p5f	/m/03m9c8	/m/03m9c8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-4.5689)
+___
+/m/0dq_5	/m/0py9b	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.5813)
+___
+/m/0dq_5	/m/060ppp	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.6008)
+___
+/m/0dq_5	/m/087c7	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.6182)
+___
+/m/0dq_5	/m/0k8z	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.6182)
+___
+/m/0dq_5	/m/035nm	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.6215)
+___
+/m/0dq_5	/m/0lwkh	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.6281)
+___
+/m/0dq_5	/m/0k9ts	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.6304)
+___
+/m/0dq_5	/m/02y7t7	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.9042)
+___
+/m/0dq_5	/m/02qdyj	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-4.9345)
+___
+/m/0dq_5	/m/09xwz	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.9787)
+___
+/m/0dq_5	/m/01hlwv	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-5.0083)
+___
+/m/0dq_5	/m/0gsgr	/m/01_8w2	/m/01_8w2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.1078)
+___
+/m/0dq_5	/m/018mxj	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-5.1300)
+___
+/m/0dq_5	/m/02qdyj	/m/02zdwq	/m/02zdwq
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category
+-1
+tensor(-5.1724)
+___
+/m/0dq_5	/m/02y7t7	/m/09c7w0	/m/09c7w0
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-5.2302)
+___
+/m/0dq_5	/m/01hlwv	/m/03w5xm	/m/03w5xm
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category
+-1
+tensor(-5.2504)
+___
+/m/0dq_5	/m/018mxj	/m/03w5xm	/m/03w5xm
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category
+-1
+tensor(-5.3669)
+___
+/m/0dq_5	/m/050fh	/m/02sdk9v	/m/02sdk9v
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/soccer/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-5.4025)
+___
+/m/0dq_5	/m/050fh	/m/02nzb8	/m/02nzb8
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/soccer/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-5.4025)
+___
+/m/0dq_5	/m/050fh	/m/02_j1w	/m/02_j1w
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/soccer/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-5.4025)
+___
+/m/0dq_5	/m/01w5gp	/m/07hpv3	/m/07hpv3
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.4081)
+___
+/m/0dq_5	/m/01w5gp	/m/0584r4	/m/0584r4
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.4081)
+___
+/m/0dq_5	/m/01w5gp	/m/03r0rq	/m/03r0rq
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-5.4081)
+___
+/m/0dq_5	/m/09b3v	/m/01t6b4	/m/01t6b4
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.6189)
+___
+/m/0dq_5	/m/09b3v	/m/02qzjj	/m/02qzjj
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.6189)
+___
+/m/0dq_5	/m/09b3v	/m/020h2v	/m/020h2v
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.6189)
+___
+/m/0dq_5	/m/0hm0k	/m/064q5v	/m/064q5v
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.6440)
+___
+/m/0dq_5	/m/0g1rw	/m/0blpnz	/m/0blpnz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.7952)
+___
+/m/0dq_5	/m/0g1rw	/m/0272kv	/m/0272kv
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.7952)
+___
+/m/0dq_5	/m/0g1rw	/m/02hy9p	/m/02hy9p
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.7952)
+___
+/m/0dq_5	/m/03x8cz	/m/02k5sc	/m/02k5sc
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9129)
+___
+/m/0dq_5	/m/03x8cz	/m/089pg7	/m/089pg7
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9129)
+___
+/m/0dq_5	/m/03x8cz	/m/057xn_m	/m/057xn_m
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9129)
+___
+/m/0dq_5	/m/03x8cz	/m/06y9c2	/m/06y9c2
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9129)
+___
+/m/0dq_5	/m/03x8cz	/m/09lwrt	/m/09lwrt
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9129)
+___
+/m/0dq_5	/m/03d96s	/m/01wbsdz	/m/01wbsdz
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9134)
+___
+/m/0dq_5	/m/03d96s	/m/05mt_q	/m/05mt_q
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9134)
+___
+/m/0dq_5	/m/03d96s	/m/0837ql	/m/0837ql
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9134)
+___
+/m/0dq_5	/m/03d96s	/m/04qzm	/m/04qzm
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9134)
+___
+/m/0dq_5	/m/03d96s	/m/016kjs	/m/016kjs
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/music/record_label/artist
+-1
+tensor(-5.9134)
+___
+/m/0dq_5	/m/0hm0k	/m/05xbx	/m/05xbx
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0609)
+___
+/m/0dq_5	/m/0hm0k	/m/014l4w	/m/014l4w
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0609)
+___
+/m/0dq_5	/m/0hm0k	/m/04qb6g	/m/04qb6g
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0609)
+___
+/m/0dq_5	/m/0k8z	/m/06y3r	/m/06y3r
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/organization_founder/organizations_founded
+-1
+tensor(-6.0928)
+___
+/m/0dq_5	/m/019rl6	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0973)
+___
+/m/0dq_5	/m/05th69	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0991)
+___
+/m/0dq_5	/m/03d6fyn	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1001)
+___
+/m/0dq_5	/m/03y7ml	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1018)
+___
+/m/0dq_5	/m/0kctd	/m/0431v3	/m/0431v3
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1034)
+___
+/m/0dq_5	/m/0kctd	/m/05p9_ql	/m/05p9_ql
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1034)
+___
+/m/0dq_5	/m/0kctd	/m/027tbrc	/m/027tbrc
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1034)
+___
+/m/0dq_5	/m/0kctd	/m/0fhzwl	/m/0fhzwl
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1034)
+___
+/m/0dq_5	/m/0kctd	/m/0gvsh7l	/m/0gvsh7l
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1034)
+___
+/m/0dq_5	/m/0kctd	/m/06w7mlh	/m/06w7mlh
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.1034)
+___
+/m/0dq_5	/m/01yfp7	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1234)
+___
+/m/0dq_5	/m/018c_r	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1243)
+___
+/m/0dq_5	/m/03phgz	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1265)
+___
+/m/0dq_5	/m/0mgkg	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1272)
+___
+/m/0dq_5	/m/02l48d	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1272)
+___
+/m/0dq_5	/m/01ym8l	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1279)
+___
+/m/0dq_5	/m/0206k5	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-6.1358)
+___
+/m/0dq_5	/m/018p5f	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1446)
+___
+/m/0dq_5	/m/02d6ph	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-6.1453)
+___
+/m/0dq_5	/m/01c7j1	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-6.1470)
+___
+/m/0dq_5	/m/0py9b	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1490)
+___
+/m/0dq_5	/m/03_05	/m/0dq_5	/m/0dq_5
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-6.1612)
+___
+/m/0dq_5	/m/01gb54	/m/05qd_	/m/05qd_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.1674)
+___
+#####################

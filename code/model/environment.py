@@ -245,7 +245,7 @@ class env(object):
                                                       cluster_relation_vocab=params['cluster_relation_vocab']
                                                       )
 
-    def get_episodes(self):
+    def get_episodes(self, batch_counter):
 
         if self.mode == 'train':
             for entity_data, cluster_data in self.batcher.yield_next_batch_train():

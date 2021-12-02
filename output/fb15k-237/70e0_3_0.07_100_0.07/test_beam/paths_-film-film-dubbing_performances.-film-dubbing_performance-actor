@@ -1,0 +1,4024 @@
+/m/0dd6bf	/m/04bbv7
+Reward:0
+/m/0chrwb	/m/0chrwb	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.0724)
+___
+/m/06v8s0	/m/06v8s0	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.1724)
+___
+/m/0814k3	/m/0814k3	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.2039)
+___
+/m/0dd6bf	/m/0814k3	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.2463)
+___
+/m/0dd6bf	/m/06v8s0	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.2612)
+___
+/m/0dd6bf	/m/0chrwb	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.2774)
+___
+/m/0dd6bf	/m/09wlpl	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.3116)
+___
+/m/0bn8fw	/m/0bn8fw	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.4256)
+___
+/m/0dd6bf	/m/0bn8fw	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.4445)
+___
+/m/09wlpl	/m/09wlpl	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.4730)
+___
+/m/0678gl	/m/0678gl	/m/02j3w	/m/02j3w
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.5535)
+___
+/m/0dd6bf	/m/0678gl	/m/02j3w	/m/02j3w
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.7470)
+___
+/m/0dd6bf	/m/06_6j3	/m/05tbn	/m/05tbn
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.0801)
+___
+/m/0678gl	/m/0678gl	/m/01lp8	/m/01lp8
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/religion
+-1
+tensor(-5.1174)
+___
+/m/06_6j3	/m/06_6j3	/m/05tbn	/m/05tbn
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.2611)
+___
+/m/0dd6bf	/m/0678gl	/m/01lp8	/m/01lp8
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-5.2998)
+___
+/m/0dd6bf	/m/06_6j3	/m/019cr	/m/019cr
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-5.6154)
+___
+/m/0bn8fw	/m/0z18v	/m/0z18v	/m/0z18v
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-5.6520)
+___
+/m/03fghg	/m/03fghg	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.8001)
+___
+/m/0dd6bf	/m/0dd6bf	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-5.8308)
+___
+/m/09wlpl	/m/05x72k	/m/05bp8g	/m/05bp8g
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.8568)
+___
+/m/06_6j3	/m/06_6j3	/m/019cr	/m/019cr
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/religion
+-1
+tensor(-5.8580)
+___
+/m/0bn8fw	/m/0z18v	/m/0z18v	/m/0z18v
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	NO_OP
+-1
+tensor(-5.9950)
+___
+/m/09wlpl	/m/05x72k	/m/05x72k	/m/05x72k
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP
+-1
+tensor(-6.0149)
+___
+/m/0dd6bf	/m/06_6j3	/m/01g63y	/m/01g63y
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.0275)
+___
+/m/07k2x	/m/07k2x	/m/07dfk	/m/07dfk
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.0942)
+___
+/m/01rddlc	/m/01rddlc	/m/02rhwjr	/m/02rhwjr
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.1309)
+___
+/m/01rddlc	/m/01rddlc	/m/08cl7s	/m/08cl7s
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.1309)
+___
+/m/0bn8fw	/m/0z18v	/m/05kkh	/m/05kkh
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-6.1655)
+___
+/m/0dd6bf	/m/0dd6bf	/m/07k2x	/m/07k2x
+NO_OP	NO_OP	/film/film/production_companies
+-1
+tensor(-6.1741)
+___
+/m/03cz4j	/m/03cz4j	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.1814)
+___
+/m/03cz4j	/m/03cz4j	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.1814)
+___
+/m/03fghg	/m/03fghg	/m/031kyy	/m/031kyy
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.3279)
+___
+/m/04f62k	/m/04f62k	/m/018jn4	/m/018jn4
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.3424)
+___
+/m/04f62k	/m/04f62k	/m/018jcq	/m/018jcq
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.3424)
+___
+/m/0bn8fw	/m/0z18v	/m/0z18v	/m/0z18v
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-6.3591)
+___
+/m/0bn8fw	/m/0z18v	/m/05kkh	/m/05kkh
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	_/location/location/contains
+-1
+tensor(-6.3653)
+___
+/m/09wlpl	/m/05x72k	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/genre
+-1
+tensor(-6.3782)
+___
+/m/06v8s0	/m/017dcd	/m/04bbv7	/m/04bbv7
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+1
+tensor(-6.4061)
+___
+/m/09wlpl	/m/05x72k	/m/03_3d	/m/03_3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.4089)
+___
+/m/0678gl	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.4199)
+___
+/m/06_6j3	/m/0_g_6	/m/0mw89	/m/0mw89
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/us_county/county_seat
+-1
+tensor(-6.4252)
+___
+/m/07k2x	/m/07k2x	/m/07dfk	/m/07dfk
+/film/film/production_companies	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.4702)
+___
+/m/06v8s0	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.4797)
+___
+/m/04f62k	/m/018jcq	/m/0dqyw	/m/0dqyw
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.4903)
+___
+/m/0dd6bf	/m/0dd6bf	/m/0jxy	/m/0jxy
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.5019)
+___
+/m/0dd6bf	/m/0dd6bf	/m/01hmnh	/m/01hmnh
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.5019)
+___
+/m/04f62k	/m/018jn4	/m/0g3cw	/m/0g3cw
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.5081)
+___
+/m/0814k3	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.5334)
+___
+/m/04f62k	/m/04f62k	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.5597)
+___
+/m/06v8s0	/m/017dcd	/m/017dcd	/m/017dcd
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP
+-1
+tensor(-6.5677)
+___
+/m/0678gl	/m/02j3w	/m/0nrqh	/m/0nrqh
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.5802)
+___
+/m/0678gl	/m/02j3w	/m/03s0w	/m/03s0w
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.5802)
+___
+/m/0bn8fw	/m/0z18v	/m/0z18v	/m/0z18v
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place
+-1
+tensor(-6.5956)
+___
+/m/0dd6bf	/m/0dd6bf	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6714)
+___
+/m/0678gl	/m/02j3w	/m/03s0w	/m/03s0w
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.6748)
+___
+/m/0dd6bf	/m/0bn8fw	/m/05kkh	/m/05kkh
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.6982)
+___
+/m/0dd6bf	/m/0bn8fw	/m/0z18v	/m/0z18v
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.6982)
+___
+/m/06v8s0	/m/017dcd	/m/0cjdk	/m/0cjdk
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.7188)
+___
+/m/06v8s0	/m/017dcd	/m/03lpbx	/m/03lpbx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.7188)
+___
+/m/06_6j3	/m/06_6j3	/m/01g63y	/m/01g63y
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.7747)
+___
+/m/0678gl	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-6.7957)
+___
+/m/0814k3	/m/03gyvwg	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.8321)
+___
+/m/0814k3	/m/03gyvwg	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.8321)
+___
+/m/0678gl	/m/02j3w	/m/02yr1q	/m/02yr1q
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.8327)
+___
+/m/0chrwb	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-6.8518)
+___
+/m/0678gl	/m/0678gl	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/nationality
+-1
+tensor(-6.8538)
+___
+/m/06v8s0	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-6.8715)
+___
+/m/06_6j3	/m/0_g_6	/m/0_g_6	/m/0_g_6
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	NO_OP
+-1
+tensor(-6.8757)
+___
+/m/09wlpl	/m/09wlpl	/m/02frhbc	/m/02frhbc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.8920)
+___
+/m/06_6j3	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.9012)
+___
+/m/0814k3	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-6.9191)
+___
+/m/06v8s0	/m/017dcd	/m/01htzx	/m/01htzx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/genre
+-1
+tensor(-6.9296)
+___
+/m/06v8s0	/m/017dcd	/m/03k9fj	/m/03k9fj
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/genre
+-1
+tensor(-6.9296)
+___
+/m/06v8s0	/m/017dcd	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9434)
+___
+/m/06_6j3	/m/02bpy_	/m/02bpy_	/m/02bpy_
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.0486)
+___
+/m/06v8s0	/m/017dcd	/m/0f1vrl	/m/0f1vrl
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/program_creator
+-1
+tensor(-7.0711)
+___
+/m/06v8s0	/m/017dcd	/m/0f1vrl	/m/0f1vrl
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-7.0857)
+___
+/m/07k2x	/m/03gyvwg	/m/0hcr	/m/0hcr
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-7.0992)
+___
+/m/07k2x	/m/03gyvwg	/m/02kdv5l	/m/02kdv5l
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-7.0992)
+___
+/m/0dd6bf	/m/0dd6bf	/m/017s11	/m/017s11
+NO_OP	NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.0997)
+___
+/m/0dd6bf	/m/0dd6bf	/m/07k2x	/m/07k2x
+NO_OP	NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.0997)
+___
+/m/09wlpl	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-7.0998)
+___
+/m/0bn8fw	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-7.1023)
+___
+/m/04f62k	/m/04f62k	/m/0gxr1c	/m/0gxr1c
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.1102)
+___
+/m/0678gl	/m/02j3w	/m/0nrqh	/m/0nrqh
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	_/location/us_county/county_seat
+-1
+tensor(-7.1565)
+___
+/m/06v8s0	/m/017dcd	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/languages
+-1
+tensor(-7.1586)
+___
+/m/0bn8fw	/m/0z18v	/m/08mbj5d	/m/08mbj5d
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/common/topic/webpage./common/webpage/category
+-1
+tensor(-7.1752)
+___
+/m/0678gl	/m/02j3w	/m/02j3w	/m/02j3w
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-7.2199)
+___
+/m/06_6j3	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-7.2328)
+___
+/m/0bn8fw	/m/0z18v	/m/0jbk9	/m/0jbk9
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-7.2350)
+___
+/m/0678gl	/m/0dd6bf	/m/01hmnh	/m/01hmnh
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2540)
+___
+/m/0678gl	/m/0dd6bf	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2540)
+___
+/m/0bn8fw	/m/0bn8fw	/m/0z18v	/m/0z18v
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-7.2603)
+___
+/m/0bn8fw	/m/0bn8fw	/m/05kkh	/m/05kkh
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-7.2603)
+___
+/m/06v8s0	/m/0dd6bf	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2946)
+___
+/m/06v8s0	/m/0dd6bf	/m/01hmnh	/m/01hmnh
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2946)
+___
+/m/0678gl	/m/02j3w	/m/03s0w	/m/03s0w
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/base/biblioness/bibs_location/state
+-1
+tensor(-7.3003)
+___
+/m/06v8s0	/m/06v8s0	/m/017dcd	/m/017dcd
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.3047)
+___
+/m/07k2x	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/production_companies
+-1
+tensor(-7.3234)
+___
+#####################
+/m/02gs6r	/m/01mmslz
+Reward:0
+/m/02gs6r	/m/065mm1	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.8438)
+___
+/m/02gs6r	/m/04mlh8	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.8690)
+___
+/m/02gs6r	/m/01yh3y	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.8790)
+___
+/m/065mm1	/m/065mm1	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.9503)
+___
+/m/02gs6r	/m/024my5	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.9778)
+___
+/m/01yh3y	/m/01yh3y	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.0129)
+___
+/m/02gs6r	/m/0sw6y	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1316)
+___
+/m/04mlh8	/m/04mlh8	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1785)
+___
+/m/024my5	/m/024my5	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.3139)
+___
+/m/02gs6r	/m/015p37	/m/0mdqp	/m/0mdqp
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.6024)
+___
+/m/0sw6y	/m/0sw6y	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.6191)
+___
+/m/02v92l	/m/02v92l	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.6453)
+___
+/m/02gs6r	/m/015p37	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.7200)
+___
+/m/093h7p	/m/093h7p	/m/0r00l	/m/0r00l
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.3299)
+___
+/m/01nsyf	/m/01nsyf	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.4933)
+___
+/m/0sw6y	/m/019g8j	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-6.6031)
+___
+/m/0534v	/m/0534v	/m/02gs6r	/m/02gs6r
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6444)
+___
+/m/0534v	/m/0534v	/m/0564x	/m/0564x
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6444)
+___
+/m/0534v	/m/0534v	/m/02q3fdr	/m/02q3fdr
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6444)
+___
+/m/01vs8ng	/m/01vs8ng	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6468)
+___
+/m/02gs6r	/m/04fzk	/m/012s1d	/m/012s1d
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6619)
+___
+/m/02gs6r	/m/04fzk	/m/0fpkhkz	/m/0fpkhkz
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6619)
+___
+/m/02gs6r	/m/04fzk	/m/02p76f9	/m/02p76f9
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6619)
+___
+/m/088n7	/m/088n7	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	NO_OP	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.7816)
+___
+/m/088n7	/m/088n7	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	NO_OP	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.7816)
+___
+/m/04mlh8	/m/04mx8h4	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-6.8323)
+___
+/m/024my5	/m/019g8j	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-6.8819)
+___
+/m/02gs6r	/m/0534v	/m/0564x	/m/0564x
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9897)
+___
+/m/02gs6r	/m/0534v	/m/02gs6r	/m/02gs6r
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9897)
+___
+/m/02gs6r	/m/0534v	/m/02q3fdr	/m/02q3fdr
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9897)
+___
+/m/03_3d	/m/018jkl	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.0021)
+___
+/m/03_3d	/m/018jkl	/m/0g3bw	/m/0g3bw
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.0021)
+___
+/m/02gs6r	/m/02gs6r	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-7.0180)
+___
+/m/03_3d	/m/09d4_	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.0248)
+___
+/m/03_3d	/m/09d4_	/m/017t44	/m/017t44
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.0248)
+___
+/m/01nsyf	/m/01nsyf	/m/03d3ht	/m/03d3ht
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0406)
+___
+/m/01nsyf	/m/01nsyf	/m/017dtf	/m/017dtf
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0406)
+___
+/m/01nsyf	/m/01nsyf	/m/04svwx	/m/04svwx
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0406)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.0981)
+___
+/m/02gs6r	/m/0534v	/m/02gs6r	/m/02gs6r
+NO_OP	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1411)
+___
+/m/02gs6r	/m/0534v	/m/02q3fdr	/m/02q3fdr
+NO_OP	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1411)
+___
+/m/02gs6r	/m/0534v	/m/0564x	/m/0564x
+NO_OP	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1411)
+___
+/m/088n7	/m/0211jt	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.1735)
+___
+/m/0534v	/m/0534v	/m/0564x	/m/0564x
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2279)
+___
+/m/0534v	/m/0534v	/m/02gs6r	/m/02gs6r
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2279)
+___
+/m/0534v	/m/0534v	/m/02q3fdr	/m/02q3fdr
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2279)
+___
+/m/0sw6y	/m/015w8_	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.2554)
+___
+/m/01vs8ng	/m/01vs8ng	/m/017dtf	/m/017dtf
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.2693)
+___
+/m/01vs8ng	/m/01vs8ng	/m/02rhwjr	/m/02rhwjr
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.2693)
+___
+/m/02gs6r	/m/04fzk	/m/0dvmd	/m/0dvmd
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.3261)
+___
+/m/02gs6r	/m/04fzk	/m/02js6_	/m/02js6_
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.3261)
+___
+/m/02gs6r	/m/04fzk	/m/036dyy	/m/036dyy
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.3261)
+___
+/m/02gs6r	/m/04fzk	/m/015pkc	/m/015pkc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.3261)
+___
+/m/02gs6r	/m/04fzk	/m/07cjqy	/m/07cjqy
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.3261)
+___
+/m/02gs6r	/m/04fzk	/m/01kgv4	/m/01kgv4
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.3261)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/campuses
+-1
+tensor(-7.3597)
+___
+/m/0sw6y	/m/0vhm	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3783)
+___
+/m/088n7	/m/0211jt	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/campuses
+-1
+tensor(-7.4351)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_institution/campuses
+-1
+tensor(-7.4812)
+___
+/m/04mlh8	/m/04mx8h4	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.5078)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.5119)
+___
+/m/02gs6r	/m/024my5	/m/02_286	/m/02_286
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-7.5306)
+___
+/m/088n7	/m/019q50	/m/019q50	/m/019q50
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.5449)
+___
+/m/088n7	/m/0211jt	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_institution/campuses
+-1
+tensor(-7.5566)
+___
+/m/0sw6y	/m/025x1t	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.5754)
+___
+/m/088n7	/m/0211jt	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.5873)
+___
+/m/02gs6r	/m/02gs6r	/m/03q4nz	/m/03q4nz
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.6034)
+___
+/m/02gs6r	/m/02gs6r	/m/0hcr	/m/0hcr
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.6034)
+___
+/m/02gs6r	/m/02gs6r	/m/03k9fj	/m/03k9fj
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.6034)
+___
+/m/02gs6r	/m/02gs6r	/m/01j1n2	/m/01j1n2
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.6034)
+___
+/m/02gs6r	/m/02gs6r	/m/0bj8m2	/m/0bj8m2
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.6034)
+___
+/m/02gs6r	/m/02gs6r	/m/0jxy	/m/0jxy
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.6034)
+___
+/m/024my5	/m/015w8_	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6183)
+___
+/m/088n7	/m/019q50	/m/019q50	/m/019q50
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	_/education/educational_institution/campuses
+-1
+tensor(-7.6941)
+___
+/m/024my5	/m/024my5	/m/02_286	/m/02_286
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-7.7058)
+___
+/m/093h7p	/m/093h7p	/m/01n7q	/m/01n7q
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-7.7316)
+___
+/m/01vs8ng	/m/01vs8ng	/m/04ztj	/m/04ztj
+_/film/actor/film./film/performance/film	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.7437)
+___
+/m/02gs6r	/m/01yh3y	/m/0ctzf1	/m/0ctzf1
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7583)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.7962)
+___
+/m/088n7	/m/0212zp	/m/062z7	/m/062z7
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-7.7992)
+___
+/m/03_3d	/m/09d4_	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.8061)
+___
+/m/093h7p	/m/093h7p	/m/09b3v	/m/09b3v
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	_/organization/organization/child./organization/organization_relationship/child
+-1
+tensor(-7.8233)
+___
+/m/093h7p	/m/093h7p	/m/054g1r	/m/054g1r
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	_/organization/organization/child./organization/organization_relationship/child
+-1
+tensor(-7.8233)
+___
+/m/02gs6r	/m/02gs6r	/m/0345h	/m/0345h
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.8242)
+___
+/m/02gs6r	/m/02gs6r	/m/05qhw	/m/05qhw
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.8242)
+___
+/m/02gs6r	/m/02gs6r	/m/06mkj	/m/06mkj
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.8242)
+___
+/m/02gs6r	/m/02gs6r	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.8242)
+___
+/m/0sw6y	/m/025x1t	/m/06pj8	/m/06pj8
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.8399)
+___
+/m/088n7	/m/019q50	/m/019q50	/m/019q50
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/education/educational_institution/campuses
+-1
+tensor(-7.8509)
+___
+/m/093h7p	/m/093h7p	/m/0b60sq	/m/0b60sq
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/01vksx	/m/01vksx
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/02gs6r	/m/02gs6r
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/099bhp	/m/099bhp
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/03y0pn	/m/03y0pn
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/0243cq	/m/0243cq
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/016ztl	/m/016ztl
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/0d4htf	/m/0d4htf
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/02ljhg	/m/02ljhg
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/093h7p	/m/093h7p	/m/0crfwmx	/m/0crfwmx
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.8677)
+___
+/m/088n7	/m/0211jt	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.8684)
+___
+#####################
+/m/03gyvwg	/m/044_7j
+Reward:0
+/m/03gyvwg	/m/0814k3	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-2.0006)
+___
+/m/03gyvwg	/m/03gyvwg	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-3.0884)
+___
+/m/0814k3	/m/0814k3	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.3745)
+___
+/m/03gyvwg	/m/03gyvwg	/m/02kdv5l	/m/02kdv5l
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-3.8166)
+___
+/m/03gyvwg	/m/03gyvwg	/m/0hcr	/m/0hcr
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-3.8166)
+___
+/m/03gyvwg	/m/03gyvwg	/m/07k2x	/m/07k2x
+NO_OP	NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-4.3226)
+___
+/m/03gyvwg	/m/03gyvwg	/m/01qz69r	/m/01qz69r
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-5.1142)
+___
+/m/03gyvwg	/m/03gyvwg	/m/01wphh2	/m/01wphh2
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-5.1142)
+___
+/m/07k2x	/m/07k2x	/m/07dfk	/m/07dfk
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-5.1226)
+___
+/m/01qz69r	/m/01qz69r	/m/0kstw	/m/0kstw
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.5667)
+___
+/m/01wphh2	/m/01wphh2	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.7770)
+___
+/m/03gyvwg	/m/07k2x	/m/07dfk	/m/07dfk
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-5.8050)
+___
+/m/0814k3	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-5.8312)
+___
+/m/01qz69r	/m/01qz69r	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9049)
+___
+/m/0814k3	/m/03gyvwg	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-5.9892)
+___
+/m/0814k3	/m/03gyvwg	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-5.9892)
+___
+/m/03gyvwg	/m/03gyvwg	/m/09nqf	/m/09nqf
+NO_OP	NO_OP	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0836)
+___
+/m/01wphh2	/m/01wphh2	/m/08cl7s	/m/08cl7s
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.1007)
+___
+/m/0814k3	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-6.1870)
+___
+/m/01wphh2	/m/01w565	/m/0f8grf	/m/0f8grf
+_/film/actor/film./film/performance/film	_/music/record_label/artist	/music/record_label/artist
+-1
+tensor(-6.2087)
+___
+/m/01wphh2	/m/01w565	/m/01wphh2	/m/01wphh2
+_/film/actor/film./film/performance/film	_/music/record_label/artist	/music/record_label/artist
+-1
+tensor(-6.2087)
+___
+/m/03gyvwg	/m/01qz69r	/m/0kstw	/m/0kstw
+NO_OP	_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.2118)
+___
+/m/01qz69r	/m/01qz69r	/m/03lyp4	/m/03lyp4
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.2723)
+___
+/m/03gyvwg	/m/01wphh2	/m/08cl7s	/m/08cl7s
+NO_OP	_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.4415)
+___
+/m/03gyvwg	/m/03gyvwg	/m/03_9r	/m/03_9r
+NO_OP	NO_OP	/film/film/language
+-1
+tensor(-6.4421)
+___
+/m/0814k3	/m/03gyvwg	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.4790)
+___
+/m/03gyvwg	/m/01wphh2	/m/01kyvx	/m/01kyvx
+NO_OP	_/film/actor/film./film/performance/film	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.4967)
+___
+/m/01qz69r	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.5173)
+___
+/m/03gyvwg	/m/0814k3	/m/02dtg	/m/02dtg
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth
+-1
+tensor(-6.5413)
+___
+/m/01wphh2	/m/01wphh2	/m/01w565	/m/01w565
+_/film/actor/film./film/performance/film	NO_OP	_/music/record_label/artist
+-1
+tensor(-6.5523)
+___
+/m/01wphh2	/m/01w565	/m/01w565	/m/01w565
+_/film/actor/film./film/performance/film	_/music/record_label/artist	NO_OP
+-1
+tensor(-6.5861)
+___
+/m/01qz69r	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.5914)
+___
+/m/03gyvwg	/m/0814k3	/m/01j_cy	/m/01j_cy
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-6.6309)
+___
+/m/03_3d	/m/09d4_	/m/017t44	/m/017t44
+/film/film/country	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.6511)
+___
+/m/03_3d	/m/09d4_	/m/03_3d	/m/03_3d
+/film/film/country	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.6511)
+___
+/m/03_3d	/m/018jkl	/m/03_3d	/m/03_3d
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.6548)
+___
+/m/03_3d	/m/018jkl	/m/0g3bw	/m/0g3bw
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.6548)
+___
+/m/0814k3	/m/0dd6bf	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.6667)
+___
+/m/0814k3	/m/0dd6bf	/m/01hmnh	/m/01hmnh
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.6667)
+___
+/m/03gyvwg	/m/01qz69r	/m/03lyp4	/m/03lyp4
+NO_OP	_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.6915)
+___
+/m/07k2x	/m/03gyvwg	/m/02kdv5l	/m/02kdv5l
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.7043)
+___
+/m/07k2x	/m/03gyvwg	/m/0hcr	/m/0hcr
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.7043)
+___
+/m/07k2x	/m/07k2x	/m/0dh8v4	/m/0dh8v4
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/0j6b5	/m/0j6b5
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/0bmc4cm	/m/0bmc4cm
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/0564x	/m/0564x
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/0k2m6	/m/0k2m6
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/02pb2bp	/m/02pb2bp
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/03gyvwg	/m/03gyvwg
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/0dd6bf	/m/0dd6bf
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/026q3s3	/m/026q3s3
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/02q3fdr	/m/02q3fdr
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/07k2x	/m/07k2x	/m/016ztl	/m/016ztl
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7069)
+___
+/m/0814k3	/m/07ng9k	/m/06n90	/m/06n90
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7311)
+___
+/m/0814k3	/m/07ng9k	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7311)
+___
+/m/0814k3	/m/07ng9k	/m/03k9fj	/m/03k9fj
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7311)
+___
+/m/0814k3	/m/07ng9k	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7311)
+___
+/m/0814k3	/m/07ng9k	/m/07s9rl0	/m/07s9rl0
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7311)
+___
+/m/0814k3	/m/07ng9k	/m/01hmnh	/m/01hmnh
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7311)
+___
+/m/0814k3	/m/02dtg	/m/0nj07	/m/0nj07
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.7542)
+___
+/m/03gyvwg	/m/01qz69r	/m/01kyvx	/m/01kyvx
+NO_OP	_/film/actor/film./film/performance/film	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.8146)
+___
+/m/01wphh2	/m/08cl7s	/m/03_3d	/m/03_3d
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.8305)
+___
+/m/07k2x	/m/02pb2bp	/m/030_1m	/m/030_1m
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/production_companies
+-1
+tensor(-6.8480)
+___
+/m/0814k3	/m/01j_cy	/m/01j_cy	/m/01j_cy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-6.8539)
+___
+/m/0814k3	/m/05t0zfv	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.8897)
+___
+/m/0814k3	/m/05t0zfv	/m/03_3d	/m/03_3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.8897)
+___
+/m/01qz69r	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/place_of_birth	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.9353)
+___
+/m/01qz69r	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.9431)
+___
+/m/03gyvwg	/m/01wphh2	/m/01w565	/m/01w565
+NO_OP	_/film/actor/film./film/performance/film	_/music/record_label/artist
+-1
+tensor(-6.9617)
+___
+/m/0814k3	/m/03gyvwg	/m/09nqf	/m/09nqf
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.9641)
+___
+/m/07k2x	/m/03gyvwg	/m/07k2x	/m/07k2x
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.0006)
+___
+/m/01qz69r	/m/03lyp4	/m/03_3d	/m/03_3d
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-7.0016)
+___
+/m/03gyvwg	/m/0814k3	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/nationality
+-1
+tensor(-7.0088)
+___
+/m/0814k3	/m/02h40lc	/m/08cx5g	/m/08cx5g
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.0475)
+___
+/m/0814k3	/m/02h40lc	/m/0464pz	/m/0464pz
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.0475)
+___
+/m/0814k3	/m/02h40lc	/m/030p35	/m/030p35
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.0475)
+___
+/m/0814k3	/m/02h40lc	/m/02r5qtm	/m/02r5qtm
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.0475)
+___
+/m/0814k3	/m/02h40lc	/m/01qn7n	/m/01qn7n
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.0475)
+___
+/m/0814k3	/m/02h40lc	/m/03kq98	/m/03kq98
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.0475)
+___
+/m/0814k3	/m/02h40lc	/m/03bww6	/m/03bww6
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.0475)
+___
+/m/0814k3	/m/05t0zfv	/m/03_3d	/m/03_3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/country
+-1
+tensor(-7.0677)
+___
+/m/0814k3	/m/0dd6bf	/m/017s11	/m/017s11
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.0700)
+___
+/m/0814k3	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.0700)
+___
+/m/0814k3	/m/05t0zfv	/m/03cz4j	/m/03cz4j
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/actor/film./film/performance/film
+-1
+tensor(-7.0718)
+___
+/m/0814k3	/m/05t0zfv	/m/04f62k	/m/04f62k
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/actor/film./film/performance/film
+-1
+tensor(-7.0718)
+___
+/m/0814k3	/m/03gyvwg	/m/03_3d	/m/03_3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/country
+-1
+tensor(-7.1064)
+___
+/m/01qz69r	/m/0kstw	/m/01yf92	/m/01yf92
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-7.1217)
+___
+/m/03gyvwg	/m/07k2x	/m/0bmc4cm	/m/0bmc4cm
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/0564x	/m/0564x
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/016ztl	/m/016ztl
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/026q3s3	/m/026q3s3
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/0dh8v4	/m/0dh8v4
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/02q3fdr	/m/02q3fdr
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/0k2m6	/m/0k2m6
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/02pb2bp	/m/02pb2bp
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/03gyvwg	/m/03gyvwg
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/0dd6bf	/m/0dd6bf
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/03gyvwg	/m/07k2x	/m/0j6b5	/m/0j6b5
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1325)
+___
+/m/01qz69r	/m/01qz69r	/m/04ztj	/m/04ztj
+_/film/actor/film./film/performance/film	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.1504)
+___
+/m/07k2x	/m/0dh8v4	/m/03q4nz	/m/03q4nz
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-7.1848)
+___
+#####################
+/m/02vw1w2	/m/0814k3
+Reward:0
+/m/02vw1w2	/m/06v8s0	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.9372)
+___
+/m/02vw1w2	/m/0chrwb	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.9455)
+___
+/m/02vw1w2	/m/04bbv7	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.0807)
+___
+/m/0chrwb	/m/0chrwb	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.1105)
+___
+/m/06v8s0	/m/06v8s0	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.2146)
+___
+/m/02vw1w2	/m/08141d	/m/06y_n	/m/06y_n
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-4.3703)
+___
+/m/08141d	/m/08141d	/m/06y_n	/m/06y_n
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-4.5574)
+___
+/m/02vw1w2	/m/06_6j3	/m/05tbn	/m/05tbn
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.7603)
+___
+/m/04bbv7	/m/04bbv7	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.8967)
+___
+/m/0dd6bf	/m/0chrwb	/m/02h40lc	/m/02h40lc
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1079)
+___
+/m/0dd6bf	/m/06v8s0	/m/02h40lc	/m/02h40lc
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.2175)
+___
+/m/0dd6bf	/m/0814k3	/m/02h40lc	/m/02h40lc
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.2522)
+___
+/m/02vw1w2	/m/06_6j3	/m/019cr	/m/019cr
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-5.2850)
+___
+/m/06_6j3	/m/06_6j3	/m/05tbn	/m/05tbn
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.3085)
+___
+/m/0dd6bf	/m/0bn8fw	/m/02h40lc	/m/02h40lc
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.6305)
+___
+/m/02vw1w2	/m/06_6j3	/m/01g63y	/m/01g63y
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-5.6786)
+___
+/m/0dd6bf	/m/0678gl	/m/02j3w	/m/02j3w
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.7825)
+___
+/m/03fghg	/m/03fghg	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.8148)
+___
+/m/02vw1w2	/m/08141d	/m/030qb3t	/m/030qb3t
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth
+-1
+tensor(-5.8334)
+___
+/m/01rddlc	/m/01rddlc	/m/08cl7s	/m/08cl7s
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.8781)
+___
+/m/01rddlc	/m/01rddlc	/m/02rhwjr	/m/02rhwjr
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.8781)
+___
+/m/06_6j3	/m/06_6j3	/m/019cr	/m/019cr
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/religion
+-1
+tensor(-5.9085)
+___
+/m/04j5fx	/m/04j5fx	/m/02lf_x	/m/02lf_x
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.9726)
+___
+/m/0dd6bf	/m/06_6j3	/m/05tbn	/m/05tbn
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.0129)
+___
+/m/0dd6bf	/m/0678gl	/m/01lp8	/m/01lp8
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-6.0255)
+___
+/m/08141d	/m/08141d	/m/030qb3t	/m/030qb3t
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/place_of_birth
+-1
+tensor(-6.0605)
+___
+/m/0dd6bf	/m/09wlpl	/m/02h40lc	/m/02h40lc
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.0879)
+___
+/m/02vw1w2	/m/08141d	/m/02_fm2	/m/02_fm2
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/film./film/performance/film
+-1
+tensor(-6.1594)
+___
+/m/03cz4j	/m/03cz4j	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.1612)
+___
+/m/03cz4j	/m/03cz4j	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.1612)
+___
+/m/04j5fx	/m/04j5fx	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.1999)
+___
+/m/08141d	/m/08141d	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/nationality
+-1
+tensor(-6.2077)
+___
+/m/02vw1w2	/m/02vw1w2	/m/06n90	/m/06n90
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.2376)
+___
+/m/02vw1w2	/m/02vw1w2	/m/0jxy	/m/0jxy
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.2376)
+___
+/m/02vw1w2	/m/02vw1w2	/m/03k9fj	/m/03k9fj
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.2376)
+___
+/m/02vw1w2	/m/02vw1w2	/m/01jfsb	/m/01jfsb
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.2376)
+___
+/m/02vw1w2	/m/02vw1w2	/m/03npn	/m/03npn
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.2376)
+___
+/m/02vw1w2	/m/02vw1w2	/m/02kdv5l	/m/02kdv5l
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.2376)
+___
+/m/02vw1w2	/m/08141d	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/nationality
+-1
+tensor(-6.3135)
+___
+/m/08141d	/m/08141d	/m/02_fm2	/m/02_fm2
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-6.3200)
+___
+/m/04f62k	/m/04f62k	/m/018jcq	/m/018jcq
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.3389)
+___
+/m/04f62k	/m/04f62k	/m/018jn4	/m/018jn4
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.3389)
+___
+/m/03fghg	/m/03fghg	/m/031kyy	/m/031kyy
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.3417)
+___
+/m/06_6j3	/m/0_g_6	/m/0mw89	/m/0mw89
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/us_county/county_seat
+-1
+tensor(-6.3981)
+___
+/m/0dd6bf	/m/06_6j3	/m/019cr	/m/019cr
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-6.4080)
+___
+/m/04j5fx	/m/02lf_x	/m/0gqfy	/m/0gqfy
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.4123)
+___
+/m/06v8s0	/m/017dcd	/m/017dcd	/m/017dcd
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP
+-1
+tensor(-6.4243)
+___
+/m/06v8s0	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.4754)
+___
+/m/0dd6bf	/m/09wlpl	/m/02frhbc	/m/02frhbc
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.4941)
+___
+/m/04f62k	/m/04f62k	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.5007)
+___
+/m/0dd6bf	/m/06v8s0	/m/017dcd	/m/017dcd
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.5306)
+___
+/m/04f62k	/m/018jn4	/m/0g3cw	/m/0g3cw
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.5410)
+___
+/m/04f62k	/m/018jcq	/m/0dqyw	/m/0dqyw
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.5569)
+___
+/m/06v8s0	/m/017dcd	/m/0cjdk	/m/0cjdk
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.5679)
+___
+/m/06v8s0	/m/017dcd	/m/03lpbx	/m/03lpbx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-6.5679)
+___
+/m/0dd6bf	/m/0bn8fw	/m/0z18v	/m/0z18v
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.6131)
+___
+/m/0dd6bf	/m/0bn8fw	/m/05kkh	/m/05kkh
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.6131)
+___
+/m/04bbv7	/m/013m43	/m/01skcy	/m/01skcy
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.6501)
+___
+/m/0dd6bf	/m/09wlpl	/m/05x72k	/m/05x72k
+/film/film/prequel	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.6619)
+___
+/m/04j5fx	/m/04j5fx	/m/0gxr1c	/m/0gxr1c
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7228)
+___
+/m/06v8s0	/m/017dcd	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.7798)
+___
+/m/06v8s0	/m/017dcd	/m/03k9fj	/m/03k9fj
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/genre
+-1
+tensor(-6.7832)
+___
+/m/06v8s0	/m/017dcd	/m/01htzx	/m/01htzx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/genre
+-1
+tensor(-6.7832)
+___
+/m/0dd6bf	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/prequel	NO_OP	/film/film/production_companies
+-1
+tensor(-6.7945)
+___
+/m/02h8hr	/m/02h8hr	/m/02lf_x	/m/02lf_x
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.8054)
+___
+/m/02vw1w2	/m/04bbv7	/m/013m43	/m/013m43
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.8111)
+___
+/m/06_6j3	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.8409)
+___
+/m/06_6j3	/m/0_g_6	/m/0_g_6	/m/0_g_6
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	NO_OP
+-1
+tensor(-6.8458)
+___
+/m/06_6j3	/m/06_6j3	/m/01g63y	/m/01g63y
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.8959)
+___
+/m/04bbv7	/m/017dbx	/m/017dbx	/m/017dbx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP
+-1
+tensor(-6.9160)
+___
+/m/06v8s0	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-6.9179)
+___
+/m/06v8s0	/m/017dcd	/m/0f1vrl	/m/0f1vrl
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/program_creator
+-1
+tensor(-6.9291)
+___
+/m/0chrwb	/m/0dd6bf	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-6.9291)
+___
+/m/04bbv7	/m/017dcd	/m/017dcd	/m/017dcd
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	NO_OP
+-1
+tensor(-6.9436)
+___
+/m/06v8s0	/m/017dcd	/m/0f1vrl	/m/0f1vrl
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-6.9447)
+___
+/m/02h8hr	/m/02lf_x	/m/0gqfy	/m/0gqfy
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.9502)
+___
+/m/08141d	/m/06y_n	/m/086nl7	/m/086nl7
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9567)
+___
+/m/08141d	/m/06y_n	/m/01j7pt	/m/01j7pt
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9567)
+___
+/m/08141d	/m/06y_n	/m/02cm2m	/m/02cm2m
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9567)
+___
+/m/04bbv7	/m/017dbx	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9753)
+___
+/m/06v8s0	/m/017dcd	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/languages
+-1
+tensor(-6.9977)
+___
+/m/04bbv7	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.0129)
+___
+/m/0dd6bf	/m/017s11	/m/0ch3qr1	/m/0ch3qr1
+/film/film/prequel	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0257)
+___
+/m/0dd6bf	/m/017s11	/m/07s846j	/m/07s846j
+/film/film/prequel	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0257)
+___
+/m/0dd6bf	/m/017s11	/m/01r97z	/m/01r97z
+/film/film/prequel	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0257)
+___
+/m/02h8hr	/m/02h8hr	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-7.0259)
+___
+/m/04bbv7	/m/013m43	/m/01skcy	/m/01skcy
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	_/organization/organization/place_founded
+-1
+tensor(-7.0360)
+___
+/m/04bbv7	/m/013m43	/m/013m43	/m/013m43
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-7.0414)
+___
+/m/0dd6bf	/m/01rddlc	/m/02rhwjr	/m/02rhwjr
+/film/film/prequel	_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0651)
+___
+/m/0dd6bf	/m/01rddlc	/m/08cl7s	/m/08cl7s
+/film/film/prequel	_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0651)
+___
+/m/04bbv7	/m/017dbx	/m/03lpbx	/m/03lpbx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.0664)
+___
+/m/04bbv7	/m/017dbx	/m/0146mv	/m/0146mv
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.0664)
+___
+/m/04bbv7	/m/017dbx	/m/02w_l9	/m/02w_l9
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.0664)
+___
+/m/0dd6bf	/m/03fghg	/m/031kyy	/m/031kyy
+/film/film/prequel	_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0691)
+___
+/m/06_6j3	/m/02bpy_	/m/02bpy_	/m/02bpy_
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.0742)
+___
+/m/04bbv7	/m/017dcd	/m/0cjdk	/m/0cjdk
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.0943)
+___
+/m/04bbv7	/m/017dcd	/m/03lpbx	/m/03lpbx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-7.0943)
+___
+/m/0dd6bf	/m/0dd6bf	/m/03_3d	/m/03_3d
+/film/film/prequel	NO_OP	/film/film/country
+-1
+tensor(-7.1128)
+___
+/m/04f62k	/m/04f62k	/m/0gxr1c	/m/0gxr1c
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.1293)
+___
+/m/01rddlc	/m/01rddlc	/m/03_3d	/m/03_3d
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-7.1463)
+___
+#####################
+/m/07ghv5	/m/06_6j3
+Reward:0
+/m/07ghv5	/m/055t01	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.6916)
+___
+/m/07ghv5	/m/05v954	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.7049)
+___
+/m/055t01	/m/055t01	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.7067)
+___
+/m/07ghv5	/m/0ckm4x	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.8185)
+___
+/m/07ghv5	/m/08p1gp	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.8267)
+___
+/m/0674l0	/m/0674l0	/m/07ghv5	/m/07ghv5
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-3.9750)
+___
+/m/05v954	/m/05v954	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.0703)
+___
+/m/08p1gp	/m/08p1gp	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.6035)
+___
+/m/0ckm4x	/m/0ckm4x	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.7075)
+___
+/m/0674l0	/m/0674l0	/m/02vxn	/m/02vxn
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/business/business_operation/industry
+-1
+tensor(-4.8039)
+___
+/m/0674l0	/m/0674l0	/m/0674l0	/m/0674l0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	NO_OP
+-1
+tensor(-5.1456)
+___
+/m/07ghv5	/m/07ghv5	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-5.6156)
+___
+/m/0dt645q	/m/0dt645q	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9050)
+___
+/m/01rddlc	/m/01rddlc	/m/08cl7s	/m/08cl7s
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.9186)
+___
+/m/01rddlc	/m/01rddlc	/m/02rhwjr	/m/02rhwjr
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.9186)
+___
+/m/01wphh2	/m/01wphh2	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.1698)
+___
+/m/07ghv5	/m/07ghv5	/m/0jxy	/m/0jxy
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.3351)
+___
+/m/07ghv5	/m/07ghv5	/m/0hcr	/m/0hcr
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.3351)
+___
+/m/07ghv5	/m/07ghv5	/m/07s9rl0	/m/07s9rl0
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.3351)
+___
+/m/07ghv5	/m/07ghv5	/m/01hmnh	/m/01hmnh
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.3351)
+___
+/m/07ghv5	/m/07ghv5	/m/03k9fj	/m/03k9fj
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.3351)
+___
+/m/07ghv5	/m/07ghv5	/m/02kdv5l	/m/02kdv5l
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.3351)
+___
+/m/07ghv5	/m/07ghv5	/m/03q4nz	/m/03q4nz
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-6.3351)
+___
+/m/055t01	/m/015qy1	/m/07s9rl0	/m/07s9rl0
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.3903)
+___
+/m/055t01	/m/015qy1	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.3903)
+___
+/m/055t01	/m/015qy1	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.3903)
+___
+/m/07ghv5	/m/07ghv5	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4376)
+___
+/m/0dt645q	/m/0dt645q	/m/02kwcj	/m/02kwcj
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.4416)
+___
+/m/07ghv5	/m/0ckm4x	/m/07b_l	/m/07b_l
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.5489)
+___
+/m/07ghv5	/m/08p1gp	/m/07b_l	/m/07b_l
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.5571)
+___
+/m/01wphh2	/m/01wphh2	/m/08cl7s	/m/08cl7s
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7189)
+___
+/m/07ghv5	/m/0674l0	/m/07ghv5	/m/07ghv5
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.7680)
+___
+/m/05v954	/m/05vc35	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.8252)
+___
+/m/05v954	/m/05vc35	/m/06n90	/m/06n90
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.8252)
+___
+/m/05v954	/m/05vc35	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.8252)
+___
+/m/01wphh2	/m/01w565	/m/01wphh2	/m/01wphh2
+_/film/actor/film./film/performance/film	_/music/record_label/artist	/music/record_label/artist
+-1
+tensor(-6.8583)
+___
+/m/01wphh2	/m/01w565	/m/0f8grf	/m/0f8grf
+_/film/actor/film./film/performance/film	_/music/record_label/artist	/music/record_label/artist
+-1
+tensor(-6.8583)
+___
+/m/07ghv5	/m/07ghv5	/m/0674l0	/m/0674l0
+NO_OP	NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.8645)
+___
+/m/07ghv5	/m/08p1gp	/m/01kyvx	/m/01kyvx
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.9327)
+___
+/m/01wphh2	/m/01wphh2	/m/01w565	/m/01w565
+_/film/actor/film./film/performance/film	NO_OP	_/music/record_label/artist
+-1
+tensor(-6.9562)
+___
+/m/0674l0	/m/07ghv5	/m/02kdv5l	/m/02kdv5l
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.9717)
+___
+/m/0674l0	/m/07ghv5	/m/03q4nz	/m/03q4nz
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.9717)
+___
+/m/0674l0	/m/07ghv5	/m/03k9fj	/m/03k9fj
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.9717)
+___
+/m/0674l0	/m/07ghv5	/m/01hmnh	/m/01hmnh
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.9717)
+___
+/m/0674l0	/m/07ghv5	/m/07s9rl0	/m/07s9rl0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.9717)
+___
+/m/0674l0	/m/07ghv5	/m/0hcr	/m/0hcr
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.9717)
+___
+/m/0674l0	/m/07ghv5	/m/0jxy	/m/0jxy
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/genre
+-1
+tensor(-6.9717)
+___
+/m/0dt645q	/m/0dt645q	/m/04ztj	/m/04ztj
+_/film/actor/film./film/performance/film	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.0331)
+___
+/m/0ckm4x	/m/0ckm4x	/m/07b_l	/m/07b_l
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-7.0832)
+___
+/m/05v954	/m/076xkdz	/m/086k8	/m/086k8
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-7.0993)
+___
+/m/07ghv5	/m/0ckm4x	/m/0kq2	/m/0kq2
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-7.0995)
+___
+/m/05v954	/m/0bh72t	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.1091)
+___
+/m/05v954	/m/0bh72t	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.1091)
+___
+/m/05v954	/m/0bh72t	/m/06n90	/m/06n90
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.1091)
+___
+/m/05v954	/m/0bh72t	/m/0bj8m2	/m/0bj8m2
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.1091)
+___
+/m/05v954	/m/0bh72t	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.1091)
+___
+/m/08p1gp	/m/08p1gp	/m/07b_l	/m/07b_l
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-7.1151)
+___
+/m/0674l0	/m/07ghv5	/m/0674l0	/m/0674l0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1828)
+___
+/m/01rddlc	/m/01rddlc	/m/03_3d	/m/03_3d
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-7.1831)
+___
+/m/0674l0	/m/07ghv5	/m/03_3d	/m/03_3d
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.2087)
+___
+/m/0674l0	/m/07ghv5	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.2124)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.2163)
+___
+/m/09c7w0	/m/013cz2	/m/0488g	/m/0488g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.2163)
+___
+/m/0jxy	/m/045nc5	/m/03_9r	/m/03_9r
+/film/film/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.2247)
+___
+/m/055t01	/m/07ghv5	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2314)
+___
+/m/055t01	/m/07ghv5	/m/03k9fj	/m/03k9fj
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2314)
+___
+/m/055t01	/m/07ghv5	/m/01hmnh	/m/01hmnh
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2314)
+___
+/m/055t01	/m/07ghv5	/m/03q4nz	/m/03q4nz
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2314)
+___
+/m/055t01	/m/07ghv5	/m/07s9rl0	/m/07s9rl0
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2314)
+___
+/m/055t01	/m/07ghv5	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2314)
+___
+/m/055t01	/m/07ghv5	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2314)
+___
+/m/0ckm4x	/m/05vc35	/m/06n90	/m/06n90
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2926)
+___
+/m/0ckm4x	/m/05vc35	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2926)
+___
+/m/0ckm4x	/m/05vc35	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.2926)
+___
+/m/0ckm4x	/m/0dh8v4	/m/03q4nz	/m/03q4nz
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.3081)
+___
+/m/0ckm4x	/m/0dh8v4	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.3081)
+___
+/m/0jxy	/m/051kd	/m/03_9r	/m/03_9r
+/film/film/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3120)
+___
+/m/01wphh2	/m/01w565	/m/01w565	/m/01w565
+_/film/actor/film./film/performance/film	_/music/record_label/artist	NO_OP
+-1
+tensor(-7.3223)
+___
+/m/0jxy	/m/08cl7s	/m/03_9r	/m/03_9r
+/film/film/genre	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.3337)
+___
+/m/05v954	/m/0436yk	/m/03xsby	/m/03xsby
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-7.3716)
+___
+/m/07ghv5	/m/09c7w0	/m/013cz2	/m/013cz2
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country
+-1
+tensor(-7.3968)
+___
+/m/055t01	/m/015qy1	/m/03_3d	/m/03_3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.4162)
+___
+/m/0dt645q	/m/02kwcj	/m/06n90	/m/06n90
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/film/film/genre
+-1
+tensor(-7.4190)
+___
+/m/03_3d	/m/09d4_	/m/03_3d	/m/03_3d
+/film/film/country	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.4921)
+___
+/m/03_3d	/m/09d4_	/m/017t44	/m/017t44
+/film/film/country	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.4921)
+___
+/m/055t01	/m/015qy1	/m/03_3d	/m/03_3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/country
+-1
+tensor(-7.4970)
+___
+/m/03_3d	/m/018jkl	/m/03_3d	/m/03_3d
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.4994)
+___
+/m/03_3d	/m/018jkl	/m/0g3bw	/m/0g3bw
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.4994)
+___
+/m/07ghv5	/m/0674l0	/m/02vxn	/m/02vxn
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/business/business_operation/industry
+-1
+tensor(-7.5121)
+___
+/m/08p1gp	/m/08p1gp	/m/01kyvx	/m/01kyvx
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-7.5423)
+___
+/m/055t01	/m/02h40lc	/m/02r5qtm	/m/02r5qtm
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5566)
+___
+/m/055t01	/m/02h40lc	/m/030p35	/m/030p35
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5566)
+___
+/m/055t01	/m/02h40lc	/m/0464pz	/m/0464pz
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5566)
+___
+/m/055t01	/m/02h40lc	/m/03bww6	/m/03bww6
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5566)
+___
+/m/055t01	/m/02h40lc	/m/03kq98	/m/03kq98
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5566)
+___
+/m/055t01	/m/02h40lc	/m/01qn7n	/m/01qn7n
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5566)
+___
+/m/055t01	/m/02h40lc	/m/08cx5g	/m/08cx5g
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5566)
+___
+/m/07ghv5	/m/0ckm4x	/m/04ztj	/m/04ztj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.5794)
+___
+/m/05v954	/m/02h40lc	/m/01qn7n	/m/01qn7n
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5814)
+___
+/m/05v954	/m/02h40lc	/m/0464pz	/m/0464pz
+/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language	_/tv/tv_program/languages
+-1
+tensor(-7.5814)
+___
+#####################
+/m/016ztl	/m/04mlh8
+Reward:0
+/m/01x0sy	/m/01x0sy	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.0011)
+___
+/m/01yh3y	/m/01yh3y	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.0362)
+___
+/m/031c2r	/m/031c2r	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1122)
+___
+/m/016ztl	/m/01x0sy	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1794)
+___
+/m/016ztl	/m/01yh3y	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1938)
+___
+/m/016ztl	/m/031c2r	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.2530)
+___
+/m/016ztl	/m/0sw6y	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.2771)
+___
+/m/016ztl	/m/01lly5	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.2844)
+___
+/m/016ztl	/m/01v3vp	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.3022)
+___
+/m/016ztl	/m/0219q	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.3966)
+___
+/m/016ztl	/m/01rcmg	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.4640)
+___
+/m/01lly5	/m/01lly5	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.5130)
+___
+/m/016ztl	/m/02gf_l	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.5372)
+___
+/m/0sw6y	/m/0sw6y	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.5437)
+___
+/m/08jtv5	/m/08jtv5	/m/0cr3d	/m/0cr3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.5599)
+___
+/m/01v3vp	/m/01v3vp	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.6520)
+___
+/m/0fzyg	/m/0fzyg	/m/01z3bz	/m/01z3bz
+_/film/film_subject/films	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-5.8219)
+___
+/m/016ztl	/m/08jtv5	/m/0cr3d	/m/0cr3d
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.0427)
+___
+/m/02gf_l	/m/02gf_l	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.0893)
+___
+/m/016ztl	/m/01j5ws	/m/01qxc7	/m/01qxc7
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1540)
+___
+/m/0219q	/m/0219q	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.2185)
+___
+/m/08jtv5	/m/08jtv5	/m/05nlzq	/m/05nlzq
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.2358)
+___
+/m/08jtv5	/m/08jtv5	/m/019g8j	/m/019g8j
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.2358)
+___
+/m/07k2x	/m/07k2x	/m/07dfk	/m/07dfk
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.3889)
+___
+/m/093h7p	/m/093h7p	/m/0r00l	/m/0r00l
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.4639)
+___
+/m/08jtv5	/m/019g8j	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-6.5830)
+___
+/m/016ztl	/m/01j5ws	/m/01rr9f	/m/01rr9f
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.6745)
+___
+/m/016ztl	/m/01j5ws	/m/0gx_p	/m/0gx_p
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.6745)
+___
+/m/0534v	/m/0534v	/m/0564x	/m/0564x
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7172)
+___
+/m/0534v	/m/0534v	/m/02q3fdr	/m/02q3fdr
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7172)
+___
+/m/0534v	/m/0534v	/m/02gs6r	/m/02gs6r
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7172)
+___
+/m/016ztl	/m/08jtv5	/m/019g8j	/m/019g8j
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7247)
+___
+/m/016ztl	/m/08jtv5	/m/05nlzq	/m/05nlzq
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7247)
+___
+/m/0sw6y	/m/019g8j	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-6.7816)
+___
+/m/016ztl	/m/01j5ws	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.8033)
+___
+/m/0582cf	/m/01hvv0	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-6.8654)
+___
+/m/0582cf	/m/0582cf	/m/01hvv0	/m/01hvv0
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0075)
+___
+/m/0582cf	/m/0582cf	/m/05h95s	/m/05h95s
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0075)
+___
+/m/0582cf	/m/0582cf	/m/09g_31	/m/09g_31
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0075)
+___
+/m/0582cf	/m/0582cf	/m/07vqnc	/m/07vqnc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0075)
+___
+/m/0582cf	/m/0582cf	/m/0fkwzs	/m/0fkwzs
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0075)
+___
+/m/016ztl	/m/0582cf	/m/01hvv0	/m/01hvv0
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0115)
+___
+/m/016ztl	/m/0582cf	/m/09g_31	/m/09g_31
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0115)
+___
+/m/016ztl	/m/0582cf	/m/07vqnc	/m/07vqnc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0115)
+___
+/m/016ztl	/m/0582cf	/m/0fkwzs	/m/0fkwzs
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0115)
+___
+/m/016ztl	/m/0582cf	/m/05h95s	/m/05h95s
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.0115)
+___
+/m/016ztl	/m/016ztl	/m/09b3v	/m/09b3v
+NO_OP	NO_OP	/film/film/production_companies
+-1
+tensor(-7.0164)
+___
+/m/01j5ws	/m/01j5ws	/m/01qxc7	/m/01qxc7
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0305)
+___
+/m/0582cf	/m/05h95s	/m/0146mv	/m/0146mv
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0435)
+___
+/m/016ztl	/m/08jtv5	/m/04ztj	/m/04ztj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.0855)
+___
+/m/01v3vp	/m/02mf7	/m/0mx5p	/m/0mx5p
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.0943)
+___
+/m/0582cf	/m/0fkwzs	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.0971)
+___
+/m/01x0sy	/m/0r4h3	/m/0r4h3	/m/0r4h3
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	NO_OP
+-1
+tensor(-7.1177)
+___
+/m/08jtv5	/m/08jtv5	/m/04ztj	/m/04ztj
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.1729)
+___
+/m/031c2r	/m/0vhm	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.2286)
+___
+/m/0582cf	/m/0snty	/m/01qrb2	/m/01qrb2
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	/location/location/contains
+-1
+tensor(-7.3516)
+___
+/m/016ztl	/m/016ztl	/m/0hcr	/m/0hcr
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.3918)
+___
+/m/016ztl	/m/016ztl	/m/0bj8m2	/m/0bj8m2
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.3918)
+___
+/m/016ztl	/m/016ztl	/m/07s9rl0	/m/07s9rl0
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.3918)
+___
+/m/016ztl	/m/016ztl	/m/03q4nz	/m/03q4nz
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-7.3918)
+___
+/m/0sw6y	/m/025x1t	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.4020)
+___
+/m/01lly5	/m/01hvv0	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.4448)
+___
+/m/0582cf	/m/018t8f	/m/062z7	/m/062z7
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-7.4485)
+___
+/m/01j5ws	/m/01j5ws	/m/01rr9f	/m/01rr9f
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.4496)
+___
+/m/01j5ws	/m/01j5ws	/m/0gx_p	/m/0gx_p
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.4496)
+___
+/m/031c2r	/m/015w8_	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.4803)
+___
+/m/0sw6y	/m/0vhm	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.5398)
+___
+/m/01j5ws	/m/01rr9f	/m/030cx	/m/030cx
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5464)
+___
+/m/016ztl	/m/0582cf	/m/04ztj	/m/04ztj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.5661)
+___
+/m/08jtv5	/m/019g8j	/m/0cc8l6d	/m/0cc8l6d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-7.5840)
+___
+/m/01j5ws	/m/01j5ws	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-7.5864)
+___
+/m/0582cf	/m/0snty	/m/01qrb2	/m/01qrb2
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-7.5987)
+___
+/m/0582cf	/m/0fkwzs	/m/04n7njg	/m/04n7njg
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.6153)
+___
+/m/0582cf	/m/0snty	/m/03v1s	/m/03v1s
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	/base/biblioness/bibs_location/state
+-1
+tensor(-7.6420)
+___
+/m/08jtv5	/m/016ztl	/m/09b3v	/m/09b3v
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/production_companies
+-1
+tensor(-7.6825)
+___
+/m/01lly5	/m/071cn	/m/0fc_p	/m/0fc_p
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.6903)
+___
+/m/01j5ws	/m/0gx_p	/m/03b1l8	/m/03b1l8
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.6956)
+___
+/m/08jtv5	/m/019g8j	/m/024my5	/m/024my5
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7035)
+___
+/m/08jtv5	/m/019g8j	/m/01tszq	/m/01tszq
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7035)
+___
+/m/08jtv5	/m/019g8j	/m/01n7qlf	/m/01n7qlf
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7035)
+___
+/m/0fzyg	/m/0fzyg	/m/0fzyg	/m/0fzyg
+_/film/film_subject/films	NO_OP	NO_OP
+-1
+tensor(-7.7138)
+___
+/m/01lly5	/m/071cn	/m/0fc_p	/m/0fc_p
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.7143)
+___
+/m/08jtv5	/m/08jtv5	/m/0cr3d	/m/0cr3d
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/place_of_birth
+-1
+tensor(-7.7145)
+___
+/m/01v3vp	/m/02648p	/m/06gh0t	/m/06gh0t
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7176)
+___
+/m/01v3vp	/m/02648p	/m/0443xn	/m/0443xn
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7176)
+___
+/m/031c2r	/m/09g_31	/m/04mlh8	/m/04mlh8
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+1
+tensor(-7.7357)
+___
+/m/031c2r	/m/09g_31	/m/022s1m	/m/022s1m
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7357)
+___
+/m/031c2r	/m/09g_31	/m/044_7j	/m/044_7j
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7357)
+___
+/m/031c2r	/m/09g_31	/m/05z775	/m/05z775
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7357)
+___
+/m/031c2r	/m/09g_31	/m/034rd9	/m/034rd9
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.7357)
+___
+/m/01x0sy	/m/0r4h3	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-7.7421)
+___
+/m/01x0sy	/m/0r4h3	/m/01n7q	/m/01n7q
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-7.7421)
+___
+/m/0582cf	/m/0582cf	/m/04ztj	/m/04ztj
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.7451)
+___
+/m/08jtv5	/m/019g8j	/m/0cc8l6d	/m/0cc8l6d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.7511)
+___
+/m/08jtv5	/m/05nlzq	/m/03mstc	/m/03mstc
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.7546)
+___
+/m/08jtv5	/m/05nlzq	/m/09b0xs	/m/09b0xs
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.7546)
+___
+/m/08jtv5	/m/05nlzq	/m/0488g9	/m/0488g9
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.7546)
+___
+/m/0582cf	/m/07vqnc	/m/09gb9xh	/m/09gb9xh
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.7646)
+___
+/m/01v3vp	/m/02mf7	/m/02mf7	/m/02mf7
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-7.7714)
+___
+/m/031c2r	/m/0vhm	/m/09b0xs	/m/09b0xs
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.7718)
+___
+#####################
+/m/02q3fdr	/m/0pz7h
+Reward:0
+/m/083wr9	/m/083wr9	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.3854)
+___
+/m/08141d	/m/08141d	/m/06y_n	/m/06y_n
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.0753)
+___
+/m/02q3fdr	/m/083wr9	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1579)
+___
+/m/02hblj	/m/02hblj	/m/01hvv0	/m/01hvv0
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.1874)
+___
+/m/02q3fdr	/m/08141d	/m/06y_n	/m/06y_n
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.5596)
+___
+/m/02q3fdr	/m/02hblj	/m/01hvv0	/m/01hvv0
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-5.5790)
+___
+/m/02q3fdr	/m/011_3s	/m/0j_t1	/m/0j_t1
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.8594)
+___
+/m/02q3fdr	/m/0169dl	/m/07nxvj	/m/07nxvj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1045)
+___
+/m/05j0wc	/m/05j0wc	/m/092bf5	/m/092bf5
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/religion
+-1
+tensor(-6.1406)
+___
+/m/02q3fdr	/m/02l3_5	/m/01rp13	/m/01rp13
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1639)
+___
+/m/02q3fdr	/m/02l3_5	/m/05sy0cv	/m/05sy0cv
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1639)
+___
+/m/02q3fdr	/m/05j0wc	/m/092bf5	/m/092bf5
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-6.1718)
+___
+/m/02hblj	/m/01hvv0	/m/0ckd1	/m/0ckd1
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-6.3624)
+___
+/m/02q3fdr	/m/0h5g_	/m/046f3p	/m/046f3p
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.4824)
+___
+/m/07k2x	/m/07k2x	/m/07dfk	/m/07dfk
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.5637)
+___
+/m/02q3fdr	/m/011_3s	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.6036)
+___
+/m/08141d	/m/08141d	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/nationality
+-1
+tensor(-6.6107)
+___
+/m/02hblj	/m/02hblj	/m/02zcnq	/m/02zcnq
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-6.6378)
+___
+/m/02q3fdr	/m/0154qm	/m/08nvyr	/m/08nvyr
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6541)
+___
+/m/02q3fdr	/m/0154qm	/m/0djlxb	/m/0djlxb
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6541)
+___
+/m/02q3fdr	/m/0154qm	/m/027m5wv	/m/027m5wv
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6541)
+___
+/m/02q3fdr	/m/0154qm	/m/049xgc	/m/049xgc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6541)
+___
+/m/08141d	/m/08141d	/m/030qb3t	/m/030qb3t
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/place_of_birth
+-1
+tensor(-6.6558)
+___
+/m/02hblj	/m/02hblj	/m/0n6dc	/m/0n6dc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/place_of_birth
+-1
+tensor(-6.6644)
+___
+/m/02q3fdr	/m/0169dl	/m/086sj	/m/086sj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.6776)
+___
+/m/02q3fdr	/m/05j0wc	/m/04ztj	/m/04ztj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.6993)
+___
+/m/02q3fdr	/m/025mb_	/m/0kfpm	/m/0kfpm
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7185)
+___
+/m/02q3fdr	/m/025mb_	/m/0421v9q	/m/0421v9q
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7185)
+___
+/m/02q3fdr	/m/025mb_	/m/01fszq	/m/01fszq
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7185)
+___
+/m/02q3fdr	/m/025mb_	/m/039cq4	/m/039cq4
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7185)
+___
+/m/02q3fdr	/m/0169dl	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.8179)
+___
+/m/02q3fdr	/m/02l3_5	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.8375)
+___
+/m/02x0gk1	/m/02x0gk1	/m/0534v	/m/0534v
+_/award/award_category/nominees./award/award_nomination/nominated_for	NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-6.8783)
+___
+/m/02hblj	/m/02hblj	/m/05650n	/m/05650n
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-6.9050)
+___
+/m/08141d	/m/08141d	/m/02_fm2	/m/02_fm2
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-6.9101)
+___
+/m/02q3fdr	/m/0h5g_	/m/0bx_q	/m/0bx_q
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.9927)
+___
+/m/02q3fdr	/m/0h5g_	/m/03f2_rc	/m/03f2_rc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.9927)
+___
+/m/02q3fdr	/m/0h5g_	/m/046zh	/m/046zh
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.9927)
+___
+/m/088n7	/m/088n7	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	NO_OP	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.9948)
+___
+/m/088n7	/m/088n7	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	NO_OP	_/education/university/local_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.9948)
+___
+/m/0534v	/m/0534v	/m/02gs6r	/m/02gs6r
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0431)
+___
+/m/0534v	/m/0534v	/m/0564x	/m/0564x
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0431)
+___
+/m/0534v	/m/0534v	/m/02q3fdr	/m/02q3fdr
+_/film/director/film	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0431)
+___
+/m/02q3fdr	/m/0h5g_	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-7.1148)
+___
+/m/02rgz4	/m/02rgz4	/m/05r5c	/m/05r5c
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-7.1703)
+___
+/m/02rgz4	/m/02rgz4	/m/01vdm0	/m/01vdm0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-7.1703)
+___
+/m/05j0wc	/m/05j0wc	/m/04ztj	/m/04ztj
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.1949)
+___
+/m/02q3fdr	/m/08141d	/m/030qb3t	/m/030qb3t
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth
+-1
+tensor(-7.1957)
+___
+/m/02x0gk1	/m/02x0gk1	/m/076xkdz	/m/076xkdz
+_/award/award_category/nominees./award/award_nomination/nominated_for	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award
+-1
+tensor(-7.2017)
+___
+/m/02q3fdr	/m/02hblj	/m/0n6dc	/m/0n6dc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth
+-1
+tensor(-7.2145)
+___
+/m/02q3fdr	/m/02q3fdr	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-7.2358)
+___
+/m/02q3fdr	/m/02hblj	/m/02zcnq	/m/02zcnq
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-7.2390)
+___
+/m/02x0gk1	/m/0534v	/m/02q3fdr	/m/02q3fdr
+_/award/award_category/nominees./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2673)
+___
+/m/02x0gk1	/m/0534v	/m/0564x	/m/0564x
+_/award/award_category/nominees./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2673)
+___
+/m/02x0gk1	/m/0534v	/m/02gs6r	/m/02gs6r
+_/award/award_category/nominees./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/award	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2673)
+___
+/m/02q3fdr	/m/025mb_	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-7.2919)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.3107)
+___
+/m/02l3_5	/m/02l3_5	/m/05sy0cv	/m/05sy0cv
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3556)
+___
+/m/02l3_5	/m/02l3_5	/m/01rp13	/m/01rp13
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3556)
+___
+/m/02rgz4	/m/018jk2	/m/018jk2	/m/018jk2
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-7.3645)
+___
+/m/02hblj	/m/02zcnq	/m/02zcnq	/m/02zcnq
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.3837)
+___
+/m/02hblj	/m/0n6dc	/m/0n6dc	/m/0n6dc
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	NO_OP
+-1
+tensor(-7.3960)
+___
+/m/0534v	/m/0534v	/m/0564x	/m/0564x
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4117)
+___
+/m/0534v	/m/0534v	/m/02q3fdr	/m/02q3fdr
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4117)
+___
+/m/0534v	/m/0534v	/m/02gs6r	/m/02gs6r
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4117)
+___
+/m/088n7	/m/0211jt	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.4277)
+___
+/m/02q3fdr	/m/0534v	/m/0564x	/m/0564x
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4517)
+___
+/m/02q3fdr	/m/0534v	/m/02q3fdr	/m/02q3fdr
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4517)
+___
+/m/02q3fdr	/m/0534v	/m/02gs6r	/m/02gs6r
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4517)
+___
+/m/03_3d	/m/018jkl	/m/03_3d	/m/03_3d
+_/media_common/netflix_genre/titles	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.4641)
+___
+/m/03_3d	/m/018jkl	/m/0g3bw	/m/0g3bw
+_/media_common/netflix_genre/titles	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.4641)
+___
+/m/02q3fdr	/m/08141d	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/nationality
+-1
+tensor(-7.4819)
+___
+/m/03_3d	/m/09d4_	/m/017t44	/m/017t44
+_/media_common/netflix_genre/titles	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.4898)
+___
+/m/03_3d	/m/09d4_	/m/03_3d	/m/03_3d
+_/media_common/netflix_genre/titles	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.4898)
+___
+/m/08141d	/m/06y_n	/m/02cm2m	/m/02cm2m
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5420)
+___
+/m/08141d	/m/06y_n	/m/086nl7	/m/086nl7
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5420)
+___
+/m/08141d	/m/06y_n	/m/01j7pt	/m/01j7pt
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5420)
+___
+/m/02q3fdr	/m/08141d	/m/02_fm2	/m/02_fm2
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/film./film/performance/film
+-1
+tensor(-7.5567)
+___
+/m/02q3fdr	/m/02hblj	/m/05650n	/m/05650n
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/film./film/performance/film
+-1
+tensor(-7.5640)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/campuses
+-1
+tensor(-7.5717)
+___
+/m/02q3fdr	/m/0534v	/m/0564x	/m/0564x
+NO_OP	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5981)
+___
+/m/02q3fdr	/m/0534v	/m/02q3fdr	/m/02q3fdr
+NO_OP	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5981)
+___
+/m/02q3fdr	/m/0534v	/m/02gs6r	/m/02gs6r
+NO_OP	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5981)
+___
+/m/02hblj	/m/01hvv0	/m/03yf4d	/m/03yf4d
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.6309)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_institution/campuses
+-1
+tensor(-7.6938)
+___
+/m/05j0wc	/m/05j0wc	/m/086xm	/m/086xm
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-7.7066)
+___
+/m/05j0wc	/m/05j0wc	/m/01w5m	/m/01w5m
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-7.7066)
+___
+/m/088n7	/m/0212zp	/m/0212zp	/m/0212zp
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.7213)
+___
+/m/02x0gk1	/m/02x0gk1	/m/076xkdz	/m/076xkdz
+_/award/award_category/nominees./award/award_nomination/nominated_for	NO_OP	/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.7238)
+___
+/m/02x0gk1	/m/02x0gk1	/m/02z5x7l	/m/02z5x7l
+_/award/award_category/nominees./award/award_nomination/nominated_for	NO_OP	/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.7238)
+___
+/m/02x0gk1	/m/02x0gk1	/m/02z9hqn	/m/02z9hqn
+_/award/award_category/nominees./award/award_nomination/nominated_for	NO_OP	/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.7238)
+___
+/m/02x0gk1	/m/02x0gk1	/m/02q3fdr	/m/02q3fdr
+_/award/award_category/nominees./award/award_nomination/nominated_for	NO_OP	/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-7.7238)
+___
+/m/088n7	/m/0211jt	/m/0211jt	/m/0211jt
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/education/university/local_tuition./measurement_unit/dated_money_value/currency	/education/educational_institution/campuses
+-1
+tensor(-7.7446)
+___
+/m/088n7	/m/019q50	/m/019q50	/m/019q50
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	/education/educational_institution_campus/educational_institution
+-1
+tensor(-7.7580)
+___
+/m/05j0wc	/m/05j0wc	/m/01_d4	/m/01_d4
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/place_of_birth
+-1
+tensor(-7.7611)
+___
+/m/02hblj	/m/02zcnq	/m/02zcnq	/m/02zcnq
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses
+-1
+tensor(-7.7810)
+___
+/m/02q3fdr	/m/05j0wc	/m/01_d4	/m/01_d4
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth
+-1
+tensor(-7.7921)
+___
+/m/02hblj	/m/0n6dc	/m/059rby	/m/059rby
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-7.8020)
+___
+/m/02hblj	/m/0n6dc	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-7.8020)
+___
+/m/02hblj	/m/0n6dc	/m/0cymp	/m/0cymp
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-7.8020)
+___
+#####################
+/m/026q3s3	/m/06_6j3
+Reward:0
+/m/026q3s3	/m/091n7z	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.1779)
+___
+/m/026q3s3	/m/0ckm4x	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.1934)
+___
+/m/091n7z	/m/091n7z	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-3.8567)
+___
+/m/0ckm4x	/m/0ckm4x	/m/02h40lc	/m/02h40lc
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.3764)
+___
+/m/01wzs_q	/m/01wzs_q	/m/018q42	/m/018q42
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.4090)
+___
+/m/02v92l	/m/02v92l	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.9457)
+___
+/m/026q3s3	/m/026q3s3	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.9583)
+___
+/m/03fghg	/m/03fghg	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.5213)
+___
+/m/026q3s3	/m/026q3s3	/m/0jxy	/m/0jxy
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-5.5607)
+___
+/m/026q3s3	/m/026q3s3	/m/01jfsb	/m/01jfsb
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-5.5607)
+___
+/m/026q3s3	/m/026q3s3	/m/02kdv5l	/m/02kdv5l
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-5.5607)
+___
+/m/026q3s3	/m/026q3s3	/m/0hcr	/m/0hcr
+NO_OP	NO_OP	/film/film/genre
+-1
+tensor(-5.5607)
+___
+/m/01wzs_q	/m/018q42	/m/0gqkd	/m/0gqkd
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-5.6713)
+___
+/m/07k2x	/m/07k2x	/m/07dfk	/m/07dfk
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-5.7507)
+___
+/m/026q3s3	/m/026q3s3	/m/03_3d	/m/03_3d
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.7716)
+___
+/m/026q3s3	/m/026q3s3	/m/0345h	/m/0345h
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.7716)
+___
+/m/01qz69r	/m/01qz69r	/m/0kstw	/m/0kstw
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.9004)
+___
+/m/091n7z	/m/0wq36	/m/0wq36	/m/0wq36
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	NO_OP
+-1
+tensor(-5.9028)
+___
+/m/026q3s3	/m/091n7z	/m/01lp8	/m/01lp8
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-6.0313)
+___
+/m/03fghg	/m/03fghg	/m/031kyy	/m/031kyy
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.0705)
+___
+/m/026q3s3	/m/0ckm4x	/m/07b_l	/m/07b_l
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.0711)
+___
+/m/01qz69r	/m/01qz69r	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.1386)
+___
+/m/026q3s3	/m/026q3s3	/m/07k2x	/m/07k2x
+NO_OP	NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-6.1587)
+___
+/m/03q64h	/m/03q64h	/m/0kstw	/m/0kstw
+_/film/actor/film./film/performance/film	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.1997)
+___
+/m/05bp8g	/m/05bp8g	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.2172)
+___
+/m/091n7z	/m/0wq36	/m/04tgp	/m/04tgp
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-6.3004)
+___
+/m/091n7z	/m/0wq36	/m/09c7w0	/m/09c7w0
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-6.3004)
+___
+/m/01vs8ng	/m/01vs8ng	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.3357)
+___
+/m/091n7z	/m/05t0zfv	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.3803)
+___
+/m/0345h	/m/01cz_1	/m/017v_	/m/017v_
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/state
+-1
+tensor(-6.4025)
+___
+/m/026q3s3	/m/02v92l	/m/03_9r	/m/03_9r
+NO_OP	_/film/actor/film./film/performance/film	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.4227)
+___
+/m/03q64h	/m/03q64h	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.4764)
+___
+/m/0345h	/m/06rf7	/m/0g7pm	/m/0g7pm
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.4990)
+___
+/m/026q3s3	/m/01wzs_q	/m/018q42	/m/018q42
+NO_OP	_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.5546)
+___
+/m/026q3s3	/m/091n7z	/m/04ztj	/m/04ztj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-6.5666)
+___
+/m/026q3s3	/m/0345h	/m/017v_	/m/017v_
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country
+-1
+tensor(-6.5840)
+___
+/m/026q3s3	/m/0345h	/m/01cz_1	/m/01cz_1
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country
+-1
+tensor(-6.5840)
+___
+/m/026q3s3	/m/0ckm4x	/m/0kq2	/m/0kq2
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/religion
+-1
+tensor(-6.6170)
+___
+/m/03_3d	/m/018jkl	/m/0g3bw	/m/0g3bw
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.6179)
+___
+/m/03_3d	/m/018jkl	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.6179)
+___
+/m/026q3s3	/m/026q3s3	/m/029j_	/m/029j_
+NO_OP	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.6268)
+___
+/m/0345h	/m/01cz_1	/m/017v_	/m/017v_
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.6593)
+___
+/m/01qz69r	/m/01qz69r	/m/03lyp4	/m/03lyp4
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.6634)
+___
+/m/091n7z	/m/0wq36	/m/023nlj	/m/023nlj
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/people/person/place_of_birth
+-1
+tensor(-6.6671)
+___
+/m/03_3d	/m/09d4_	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.6675)
+___
+/m/03_3d	/m/09d4_	/m/017t44	/m/017t44
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.6675)
+___
+/m/026q3s3	/m/03_3d	/m/09d4_	/m/09d4_
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country
+-1
+tensor(-6.6811)
+___
+/m/0ckm4x	/m/0ckm4x	/m/07b_l	/m/07b_l
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-6.7046)
+___
+/m/091n7z	/m/0dh8v4	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7289)
+___
+/m/091n7z	/m/0dh8v4	/m/03q4nz	/m/03q4nz
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-6.7289)
+___
+/m/01wzs_q	/m/018q42	/m/0gqkd	/m/0gqkd
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.7337)
+___
+/m/05bp8g	/m/05bp8g	/m/051kd	/m/051kd
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7665)
+___
+/m/05bp8g	/m/05bp8g	/m/05x72k	/m/05x72k
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7665)
+___
+/m/05bp8g	/m/05bp8g	/m/02kwcj	/m/02kwcj
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7665)
+___
+/m/01vs8ng	/m/01vs8ng	/m/02rhwjr	/m/02rhwjr
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7926)
+___
+/m/01vs8ng	/m/01vs8ng	/m/017dtf	/m/017dtf
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7926)
+___
+/m/03q64h	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/place_of_birth	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.9249)
+___
+/m/03q64h	/m/03q64h	/m/0q6g3	/m/0q6g3
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.9401)
+___
+/m/03q64h	/m/03q64h	/m/02kwcj	/m/02kwcj
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.9401)
+___
+/m/026q3s3	/m/07k2x	/m/07dfk	/m/07dfk
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.9816)
+___
+/m/026q3s3	/m/026q3s3	/m/01vs8ng	/m/01vs8ng
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-6.9821)
+___
+/m/026q3s3	/m/026q3s3	/m/03q64h	/m/03q64h
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-6.9821)
+___
+/m/026q3s3	/m/026q3s3	/m/02v92l	/m/02v92l
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-6.9821)
+___
+/m/026q3s3	/m/026q3s3	/m/01qz69r	/m/01qz69r
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-6.9821)
+___
+/m/026q3s3	/m/026q3s3	/m/01wzs_q	/m/01wzs_q
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-6.9821)
+___
+/m/026q3s3	/m/026q3s3	/m/03fghg	/m/03fghg
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-6.9821)
+___
+/m/026q3s3	/m/026q3s3	/m/05bp8g	/m/05bp8g
+NO_OP	NO_OP	_/film/actor/film./film/performance/film
+-1
+tensor(-6.9821)
+___
+/m/02v92l	/m/0gqkd	/m/018q42	/m/018q42
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.9853)
+___
+/m/03q64h	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.9956)
+___
+/m/01qz69r	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/place_of_birth	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.0141)
+___
+/m/01qz69r	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.0263)
+___
+/m/026q3s3	/m/0ckm4x	/m/04ztj	/m/04ztj
+NO_OP	/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.0366)
+___
+/m/03q64h	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.0454)
+___
+/m/0ckm4x	/m/0dh8v4	/m/0jxy	/m/0jxy
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.0563)
+___
+/m/0ckm4x	/m/0dh8v4	/m/03q4nz	/m/03q4nz
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.0563)
+___
+/m/0ckm4x	/m/05vc35	/m/0hcr	/m/0hcr
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.0712)
+___
+/m/0ckm4x	/m/05vc35	/m/06n90	/m/06n90
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.0712)
+___
+/m/0ckm4x	/m/05vc35	/m/02kdv5l	/m/02kdv5l
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	/film/film/genre
+-1
+tensor(-7.0712)
+___
+/m/02v92l	/m/0gqkd	/m/018q42	/m/018q42
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.1059)
+___
+/m/091n7z	/m/0dh8v4	/m/07k2x	/m/07k2x
+/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film/dubbing_performances./film/dubbing_performance/actor	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.1062)
+___
+/m/03q64h	/m/02kwcj	/m/06n90	/m/06n90
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/film/film/genre
+-1
+tensor(-7.1130)
+___
+/m/01qz69r	/m/0kstw	/m/0gqm3	/m/0gqm3
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.1140)
+___
+/m/01wzs_q	/m/01wzs_q	/m/0dh8v4	/m/0dh8v4
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-7.1369)
+___
+/m/01wzs_q	/m/01wzs_q	/m/026q3s3	/m/026q3s3
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-7.1369)
+___
+/m/05bp8g	/m/05x72k	/m/09wlpl	/m/09wlpl
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.1541)
+___
+/m/05bp8g	/m/05x72k	/m/05bp8g	/m/05bp8g
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-7.1541)
+___
+/m/026q3s3	/m/0345h	/m/06rf7	/m/06rf7
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-7.1825)
+___
+/m/091n7z	/m/0wq36	/m/0wq36	/m/0wq36
+/film/film/dubbing_performances./film/dubbing_performance/actor	/people/person/place_of_birth	_/location/hud_county_place/place
+-1
+tensor(-7.1832)
+___
+/m/05bp8g	/m/02kwcj	/m/06n90	/m/06n90
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/film/film/genre
+-1
+tensor(-7.1947)
+___
+/m/0345h	/m/017v_	/m/02h6_6p	/m/02h6_6p
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-7.1986)
+___
+/m/091n7z	/m/091n7z	/m/01lp8	/m/01lp8
+/film/film/dubbing_performances./film/dubbing_performance/actor	NO_OP	/people/person/religion
+-1
+tensor(-7.2044)
+___
+/m/0345h	/m/06rf7	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.2235)
+___
+/m/026q3s3	/m/0345h	/m/0lv1x	/m/0lv1x
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics
+-1
+tensor(-7.2250)
+___
+/m/01qz69r	/m/01qz69r	/m/04ztj	/m/04ztj
+_/film/actor/film./film/performance/film	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.2256)
+___
+/m/026q3s3	/m/01qz69r	/m/0kstw	/m/0kstw
+NO_OP	_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-7.2310)
+___
+/m/07k2x	/m/07k2x	/m/016ztl	/m/016ztl
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.2314)
+___
+/m/07k2x	/m/07k2x	/m/02q3fdr	/m/02q3fdr
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.2314)
+___
+/m/07k2x	/m/07k2x	/m/0bmc4cm	/m/0bmc4cm
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.2314)
+___
+/m/07k2x	/m/07k2x	/m/0564x	/m/0564x
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.2314)
+___
+/m/07k2x	/m/07k2x	/m/026q3s3	/m/026q3s3
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-7.2314)
+___
+#####################

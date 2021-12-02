@@ -1,0 +1,3521 @@
+/m/09v3hq_	/m/09c7w0
+Reward:1
+/m/02_286	/m/0cc56	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-0.4481)
+___
+/m/02_286	/m/0cc56	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-1.8287)
+___
+/m/02_286	/m/02xp18	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/01d494	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/04w1j9	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/022q4j	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/03pmty	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/021lby	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/08hp53	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/01wjrn	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/01wk51	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/016dgz	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/01fwpt	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/02n9k	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/01r0t_j	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-4.4996)
+___
+/m/02_286	/m/01h1b	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.4996)
+___
+/m/02_286	/m/0fvf9q	/m/030qb3t	/m/030qb3t
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.5009)
+___
+/m/02_286	/m/01mv_n	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.5009)
+___
+/m/02_286	/m/06sn8m	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.5013)
+___
+/m/02_286	/m/023n39	/m/09nqf	/m/09nqf
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4144)
+___
+/m/02_286	/m/023n39	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.7077)
+___
+/m/02_286	/m/023n39	/m/01mjq	/m/01mjq
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.7077)
+___
+/m/02_286	/m/0cc56	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-8.5238)
+___
+/m/02_286	/m/0cc56	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-8.5238)
+___
+/m/02_286	/m/05bjp6	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-10.9343)
+___
+/m/02_286	/m/0y62n	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-10.9352)
+___
+/m/02_286	/m/01jzyx	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-10.9480)
+___
+/m/02_286	/m/06182p	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-10.9493)
+___
+/m/02_286	/m/03bmmc	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-10.9537)
+___
+/m/02_286	/m/06sn8m	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-10.9721)
+___
+/m/02_286	/m/023n39	/m/02h40lc	/m/02h40lc
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/languages
+-1
+tensor(-11.0951)
+___
+/m/02_286	/m/0fvf9q	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-11.1365)
+___
+/m/02_286	/m/01mv_n	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-11.1400)
+___
+/m/02_286	/m/02sdwt	/m/0cr3d	/m/0cr3d
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-11.6275)
+___
+/m/02_286	/m/02sdwt	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-11.6275)
+___
+/m/02_286	/m/023n39	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.2701)
+___
+/m/02_286	/m/06sn8m	/m/033tf_	/m/033tf_
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-12.8947)
+___
+/m/02_286	/m/023n39	/m/065b6q	/m/065b6q
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-14.2712)
+___
+/m/02_286	/m/023n39	/m/01qhm_	/m/01qhm_
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-14.2712)
+___
+/m/02_286	/m/01mv_n	/m/030qb3t	/m/030qb3t
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/deceased_person/place_of_death
+-1
+tensor(-15.2738)
+___
+/m/02_286	/m/06182p	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.2445)
+___
+/m/02_286	/m/06182p	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.2445)
+___
+/m/02_286	/m/06182p	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+1
+tensor(-16.2445)
+___
+/m/02_286	/m/03bmmc	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+1
+tensor(-16.2754)
+___
+/m/02_286	/m/03bmmc	/m/0cr3d	/m/0cr3d
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.2754)
+___
+/m/02_286	/m/03bmmc	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.2754)
+___
+/m/02_286	/m/03bmmc	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.2754)
+___
+/m/02_286	/m/01jzyx	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.3303)
+___
+/m/02_286	/m/01jzyx	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.3303)
+___
+/m/02_286	/m/01jzyx	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+1
+tensor(-16.3303)
+___
+/m/02_286	/m/01h1b	/m/02h40lc	/m/02h40lc
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-16.6907)
+___
+/m/02_286	/m/021lby	/m/01531	/m/01531
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.5153)
+___
+/m/02_286	/m/08hp53	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.5478)
+___
+/m/02_286	/m/01r0t_j	/m/018vs	/m/018vs
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/music/instrument/instrumentalists
+-1
+tensor(-18.5668)
+___
+/m/02_286	/m/01r0t_j	/m/01qzyz	/m/01qzyz
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/music/instrument/instrumentalists
+-1
+tensor(-18.5668)
+___
+/m/02_286	/m/01r0t_j	/m/03gvt	/m/03gvt
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/music/instrument/instrumentalists
+-1
+tensor(-18.5668)
+___
+/m/02_286	/m/01r0t_j	/m/0gkd1	/m/0gkd1
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	_/music/instrument/instrumentalists
+-1
+tensor(-18.5668)
+___
+/m/02_286	/m/01fwpt	/m/0psxp	/m/0psxp
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.6084)
+___
+/m/02_286	/m/01fwpt	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.6084)
+___
+/m/02_286	/m/016dgz	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.6509)
+___
+/m/02_286	/m/016dgz	/m/01cx_	/m/01cx_
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.6509)
+___
+/m/02_286	/m/0y62n	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+-1
+tensor(-18.7092)
+___
+/m/02_286	/m/0y62n	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/location/location/contains
+1
+tensor(-18.7092)
+___
+/m/02_286	/m/01wk51	/m/0psxp	/m/0psxp
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7294)
+___
+/m/02_286	/m/01wk51	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7294)
+___
+/m/02_286	/m/02n9k	/m/02zp1t	/m/02zp1t
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7317)
+___
+/m/02_286	/m/02n9k	/m/0rh6k	/m/0rh6k
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7317)
+___
+/m/02_286	/m/022q4j	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7317)
+___
+/m/02_286	/m/01wjrn	/m/0r0m6	/m/0r0m6
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7434)
+___
+/m/02_286	/m/04w1j9	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7434)
+___
+/m/02_286	/m/01wjrn	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7434)
+___
+/m/02_286	/m/03pmty	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-18.7443)
+___
+/m/02vxn	/m/0181hw	/m/01_d4	/m/01_d4
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/place_founded
+-1
+tensor(-18.8699)
+___
+/m/02vxn	/m/03x_k5m	/m/04rrx	/m/04rrx
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-18.8699)
+___
+/m/02vxn	/m/0fvppk	/m/09c7w0	/m/09c7w0
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.8699)
+___
+/m/02vxn	/m/017s11	/m/09c7w0	/m/09c7w0
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.8699)
+___
+/m/02vxn	/m/025hwq	/m/09c7w0	/m/09c7w0
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.8699)
+___
+/m/02vxn	/m/02vyh	/m/07z1m	/m/07z1m
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-18.8699)
+___
+/m/02vxn	/m/09v3hq_	/m/02_286	/m/02_286
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-18.8699)
+___
+/m/02vxn	/m/0kx4m	/m/09c7w0	/m/09c7w0
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.8699)
+___
+/m/02vxn	/m/02jd_7	/m/09c7w0	/m/09c7w0
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.8699)
+___
+/m/02vxn	/m/05d6kv	/m/09c7w0	/m/09c7w0
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.8699)
+___
+/m/02vxn	/m/030_1_	/m/09c7w0	/m/09c7w0
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.8699)
+___
+/m/02vxn	/m/0674l0	/m/02vxn	/m/02vxn
+/business/business_operation/industry	_/business/business_operation/industry	/business/business_operation/industry
+-1
+tensor(-18.8702)
+___
+/m/02vxn	/m/09mfvx	/m/059rby	/m/059rby
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-18.9094)
+___
+/m/02vxn	/m/032dg7	/m/01n7q	/m/01n7q
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-18.9189)
+___
+/m/02vxn	/m/0k9ctht	/m/01n7q	/m/01n7q
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-18.9219)
+___
+/m/02vxn	/m/03rwz3	/m/01n7q	/m/01n7q
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-18.9355)
+___
+/m/02vxn	/m/0kk9v	/m/01n7q	/m/01n7q
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.0169)
+___
+/m/02vxn	/m/04f525m	/m/02jx1	/m/02jx1
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.0273)
+___
+/m/02vxn	/m/05rrtf	/m/01n7q	/m/01n7q
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.0892)
+___
+/m/02vxn	/m/01f_mw	/m/030qb3t	/m/030qb3t
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.2498)
+___
+/m/02vxn	/m/05d6q1	/m/02_286	/m/02_286
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.2779)
+___
+/m/02vxn	/m/081bls	/m/0r04p	/m/0r04p
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.2779)
+___
+/m/02vxn	/m/054lpb6	/m/01n7q	/m/01n7q
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.3864)
+___
+/m/02vxn	/m/09glbnt	/m/04jpl	/m/04jpl
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.5630)
+___
+/m/02vxn	/m/09glbnt	/m/0h7h6	/m/0h7h6
+/business/business_operation/industry	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.5630)
+___
+/m/02vxn	/m/034f0d	/m/04fv5b	/m/04fv5b
+/business/business_operation/industry	_/business/business_operation/industry	_/film/film/production_companies
+-1
+tensor(-19.5631)
+___
+/m/02vxn	/m/034f0d	/m/03p2xc	/m/03p2xc
+/business/business_operation/industry	_/business/business_operation/industry	_/film/film/production_companies
+-1
+tensor(-19.5631)
+___
+/m/02vxn	/m/0fqy4p	/m/02phtzk	/m/02phtzk
+/business/business_operation/industry	_/business/business_operation/industry	_/film/film/production_companies
+-1
+tensor(-19.5714)
+___
+#####################
+/m/02htv6	/m/09c7w0
+Reward:1
+/m/05tbn	/m/0fvzz	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.7986)
+___
+/m/05tbn	/m/0_jq4	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.7986)
+___
+/m/05tbn	/m/068p2	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.7986)
+___
+/m/0dclg	/m/042kbj	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/04b7xr	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/01dzz7	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/04954	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/02rk45	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/05strv	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/07k2p6	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-3.9195)
+___
+/m/0dclg	/m/04fhn_	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/03rqww	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/01_vfy	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/01_xtx	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/046chh	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/0dz46	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/01kmd4	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/014zfs	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/0147dk	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/02pbrn	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/044gyq	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/0k6yt1	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-3.9195)
+___
+/m/0dclg	/m/019f9z	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/music/artist/origin
+-1
+tensor(-3.9197)
+___
+/m/0dclg	/m/0cj36c	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-3.9209)
+___
+/m/0dclg	/m/02t_y3	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-3.9209)
+___
+/m/0dclg	/m/04fcx7	/m/09nqf	/m/09nqf
+_/location/location/contains	_/people/person/place_of_birth	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-3.9234)
+___
+/m/0dclg	/m/02ndf1	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-4.6126)
+___
+/m/0dclg	/m/02ndf1	/m/0d060g	/m/0d060g
+_/location/location/contains	_/people/person/place_of_birth	/people/person/nationality
+-1
+tensor(-4.6126)
+___
+/m/0dclg	/m/0311wg	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.6135)
+___
+/m/0dclg	/m/0311wg	/m/02_286	/m/02_286
+_/location/location/contains	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-4.6135)
+___
+/m/05tbn	/m/0fvzz	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-6.0821)
+___
+/m/05tbn	/m/0_jq4	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-6.0821)
+___
+/m/05tbn	/m/068p2	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-6.0821)
+___
+/m/0dclg	/m/02yr3z	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-8.8405)
+___
+/m/0dclg	/m/02htv6	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5179)
+___
+/m/0dclg	/m/02htv6	/m/0dclg	/m/0dclg
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5179)
+___
+/m/0dclg	/m/04fcx7	/m/02h40lc	/m/02h40lc
+_/location/location/contains	_/people/person/place_of_birth	/people/person/languages
+-1
+tensor(-9.7287)
+___
+/m/0dclg	/m/02t_y3	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-10.4825)
+___
+/m/0dclg	/m/0cj36c	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-10.4956)
+___
+/m/0dclg	/m/04fcx7	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-10.8948)
+___
+/m/0dclg	/m/0311wg	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-11.4050)
+___
+/m/0dclg	/m/019f9z	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-12.5756)
+___
+/m/0dclg	/m/0311wg	/m/0x67	/m/0x67
+_/location/location/contains	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-13.6035)
+___
+/m/0dclg	/m/0311wg	/m/033tf_	/m/033tf_
+_/location/location/contains	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-13.6035)
+___
+/m/0dclg	/m/0311wg	/m/06v41q	/m/06v41q
+_/location/location/contains	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-13.6035)
+___
+/m/0dclg	/m/0311wg	/m/04gfy7	/m/04gfy7
+_/location/location/contains	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-13.6035)
+___
+/m/0dclg	/m/0311wg	/m/07bch9	/m/07bch9
+_/location/location/contains	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-13.6035)
+___
+/m/0dclg	/m/02yr3z	/m/0dclg	/m/0dclg
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.0819)
+___
+/m/0dclg	/m/02yr3z	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.0819)
+___
+/m/0dclg	/m/02yr3z	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-14.0819)
+___
+/m/0dclg	/m/019f9z	/m/0x67	/m/0x67
+_/location/location/contains	_/people/person/place_of_birth	_/people/ethnicity/people
+-1
+tensor(-14.8296)
+___
+/m/0dclg	/m/0mwxz	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/country/second_level_divisions
+1
+tensor(-15.7933)
+___
+/m/0dclg	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/first_level_division_of
+1
+tensor(-15.7933)
+___
+/m/0dclg	/m/02pbrn	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/music/artist/origin
+-1
+tensor(-16.2407)
+___
+/m/0dclg	/m/0k6yt1	/m/0pzmf	/m/0pzmf
+_/location/location/contains	_/people/person/place_of_birth	/music/artist/origin
+-1
+tensor(-16.2810)
+___
+/m/0dclg	/m/0k6yt1	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/music/artist/origin
+-1
+tensor(-16.2810)
+___
+/m/0dclg	/m/044gyq	/m/0dclg	/m/0dclg
+_/location/location/contains	_/people/person/place_of_birth	/music/artist/origin
+-1
+tensor(-16.2896)
+___
+/m/05tbn	/m/0mwl2	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0fvzz	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0mwx6	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0mwk9	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0mwq7	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0dzs0	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.4202)
+___
+/m/05tbn	/m/068p2	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0zlgm	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0_75d	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.4202)
+___
+/m/05tbn	/m/016wyn	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.4202)
+___
+/m/05tbn	/m/0mwjk	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-16.4204)
+___
+/m/05tbn	/m/0mwh1	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-16.4205)
+___
+/m/05tbn	/m/0mwvq	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-16.4205)
+___
+/m/05tbn	/m/0mwm6	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-16.4205)
+___
+/m/05tbn	/m/0fxyd	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-16.4205)
+___
+/m/05tbn	/m/0frf6	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-16.4205)
+___
+/m/05tbn	/m/0m7fm	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-16.4209)
+___
+/m/05tbn	/m/012fvq	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-16.4249)
+___
+/m/05tbn	/m/0cwx_	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-16.4297)
+___
+/m/05tbn	/m/03fmfs	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-16.4297)
+___
+/m/05tbn	/m/04bbpm	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-16.4318)
+___
+/m/05tbn	/m/01j_5k	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-16.4318)
+___
+/m/05tbn	/m/0_jq4	/m/05tbn	/m/05tbn
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7004)
+___
+/m/05tbn	/m/0_jq4	/m/0mw7h	/m/0mw7h
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7004)
+___
+/m/05tbn	/m/068p2	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/location/contains
+1
+tensor(-16.7260)
+___
+/m/05tbn	/m/068p2	/m/05tbn	/m/05tbn
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7260)
+___
+/m/05tbn	/m/068p2	/m/0m7d0	/m/0m7d0
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7260)
+___
+/m/05tbn	/m/0fvzz	/m/05tbn	/m/05tbn
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7855)
+___
+/m/05tbn	/m/0fvzz	/m/0mwsh	/m/0mwsh
+_/location/location/contains	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7855)
+___
+/m/05tbn	/m/0zrlp	/m/0mwvq	/m/0mwvq
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.1134)
+___
+/m/05tbn	/m/0zrlp	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.1134)
+___
+/m/05tbn	/m/0mw89	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.1134)
+___
+/m/05tbn	/m/0zqq8	/m/0mww2	/m/0mww2
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.1134)
+___
+/m/05tbn	/m/0mw89	/m/08xpv_	/m/08xpv_
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.1134)
+___
+/m/05tbn	/m/0zqq8	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.1134)
+___
+/m/05tbn	/m/0l4vc	/m/0l3n4	/m/0l3n4
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.5188)
+___
+/m/05tbn	/m/0l4vc	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.5188)
+___
+/m/05tbn	/m/0kdqw	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.5188)
+___
+/m/05tbn	/m/0_565	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-17.5188)
+___
+/m/05tbn	/m/0_565	/m/05tbn	/m/05tbn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.5188)
+___
+/m/05tbn	/m/0kdqw	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-17.5188)
+___
+/m/05tbn	/m/0kdqw	/m/0fxyd	/m/0fxyd
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.5188)
+___
+/m/05tbn	/m/0l4vc	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-17.5188)
+___
+#####################
+/m/01dq5z	/m/09c7w0
+Reward:1
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/biblioness/bibs_location/country
+1
+tensor(-0.0137)
+___
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/biblioness/bibs_location/country
+1
+tensor(-4.2986)
+___
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+1
+tensor(-10.8022)
+___
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+1
+tensor(-11.7225)
+___
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-12.0261)
+___
+/m/04ykg	/m/0xddr	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-12.0261)
+___
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-14.6555)
+___
+/m/04ykg	/m/0xddr	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-14.6555)
+___
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+1
+tensor(-14.9415)
+___
+/m/04ykg	/m/0b2lw	/m/0nh57	/m/0nh57
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-14.9415)
+___
+/m/04rjg	/m/01bpn	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-16.6182)
+___
+/m/05qfh	/m/0mj0c	/m/02_286	/m/02_286
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-16.6803)
+___
+/m/05qfh	/m/0j3v	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-16.6803)
+___
+/m/05qfh	/m/02wh0	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-16.6803)
+___
+/m/04rjg	/m/02ln1	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-17.3113)
+___
+/m/04rjg	/m/02ln1	/m/0h7x	/m/0h7x
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-17.3113)
+___
+/m/04rlf	/m/0c8tkt	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/04969y	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/02s4l6	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0bx_hnp	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0fgrm	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/042y1c	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/04grkmd	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/03cyslc	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0hz6mv2	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-18.5084)
+___
+/m/04rlf	/m/03mnn0	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/05q7874	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0g5qmbz	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0bmpm	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/02fwfb	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-18.5084)
+___
+/m/04rlf	/m/02825kb	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/06q8qh	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/039zft	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/06t6dz	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/019kyn	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/08nhfc1	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0jnwx	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/01rnly	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0640y35	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0kbwb	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0h1fktn	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-18.5084)
+___
+/m/04rlf	/m/01pvxl	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-18.5084)
+___
+/m/04rlf	/m/0b1y_2	/m/09nqf	/m/09nqf
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-18.5085)
+___
+/m/04rlf	/m/01ffx4	/m/09nqf	/m/09nqf
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-18.5112)
+___
+/m/04rlf	/m/023p7l	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+1
+tensor(-18.5309)
+___
+/m/04rlf	/m/0dtzkt	/m/02h40lc	/m/02h40lc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/language
+-1
+tensor(-18.6022)
+___
+/m/04rlf	/m/02prw4h	/m/02h40lc	/m/02h40lc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/language
+-1
+tensor(-18.6690)
+___
+/m/04ykg	/m/0b2lw	/m/04ykg	/m/04ykg
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-18.7611)
+___
+/m/01540	/m/06pwq	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9384)
+___
+/m/01540	/m/01nm8w	/m/037n3	/m/037n3
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-18.9384)
+___
+/m/01540	/m/01hx2t	/m/05kj_	/m/05kj_
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-18.9384)
+___
+/m/01540	/m/02nq10	/m/059j2	/m/059j2
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-18.9384)
+___
+/m/01540	/m/01_qgp	/m/0chgr2	/m/0chgr2
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-18.9385)
+___
+/m/01540	/m/02h659	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9416)
+___
+/m/01540	/m/05mv4	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9429)
+___
+/m/01540	/m/06jk5_	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9432)
+___
+/m/01540	/m/02q636	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9433)
+___
+/m/01540	/m/012mzw	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9446)
+___
+/m/01540	/m/01s0_f	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9447)
+___
+/m/01540	/m/01g7_r	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9448)
+___
+/m/01540	/m/07wlf	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9459)
+___
+/m/01540	/m/037q2p	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-18.9487)
+___
+/m/04ykg	/m/0b2lw	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+1
+tensor(-19.0148)
+___
+/m/04ykg	/m/0b2lw	/m/0nh57	/m/0nh57
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-19.0148)
+___
+/m/04rlf	/m/027x7z5	/m/0chghy	/m/0chghy
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.2016)
+___
+/m/04rlf	/m/02847m9	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.2016)
+___
+/m/04rlf	/m/03kx49	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.2016)
+___
+/m/04rlf	/m/03kx49	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.2016)
+___
+/m/04rlf	/m/025rxjq	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.2016)
+___
+/m/04rlf	/m/027x7z5	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.2016)
+___
+/m/04rlf	/m/025rxjq	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.2016)
+___
+/m/04rlf	/m/02847m9	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.2016)
+___
+/m/04rlf	/m/0353xq	/m/02jx1	/m/02jx1
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.2016)
+___
+/m/04rlf	/m/0353xq	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.2016)
+___
+/m/04rlf	/m/05650n	/m/0chghy	/m/0chghy
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.2016)
+___
+/m/04rlf	/m/05650n	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.2016)
+___
+/m/01540	/m/02gr81	/m/07b_l	/m/07b_l
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.2365)
+___
+/m/01540	/m/0gl5_	/m/05k7sb	/m/05k7sb
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-19.5397)
+___
+/m/04rlf	/m/0ddj0x	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.6070)
+___
+/m/04rlf	/m/0ddj0x	/m/03rt9	/m/03rt9
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.6070)
+___
+/m/04rlf	/m/02725hs	/m/0f8l9c	/m/0f8l9c
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.6070)
+___
+/m/04rlf	/m/0ddj0x	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.6070)
+___
+/m/04rlf	/m/02725hs	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.6070)
+___
+/m/04rlf	/m/02725hs	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.6070)
+___
+/m/04rlf	/m/011yl_	/m/0ctw_b	/m/0ctw_b
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.6070)
+___
+/m/04rlf	/m/011yl_	/m/0chghy	/m/0chghy
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-19.6070)
+___
+/m/04rlf	/m/011yl_	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+1
+tensor(-19.6070)
+___
+/m/01540	/m/01jq4b	/m/0ygbf	/m/0ygbf
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/01jq4b	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-19.6316)
+___
+/m/01540	/m/07vht	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-19.6316)
+___
+/m/01540	/m/07vht	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/01xvlc	/m/0glh3	/m/0glh3
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/01xvlc	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/049dk	/m/0488g	/m/0488g
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/07vfj	/m/059rby	/m/059rby
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/049dk	/m/013cz2	/m/013cz2
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/01f1r4	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/01f1r4	/m/0r62v	/m/0r62v
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+/m/01540	/m/07vfj	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-19.6316)
+___
+/m/01540	/m/03ksy	/m/05k7sb	/m/05k7sb
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-19.6316)
+___
+#####################
+/m/09f2j	/m/09c7w0
+Reward:1
+/m/037mh8	/m/0m93	/m/03shp	/m/03shp
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-4.9341)
+___
+/m/05qfh	/m/0mj0c	/m/02_286	/m/02_286
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-5.1210)
+___
+/m/05qfh	/m/0j3v	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-5.1210)
+___
+/m/05qfh	/m/02wh0	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-5.1210)
+___
+/m/037mh8	/m/019fv4	/m/09hrc	/m/09hrc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	/people/person/place_of_birth	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.3055)
+___
+/m/0jjw	/m/06pwq	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-5.4354)
+___
+/m/0jjw	/m/01g4yw	/m/02jx1	/m/02jx1
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-5.4354)
+___
+/m/05b6c	/m/0kz2w	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-5.5381)
+___
+/m/05b6c	/m/06pwq	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-5.5381)
+___
+/m/01lhf	/m/017j69	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-5.7219)
+___
+/m/01lhf	/m/06pwq	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-5.7219)
+___
+/m/01lhf	/m/01tntf	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-5.7275)
+___
+/m/0dc_v	/m/04jhp	/m/0d0vqn	/m/0d0vqn
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.0086)
+___
+/m/0dc_v	/m/05zl0	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.0086)
+___
+/m/0dc_v	/m/07wrz	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.0102)
+___
+/m/0jjw	/m/02w2bc	/m/04rrx	/m/04rrx
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.1286)
+___
+/m/0jjw	/m/02w2bc	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.1286)
+___
+/m/0jjw	/m/013807	/m/0d6lp	/m/0d6lp
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.1286)
+___
+/m/0jjw	/m/013807	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.1286)
+___
+/m/0jjw	/m/07xpm	/m/02yc5b	/m/02yc5b
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.1286)
+___
+/m/0jjw	/m/07xpm	/m/0ctw_b	/m/0ctw_b
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.1286)
+___
+/m/0jjw	/m/03ksy	/m/05k7sb	/m/05k7sb
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.1286)
+___
+/m/0jjw	/m/03ksy	/m/01qh7	/m/01qh7
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.1286)
+___
+/m/05b6c	/m/01w5m	/m/059rby	/m/059rby
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-6.2011)
+___
+/m/05b6c	/m/0dy04	/m/0h7x	/m/0h7x
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2312)
+___
+/m/05b6c	/m/0dy04	/m/0fhp9	/m/0fhp9
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2312)
+___
+/m/05b6c	/m/01hhvg	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2313)
+___
+/m/05b6c	/m/01hhvg	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.2313)
+___
+/m/05b6c	/m/07vht	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.2313)
+___
+/m/05b6c	/m/07vht	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2313)
+___
+/m/05b6c	/m/03ksy	/m/05k7sb	/m/05k7sb
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2313)
+___
+/m/05b6c	/m/03ksy	/m/01qh7	/m/01qh7
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2313)
+___
+/m/05b6c	/m/01bm_	/m/06btq	/m/06btq
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2313)
+___
+/m/05b6c	/m/01bm_	/m/0c1d0	/m/0c1d0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.2313)
+___
+/m/0db86	/m/06pwq	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.4139)
+___
+/m/0db86	/m/0jpkw	/m/0d060g	/m/0d060g
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.4139)
+___
+/m/0db86	/m/065y4w7	/m/030qb3t	/m/030qb3t
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.4139)
+___
+/m/0db86	/m/05zl0	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.4140)
+___
+/m/01lhf	/m/02mp0g	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.4151)
+___
+/m/01lhf	/m/02mp0g	/m/0846v	/m/0846v
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.4151)
+___
+/m/01lhf	/m/02dq8f	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.4151)
+___
+/m/01lhf	/m/02dq8f	/m/059rby	/m/059rby
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.4151)
+___
+/m/0db86	/m/0cwx_	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.4199)
+___
+/m/0db86	/m/04rwx	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.4200)
+___
+/m/0db86	/m/0jpn8	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.4229)
+___
+/m/01lhf	/m/0gl5_	/m/05k7sb	/m/05k7sb
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-6.4732)
+___
+/m/0193x	/m/017j69	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.5316)
+___
+/m/0193x	/m/07vfz	/m/0d6lp	/m/0d6lp
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.5316)
+___
+/m/0193x	/m/05zl0	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.5316)
+___
+/m/0jjw	/m/01j_9c	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.5340)
+___
+/m/0jjw	/m/01j_9c	/m/0t015	/m/0t015
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.5340)
+___
+/m/0jjw	/m/01j_9c	/m/03s0w	/m/03s0w
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.5340)
+___
+/m/0193x	/m/012mzw	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.5351)
+___
+/m/0193x	/m/02tz9z	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.5368)
+___
+/m/0193x	/m/02km0m	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-6.5374)
+___
+/m/05b6c	/m/07tk7	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.6367)
+___
+/m/05b6c	/m/07tk7	/m/02jx1	/m/02jx1
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.6367)
+___
+/m/05b6c	/m/07tk7	/m/0978r	/m/0978r
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.6367)
+___
+/m/0dc_v	/m/01stzp	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7017)
+___
+/m/0dc_v	/m/01stzp	/m/0156q	/m/0156q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7017)
+___
+/m/0dc_v	/m/03ksy	/m/05k7sb	/m/05k7sb
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7017)
+___
+/m/0dc_v	/m/03ksy	/m/01qh7	/m/01qh7
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7017)
+___
+/m/0dc_v	/m/06fq2	/m/03l2n	/m/03l2n
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7017)
+___
+/m/0dc_v	/m/06fq2	/m/07b_l	/m/07b_l
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7017)
+___
+/m/0dc_v	/m/09kvv	/m/094jv	/m/094jv
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7018)
+___
+/m/0dc_v	/m/09kvv	/m/04rrd	/m/04rrd
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7018)
+___
+/m/0dc_v	/m/07w0v	/m/0vzm	/m/0vzm
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7018)
+___
+/m/0dc_v	/m/07w0v	/m/07b_l	/m/07b_l
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.7018)
+___
+/m/01lhf	/m/0lwyk	/m/03s5t	/m/03s5t
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/0lwyk	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.8205)
+___
+/m/01lhf	/m/0lwyk	/m/099ty	/m/099ty
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/026vcc	/m/0r0m6	/m/0r0m6
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/026vcc	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/026vcc	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.8205)
+___
+/m/01lhf	/m/07tds	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.8205)
+___
+/m/01lhf	/m/07tds	/m/0dclg	/m/0dclg
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/07tds	/m/05tbn	/m/05tbn
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/052nd	/m/052p7	/m/052p7
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/052nd	/m/0694j	/m/0694j
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/01lhf	/m/052nd	/m/0d060g	/m/0d060g
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8205)
+___
+/m/0jjw	/m/0288zy	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+1
+tensor(-6.8217)
+___
+/m/0jjw	/m/0288zy	/m/0dc95	/m/0dc95
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8217)
+___
+/m/0jjw	/m/0288zy	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8217)
+___
+/m/0jjw	/m/0288zy	/m/0kpzy	/m/0kpzy
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-6.8217)
+___
+/m/0dc_v	/m/01w3v	/m/059rby	/m/059rby
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-6.9536)
+___
+/m/0db86	/m/0c5x_	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-6.9637)
+___
+/m/0db86	/m/03v6t	/m/0nmj	/m/0nmj
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/03v6t	/m/03s0w	/m/03s0w
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/07w0v	/m/0vzm	/m/0vzm
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/07w0v	/m/07b_l	/m/07b_l
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/0jkhr	/m/0fvyg	/m/0fvyg
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/0jkhr	/m/05fkf	/m/05fkf
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/01f1r4	/m/01n7q	/m/01n7q
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/01f1r4	/m/0r62v	/m/0r62v
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/09kvv	/m/04rrd	/m/04rrd
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0db86	/m/09kvv	/m/094jv	/m/094jv
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1071)
+___
+/m/0dc_v	/m/07tg4	/m/02j9z	/m/02j9z
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1072)
+___
+/m/0dc_v	/m/07tg4	/m/0978r	/m/0978r
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1072)
+___
+/m/0dc_v	/m/07tg4	/m/02jx1	/m/02jx1
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1072)
+___
+/m/0dc_v	/m/0g8rj	/m/07z1m	/m/07z1m
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-7.1072)
+___
+#####################
+/m/01fkr_	/m/09c7w0
+Reward:1
+/m/059rby	/m/0lpk3	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.6884)
+___
+/m/059rby	/m/03v_5	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.6884)
+___
+/m/059rby	/m/0yc84	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.6884)
+___
+/m/059rby	/m/0yc7f	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.6884)
+___
+/m/059rby	/m/01mc11	/m/0dc3_	/m/0dc3_
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-2.3815)
+___
+/m/059rby	/m/01mc11	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-2.3815)
+___
+/m/059rby	/m/0f4y_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-4.3069)
+___
+/m/059rby	/m/0ff0x	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-4.3080)
+___
+/m/059rby	/m/0f63n	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-4.4527)
+___
+/m/059rby	/m/0f612	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-4.5184)
+___
+/m/059rby	/m/0fc1_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-4.5239)
+___
+/m/059rby	/m/0fc1_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.9424)
+___
+/m/059rby	/m/0f612	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.9652)
+___
+/m/059rby	/m/01d8yn	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-6.0507)
+___
+/m/059rby	/m/02cx72	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-6.0507)
+___
+/m/059rby	/m/02rn_bj	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/music/artist/origin
+-1
+tensor(-6.2806)
+___
+/m/059rby	/m/0f63n	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.3056)
+___
+/m/02_286	/m/0cc56	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-6.8766)
+___
+/m/059rby	/m/02rn_bj	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-8.3276)
+___
+/m/059rby	/m/02rn_bj	/m/030qb3t	/m/030qb3t
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-8.3276)
+___
+/m/02_286	/m/0cc56	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.4797)
+___
+/m/059rby	/m/0ff0x	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-11.0481)
+___
+/m/02_286	/m/01d494	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/02xp18	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/02n9k	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/03pmty	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/08hp53	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/016dgz	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/021lby	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/04w1j9	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/022q4j	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/01wk51	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/01wjrn	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/01fwpt	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/01h1b	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-11.2772)
+___
+/m/02_286	/m/01r0t_j	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-11.2772)
+___
+/m/02_286	/m/0fvf9q	/m/030qb3t	/m/030qb3t
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-11.2783)
+___
+/m/02_286	/m/01mv_n	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-11.2786)
+___
+/m/02_286	/m/06sn8m	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-11.2788)
+___
+/m/02_286	/m/023n39	/m/09nqf	/m/09nqf
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency
+-1
+tensor(-12.1691)
+___
+/m/02_286	/m/023n39	/m/01mjq	/m/01mjq
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-12.5010)
+___
+/m/02_286	/m/023n39	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-12.5010)
+___
+/m/059rby	/m/0fc1_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-12.6315)
+___
+/m/059rby	/m/0f612	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-12.6666)
+___
+/m/059rby	/m/0f63n	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-12.9998)
+___
+/m/059rby	/m/0dq16	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-14.7964)
+___
+/m/059rby	/m/02_286	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/location/administrative_division/country
+1
+tensor(-14.7964)
+___
+/m/059rby	/m/0cyn3	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.7964)
+___
+/m/059rby	/m/0fmc5	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.7966)
+___
+/m/059rby	/m/0f6_j	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.7967)
+___
+/m/059rby	/m/0dc3_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.7967)
+___
+/m/059rby	/m/0drs7	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.7967)
+___
+/m/059rby	/m/0fc2c	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.7968)
+___
+/m/059rby	/m/0fm9_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.7968)
+___
+/m/059rby	/m/0ccvx	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.7972)
+___
+/m/059rby	/m/02kth6	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.8042)
+___
+/m/059rby	/m/01pcj4	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.8047)
+___
+/m/059rby	/m/01cf5	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.8048)
+___
+/m/059rby	/m/0hpv3	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.8072)
+___
+/m/059rby	/m/04sylm	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.8100)
+___
+/m/059rby	/m/01jzyx	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.8121)
+___
+/m/059rby	/m/021q2j	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.8127)
+___
+/m/059rby	/m/02rn_bj	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-14.8907)
+___
+/m/059rby	/m/0f612	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.9196)
+___
+/m/059rby	/m/0fplv	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.9624)
+___
+/m/059rby	/m/0f60c	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-15.0027)
+___
+/m/02_286	/m/0cc56	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.2174)
+___
+/m/02_286	/m/0cc56	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.2174)
+___
+/m/059rby	/m/0y3k9	/m/0fczy	/m/0fczy
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4896)
+___
+/m/059rby	/m/0y3k9	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4896)
+___
+/m/059rby	/m/01qcx_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4896)
+___
+/m/059rby	/m/01mc11	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4896)
+___
+/m/059rby	/m/01mc11	/m/0dc3_	/m/0dc3_
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4896)
+___
+/m/059rby	/m/01qcx_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-15.4896)
+___
+/m/059rby	/m/07x4c	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4896)
+___
+/m/059rby	/m/07x4c	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-15.4896)
+___
+/m/059rby	/m/01l8t8	/m/0d_kd	/m/0d_kd
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.8951)
+___
+/m/059rby	/m/01l8t8	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.8951)
+___
+/m/059rby	/m/01l8t8	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-15.8951)
+___
+/m/059rby	/m/0f94t	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.1827)
+___
+/m/059rby	/m/0f94t	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.1827)
+___
+/m/059rby	/m/0y2dl	/m/04n3l	/m/04n3l
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.1827)
+___
+/m/059rby	/m/0y2dl	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-16.1827)
+___
+/m/059rby	/m/0y2dl	/m/0cyn3	/m/0cyn3
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.1827)
+___
+/m/059rby	/m/0f94t	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-16.1827)
+___
+/m/059rby	/m/0f94t	/m/01t12z	/m/01t12z
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.1827)
+___
+/m/059rby	/m/0y2dl	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-16.1827)
+___
+/m/059rby	/m/0f60c	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-16.4795)
+___
+/m/059rby	/m/0yc7f	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+1
+tensor(-16.5665)
+___
+/m/059rby	/m/0yc7f	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.5665)
+___
+/m/059rby	/m/03v_5	/m/0fplg	/m/0fplg
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.5665)
+___
+/m/059rby	/m/0yc7f	/m/0cymp	/m/0cymp
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.5665)
+___
+/m/059rby	/m/03v_5	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.5665)
+___
+/m/059rby	/m/0yc84	/m/0cymp	/m/0cymp
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.5702)
+___
+/m/059rby	/m/0yc84	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.5702)
+___
+/m/059rby	/m/0fplv	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-16.6756)
+___
+/m/059rby	/m/0lpk3	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.8508)
+___
+/m/059rby	/m/0lpk3	/m/0fc_9	/m/0fc_9
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.8508)
+___
+/m/059rby	/m/0f612	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-16.9532)
+___
+/m/02_286	/m/01mv_n	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/citytown	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-17.8376)
+___
+#####################
+/m/01dbns	/m/06t2t
+Reward:0
+/m/06mtq	/m/0mgp	/m/0chghy	/m/0chghy
+/organization/organization/headquarters./location/mailing_address/state_province_region	/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-0.0017)
+___
+/m/0mgp	/m/06mtq	/m/0chghy	/m/0chghy
+/organization/organization/headquarters./location/mailing_address/citytown	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-6.5243)
+___
+/m/0cd25	/m/01dbns	/m/06mtq	/m/06mtq
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-11.0020)
+___
+/m/04rjg	/m/01bpn	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-11.5709)
+___
+/m/04sh3	/m/0m93	/m/03shp	/m/03shp
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-11.9374)
+___
+/m/04rjg	/m/02ln1	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-12.2641)
+___
+/m/04rjg	/m/02ln1	/m/0h7x	/m/0h7x
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-12.2641)
+___
+/m/05qt0	/m/0lcx	/m/0f8l9c	/m/0f8l9c
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-12.3986)
+___
+/m/05qt0	/m/0gz_	/m/035qy	/m/035qy
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-12.3986)
+___
+/m/05qt0	/m/045bg	/m/0f8l9c	/m/0f8l9c
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-12.3986)
+___
+/m/05qt0	/m/0b78hw	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-12.3986)
+___
+/m/06mtq	/m/0mgp	/m/0chghy	/m/0chghy
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+tensor(-12.7745)
+___
+/m/06mtq	/m/0chghy	/m/0jhn7	/m/0jhn7
+/organization/organization/headquarters./location/mailing_address/state_province_region	/base/aareas/schema/administrative_area/administrative_parent	/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-13.0573)
+___
+/m/05qt0	/m/01dvtx	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-13.0918)
+___
+/m/05qt0	/m/01dvtx	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-13.0918)
+___
+/m/05qt0	/m/0nk72	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-13.0918)
+___
+/m/05qt0	/m/0nk72	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/user/alexander/philosophy/philosopher/interests	/people/person/nationality
+-1
+tensor(-13.0918)
+___
+/m/04h9h	/m/01dbns	/m/06mtq	/m/06mtq
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-13.8828)
+___
+/m/0cd25	/m/04sh3	/m/04n6k	/m/04n6k
+/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/field_of_study/students_majoring./education/education/major_field_of_study	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-13.9178)
+___
+/m/03g3w	/m/0b4lkx	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0qm8b	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0qmhk	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/09rvcvl	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/01br2w	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0qmd5	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/04dsnp	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0hfzr	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0260bz	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0k4kk	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0n08r	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/09yxcz	/m/03rk0	/m/03rk0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/0bbgvp	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/07024	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-13.9334)
+___
+/m/03g3w	/m/07vn_9	/m/09nqf	/m/09nqf
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.9335)
+___
+/m/04h9h	/m/04vvh9	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/01xq8v	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/011yr9	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/065dc4	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/040rmy	/m/06mkj	/m/06mkj
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/024lt6	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/04zl8	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/042y1c	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/07jxpf	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/02_fz3	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/0jsf6	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/047vnkj	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/01chpn	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/035yn8	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/0286gm1	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/07g1sm	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/01br2w	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/0f4_2k	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.0592)
+___
+/m/04h9h	/m/085wqm	/m/09nqf	/m/09nqf
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.0594)
+___
+/m/04h9h	/m/0jqzt	/m/09nqf	/m/09nqf
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-14.0607)
+___
+/m/04h9h	/m/0cbl95	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-14.1900)
+___
+/m/04x_3	/m/0h6rm	/m/02m77	/m/02m77
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/location/location/contains
+-1
+tensor(-14.5774)
+___
+/m/04x_3	/m/0qlnr	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-14.5823)
+___
+/m/04x_3	/m/04rwx	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-14.5826)
+___
+/m/04x_3	/m/0l2tk	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-14.5828)
+___
+/m/0cd25	/m/01dbns	/m/04rjg	/m/04rjg
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-14.5858)
+___
+/m/0cd25	/m/01dbns	/m/0cd25	/m/0cd25
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-14.5858)
+___
+/m/0cd25	/m/01dbns	/m/03g3w	/m/03g3w
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-14.5858)
+___
+/m/0cd25	/m/01dbns	/m/04h9h	/m/04h9h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-14.5858)
+___
+/m/0cd25	/m/01dbns	/m/04sh3	/m/04sh3
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-14.5858)
+___
+/m/0cd25	/m/01dbns	/m/04x_3	/m/04x_3
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-14.5858)
+___
+/m/0cd25	/m/01dbns	/m/05qt0	/m/05qt0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution/students_graduates./education/education/major_field_of_study	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-14.5858)
+___
+/m/03g3w	/m/0gyy53	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/0gyy53	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/01242_	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/07yk1xz	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/07yk1xz	/m/0hzlz	/m/0hzlz
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/01242_	/m/03rt9	/m/03rt9
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/02vqsll	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/064lsn	/m/05qhw	/m/05qhw
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/02vqsll	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/09q23x	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/09q23x	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/064lsn	/m/0f8l9c	/m/0f8l9c
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6265)
+___
+/m/03g3w	/m/05z43v	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6925)
+___
+/m/03g3w	/m/05z43v	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/genre	/film/film/country
+-1
+tensor(-14.6925)
+___
+/m/04h9h	/m/05dl1s	/m/0d060g	/m/0d060g
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/0gh6j94	/m/0f8l9c	/m/0f8l9c
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/0gh6j94	/m/03rjj	/m/03rjj
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/05dl1s	/m/0chghy	/m/0chghy
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/0dw4b0	/m/0chghy	/m/0chghy
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/0dw4b0	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/0fg04	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/02nx2k	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/034r25	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/019vhk	/m/03rjj	/m/03rjj
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/02nx2k	/m/01mjq	/m/01mjq
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/0fg04	/m/0345h	/m/0345h
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/019vhk	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/034r25	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/0f4m2z	/m/03rjj	/m/03rjj
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/06x43v	/m/0f8l9c	/m/0f8l9c
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/03cw411	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/06x43v	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/026fs38	/m/07ssc	/m/07ssc
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+/m/04h9h	/m/026fs38	/m/09c7w0	/m/09c7w0
+/education/educational_institution/students_graduates./education/education/major_field_of_study	_/film/film/language	/film/film/country
+-1
+tensor(-14.7523)
+___
+#####################
+/m/01r3kd	/m/09c7w0
+Reward:1
+/m/059rby	/m/0lpk3	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.7960)
+___
+/m/059rby	/m/0yc84	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.7960)
+___
+/m/059rby	/m/03v_5	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.7960)
+___
+/m/059rby	/m/0yc7f	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/country
+1
+tensor(-1.7960)
+___
+/m/059rby	/m/01mc11	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-2.4891)
+___
+/m/059rby	/m/01mc11	/m/0dc3_	/m/0dc3_
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-2.4891)
+___
+/m/059rby	/m/0f4y_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.3886)
+___
+/m/059rby	/m/0ff0x	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.3899)
+___
+/m/059rby	/m/0fc1_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-3.5457)
+___
+/m/059rby	/m/0f63n	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-3.5957)
+___
+/m/059rby	/m/0f612	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+1
+tensor(-3.5957)
+___
+/m/059rby	/m/0f612	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.0662)
+___
+/m/059rby	/m/0f63n	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.0662)
+___
+/m/059rby	/m/0fc1_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.3187)
+___
+/m/059rby	/m/01d8yn	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-7.6872)
+___
+/m/059rby	/m/02cx72	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/nationality
+1
+tensor(-7.6872)
+___
+/m/059rby	/m/02rn_bj	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/music/artist/origin
+-1
+tensor(-7.9060)
+___
+/m/059rby	/m/02rn_bj	/m/030qb3t	/m/030qb3t
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-10.0084)
+___
+/m/059rby	/m/02rn_bj	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-10.0084)
+___
+/m/059rby	/m/0ff0x	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-10.1010)
+___
+/m/059rby	/m/0f63n	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-11.7839)
+___
+/m/059rby	/m/0f612	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-11.7839)
+___
+/m/059rby	/m/0fc1_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-12.1158)
+___
+/m/059rby	/m/0dq16	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-14.0338)
+___
+/m/059rby	/m/0cyn3	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.0338)
+___
+/m/059rby	/m/02_286	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/location/administrative_division/country
+1
+tensor(-14.0338)
+___
+/m/059rby	/m/0fm9_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.0339)
+___
+/m/059rby	/m/0fc2c	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.0339)
+___
+/m/059rby	/m/0dc3_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.0339)
+___
+/m/059rby	/m/0drs7	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.0339)
+___
+/m/059rby	/m/0f6_j	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.0340)
+___
+/m/059rby	/m/0fmc5	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.0340)
+___
+/m/059rby	/m/0ccvx	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.0344)
+___
+/m/059rby	/m/01cf5	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.0406)
+___
+/m/059rby	/m/02kth6	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.0408)
+___
+/m/059rby	/m/01pcj4	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.0419)
+___
+/m/059rby	/m/0hpv3	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.0429)
+___
+/m/059rby	/m/04sylm	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.0459)
+___
+/m/059rby	/m/01jzyx	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.0482)
+___
+/m/059rby	/m/021q2j	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-14.0518)
+___
+/m/059rby	/m/0fplv	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.1919)
+___
+/m/059rby	/m/0f60c	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.1927)
+___
+/m/059rby	/m/0f612	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/country/second_level_divisions
+1
+tensor(-14.2214)
+___
+/m/059rby	/m/0y3k9	/m/0fczy	/m/0fczy
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.7269)
+___
+/m/059rby	/m/0y3k9	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.7269)
+___
+/m/059rby	/m/01mc11	/m/0dc3_	/m/0dc3_
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.7269)
+___
+/m/059rby	/m/01mc11	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.7269)
+___
+/m/059rby	/m/01qcx_	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.7269)
+___
+/m/059rby	/m/01qcx_	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-14.7269)
+___
+/m/059rby	/m/07x4c	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-14.7269)
+___
+/m/059rby	/m/07x4c	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-14.7269)
+___
+/m/059rby	/m/01l8t8	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-15.1324)
+___
+/m/059rby	/m/01l8t8	/m/0d_kd	/m/0d_kd
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.1324)
+___
+/m/059rby	/m/01l8t8	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.1324)
+___
+/m/059rby	/m/0f94t	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4200)
+___
+/m/059rby	/m/0y2dl	/m/0cyn3	/m/0cyn3
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4200)
+___
+/m/059rby	/m/0f94t	/m/01t12z	/m/01t12z
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4200)
+___
+/m/059rby	/m/0f94t	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-15.4200)
+___
+/m/059rby	/m/0f94t	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4200)
+___
+/m/059rby	/m/0y2dl	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4200)
+___
+/m/059rby	/m/0y2dl	/m/04n3l	/m/04n3l
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-15.4200)
+___
+/m/059rby	/m/0y2dl	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-15.4200)
+___
+/m/059rby	/m/0f612	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-15.8005)
+___
+/m/059rby	/m/0f60c	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-15.9537)
+___
+/m/059rby	/m/0fplv	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-15.9571)
+___
+/m/059rby	/m/02rn_bj	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/people/person/place_of_birth	/people/person/place_of_birth
+-1
+tensor(-16.4273)
+___
+/m/059rby	/m/03v_5	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.6744)
+___
+/m/059rby	/m/03v_5	/m/0fplg	/m/0fplg
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.6744)
+___
+/m/059rby	/m/0yc84	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7566)
+___
+/m/059rby	/m/0yc84	/m/0cymp	/m/0cymp
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.7566)
+___
+/m/059rby	/m/0yc7f	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.8630)
+___
+/m/059rby	/m/0yc7f	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+1
+tensor(-16.8630)
+___
+/m/059rby	/m/0yc7f	/m/0cymp	/m/0cymp
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.8630)
+___
+/m/059rby	/m/0lpk3	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.9934)
+___
+/m/059rby	/m/0lpk3	/m/0fc_9	/m/0fc_9
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/base/biblioness/bibs_location/state	_/location/location/contains
+-1
+tensor(-16.9934)
+___
+/m/059rby	/m/01jzyx	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-19.3770)
+___
+/m/059rby	/m/01jzyx	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.3770)
+___
+/m/059rby	/m/01jzyx	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.3770)
+___
+/m/059rby	/m/0hpv3	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.4303)
+___
+/m/059rby	/m/0hpv3	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.4303)
+___
+/m/059rby	/m/021q2j	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.4443)
+___
+/m/059rby	/m/021q2j	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.4443)
+___
+/m/059rby	/m/021q2j	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-19.4443)
+___
+/m/059rby	/m/021q2j	/m/0cr3d	/m/0cr3d
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.4443)
+___
+/m/059rby	/m/01pcj4	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-19.5412)
+___
+/m/059rby	/m/01pcj4	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.5412)
+___
+/m/059rby	/m/04sylm	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-19.5452)
+___
+/m/059rby	/m/04sylm	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.5452)
+___
+/m/059rby	/m/04sylm	/m/02_286	/m/02_286
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.5452)
+___
+/m/059rby	/m/02kth6	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.6805)
+___
+/m/059rby	/m/02kth6	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-19.6805)
+___
+/m/059rby	/m/01cf5	/m/059rby	/m/059rby
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+-1
+tensor(-19.7083)
+___
+/m/059rby	/m/01cf5	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	/location/location/contains	_/location/location/contains
+1
+tensor(-19.7083)
+___
+/m/059rby	/m/01b3l	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-21.6117)
+___
+/m/059rby	/m/06nvzg	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-21.6117)
+___
+/m/059rby	/m/087c7	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-21.6117)
+___
+/m/059rby	/m/03p7gb	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-21.6117)
+___
+/m/059rby	/m/02l1fn	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-21.6231)
+___
+/m/059rby	/m/03zj9	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-21.6244)
+___
+/m/059rby	/m/03_fmr	/m/09c7w0	/m/09c7w0
+/organization/organization/headquarters./location/mailing_address/state_province_region	_/organization/organization/headquarters./location/mailing_address/state_province_region	/organization/organization/headquarters./location/mailing_address/country
+1
+tensor(-21.6250)
+___
+#####################

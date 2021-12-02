@@ -1,0 +1,503 @@
+/m/0fbq2n	/m/05b3ts
+Reward:0
+/m/0fbq2n	/m/0fbq2n	/m/0fbq2n	/m/0fbq2n
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-0.1539)
+___
+/m/0fbq2n	/m/0fbq2n	/m/0frmb1	/m/0frmb1
+NO_OP	NO_OP	_/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-1.9768)
+___
+/m/0fbq2n	/m/0fbq2n	/m/02mf7	/m/02mf7
+NO_OP	NO_OP	_/sports/sports_team_location/teams
+-1
+tensor(-6.0792)
+___
+/m/0fbq2n	/m/0frmb1	/m/05tg3	/m/05tg3
+NO_OP	_/sports/pro_athlete/teams./sports/sports_team_roster/team	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-7.1100)
+___
+/m/0fbq2n	/m/0frmb1	/m/0fbq2n	/m/0fbq2n
+NO_OP	_/sports/pro_athlete/teams./sports/sports_team_roster/team	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-7.1100)
+___
+/m/0fbq2n	/m/0fbq2n	/m/088fh	/m/088fh
+NO_OP	NO_OP	/sports/sports_team/colors
+-1
+tensor(-12.9663)
+___
+/m/0fbq2n	/m/0fbq2n	/m/038hg	/m/038hg
+NO_OP	NO_OP	/sports/sports_team/colors
+-1
+tensor(-12.9663)
+___
+/m/06b1q	/m/02wvf2s	/m/02wvf2s	/m/02wvf2s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	NO_OP
+-1
+tensor(-14.3030)
+___
+/m/06b1q	/m/01lpx8	/m/01lpx8	/m/01lpx8
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	NO_OP
+-1
+tensor(-14.3044)
+___
+/m/06b1q	/m/0j8sq	/m/01snvb	/m/01snvb
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-14.7981)
+___
+/m/06b1q	/m/0ftccy	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-15.0167)
+___
+/m/06b1q	/m/0j8sq	/m/01snvb	/m/01snvb
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/sports/sports_team/roster./american_football/football_historical_roster_position/position_s
+-1
+tensor(-15.2435)
+___
+/m/01_9c1	/m/0bs09lb	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.3563)
+___
+/m/01_9c1	/m/0bs09lb	/m/01snvb	/m/01snvb
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.3563)
+___
+/m/02g_6x	/m/01y3v	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.5355)
+___
+/m/02g_6x	/m/01y3v	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.5355)
+___
+/m/02g_6x	/m/01y3v	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.5355)
+___
+/m/01_9c1	/m/0fjzsy	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6532)
+___
+/m/01_9c1	/m/0fjzsy	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6532)
+___
+/m/01_9c1	/m/0fjzsy	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6532)
+___
+/m/06b1q	/m/0ftccy	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/sports/sports_team/roster./american_football/football_historical_roster_position/position_s
+-1
+tensor(-15.6693)
+___
+/m/06b1q	/m/0ftccy	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/sports/sports_team/roster./american_football/football_historical_roster_position/position_s
+-1
+tensor(-15.6693)
+___
+/m/02g_7z	/m/01ct6	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.6702)
+___
+/m/02g_7z	/m/01ct6	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6702)
+___
+/m/02g_7z	/m/01ct6	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6702)
+___
+/m/02g_7z	/m/01ct6	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6702)
+___
+/m/02g_6x	/m/03gqb0k	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6822)
+___
+/m/02g_6x	/m/03gqb0k	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6822)
+___
+/m/02g_6x	/m/03gqb0k	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6822)
+___
+/m/02g_7z	/m/0fjzsy	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6939)
+___
+/m/02g_7z	/m/0fjzsy	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6939)
+___
+/m/02g_7z	/m/0fjzsy	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6939)
+___
+/m/02g_6x	/m/07l2m	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6961)
+___
+/m/02g_6x	/m/07l2m	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.6961)
+___
+/m/02g_6x	/m/07l2m	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.6961)
+___
+/m/01_9c1	/m/07l2m	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7106)
+___
+/m/01_9c1	/m/07l2m	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7106)
+___
+/m/01_9c1	/m/07l2m	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.7106)
+___
+/m/01_9c1	/m/05l71	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7121)
+___
+/m/01_9c1	/m/05l71	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7121)
+___
+/m/01r3hr	/m/05l71	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7446)
+___
+/m/01r3hr	/m/05l71	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7446)
+___
+/m/02g_6x	/m/01ct6	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7566)
+___
+/m/02g_6x	/m/01ct6	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.7566)
+___
+/m/02g_6x	/m/01ct6	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7566)
+___
+/m/02g_6x	/m/01ct6	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7566)
+___
+/m/06b1q	/m/07l2m	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7615)
+___
+/m/06b1q	/m/07l2m	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7615)
+___
+/m/06b1q	/m/07l2m	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.7615)
+___
+/m/0fbq2n	/m/0frmb1	/m/02h4rq6	/m/02h4rq6
+NO_OP	_/sports/pro_athlete/teams./sports/sports_team_roster/team	_/education/educational_degree/people_with_this_degree./education/education/student
+-1
+tensor(-15.7703)
+___
+/m/0fbq2n	/m/0frmb1	/m/0bkj86	/m/0bkj86
+NO_OP	_/sports/pro_athlete/teams./sports/sports_team_roster/team	_/education/educational_degree/people_with_this_degree./education/education/student
+-1
+tensor(-15.7703)
+___
+/m/01r3hr	/m/02vklm3	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7728)
+___
+/m/01r3hr	/m/02vklm3	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7728)
+___
+/m/01r3hr	/m/02vklm3	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7728)
+___
+/m/01r3hr	/m/02vklm3	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7728)
+___
+/m/02g_7z	/m/026bt_h	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7828)
+___
+/m/02g_7z	/m/026bt_h	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7828)
+___
+/m/02g_7z	/m/026bt_h	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7828)
+___
+/m/02g_7z	/m/026bt_h	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.7828)
+___
+/m/02g_7z	/m/01y3v	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8020)
+___
+/m/02g_7z	/m/01y3v	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.8020)
+___
+/m/02g_7z	/m/01y3v	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8020)
+___
+/m/01_9c1	/m/026ldz7	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.8082)
+___
+/m/01_9c1	/m/026ldz7	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8082)
+___
+/m/01_9c1	/m/026ldz7	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8082)
+___
+/m/01_9c1	/m/026ldz7	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8082)
+___
+/m/02g_7z	/m/03wnh	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8128)
+___
+/m/02g_7z	/m/03wnh	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8128)
+___
+/m/02g_7z	/m/03wnh	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8128)
+___
+/m/02g_7z	/m/03wnh	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.8128)
+___
+/m/01r3hr	/m/04vn5	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8216)
+___
+/m/01r3hr	/m/04vn5	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8216)
+___
+/m/01r3hr	/m/04vn5	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8216)
+___
+/m/01r3hr	/m/04vn5	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.8216)
+___
+/m/02g_6x	/m/070xg	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8241)
+___
+/m/02g_6x	/m/070xg	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8241)
+___
+/m/02g_6x	/m/070xg	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8241)
+___
+/m/02g_6x	/m/070xg	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8241)
+___
+/m/02g_6x	/m/070xg	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8241)
+___
+/m/01_9c1	/m/025_64l	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8603)
+___
+/m/01_9c1	/m/025_64l	/m/02vkdwz	/m/02vkdwz
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8603)
+___
+/m/01_9c1	/m/025_64l	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8603)
+___
+/m/01_9c1	/m/025_64l	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8603)
+___
+/m/06b1q	/m/026lg0s	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8854)
+___
+/m/06b1q	/m/026lg0s	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.8854)
+___
+/m/06b1q	/m/026lg0s	/m/02vkdwz	/m/02vkdwz
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8854)
+___
+/m/06b1q	/m/026lg0s	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8854)
+___
+/m/02g_6x	/m/03wnh	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8895)
+___
+/m/02g_6x	/m/03wnh	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.8895)
+___
+/m/02g_6x	/m/03wnh	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8895)
+___
+/m/02g_6x	/m/03wnh	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8895)
+___
+/m/02g_7z	/m/05tfm	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8945)
+___
+/m/02g_7z	/m/05tfm	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8945)
+___
+/m/02g_7z	/m/05tfm	/m/05b3ts	/m/05b3ts
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+1
+tensor(-15.8945)
+___
+/m/02g_7z	/m/05tfm	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8945)
+___
+/m/01r3hr	/m/025v26c	/m/047g8h	/m/047g8h
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8987)
+___
+/m/01r3hr	/m/025v26c	/m/04nfpk	/m/04nfpk
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8987)
+___
+/m/01r3hr	/m/025v26c	/m/02g_6j	/m/02g_6j
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.8987)
+___
+/m/01r3hr	/m/03gqb0k	/m/08ns5s	/m/08ns5s
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.9025)
+___
+/m/01r3hr	/m/03gqb0k	/m/05zm34	/m/05zm34
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	_/sports/sports_team/roster./american_football/football_roster_position/position	/american_football/football_team/current_roster./sports/sports_team_roster/position
+-1
+tensor(-15.9025)
+___
+#####################

@@ -1,0 +1,503 @@
+/m/01trhmt	/m/08swgx
+Reward:0
+/m/0pzpz	/m/0mtdx	/m/0mtdx	/m/0mtdx
+/music/artist/origin	_/location/location/contains	NO_OP
+-1
+tensor(-7.7472)
+___
+/m/0pzpz	/m/0mtdx	/m/0mtdx	/m/0mtdx
+/people/person/places_lived./people/place_lived/location	_/location/location/contains	NO_OP
+-1
+tensor(-7.7687)
+___
+/m/0pzpz	/m/0mtdx	/m/0jbk9	/m/0jbk9
+/music/artist/origin	_/location/location/contains	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-7.7931)
+___
+/m/0pzpz	/m/0mtdx	/m/0jbk9	/m/0jbk9
+/people/person/places_lived./people/place_lived/location	_/location/location/contains	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-7.8146)
+___
+/m/0pzpz	/m/0mtdx	/m/0mtdx	/m/0mtdx
+/music/artist/origin	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	NO_OP
+-1
+tensor(-7.8431)
+___
+/m/0pzpz	/m/0mtdx	/m/0mtdx	/m/0mtdx
+/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	NO_OP
+-1
+tensor(-7.8599)
+___
+/m/0pzpz	/m/0mtdx	/m/07h34	/m/07h34
+/music/artist/origin	_/location/location/contains	_/location/location/contains
+-1
+tensor(-7.8775)
+___
+/m/0pzpz	/m/0mtdx	/m/0jbk9	/m/0jbk9
+/music/artist/origin	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-7.8784)
+___
+/m/0pzpz	/m/0mtdx	/m/0jbk9	/m/0jbk9
+/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-7.8952)
+___
+/m/0pzpz	/m/0mtdx	/m/07h34	/m/07h34
+/people/person/places_lived./people/place_lived/location	_/location/location/contains	_/location/location/contains
+-1
+tensor(-7.8991)
+___
+/m/0pzpz	/m/0mtdx	/m/07h34	/m/07h34
+/music/artist/origin	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-7.9433)
+___
+/m/0pzpz	/m/0mtdx	/m/07h34	/m/07h34
+/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-7.9602)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/music/artist/origin	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/location/contains
+-1
+tensor(-8.2569)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/location/contains
+-1
+tensor(-8.2738)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/music/artist/origin	_/location/location/contains	/location/location/contains
+-1
+tensor(-8.2854)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	_/location/location/contains	/location/location/contains
+-1
+tensor(-8.3070)
+___
+/m/0cgfb	/m/01z26v	/m/01z26v	/m/01z26v
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/place_of_birth	NO_OP
+-1
+tensor(-8.3088)
+___
+/m/0cgfb	/m/01z26v	/m/02ly_	/m/02ly_
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/place_of_birth	/base/biblioness/bibs_location/state
+-1
+tensor(-8.3450)
+___
+/m/0cgfb	/m/01z26v	/m/02jx1	/m/02jx1
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-8.4391)
+___
+/m/0cgfb	/m/01z26v	/m/02ly_	/m/02ly_
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-8.4391)
+___
+/m/0cgfb	/m/01z26v	/m/07ssc	/m/07ssc
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-8.4391)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/music/artist/origin	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.4690)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.4858)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/music/artist/origin	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.5612)
+___
+/m/0pzpz	/m/0mtdx	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.5827)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	NO_OP	NO_OP
+-1
+tensor(-8.6333)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	NO_OP	NO_OP
+-1
+tensor(-8.6700)
+___
+/m/0pzpz	/m/0pzpz	/m/0jbk9	/m/0jbk9
+/music/artist/origin	NO_OP	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-8.6758)
+___
+/m/0pzpz	/m/0pzpz	/m/0jbk9	/m/0jbk9
+/people/person/places_lived./people/place_lived/location	NO_OP	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-8.7126)
+___
+/m/0pzpz	/m/0pzpz	/m/09c7w0	/m/09c7w0
+/music/artist/origin	NO_OP	_/location/location/contains
+-1
+tensor(-8.7540)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/music/artist/origin	NO_OP	_/location/location/contains
+-1
+tensor(-8.7540)
+___
+/m/0pzpz	/m/0pzpz	/m/07h34	/m/07h34
+/music/artist/origin	NO_OP	_/location/location/contains
+-1
+tensor(-8.7540)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	NO_OP	/location/hud_county_place/place
+-1
+tensor(-8.7608)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	/location/hud_county_place/place	NO_OP
+-1
+tensor(-8.7806)
+___
+/m/0pzpz	/m/0pzpz	/m/07h34	/m/07h34
+/people/person/places_lived./people/place_lived/location	NO_OP	_/location/location/contains
+-1
+tensor(-8.7908)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/people/person/places_lived./people/place_lived/location	NO_OP	_/location/location/contains
+-1
+tensor(-8.7908)
+___
+/m/0pzpz	/m/0pzpz	/m/09c7w0	/m/09c7w0
+/people/person/places_lived./people/place_lived/location	NO_OP	_/location/location/contains
+-1
+tensor(-8.7908)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/music/artist/origin	NO_OP	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.7909)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	NO_OP	/location/hud_county_place/place
+-1
+tensor(-8.7976)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	NO_OP
+-1
+tensor(-8.8013)
+___
+/m/0pzpz	/m/0pzpz	/m/0jbk9	/m/0jbk9
+/music/artist/origin	/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-8.8237)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/people/person/places_lived./people/place_lived/location	NO_OP	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.8277)
+___
+/m/0pzpz	/m/0pzpz	/m/0jbk9	/m/0jbk9
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-8.8444)
+___
+/m/0pzpz	/m/0pzpz	/m/07h34	/m/07h34
+/music/artist/origin	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.9030)
+___
+/m/0pzpz	/m/0pzpz	/m/09c7w0	/m/09c7w0
+/music/artist/origin	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.9030)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/music/artist/origin	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.9030)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-8.9099)
+___
+/m/0f2rq	/m/0ms1n	/m/09nqf	/m/09nqf
+/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency
+-1
+tensor(-8.9199)
+___
+/m/0pzpz	/m/0pzpz	/m/09c7w0	/m/09c7w0
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.9237)
+___
+/m/0pzpz	/m/0pzpz	/m/07h34	/m/07h34
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.9237)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	_/location/location/contains
+-1
+tensor(-8.9237)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-8.9306)
+___
+/m/0cgfb	/m/01z26v	/m/02jx1	/m/02jx1
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/place_of_birth	/base/biblioness/bibs_location/country
+-1
+tensor(-8.9390)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/music/artist/origin	/location/hud_county_place/place	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.9404)
+___
+/m/0pzpz	/m/0pzpz	/m/0mtdx	/m/0mtdx
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-8.9610)
+___
+/m/0pzpz	/m/0pzpz	/m/01trhmt	/m/01trhmt
+/music/artist/origin	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.0680)
+___
+/m/0pzpz	/m/0pzpz	/m/0f5xn	/m/0f5xn
+/music/artist/origin	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.0680)
+___
+/m/02x_h0	/m/0ydpd	/m/0ydpd	/m/0ydpd
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	NO_OP
+-1
+tensor(-9.0809)
+___
+/m/0f2rq	/m/0__wm	/m/0__wm	/m/0__wm
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-9.0907)
+___
+/m/0pzpz	/m/0pzpz	/m/0f5xn	/m/0f5xn
+/people/person/places_lived./people/place_lived/location	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.1048)
+___
+/m/0pzpz	/m/0pzpz	/m/01trhmt	/m/01trhmt
+/people/person/places_lived./people/place_lived/location	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.1048)
+___
+/m/02x_h0	/m/0ydpd	/m/05fkf	/m/05fkf
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	/base/biblioness/bibs_location/state
+-1
+tensor(-9.1171)
+___
+/m/02x_h0	/m/0ydpd	/m/0jbk9	/m/0jbk9
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-9.1268)
+___
+/m/0f2rq	/m/0__wm	/m/0jbk9	/m/0jbk9
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-9.1343)
+___
+/m/0f2rq	/m/0ms1n	/m/0ms1n	/m/0ms1n
+/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	NO_OP
+-1
+tensor(-9.1349)
+___
+/m/0f2rq	/m/0ms1n	/m/0jbk9	/m/0jbk9
+/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-9.1702)
+___
+/m/02x_h0	/m/0ydpd	/m/09c7w0	/m/09c7w0
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-9.2113)
+___
+/m/02x_h0	/m/0ydpd	/m/0n4m5	/m/0n4m5
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-9.2113)
+___
+/m/0f2rq	/m/0__wm	/m/07b_l	/m/07b_l
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-9.2146)
+___
+/m/0f2rq	/m/0__wm	/m/0ms1n	/m/0ms1n
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-9.2146)
+___
+/m/02x_h0	/m/0ydpd	/m/0ydpd	/m/0ydpd
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	/location/hud_county_place/place
+-1
+tensor(-9.2186)
+___
+/m/0pzpz	/m/0pzpz	/m/01trhmt	/m/01trhmt
+/music/artist/origin	/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.2212)
+___
+/m/0pzpz	/m/0pzpz	/m/0f5xn	/m/0f5xn
+/music/artist/origin	/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.2212)
+___
+/m/0f2rq	/m/0__wm	/m/0__wm	/m/0__wm
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/place
+-1
+tensor(-9.2215)
+___
+/m/0f2rq	/m/0ms1n	/m/07b_l	/m/07b_l
+/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-9.2351)
+___
+/m/0pzpz	/m/0pzpz	/m/01trhmt	/m/01trhmt
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.2419)
+___
+/m/0pzpz	/m/0pzpz	/m/0f5xn	/m/0f5xn
+/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-9.2419)
+___
+/m/02x_h0	/m/0ydpd	/m/0n4m5	/m/0n4m5
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-9.2510)
+___
+/m/0pzpz	/m/0pzpz	/m/0pqc5	/m/0pqc5
+/music/artist/origin	NO_OP	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-9.2544)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-9.2561)
+___
+/m/0f2rq	/m/013m4v	/m/013m4v	/m/013m4v
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-9.2611)
+___
+/m/0f2rq	/m/013m43	/m/013m43	/m/013m43
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-9.2741)
+___
+/m/0f2rq	/m/0ms1n	/m/09nqf	/m/09nqf
+/people/person/place_of_birth	_/location/us_county/county_seat	/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency
+-1
+tensor(-9.2788)
+___
+/m/0pzpz	/m/0pzpz	/m/0pqc5	/m/0pqc5
+/people/person/places_lived./people/place_lived/location	NO_OP	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-9.2912)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	NO_OP	_/location/hud_county_place/place
+-1
+tensor(-9.2929)
+___
+/m/0f2rq	/m/013m4v	/m/0jbk9	/m/0jbk9
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-9.3047)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place	NO_OP
+-1
+tensor(-9.3071)
+___
+/m/0f2rq	/m/013m43	/m/0jbk9	/m/0jbk9
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-9.3177)
+___
+/m/0f2rq	/m/0ms1n	/m/0ms6_	/m/0ms6_
+/people/person/place_of_birth	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.3478)
+___
+/m/0pzpz	/m/0pzpz	/m/0pzpz	/m/0pzpz
+/music/artist/origin	_/location/hud_county_place/place	NO_OP
+-1
+tensor(-9.3490)
+___
+/m/0pzpz	/m/0pzpz	/m/0jbk9	/m/0jbk9
+/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-9.3530)
+___
+/m/0f2rq	/m/0__wm	/m/0f2rq	/m/0f2rq
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-9.3538)
+___
+/m/0pzpz	/m/0pzpz	/m/08mbj5d	/m/08mbj5d
+/music/artist/origin	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-9.3789)
+___
+/m/02x_h0	/m/0ydpd	/m/0ydpd	/m/0ydpd
+_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/place_of_birth	NO_OP
+-1
+tensor(-9.3799)
+___
+/m/0f2rq	/m/013m4v	/m/09c7w0	/m/09c7w0
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-9.3849)
+___
+/m/0f2rq	/m/013m4v	/m/013m4v	/m/013m4v
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/place
+-1
+tensor(-9.3919)
+___
+/m/0pzpz	/m/0pzpz	/m/0jbk9	/m/0jbk9
+/music/artist/origin	_/location/hud_county_place/place	/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source
+-1
+tensor(-9.3948)
+___
+/m/0f2rq	/m/013m43	/m/0ms1n	/m/0ms1n
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-9.3980)
+___
+/m/0f2rq	/m/013m43	/m/0ms6_	/m/0ms6_
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-9.3980)
+___
+/m/0f2rq	/m/013m43	/m/013m43	/m/013m43
+/people/person/place_of_birth	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/hud_county_place/place
+-1
+tensor(-9.4049)
+___
+#####################

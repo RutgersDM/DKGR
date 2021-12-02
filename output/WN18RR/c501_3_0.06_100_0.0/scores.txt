@@ -1,0 +1,8 @@
+Test (beam) scores with best model from output/WN18RR//c501_3_0.06_100_0.0/model/model.ckpt
+Hits@1:  0.4272
+Hits@3:  0.4694
+Hits@5:  0.4898
+Hits@10:  0.5271
+Hits@20:  0.5597
+auc:  0.4590
+

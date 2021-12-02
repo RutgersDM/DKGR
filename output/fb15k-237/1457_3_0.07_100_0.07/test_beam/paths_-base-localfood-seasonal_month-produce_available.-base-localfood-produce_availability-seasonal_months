@@ -1,0 +1,1509 @@
+/m/040fb	/m/02xx5
+Reward:1
+/m/040fb	/m/040fb	/m/03_ly	/m/03_ly
+NO_OP	NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-0.6933)
+___
+/m/040fb	/m/040fb	/m/040fv	/m/040fv
+NO_OP	NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-0.6933)
+___
+/m/040fb	/m/040fv	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.4609)
+___
+/m/040fb	/m/040fv	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.4609)
+___
+/m/040fb	/m/03_ly	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.4659)
+___
+/m/040fb	/m/03_ly	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.4659)
+___
+/m/05lf_	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8447)
+___
+/m/040fb	/m/028kb	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8678)
+___
+/m/040fb	/m/028kb	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.8678)
+___
+/m/040fb	/m/028kb	/m/040fb	/m/040fb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8678)
+___
+/m/040fb	/m/05cw8	/m/040fb	/m/040fb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8685)
+___
+/m/040fb	/m/05cw8	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.8685)
+___
+/m/040fb	/m/05cw8	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8685)
+___
+/m/03_ly	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.9841)
+___
+/m/040fv	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0829)
+___
+/m/0ll3	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0913)
+___
+/m/0lkm	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0916)
+___
+/m/028kb	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0947)
+___
+/m/040fb	/m/0lkm	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1523)
+___
+/m/040fb	/m/0lkm	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1523)
+___
+/m/040fb	/m/0lkm	/m/040fb	/m/040fb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1523)
+___
+/m/040fb	/m/0lkm	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1523)
+___
+/m/040fb	/m/0ll3	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1532)
+___
+/m/040fb	/m/0ll3	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1532)
+___
+/m/040fb	/m/0ll3	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1532)
+___
+/m/040fb	/m/0ll3	/m/040fb	/m/040fb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1532)
+___
+/m/040fb	/m/05lf_	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1548)
+___
+/m/040fb	/m/05lf_	/m/040fb	/m/040fb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1548)
+___
+/m/040fb	/m/05lf_	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1548)
+___
+/m/040fb	/m/05lf_	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1548)
+___
+/m/040fb	/m/04wzr	/m/040fb	/m/040fb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1552)
+___
+/m/040fb	/m/04wzr	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1552)
+___
+/m/040fb	/m/04wzr	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1552)
+___
+/m/040fb	/m/04wzr	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1552)
+___
+/m/040fb	/m/06vkl	/m/040fb	/m/040fb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1562)
+___
+/m/040fb	/m/06vkl	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1562)
+___
+/m/040fb	/m/06vkl	/m/03_ly	/m/03_ly
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1562)
+___
+/m/040fb	/m/06vkl	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1562)
+___
+/m/05cw8	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1875)
+___
+/m/04wzr	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1887)
+___
+/m/06vkl	/m/02xx5	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1894)
+___
+/m/05lf_	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5049)
+___
+/m/05lf_	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5049)
+___
+/m/05lf_	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.5198)
+___
+/m/05lf_	/m/040fv	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5198)
+___
+/m/05lf_	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.5297)
+___
+/m/05lf_	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5297)
+___
+/m/03_ly	/m/040fv	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6636)
+___
+/m/03_ly	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.6636)
+___
+/m/0ll3	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7605)
+___
+/m/0ll3	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7605)
+___
+/m/0lkm	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7611)
+___
+/m/0lkm	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7611)
+___
+/m/028kb	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7636)
+___
+/m/028kb	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7636)
+___
+/m/040fv	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.7668)
+___
+/m/040fv	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7668)
+___
+/m/0ll3	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.7699)
+___
+/m/0ll3	/m/040fv	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7699)
+___
+/m/0lkm	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.7729)
+___
+/m/0lkm	/m/040fv	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7729)
+___
+/m/0ll3	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.7762)
+___
+/m/0ll3	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7762)
+___
+/m/0lkm	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.7789)
+___
+/m/0lkm	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7789)
+___
+/m/028kb	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7793)
+___
+/m/028kb	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.7793)
+___
+/m/04wzr	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8512)
+___
+/m/04wzr	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8512)
+___
+/m/05cw8	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8579)
+___
+/m/05cw8	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8579)
+___
+/m/06vkl	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8591)
+___
+/m/06vkl	/m/040fb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8591)
+___
+/m/04wzr	/m/040fv	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8674)
+___
+/m/04wzr	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.8674)
+___
+/m/04wzr	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.8692)
+___
+/m/04wzr	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8692)
+___
+/m/06vkl	/m/040fv	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8701)
+___
+/m/06vkl	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.8701)
+___
+/m/05cw8	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8770)
+___
+/m/05cw8	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.8770)
+___
+/m/06vkl	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8773)
+___
+/m/06vkl	/m/03_ly	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.8773)
+___
+/m/05lf_	/m/02xx5	/m/03_ly	/m/03_ly
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9261)
+___
+/m/05lf_	/m/05cw8	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.9281)
+___
+/m/05lf_	/m/05cw8	/m/040fb	/m/040fb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9281)
+___
+/m/05lf_	/m/05cw8	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9281)
+___
+/m/05lf_	/m/028kb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9289)
+___
+/m/05lf_	/m/028kb	/m/040fb	/m/040fb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9289)
+___
+/m/05lf_	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.9289)
+___
+/m/03_ly	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.0714)
+___
+/m/03_ly	/m/028kb	/m/040fb	/m/040fb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0714)
+___
+/m/03_ly	/m/028kb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0714)
+___
+/m/03_ly	/m/05cw8	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0714)
+___
+/m/03_ly	/m/05cw8	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.0714)
+___
+/m/03_ly	/m/05cw8	/m/040fb	/m/040fb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0714)
+___
+/m/040fv	/m/05cw8	/m/040fb	/m/040fb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.1593)
+___
+/m/040fv	/m/05cw8	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.1593)
+___
+/m/040fv	/m/05cw8	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.1593)
+___
+/m/0lkm	/m/028kb	/m/03_ly	/m/03_ly
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.1753)
+___
+#####################
+/m/028kb	/m/040fv
+Reward:0
+/m/028kb	/m/028kb	/m/028kb	/m/028kb
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-0.0921)
+___
+/m/028kb	/m/028kb	/m/02z0j	/m/02z0j
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0947l	/m/0947l
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0ply0	/m/0ply0
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/05ywg	/m/05ywg
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/01lfy	/m/01lfy
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/080h2	/m/080h2
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/01f62	/m/01f62
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/02h6_6p	/m/02h6_6p
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0d9jr	/m/0d9jr
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0vzm	/m/0vzm
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/052p7	/m/052p7
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0dclg	/m/0dclg
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/06t2t	/m/06t2t
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0k3p	/m/0k3p
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0cv3w	/m/0cv3w
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/02cl1	/m/02cl1
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/02cft	/m/02cft
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0f2rq	/m/0f2rq
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/03h64	/m/03h64
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0fhp9	/m/0fhp9
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0fn2g	/m/0fn2g
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/05l64	/m/05l64
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/03hrz	/m/03hrz
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/06c62	/m/06c62
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/04jpl	/m/04jpl
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/030qb3t	/m/030qb3t
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0g6xq	/m/0g6xq
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/013yq	/m/013yq
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/06y57	/m/06y57
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0f2v0	/m/0f2v0
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/049d1	/m/049d1
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/03khn	/m/03khn
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/06wjf	/m/06wjf
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/08966	/m/08966
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0f04v	/m/0f04v
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/07dfk	/m/07dfk
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/02frhbc	/m/02frhbc
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/056_y	/m/056_y
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/03902	/m/03902
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0chgzm	/m/0chgzm
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/02_286	/m/02_286
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0d6lp	/m/0d6lp
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/01914	/m/01914
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0rh6k	/m/0rh6k
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/028kb	/m/0h3tv	/m/0h3tv
+NO_OP	NO_OP	_/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-6.2388)
+___
+/m/028kb	/m/05cw8	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-12.8609)
+___
+/m/028kb	/m/02xx5	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-12.8620)
+___
+/m/028kb	/m/040fb	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5393)
+___
+/m/028kb	/m/040fb	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.5393)
+___
+/m/028kb	/m/06vkl	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5427)
+___
+/m/028kb	/m/06vkl	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.5427)
+___
+/m/028kb	/m/05lf_	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5439)
+___
+/m/028kb	/m/05lf_	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.5439)
+___
+/m/028kb	/m/0ll3	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.5443)
+___
+/m/028kb	/m/0ll3	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5443)
+___
+/m/028kb	/m/04w_7	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.5451)
+___
+/m/028kb	/m/04w_7	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5451)
+___
+/m/028kb	/m/0lkm	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5453)
+___
+/m/028kb	/m/0lkm	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.5453)
+___
+/m/028kb	/m/03_ly	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.5454)
+___
+/m/028kb	/m/03_ly	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.5454)
+___
+/m/05lf_	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8610)
+___
+/m/05lf_	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8620)
+___
+/m/05lf_	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-13.8665)
+___
+/m/05lf_	/m/040fv	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+1
+tensor(-13.8693)
+___
+/m/03_ly	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.9790)
+___
+/m/03_ly	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.9790)
+___
+/m/03_ly	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-13.9905)
+___
+/m/03_ly	/m/040fv	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+1
+tensor(-14.0054)
+___
+/m/0ll3	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0768)
+___
+/m/0lkm	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0796)
+___
+/m/0ll3	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0809)
+___
+/m/040fb	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.0907)
+___
+/m/02xx5	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-14.0971)
+___
+/m/040fb	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-14.1136)
+___
+/m/0lkm	/m/040fv	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+1
+tensor(-14.1193)
+___
+/m/0lkm	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-14.1442)
+___
+/m/0ll3	/m/040fv	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+1
+tensor(-14.1482)
+___
+/m/0ll3	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-14.1577)
+___
+/m/040fb	/m/040fv	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+1
+tensor(-14.1718)
+___
+/m/05cw8	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1780)
+___
+/m/06vkl	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1889)
+___
+/m/04w_7	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1889)
+___
+/m/04w_7	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1921)
+___
+/m/04w_7	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-14.2090)
+___
+/m/04w_7	/m/040fv	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+1
+tensor(-14.2104)
+___
+/m/06vkl	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-14.2218)
+___
+/m/05cw8	/m/028kb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+-1
+tensor(-14.2264)
+___
+/m/06vkl	/m/040fv	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	NO_OP
+1
+tensor(-14.2402)
+___
+/m/05lf_	/m/040fb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5366)
+___
+/m/05lf_	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.5366)
+___
+/m/05lf_	/m/03_ly	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.5428)
+___
+/m/05lf_	/m/03_ly	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5428)
+___
+/m/05lf_	/m/0lkm	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.5428)
+___
+/m/05lf_	/m/0lkm	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5428)
+___
+/m/02xx5	/m/04wzr	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6386)
+___
+/m/02xx5	/m/04wzr	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.6386)
+___
+/m/02xx5	/m/06vkl	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6442)
+___
+/m/02xx5	/m/06vkl	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.6442)
+___
+#####################
+/m/040fv	/m/028kb
+Reward:1
+/m/040fv	/m/040fv	/m/02xx5	/m/02xx5
+NO_OP	NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-0.6933)
+___
+/m/040fv	/m/040fv	/m/05cw8	/m/05cw8
+NO_OP	NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-0.6933)
+___
+/m/040fv	/m/02xx5	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-12.7545)
+___
+/m/040fv	/m/05cw8	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.4372)
+___
+/m/040fv	/m/05cw8	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.4372)
+___
+/m/040fv	/m/04wzr	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.8427)
+___
+/m/040fv	/m/04wzr	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8427)
+___
+/m/040fv	/m/04wzr	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8427)
+___
+/m/040fv	/m/06vkl	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8445)
+___
+/m/040fv	/m/06vkl	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.8445)
+___
+/m/040fv	/m/06vkl	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8445)
+___
+/m/040fv	/m/0lkm	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8465)
+___
+/m/040fv	/m/0lkm	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.8465)
+___
+/m/040fv	/m/0lkm	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-13.8465)
+___
+/m/05lf_	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.8539)
+___
+/m/03_ly	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-13.9906)
+___
+/m/0lkm	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.0914)
+___
+/m/0ll3	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.0933)
+___
+/m/040fv	/m/03_ly	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1303)
+___
+/m/040fv	/m/03_ly	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1303)
+___
+/m/040fv	/m/03_ly	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1303)
+___
+/m/040fv	/m/03_ly	/m/05cw8	/m/05cw8
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1303)
+___
+/m/040fv	/m/0ll3	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1304)
+___
+/m/040fv	/m/0ll3	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1304)
+___
+/m/040fv	/m/0ll3	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1304)
+___
+/m/040fv	/m/0ll3	/m/05cw8	/m/05cw8
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1304)
+___
+/m/040fv	/m/05lf_	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1318)
+___
+/m/040fv	/m/05lf_	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1318)
+___
+/m/040fv	/m/05lf_	/m/05cw8	/m/05cw8
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1318)
+___
+/m/040fv	/m/05lf_	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1318)
+___
+/m/040fv	/m/04w_7	/m/02xx5	/m/02xx5
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1324)
+___
+/m/040fv	/m/04w_7	/m/040fv	/m/040fv
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1324)
+___
+/m/040fv	/m/04w_7	/m/05cw8	/m/05cw8
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.1324)
+___
+/m/040fv	/m/04w_7	/m/028kb	/m/028kb
+NO_OP	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1324)
+___
+/m/06vkl	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1931)
+___
+/m/04w_7	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1943)
+___
+/m/04wzr	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1966)
+___
+/m/05cw8	/m/02xx5	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.1977)
+___
+/m/05lf_	/m/040fv	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5021)
+___
+/m/05lf_	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5021)
+___
+/m/05lf_	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.5152)
+___
+/m/05lf_	/m/05cw8	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5152)
+___
+/m/05lf_	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5173)
+___
+/m/05lf_	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.5173)
+___
+/m/03_ly	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6335)
+___
+/m/03_ly	/m/040fv	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6335)
+___
+/m/02xx5	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6473)
+___
+/m/02xx5	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6473)
+___
+/m/03_ly	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6482)
+___
+/m/03_ly	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6482)
+___
+/m/03_ly	/m/05cw8	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.6505)
+___
+/m/03_ly	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.6505)
+___
+/m/0lkm	/m/040fv	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7402)
+___
+/m/0lkm	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7402)
+___
+/m/0ll3	/m/040fv	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7430)
+___
+/m/0ll3	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7430)
+___
+/m/0lkm	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7553)
+___
+/m/0lkm	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7553)
+___
+/m/0ll3	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7577)
+___
+/m/0ll3	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7577)
+___
+/m/0ll3	/m/05cw8	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.7614)
+___
+/m/0ll3	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.7614)
+___
+/m/06vkl	/m/040fv	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8424)
+___
+/m/06vkl	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8424)
+___
+/m/04w_7	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8429)
+___
+/m/04w_7	/m/040fv	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8429)
+___
+/m/04wzr	/m/040fv	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8456)
+___
+/m/04wzr	/m/040fv	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8456)
+___
+/m/06vkl	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8577)
+___
+/m/06vkl	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8577)
+___
+/m/04w_7	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8578)
+___
+/m/04w_7	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8578)
+___
+/m/04w_7	/m/05cw8	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.8579)
+___
+/m/04w_7	/m/05cw8	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8579)
+___
+/m/04wzr	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8612)
+___
+/m/04wzr	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8612)
+___
+/m/05cw8	/m/028kb	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8665)
+___
+/m/05cw8	/m/028kb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.8665)
+___
+/m/05lf_	/m/040fb	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9165)
+___
+/m/05lf_	/m/040fb	/m/05cw8	/m/05cw8
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9165)
+___
+/m/05lf_	/m/040fb	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.9165)
+___
+/m/05lf_	/m/0lkm	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9250)
+___
+/m/05lf_	/m/0lkm	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.9250)
+___
+/m/05lf_	/m/0lkm	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-14.9250)
+___
+/m/05lf_	/m/02xx5	/m/028kb	/m/028kb
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-14.9417)
+___
+/m/02xx5	/m/04wzr	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.0488)
+___
+/m/02xx5	/m/04wzr	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0488)
+___
+/m/02xx5	/m/04wzr	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0488)
+___
+/m/02xx5	/m/0lkm	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.0539)
+___
+/m/02xx5	/m/0lkm	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0539)
+___
+/m/02xx5	/m/0lkm	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0539)
+___
+/m/02xx5	/m/06vkl	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.0542)
+___
+/m/02xx5	/m/06vkl	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0542)
+___
+/m/02xx5	/m/06vkl	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0542)
+___
+/m/03_ly	/m/04wzr	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0555)
+___
+/m/03_ly	/m/04wzr	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0555)
+___
+/m/03_ly	/m/04wzr	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.0555)
+___
+/m/03_ly	/m/06vkl	/m/02xx5	/m/02xx5
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0610)
+___
+/m/03_ly	/m/06vkl	/m/040fv	/m/040fv
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+-1
+tensor(-15.0610)
+___
+/m/03_ly	/m/06vkl	/m/028kb	/m/028kb
+_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	_/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months
+1
+tensor(-15.0610)
+___
+#####################

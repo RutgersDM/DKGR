@@ -1,0 +1,3521 @@
+/m/069d68	/m/069d71
+Reward:0
+/m/069d68	/m/069d68	/m/069d68	/m/069d68
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-1.6814)
+___
+/m/069d68	/m/0f2v0	/m/0f2v0	/m/0f2v0
+NO_OP	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-2.1055)
+___
+/m/069d68	/m/069d68	/m/0f2v0	/m/0f2v0
+NO_OP	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-2.8535)
+___
+/m/0f2v0	/m/0f2v0	/m/0f2v0	/m/0f2v0
+/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-3.0110)
+___
+/m/069d68	/m/069d68	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/people/person/nationality
+-1
+tensor(-3.6419)
+___
+/m/069d68	/m/0f2v0	/m/01bjv	/m/01bjv
+NO_OP	/people/person/places_lived./people/place_lived/location	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-3.6461)
+___
+/m/069d68	/m/0f2v0	/m/025t3bg	/m/025t3bg
+NO_OP	/people/person/places_lived./people/place_lived/location	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-3.6461)
+___
+/m/069d68	/m/0f2v0	/m/07jdr	/m/07jdr
+NO_OP	/people/person/places_lived./people/place_lived/location	/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation
+-1
+tensor(-3.6461)
+___
+/m/069d68	/m/069d68	/m/04ztj	/m/04ztj
+NO_OP	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-3.7244)
+___
+/m/069d68	/m/04ztj	/m/01914	/m/01914
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/05l5n	/m/05l5n
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/0235l	/m/0235l
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/0jp26	/m/0jp26
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/0b90_r	/m/0b90_r
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/01t21q	/m/01t21q
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/09b9m	/m/09b9m
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/02jx1	/m/02jx1
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/013ksx	/m/013ksx
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/0xnt5	/m/0xnt5
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/04ztj	/m/0fgj2	/m/0fgj2
+NO_OP	/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-4.8560)
+___
+/m/069d68	/m/069d68	/m/08mbj5d	/m/08mbj5d
+NO_OP	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-5.4110)
+___
+/m/069d68	/m/069d68	/m/01445t	/m/01445t
+NO_OP	NO_OP	/people/person/profession
+-1
+tensor(-5.4450)
+___
+/m/069d68	/m/09c7w0	/m/050l8	/m/050l8
+NO_OP	/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.7814)
+___
+/m/069d68	/m/09c7w0	/m/013cz2	/m/013cz2
+NO_OP	/people/person/nationality	_/base/biblioness/bibs_location/country
+-1
+tensor(-5.9214)
+___
+/m/069d68	/m/09c7w0	/m/03v1s	/m/03v1s
+NO_OP	/people/person/nationality	_/location/administrative_division/first_level_division_of
+-1
+tensor(-6.0958)
+___
+/m/069d68	/m/09c7w0	/m/039c26	/m/039c26
+NO_OP	/people/person/nationality	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.1298)
+___
+/m/069d68	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+NO_OP	/people/person/nationality	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.1298)
+___
+/m/069d68	/m/09c7w0	/m/0d68qy	/m/0d68qy
+NO_OP	/people/person/nationality	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.1298)
+___
+/m/069d68	/m/09c7w0	/m/04w7rn	/m/04w7rn
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/08hmch	/m/08hmch
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/02r79_h	/m/02r79_h
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/026mfbr	/m/026mfbr
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0b76t12	/m/0b76t12
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0g5qs2k	/m/0g5qs2k
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0cc846d	/m/0cc846d
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/05q4y12	/m/05q4y12
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/07xtqq	/m/07xtqq
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/02krdz	/m/02krdz
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0f40w	/m/0f40w
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0gfsq9	/m/0gfsq9
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0c40vxk	/m/0c40vxk
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/09g7vfw	/m/09g7vfw
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0d61px	/m/0d61px
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/03176f	/m/03176f
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0m2kd	/m/0m2kd
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/011ydl	/m/011ydl
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/069d68	/m/09c7w0	/m/0192hw	/m/0192hw
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.1401)
+___
+/m/04ztj	/m/013ksx	/m/013ksx	/m/013ksx
+/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/location/hud_county_place/place
+-1
+tensor(-6.1638)
+___
+/m/04ztj	/m/0235l	/m/0235l	/m/0235l
+/people/person/spouse_s./people/marriage/type_of_union	/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	_/location/hud_county_place/county
+-1
+tensor(-6.1972)
+___
+/m/069d68	/m/0f2v0	/m/0lyjf	/m/0lyjf
+NO_OP	/people/person/places_lived./people/place_lived/location	/location/location/contains
+-1
+tensor(-6.2394)
+___
+/m/069d68	/m/0f2v0	/m/0f2v0	/m/0f2v0
+NO_OP	/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place
+-1
+tensor(-6.2517)
+___
+/m/069d68	/m/09c7w0	/m/05c46y6	/m/05c46y6
+NO_OP	/people/person/nationality	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-6.2760)
+___
+/m/069d68	/m/0f2v0	/m/04ztj	/m/04ztj
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-6.4346)
+___
+/m/069d68	/m/09c7w0	/m/01dw4q	/m/01dw4q
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/0347xl	/m/0347xl
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/01gp_x	/m/01gp_x
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/01wk7b7	/m/01wk7b7
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/040t74	/m/040t74
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/01lcxbb	/m/01lcxbb
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/0h1m9	/m/0h1m9
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/02yl42	/m/02yl42
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/02yj7w	/m/02yj7w
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/0chrwb	/m/0chrwb
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/0q59y	/m/0q59y
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/03cfjg	/m/03cfjg
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/015z4j	/m/015z4j
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/078jt5	/m/078jt5
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/04264n	/m/04264n
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/03ft8	/m/03ft8
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/04511f	/m/04511f
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/09rp4r_	/m/09rp4r_
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/0147dk	/m/0147dk
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/012cj0	/m/012cj0
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/01hxs4	/m/01hxs4
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/01jrz5j	/m/01jrz5j
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/083p7	/m/083p7
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/04t7ts	/m/04t7ts
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/031zkw	/m/031zkw
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/047hpm	/m/047hpm
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/0203v	/m/0203v
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/062hgx	/m/062hgx
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/02pt6k_	/m/02pt6k_
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/012s5j	/m/012s5j
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.4356)
+___
+/m/069d68	/m/09c7w0	/m/059_c	/m/059_c
+NO_OP	/people/person/nationality	_/location/administrative_division/country
+-1
+tensor(-6.4576)
+___
+/m/069d68	/m/09c7w0	/m/0498y	/m/0498y
+NO_OP	/people/person/nationality	_/location/administrative_division/country
+-1
+tensor(-6.4576)
+___
+/m/069d68	/m/0f2v0	/m/03_x5t	/m/03_x5t
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/0f2v0	/m/0261g5l	/m/0261g5l
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/0f2v0	/m/023kzp	/m/023kzp
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/0f2v0	/m/03f0qd7	/m/03f0qd7
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/0f2v0	/m/01dw_f	/m/01dw_f
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/0f2v0	/m/0cgzj	/m/0cgzj
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/0f2v0	/m/04bdxl	/m/04bdxl
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/0f2v0	/m/02fcs2	/m/02fcs2
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-6.4904)
+___
+/m/069d68	/m/069d68	/m/05zppz	/m/05zppz
+NO_OP	NO_OP	/people/person/gender
+-1
+tensor(-6.5226)
+___
+/m/069d68	/m/09c7w0	/m/0v9qg	/m/0v9qg
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.5497)
+___
+/m/069d68	/m/09c7w0	/m/0rs6x	/m/0rs6x
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.5497)
+___
+/m/069d68	/m/09c7w0	/m/0lfgr	/m/0lfgr
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.5497)
+___
+/m/069d68	/m/09c7w0	/m/01fq7	/m/01fq7
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.5497)
+___
+/m/069d68	/m/09c7w0	/m/06jk5_	/m/06jk5_
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.5497)
+___
+#####################
+/m/069d71	/m/069d68
+Reward:0
+/m/069d71	/m/0n1rj	/m/0n1rj	/m/0n1rj
+NO_OP	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-1.4868)
+___
+/m/069d71	/m/069d71	/m/069d71	/m/069d71
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-1.5273)
+___
+/m/069d71	/m/069d71	/m/0n1rj	/m/0n1rj
+NO_OP	NO_OP	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-2.7782)
+___
+/m/0n1rj	/m/0n1rj	/m/0n1rj	/m/0n1rj
+/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-2.9807)
+___
+/m/069d71	/m/069d71	/m/07bs0	/m/07bs0
+NO_OP	NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete
+-1
+tensor(-3.1421)
+___
+/m/069d71	/m/069d71	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/people/person/nationality
+-1
+tensor(-3.6675)
+___
+/m/069d71	/m/0n1rj	/m/0jj6k	/m/0jj6k
+NO_OP	/people/person/places_lived./people/place_lived/location	/location/hud_county_place/county
+-1
+tensor(-4.5534)
+___
+/m/069d71	/m/07bs0	/m/018ljb	/m/018ljb
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.7523)
+___
+/m/069d71	/m/07bs0	/m/0c_tl	/m/0c_tl
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.7523)
+___
+/m/069d71	/m/07bs0	/m/016r9z	/m/016r9z
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.7523)
+___
+/m/069d71	/m/07bs0	/m/0sxrz	/m/0sxrz
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.7523)
+___
+/m/069d71	/m/07bs0	/m/0kbvb	/m/0kbvb
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.7523)
+___
+/m/069d71	/m/07bs0	/m/0kbws	/m/0kbws
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-4.7523)
+___
+/m/069d71	/m/07bs0	/m/0nbjq	/m/0nbjq
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/0l6m5	/m/0l6m5
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/018qb4	/m/018qb4
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/0jdk_	/m/0jdk_
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/0jhn7	/m/0jhn7
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/018wrk	/m/018wrk
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/0l6mp	/m/0l6mp
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/0c_tl	/m/0c_tl
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/0sxrz	/m/0sxrz
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/07bs0	/m/016r9z	/m/016r9z
+NO_OP	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	_/user/jg/default_domain/olympic_games/sports
+-1
+tensor(-5.5268)
+___
+/m/069d71	/m/0n1rj	/m/09s5q8	/m/09s5q8
+NO_OP	/people/person/places_lived./people/place_lived/location	/location/location/contains
+-1
+tensor(-5.5870)
+___
+/m/069d71	/m/0n1rj	/m/0n1rj	/m/0n1rj
+NO_OP	/people/person/places_lived./people/place_lived/location	/location/hud_county_place/place
+-1
+tensor(-5.6219)
+___
+/m/069d71	/m/09c7w0	/m/050l8	/m/050l8
+NO_OP	/people/person/nationality	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.6450)
+___
+/m/069d71	/m/0n1rj	/m/09s5q8	/m/09s5q8
+NO_OP	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-5.7880)
+___
+/m/069d71	/m/0n1rj	/m/0vlf	/m/0vlf
+NO_OP	/people/person/places_lived./people/place_lived/location	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-5.7880)
+___
+/m/069d71	/m/09c7w0	/m/013cz2	/m/013cz2
+NO_OP	/people/person/nationality	_/base/biblioness/bibs_location/country
+-1
+tensor(-5.8029)
+___
+/m/069d71	/m/0n1rj	/m/04ztj	/m/04ztj
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-5.8290)
+___
+/m/069d71	/m/09c7w0	/m/03v1s	/m/03v1s
+NO_OP	/people/person/nationality	_/location/administrative_division/first_level_division_of
+-1
+tensor(-5.9764)
+___
+/m/069d71	/m/0n1rj	/m/06hgym	/m/06hgym
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-5.9902)
+___
+/m/069d71	/m/0n1rj	/m/02mslq	/m/02mslq
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-5.9902)
+___
+/m/069d71	/m/0n1rj	/m/040j2_	/m/040j2_
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-5.9902)
+___
+/m/069d71	/m/0n1rj	/m/03yrkt	/m/03yrkt
+NO_OP	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-5.9902)
+___
+/m/069d71	/m/09c7w0	/m/0cc846d	/m/0cc846d
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0g5qs2k	/m/0g5qs2k
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0192hw	/m/0192hw
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/07xtqq	/m/07xtqq
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/02krdz	/m/02krdz
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0f40w	/m/0f40w
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/03176f	/m/03176f
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0gfsq9	/m/0gfsq9
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/09g7vfw	/m/09g7vfw
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/026mfbr	/m/026mfbr
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0m2kd	/m/0m2kd
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/05q4y12	/m/05q4y12
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0d61px	/m/0d61px
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0c40vxk	/m/0c40vxk
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/011ydl	/m/011ydl
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/02r79_h	/m/02r79_h
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/08hmch	/m/08hmch
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0b76t12	/m/0b76t12
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/04w7rn	/m/04w7rn
+NO_OP	/people/person/nationality	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.0508)
+___
+/m/069d71	/m/09c7w0	/m/02rzdcp	/m/02rzdcp
+NO_OP	/people/person/nationality	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.0601)
+___
+/m/069d71	/m/09c7w0	/m/0d68qy	/m/0d68qy
+NO_OP	/people/person/nationality	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.0601)
+___
+/m/069d71	/m/09c7w0	/m/039c26	/m/039c26
+NO_OP	/people/person/nationality	_/tv/tv_program/country_of_origin
+-1
+tensor(-6.0601)
+___
+/m/069d71	/m/09c7w0	/m/05c46y6	/m/05c46y6
+NO_OP	/people/person/nationality	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-6.2000)
+___
+/m/069d71	/m/0n1rj	/m/01t032	/m/01t032
+NO_OP	/people/person/places_lived./people/place_lived/location	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-6.2750)
+___
+/m/069d71	/m/0n1rj	/m/01k3tq	/m/01k3tq
+NO_OP	/people/person/places_lived./people/place_lived/location	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-6.2750)
+___
+/m/069d71	/m/0n1rj	/m/0km5c	/m/0km5c
+NO_OP	/people/person/places_lived./people/place_lived/location	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-6.2750)
+___
+/m/069d71	/m/0n1rj	/m/01_gx_	/m/01_gx_
+NO_OP	/people/person/places_lived./people/place_lived/location	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-6.2750)
+___
+/m/069d71	/m/0n1rj	/m/0jj6k	/m/0jj6k
+NO_OP	/people/person/places_lived./people/place_lived/location	_/location/us_county/county_seat
+-1
+tensor(-6.3196)
+___
+/m/069d71	/m/09c7w0	/m/04t7ts	/m/04t7ts
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/01jrz5j	/m/01jrz5j
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/04511f	/m/04511f
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/02pt6k_	/m/02pt6k_
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/047hpm	/m/047hpm
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/0h1m9	/m/0h1m9
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/012cj0	/m/012cj0
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/01dw4q	/m/01dw4q
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/0q59y	/m/0q59y
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/0147dk	/m/0147dk
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/01gp_x	/m/01gp_x
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/01hxs4	/m/01hxs4
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/062hgx	/m/062hgx
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/083p7	/m/083p7
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/03cfjg	/m/03cfjg
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/01wk7b7	/m/01wk7b7
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/0347xl	/m/0347xl
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/078jt5	/m/078jt5
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/015z4j	/m/015z4j
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/09rp4r_	/m/09rp4r_
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/03ft8	/m/03ft8
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/0chrwb	/m/0chrwb
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/031zkw	/m/031zkw
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/0203v	/m/0203v
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/012s5j	/m/012s5j
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/02yj7w	/m/02yj7w
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/02yl42	/m/02yl42
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/01lcxbb	/m/01lcxbb
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/040t74	/m/040t74
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/04264n	/m/04264n
+NO_OP	/people/person/nationality	_/people/person/nationality
+-1
+tensor(-6.3391)
+___
+/m/069d71	/m/09c7w0	/m/0498y	/m/0498y
+NO_OP	/people/person/nationality	_/location/administrative_division/country
+-1
+tensor(-6.3534)
+___
+/m/069d71	/m/09c7w0	/m/059_c	/m/059_c
+NO_OP	/people/person/nationality	_/location/administrative_division/country
+-1
+tensor(-6.3534)
+___
+/m/069d71	/m/09c7w0	/m/0lfgr	/m/0lfgr
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.4532)
+___
+/m/069d71	/m/09c7w0	/m/0rs6x	/m/0rs6x
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.4532)
+___
+/m/069d71	/m/09c7w0	/m/0rj0z	/m/0rj0z
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.4532)
+___
+/m/069d71	/m/09c7w0	/m/0fvzg	/m/0fvzg
+NO_OP	/people/person/nationality	/location/location/contains
+-1
+tensor(-6.4532)
+___
+#####################
+/m/02_l96	/m/02tf1y
+Reward:1
+/m/030g9z	/m/02tf1y	/m/039cq4	/m/039cq4
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-2.4049)
+___
+/m/030g9z	/m/02tf1y	/m/0h7pj	/m/0h7pj
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-3.0155)
+___
+/m/030g9z	/m/02tf1y	/m/0h7pj	/m/0h7pj
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-3.2950)
+___
+/m/030g9z	/m/02_l96	/m/01pj_5	/m/01pj_5
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by
+-1
+tensor(-3.3707)
+___
+/m/030g9z	/m/02_l96	/m/02mc5v	/m/02mc5v
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by
+-1
+tensor(-3.3707)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-3.6128)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-3.6128)
+___
+/m/030g9z	/m/02mc5v	/m/02mc79	/m/02mc79
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/director/film
+-1
+tensor(-4.1047)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.2154)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.2154)
+___
+/m/07myb2	/m/030g9z	/m/02_l96	/m/02_l96
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-4.2570)
+___
+/m/07myb2	/m/030g9z	/m/02tf1y	/m/02tf1y
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-4.2570)
+___
+/m/030g9z	/m/01pj_5	/m/02_l96	/m/02_l96
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/written_by
+-1
+tensor(-4.2690)
+___
+/m/07myb2	/m/030g9z	/m/02_l96	/m/02_l96
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-4.4467)
+___
+/m/07myb2	/m/030g9z	/m/02tf1y	/m/02tf1y
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-4.4467)
+___
+/m/030g9z	/m/02_l96	/m/05r5w	/m/05r5w
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.8915)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.9338)
+___
+/m/017s11	/m/0l6wj	/m/0bmpm	/m/0bmpm
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.1684)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.1714)
+___
+/m/07myb2	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.2774)
+___
+/m/07myb2	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.2774)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.3377)
+___
+/m/07myb2	/m/02_l96	/m/01pj_5	/m/01pj_5
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-5.3788)
+___
+/m/07myb2	/m/02_l96	/m/02mc5v	/m/02mc5v
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-5.3788)
+___
+/m/030g9z	/m/025hwq	/m/01qvz8	/m/01qvz8
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4020)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4372)
+___
+/m/02mc5v	/m/02mc79	/m/02tf1y	/m/02tf1y
+_/film/film/written_by	_/film/director/film	_/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-5.4437)
+___
+/m/07myb2	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4547)
+___
+/m/07myb2	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4547)
+___
+/m/07myb2	/m/02_l96	/m/02mc5v	/m/02mc5v
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-5.5791)
+___
+/m/07myb2	/m/02_l96	/m/01pj_5	/m/01pj_5
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-5.5791)
+___
+/m/030g9z	/m/025hwq	/m/01qvz8	/m/01qvz8
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.5912)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.5960)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.5960)
+___
+/m/030g9z	/m/02_l96	/m/02mc79	/m/02mc79
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.5960)
+___
+/m/030g9z	/m/02_l96	/m/025hwq	/m/025hwq
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.5960)
+___
+/m/07myb2	/m/030g9z	/m/02tf1y	/m/02tf1y
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-5.5986)
+___
+/m/07myb2	/m/030g9z	/m/02_l96	/m/02_l96
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-5.5986)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.6289)
+___
+/m/017s11	/m/0l6wj	/m/0bmpm	/m/0bmpm
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.6352)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.6981)
+___
+/m/017s11	/m/030pr	/m/0gt14	/m/0gt14
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.7236)
+___
+/m/017s11	/m/030pr	/m/0c5dd	/m/0c5dd
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.7236)
+___
+/m/017s11	/m/030pr	/m/0gcpc	/m/0gcpc
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.7236)
+___
+/m/030g9z	/m/02tf1y	/m/02mc79	/m/02mc79
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-5.7552)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.7805)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.7805)
+___
+/m/030g9z	/m/025hwq	/m/01qvz8	/m/01qvz8
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.8024)
+___
+/m/07myb2	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.8133)
+___
+/m/07myb2	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.8133)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.8254)
+___
+/m/07myb2	/m/030g9z	/m/02_l96	/m/02_l96
+_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-5.8906)
+___
+/m/07myb2	/m/030g9z	/m/02tf1y	/m/02tf1y
+_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-5.8906)
+___
+/m/030g9z	/m/02_l96	/m/02mc5v	/m/02mc5v
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-5.9024)
+___
+/m/030g9z	/m/02_l96	/m/01pj_5	/m/01pj_5
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-5.9024)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.9169)
+___
+/m/030g9z	/m/02_l96	/m/02mc79	/m/02mc79
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-5.9169)
+___
+/m/017s11	/m/030pr	/m/0gcpc	/m/0gcpc
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.9283)
+___
+/m/017s11	/m/030pr	/m/0gt14	/m/0gt14
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.9283)
+___
+/m/017s11	/m/030pr	/m/0c5dd	/m/0c5dd
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.9283)
+___
+/m/017s11	/m/026c1	/m/047p798	/m/047p798
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/film/director/film
+-1
+tensor(-5.9635)
+___
+/m/07myb2	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.9765)
+___
+/m/07myb2	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.9765)
+___
+/m/030g9z	/m/025hwq	/m/01qvz8	/m/01qvz8
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.9856)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0628)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0628)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1404)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1656)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.1656)
+___
+/m/030g9z	/m/02_l96	/m/01pj_5	/m/01pj_5
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-6.1809)
+___
+/m/030g9z	/m/02_l96	/m/02mc5v	/m/02mc5v
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-6.1809)
+___
+/m/030g9z	/m/07myb2	/m/02_l96	/m/02_l96
+_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.2055)
+___
+/m/017s11	/m/030pr	/m/0gcpc	/m/0gcpc
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.2559)
+___
+/m/017s11	/m/030pr	/m/0c5dd	/m/0c5dd
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.2559)
+___
+/m/030g9z	/m/025hwq	/m/030_1m	/m/030_1m
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.2646)
+___
+/m/030g9z	/m/025hwq	/m/05nn4k	/m/05nn4k
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.2646)
+___
+/m/030g9z	/m/02_l96	/m/01pj_5	/m/01pj_5
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-6.3142)
+___
+/m/030g9z	/m/02_l96	/m/02mc5v	/m/02mc5v
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-6.3142)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.3355)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.3355)
+___
+/m/030g9z	/m/01pj_5	/m/01pk3z	/m/01pk3z
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.3594)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5264)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5264)
+___
+/m/017s11	/m/03rwz3	/m/016dj8	/m/016dj8
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5391)
+___
+/m/017s11	/m/03rwz3	/m/06bd5j	/m/06bd5j
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5391)
+___
+/m/030g9z	/m/017s11	/m/01r97z	/m/01r97z
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5527)
+___
+/m/030g9z	/m/017s11	/m/07s846j	/m/07s846j
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5527)
+___
+/m/030g9z	/m/017s11	/m/0ch3qr1	/m/0ch3qr1
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5527)
+___
+/m/017s11	/m/030pr	/m/0c5dd	/m/0c5dd
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5535)
+___
+/m/017s11	/m/030pr	/m/0gcpc	/m/0gcpc
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5535)
+___
+/m/030g9z	/m/02mc79	/m/02tf1y	/m/02tf1y
+_/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-6.5867)
+___
+/m/030g9z	/m/02_l96	/m/07myb2	/m/07myb2
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5889)
+___
+/m/030g9z	/m/02_l96	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5889)
+___
+/m/030g9z	/m/025hwq	/m/030_1m	/m/030_1m
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5943)
+___
+/m/030g9z	/m/025hwq	/m/05nn4k	/m/05nn4k
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5943)
+___
+/m/017s11	/m/026c1	/m/01y9jr	/m/01y9jr
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5943)
+___
+/m/017s11	/m/026c1	/m/01l_pn	/m/01l_pn
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5943)
+___
+/m/017s11	/m/0l6wj	/m/017s11	/m/017s11
+/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5960)
+___
+/m/030g9z	/m/02mc79	/m/02tf1y	/m/02tf1y
+/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-6.6071)
+___
+/m/030g9z	/m/02_l96	/m/02mc5v	/m/02mc5v
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-6.6128)
+___
+#####################
+/m/015076	/m/018db8
+Reward:0
+/m/0mbs8	/m/063ykwt	/m/01z_g6	/m/01z_g6
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.3204)
+___
+/m/0mbs8	/m/063ykwt	/m/0mbs8	/m/0mbs8
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.3204)
+___
+/m/0mbs8	/m/063ykwt	/m/0mbs8	/m/0mbs8
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.8115)
+___
+/m/0mbs8	/m/063ykwt	/m/01z_g6	/m/01z_g6
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-4.8115)
+___
+/m/0479b	/m/0pb33	/m/04flrx	/m/04flrx
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-5.2361)
+___
+/m/01hrqc	/m/01z452	/m/01hrqc	/m/01hrqc
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.3079)
+___
+/m/01hrqc	/m/01z452	/m/06pk8	/m/06pk8
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.3079)
+___
+/m/01hrqc	/m/01z452	/m/092kgw	/m/092kgw
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.3079)
+___
+/m/0mbs8	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/film/film/personal_appearances./film/personal_film_appearance/person	_/film/director/film
+-1
+tensor(-5.3274)
+___
+/m/0mbs8	/m/0mbs8	/m/063ykwt	/m/063ykwt
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.7793)
+___
+/m/07_hy	/m/0j5q3	/m/01hqk	/m/01hqk
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.9980)
+___
+/m/0mbs8	/m/0mbql	/m/021lby	/m/021lby
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/film/actor/film./film/performance/film	_/film/director/film
+-1
+tensor(-6.0198)
+___
+/m/05ry0p	/m/01dbk6	/m/06x77g	/m/06x77g
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0670)
+___
+/m/0479b	/m/07cz2	/m/0479b	/m/0479b
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0851)
+___
+/m/0479b	/m/07cz2	/m/014gf8	/m/014gf8
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0851)
+___
+/m/0479b	/m/07cz2	/m/01kj0p	/m/01kj0p
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.0851)
+___
+/m/0479b	/m/0pb33	/m/04flrx	/m/04flrx
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-6.1442)
+___
+/m/07_hy	/m/0gdh5	/m/014_x2	/m/014_x2
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.3563)
+___
+/m/07_hy	/m/03d_w3h	/m/0443v1	/m/0443v1
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.4024)
+___
+/m/07_hy	/m/03n52j	/m/02md2d	/m/02md2d
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.4128)
+___
+/m/07_hy	/m/01gbbz	/m/01jrbb	/m/01jrbb
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.4573)
+___
+/m/01hrqc	/m/092kgw	/m/08nvyr	/m/08nvyr
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.4613)
+___
+/m/01hrqc	/m/092kgw	/m/01z452	/m/01z452
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.4613)
+___
+/m/05ry0p	/m/026_w57	/m/0b76t12	/m/0b76t12
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.5706)
+___
+/m/07_hy	/m/0b_7k	/m/0jym0	/m/0jym0
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	/film/director/film
+-1
+tensor(-6.6069)
+___
+/m/0mbs8	/m/063ykwt	/m/06chf	/m/06chf
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/0mbs8	/m/0mbs8
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/0hz_1	/m/0hz_1
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/05gnf9	/m/05gnf9
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/04cf09	/m/04cf09
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/02tn0_	/m/02tn0_
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/02__7n	/m/02__7n
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/07nx9j	/m/07nx9j
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/01cwcr	/m/01cwcr
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/01z_g6	/m/01z_g6
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6305)
+___
+/m/0mbs8	/m/063ykwt	/m/05gnf9	/m/05gnf9
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/04cf09	/m/04cf09
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/02__7n	/m/02__7n
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/07nx9j	/m/07nx9j
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/02tn0_	/m/02tn0_
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/0mbs8	/m/0mbs8
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/06chf	/m/06chf
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/01cwcr	/m/01cwcr
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/01z_g6	/m/01z_g6
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/0mbs8	/m/063ykwt	/m/0hz_1	/m/0hz_1
+/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.6828)
+___
+/m/05ry0p	/m/01bh6y	/m/0kvb6p	/m/0kvb6p
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6855)
+___
+/m/05ry0p	/m/01bh6y	/m/0gl3hr	/m/0gl3hr
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6855)
+___
+/m/0mbs8	/m/063ykwt	/m/0mbs8	/m/0mbs8
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6861)
+___
+/m/0mbs8	/m/063ykwt	/m/01z_g6	/m/01z_g6
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6861)
+___
+/m/0mbs8	/m/015076	/m/0mbs8	/m/0mbs8
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.6967)
+___
+/m/0mbs8	/m/015076	/m/05ry0p	/m/05ry0p
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.6967)
+___
+/m/07_hy	/m/032_jg	/m/0151w_	/m/0151w_
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-6.7001)
+___
+/m/07_hy	/m/02qfhb	/m/024lt6	/m/024lt6
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7120)
+___
+/m/0mbs8	/m/063ykwt	/m/01z_g6	/m/01z_g6
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7588)
+___
+/m/0mbs8	/m/063ykwt	/m/0mbs8	/m/0mbs8
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7588)
+___
+/m/0mbs8	/m/03vyw8	/m/01qqtr	/m/01qqtr
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/film/actor/film./film/performance/film	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.7667)
+___
+/m/07_hy	/m/01d_4t	/m/0ctzf1	/m/0ctzf1
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7859)
+___
+/m/07_hy	/m/01d_4t	/m/05nlzq	/m/05nlzq
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.7859)
+___
+/m/0mbs8	/m/015076	/m/05ry0p	/m/05ry0p
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/base/popstra/celebrity/dated./base/popstra/dated/participant	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.8042)
+___
+/m/0mbs8	/m/015076	/m/0mbs8	/m/0mbs8
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/base/popstra/celebrity/dated./base/popstra/dated/participant	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.8042)
+___
+/m/05ry0p	/m/019f2f	/m/01b_lz	/m/01b_lz
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8204)
+___
+/m/05ry0p	/m/019f2f	/m/01gvts	/m/01gvts
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8204)
+___
+/m/05ry0p	/m/019f2f	/m/07k2mq	/m/07k2mq
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8204)
+___
+/m/05ry0p	/m/019f2f	/m/0jym0	/m/0jym0
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8204)
+___
+/m/07_hy	/m/01xv77	/m/01xvjb	/m/01xvjb
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8222)
+___
+/m/07_hy	/m/01xv77	/m/0gyv0b4	/m/0gyv0b4
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8222)
+___
+/m/05ry0p	/m/019f2f	/m/0jym0	/m/0jym0
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8372)
+___
+/m/05ry0p	/m/019f2f	/m/01gvts	/m/01gvts
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8372)
+___
+/m/05ry0p	/m/019f2f	/m/01b_lz	/m/01b_lz
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8372)
+___
+/m/05ry0p	/m/019f2f	/m/07k2mq	/m/07k2mq
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8372)
+___
+/m/07_hy	/m/032_jg	/m/07tlfx	/m/07tlfx
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8680)
+___
+/m/01hrqc	/m/092kgw	/m/01z452	/m/01z452
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8819)
+___
+/m/01hrqc	/m/092kgw	/m/08nvyr	/m/08nvyr
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8819)
+___
+/m/0mbs8	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/base/popstra/celebrity/dated./base/popstra/dated/participant	_/film/film/personal_appearances./film/personal_film_appearance/person	/film/film/written_by
+-1
+tensor(-6.9387)
+___
+/m/01hrqc	/m/01z452	/m/06pk8	/m/06pk8
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9428)
+___
+/m/01hrqc	/m/01z452	/m/01hrqc	/m/01hrqc
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9428)
+___
+/m/01hrqc	/m/01z452	/m/092kgw	/m/092kgw
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9428)
+___
+/m/01hrqc	/m/06pk8	/m/0h7t36	/m/0h7t36
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9719)
+___
+/m/01hrqc	/m/06pk8	/m/01chpn	/m/01chpn
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9719)
+___
+/m/01hrqc	/m/06pk8	/m/01z452	/m/01z452
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9719)
+___
+/m/01hrqc	/m/06pk8	/m/01bb9r	/m/01bb9r
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9719)
+___
+/m/01hrqc	/m/092kgw	/m/08nvyr	/m/08nvyr
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9761)
+___
+/m/01hrqc	/m/092kgw	/m/01z452	/m/01z452
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9761)
+___
+/m/0342h	/m/01w02sy	/m/0170th	/m/0170th
+_/music/instrument/instrumentalists	_/music/artist/track_contributions./music/track_contribution/role	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9810)
+___
+/m/0479b	/m/07cz2	/m/014gf8	/m/014gf8
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9972)
+___
+/m/0479b	/m/07cz2	/m/01kj0p	/m/01kj0p
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9972)
+___
+/m/0479b	/m/07cz2	/m/0479b	/m/0479b
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.9972)
+___
+/m/07_hy	/m/015pkc	/m/012s1d	/m/012s1d
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0266)
+___
+/m/01hrqc	/m/01z452	/m/02mt4k	/m/02mt4k
+_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/written_by
+-1
+tensor(-7.0306)
+___
+/m/0479b	/m/0pb33	/m/0479b	/m/0479b
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1293)
+___
+/m/0479b	/m/0pb33	/m/0794g	/m/0794g
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1293)
+___
+/m/0479b	/m/0pb33	/m/02fn5	/m/02fn5
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1293)
+___
+/m/07_hy	/m/018db8	/m/017180	/m/017180
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1484)
+___
+/m/07_hy	/m/018db8	/m/09q5w2	/m/09q5w2
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1484)
+___
+/m/07_hy	/m/01vvycq	/m/09889g	/m/09889g
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.2292)
+___
+/m/07_hy	/m/03j24kf	/m/01vs4f3	/m/01vs4f3
+/base/eating/practicer_of_diet/diet	_/base/eating/practicer_of_diet/diet	_/influence/influence_node/peers./influence/peer_relationship/peers
+-1
+tensor(-7.2419)
+___
+/m/015v3r	/m/0284b56	/m/02qgqt	/m/02qgqt
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2652)
+___
+/m/015v3r	/m/0284b56	/m/07fq1y	/m/07fq1y
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2652)
+___
+/m/015v3r	/m/0284b56	/m/01g257	/m/01g257
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2652)
+___
+/m/015v3r	/m/0284b56	/m/0b_dy	/m/0b_dy
+_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2652)
+___
+#####################
+/m/023tp8	/m/02v60l
+Reward:0
+/m/01wk51	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/director/film
+-1
+tensor(-0.3283)
+___
+/m/01wk51	/m/02v60l	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-1.6451)
+___
+/m/01wk51	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/director/film
+-1
+tensor(-4.2767)
+___
+/m/01wk51	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/written_by
+-1
+tensor(-4.8660)
+___
+/m/01wk51	/m/02v60l	/m/01l9p	/m/01l9p
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.0546)
+___
+/m/01wk51	/m/02v60l	/m/02z1yj	/m/02z1yj
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.0546)
+___
+/m/01wk51	/m/02v60l	/m/01pw2f1	/m/01pw2f1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.0546)
+___
+/m/01wk51	/m/02v60l	/m/026c1	/m/026c1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.0546)
+___
+/m/01wk51	/m/02v60l	/m/01rr9f	/m/01rr9f
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-6.4944)
+___
+/m/01wk51	/m/02v60l	/m/01rr9f	/m/01rr9f
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-6.6573)
+___
+/m/01vvb4m	/m/06mr6	/m/07bx6	/m/07bx6
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0943)
+___
+/m/01wk51	/m/02v60l	/m/01wvxw1	/m/01wvxw1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-7.2756)
+___
+/m/01wk51	/m/023tp8	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-7.2922)
+___
+/m/01wk51	/m/02v60l	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-7.3772)
+___
+/m/01vvb4m	/m/07bx6	/m/02qzjj	/m/02qzjj
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-7.4873)
+___
+/m/01vvb4m	/m/06mr6	/m/07bx6	/m/07bx6
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5056)
+___
+/m/01vvb4m	/m/06mr6	/m/07bx6	/m/07bx6
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.5117)
+___
+/m/01vvb4m	/m/07bx6	/m/02qzjj	/m/02qzjj
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-7.5993)
+___
+/m/01vvb4m	/m/02_fz3	/m/03_2y	/m/03_2y
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-7.6389)
+___
+/m/01wk51	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/produced_by
+-1
+tensor(-7.6594)
+___
+/m/01vvb4m	/m/06mr6	/m/07bx6	/m/07bx6
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.7196)
+___
+/m/01vvb4m	/m/02_fz3	/m/03_2y	/m/03_2y
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-7.7502)
+___
+/m/01wk51	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/written_by
+-1
+tensor(-8.0720)
+___
+/m/01vvb4m	/m/0f502	/m/0f4_l	/m/0f4_l
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2154)
+___
+/m/01vvb4m	/m/0f502	/m/0gzlb9	/m/0gzlb9
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2154)
+___
+/m/01vvb4m	/m/0f502	/m/0277j40	/m/0277j40
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2154)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2820)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2820)
+___
+/m/03z20c	/m/023tp8	/m/01wk51	/m/01wk51
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-8.3781)
+___
+/m/01vvb4m	/m/0f502	/m/0277j40	/m/0277j40
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4112)
+___
+/m/01vvb4m	/m/0f502	/m/0gzlb9	/m/0gzlb9
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4112)
+___
+/m/01vvb4m	/m/0f502	/m/0f4_l	/m/0f4_l
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4112)
+___
+/m/01wk51	/m/02jxmr	/m/0gfsq9	/m/0gfsq9
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4164)
+___
+/m/01wk51	/m/02jxmr	/m/0fh694	/m/0fh694
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4164)
+___
+/m/01wk51	/m/02jxmr	/m/02q87z6	/m/02q87z6
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4164)
+___
+/m/01wk51	/m/02jxmr	/m/09q23x	/m/09q23x
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4164)
+___
+/m/01wk51	/m/02jxmr	/m/03f7nt	/m/03f7nt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4164)
+___
+/m/01wk51	/m/02jxmr	/m/09q23x	/m/09q23x
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4342)
+___
+/m/01wk51	/m/02jxmr	/m/0fh694	/m/0fh694
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4342)
+___
+/m/01wk51	/m/02jxmr	/m/0gfsq9	/m/0gfsq9
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4342)
+___
+/m/01wk51	/m/02jxmr	/m/03f7nt	/m/03f7nt
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4342)
+___
+/m/01wk51	/m/02jxmr	/m/02q87z6	/m/02q87z6
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4342)
+___
+/m/01vvb4m	/m/0f502	/m/0f4_l	/m/0f4_l
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4555)
+___
+/m/01vvb4m	/m/0f502	/m/0277j40	/m/0277j40
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4555)
+___
+/m/01vvb4m	/m/0f502	/m/0gzlb9	/m/0gzlb9
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4555)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4686)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4686)
+___
+/m/01vvb4m	/m/014_x2	/m/0gdh5	/m/0gdh5
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4780)
+___
+/m/01vvb4m	/m/014_x2	/m/01vvb4m	/m/01vvb4m
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4780)
+___
+/m/01vvb4m	/m/014_x2	/m/012ljv	/m/012ljv
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4780)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5622)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.5622)
+___
+/m/01vvb4m	/m/014_x2	/m/012ljv	/m/012ljv
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6125)
+___
+/m/01vvb4m	/m/014_x2	/m/0gdh5	/m/0gdh5
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6125)
+___
+/m/01vvb4m	/m/014_x2	/m/01vvb4m	/m/01vvb4m
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6125)
+___
+/m/01wk51	/m/03nqnnk	/m/01wk51	/m/01wk51
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/produced_by	_/film/director/film
+-1
+tensor(-8.6379)
+___
+/m/01vvb4m	/m/0f502	/m/0gzlb9	/m/0gzlb9
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6677)
+___
+/m/01vvb4m	/m/0f502	/m/0277j40	/m/0277j40
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6677)
+___
+/m/01vvb4m	/m/0f502	/m/0f4_l	/m/0f4_l
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6677)
+___
+/m/03z20c	/m/01fyzy	/m/074w86	/m/074w86
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6865)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.7158)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.7158)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8390)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8390)
+___
+/m/01vvb4m	/m/02xs5v	/m/01718w	/m/01718w
+_/people/person/spouse_s./people/marriage/spouse	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8655)
+___
+/m/03z20c	/m/02r251z	/m/0ch3qr1	/m/0ch3qr1
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8873)
+___
+/m/01vvb4m	/m/023tp8	/m/01wk51	/m/01wk51
+_/people/person/spouse_s./people/marriage/spouse	_/people/person/spouse_s./people/marriage/spouse	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-9.0053)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.0093)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.0093)
+___
+/m/01vvb4m	/m/06mr6	/m/07bx6	/m/07bx6
+_/people/person/spouse_s./people/marriage/spouse	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.0286)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.0288)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.0288)
+___
+/m/01vvb4m	/m/02xs5v	/m/01718w	/m/01718w
+/people/person/spouse_s./people/marriage/spouse	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.1649)
+___
+/m/01vvb4m	/m/02xs5v	/m/01718w	/m/01718w
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.1692)
+___
+/m/01vvb4m	/m/06mr6	/m/01dkpb	/m/01dkpb
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.2083)
+___
+/m/01vvb4m	/m/06mr6	/m/01vvb4m	/m/01vvb4m
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.2083)
+___
+/m/01vvb4m	/m/023tp8	/m/01wk51	/m/01wk51
+/people/person/spouse_s./people/marriage/spouse	_/people/person/spouse_s./people/marriage/spouse	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-9.2954)
+___
+/m/01vvb4m	/m/06mr6	/m/07bx6	/m/07bx6
+/people/person/spouse_s./people/marriage/spouse	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.3487)
+___
+/m/01vvb4m	/m/023tp8	/m/01wk51	/m/01wk51
+_/people/person/spouse_s./people/marriage/spouse	/people/person/spouse_s./people/marriage/spouse	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-9.3586)
+___
+/m/01vvb4m	/m/0f502	/m/01vvb4m	/m/01vvb4m
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.3750)
+___
+/m/01vvb4m	/m/0f502	/m/0h1mt	/m/0h1mt
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.3750)
+___
+/m/01vvb4m	/m/0f502	/m/086k8	/m/086k8
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.3750)
+___
+/m/01vvb4m	/m/0f502	/m/04zwtdy	/m/04zwtdy
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.3750)
+___
+/m/01wk51	/m/02jxmr	/m/0150t6	/m/0150t6
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.3764)
+___
+/m/03z20c	/m/01vtqml	/m/0163t3	/m/0163t3
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-9.4172)
+___
+/m/01vvb4m	/m/02xs5v	/m/01718w	/m/01718w
+/people/person/spouse_s./people/marriage/spouse	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.4357)
+___
+/m/01vvb4m	/m/0f502	/m/086k8	/m/086k8
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.4861)
+___
+/m/01vvb4m	/m/0f502	/m/04zwtdy	/m/04zwtdy
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.4861)
+___
+/m/01vvb4m	/m/0f502	/m/0h1mt	/m/0h1mt
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.4861)
+___
+/m/01vvb4m	/m/0f502	/m/01vvb4m	/m/01vvb4m
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.4861)
+___
+/m/01vvb4m	/m/0f502	/m/086k8	/m/086k8
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.5481)
+___
+/m/01vvb4m	/m/0f502	/m/01vvb4m	/m/01vvb4m
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.5481)
+___
+/m/01vvb4m	/m/0f502	/m/04zwtdy	/m/04zwtdy
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.5481)
+___
+/m/01vvb4m	/m/0f502	/m/0h1mt	/m/0h1mt
+/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.5481)
+___
+/m/03z20c	/m/02r251z	/m/0ch3qr1	/m/0ch3qr1
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/film/film/produced_by	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.5651)
+___
+/m/01wk51	/m/02jxmr	/m/0150t6	/m/0150t6
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.6156)
+___
+/m/01vvb4m	/m/023tp8	/m/01wk51	/m/01wk51
+/people/person/spouse_s./people/marriage/spouse	/people/person/spouse_s./people/marriage/spouse	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-9.6986)
+___
+/m/01vvb4m	/m/02f2dn	/m/0bs8s1p	/m/0bs8s1p
+_/people/person/spouse_s./people/marriage/spouse	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.8073)
+___
+/m/01vvb4m	/m/02f2dn	/m/0fh694	/m/0fh694
+_/people/person/spouse_s./people/marriage/spouse	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.8073)
+___
+/m/01vvb4m	/m/02f2dn	/m/026p4q7	/m/026p4q7
+_/people/person/spouse_s./people/marriage/spouse	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-9.8073)
+___
+#####################
+/m/02v60l	/m/023tp8
+Reward:1
+/m/01wk51	/m/02v60l	/m/01l9p	/m/01l9p
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-2.6920)
+___
+/m/01wk51	/m/02v60l	/m/01pw2f1	/m/01pw2f1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-2.6920)
+___
+/m/01wk51	/m/02v60l	/m/026c1	/m/026c1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-2.6920)
+___
+/m/01wk51	/m/02v60l	/m/02z1yj	/m/02z1yj
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-2.6920)
+___
+/m/01wk51	/m/03nqnnk	/m/03cn92	/m/03cn92
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/023tp8	/m/023tp8
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/030znt	/m/030znt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/01k5zk	/m/01k5zk
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/0h1mt	/m/0h1mt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/01xv77	/m/01xv77
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/0fb1q	/m/0fb1q
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/02mhfy	/m/02mhfy
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/01jgpsh	/m/01jgpsh
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/0dn3n	/m/0dn3n
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/03nqnnk	/m/01kp66	/m/01kp66
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/actor/film./film/performance/film
+-1
+tensor(-3.0850)
+___
+/m/01wk51	/m/02v60l	/m/01rr9f	/m/01rr9f
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-4.1378)
+___
+/m/01wk51	/m/03nqnnk	/m/0436kgz	/m/0436kgz
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/03nqnnk	/m/0bq2g	/m/0bq2g
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/03nqnnk	/m/02f8lw	/m/02f8lw
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/03nqnnk	/m/09zmys	/m/09zmys
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/03nqnnk	/m/0h1mt	/m/0h1mt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/03nqnnk	/m/02f2p7	/m/02f2p7
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/03nqnnk	/m/0mbs8	/m/0mbs8
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/03nqnnk	/m/06jzh	/m/06jzh
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-4.3219)
+___
+/m/01wk51	/m/02v60l	/m/01rr9f	/m/01rr9f
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-4.4272)
+___
+/m/01wk51	/m/02v60l	/m/01wvxw1	/m/01wvxw1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.9204)
+___
+/m/01wk51	/m/03nqnnk	/m/01xv77	/m/01xv77
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/0fb1q	/m/0fb1q
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/023tp8	/m/023tp8
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/01k5zk	/m/01k5zk
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/0dn3n	/m/0dn3n
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/0h1mt	/m/0h1mt
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/02mhfy	/m/02mhfy
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/03cn92	/m/03cn92
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/01kp66	/m/01kp66
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/01jgpsh	/m/01jgpsh
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/030znt	/m/030znt
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-6.1956)
+___
+/m/01wk51	/m/03nqnnk	/m/0kygv	/m/0kygv
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/featured_film_locations
+-1
+tensor(-6.4325)
+___
+/m/01wk51	/m/03nqnnk	/m/0prpt	/m/0prpt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue
+-1
+tensor(-6.5656)
+___
+/m/01wk51	/m/03nqnnk	/m/09c7w0	/m/09c7w0
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/country
+-1
+tensor(-6.8360)
+___
+/m/01wk51	/m/03nqnnk	/m/03nqnnk	/m/03nqnnk
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	NO_OP
+-1
+tensor(-7.1520)
+___
+/m/01wk51	/m/02jxmr	/m/09q23x	/m/09q23x
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1638)
+___
+/m/01wk51	/m/02jxmr	/m/03f7nt	/m/03f7nt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1638)
+___
+/m/01wk51	/m/02jxmr	/m/0fh694	/m/0fh694
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1638)
+___
+/m/01wk51	/m/02jxmr	/m/0gfsq9	/m/0gfsq9
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1638)
+___
+/m/01wk51	/m/02jxmr	/m/02q87z6	/m/02q87z6
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.1638)
+___
+/m/01wk51	/m/03nqnnk	/m/0bq2g	/m/0bq2g
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/03nqnnk	/m/02f8lw	/m/02f8lw
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/03nqnnk	/m/06jzh	/m/06jzh
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/03nqnnk	/m/09zmys	/m/09zmys
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/03nqnnk	/m/0h1mt	/m/0h1mt
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/03nqnnk	/m/02f2p7	/m/02f2p7
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/03nqnnk	/m/0mbs8	/m/0mbs8
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/03nqnnk	/m/0436kgz	/m/0436kgz
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/personal_appearances./film/personal_film_appearance/person
+-1
+tensor(-7.2734)
+___
+/m/01wk51	/m/02jxmr	/m/02q87z6	/m/02q87z6
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2746)
+___
+/m/01wk51	/m/02jxmr	/m/0fh694	/m/0fh694
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2746)
+___
+/m/01wk51	/m/02jxmr	/m/0gfsq9	/m/0gfsq9
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2746)
+___
+/m/01wk51	/m/02jxmr	/m/03f7nt	/m/03f7nt
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2746)
+___
+/m/01wk51	/m/02jxmr	/m/09q23x	/m/09q23x
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.2746)
+___
+/m/01wk51	/m/03nqnnk	/m/02_h0	/m/02_h0
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	_/film/film_subject/films
+-1
+tensor(-7.2891)
+___
+/m/01wk51	/m/023tp8	/m/02mjf2	/m/02mjf2
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.3774)
+___
+/m/01wk51	/m/023tp8	/m/01vvb4m	/m/01vvb4m
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-7.4403)
+___
+/m/01wk51	/m/02v60l	/m/01pw2f1	/m/01pw2f1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.6673)
+___
+/m/01wk51	/m/02v60l	/m/01l9p	/m/01l9p
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.6673)
+___
+/m/01wk51	/m/02v60l	/m/026c1	/m/026c1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.6673)
+___
+/m/01wk51	/m/03nqnnk	/m/09c7w0	/m/09c7w0
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7790)
+___
+/m/01wk51	/m/03nqnnk	/m/01znc_	/m/01znc_
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7790)
+___
+/m/01wk51	/m/03nqnnk	/m/0f8l9c	/m/0f8l9c
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7790)
+___
+/m/01wk51	/m/03nqnnk	/m/03_3d	/m/03_3d
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7790)
+___
+/m/01wk51	/m/03nqnnk	/m/0d0vqn	/m/0d0vqn
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7790)
+___
+/m/01wk51	/m/03nqnnk	/m/09c7w0	/m/09c7w0
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-7.7946)
+___
+/m/01wk51	/m/03nqnnk	/m/0f8l9c	/m/0f8l9c
+_/people/person/sibling_s./people/sibling_relationship/sibling	/film/director/film	/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-7.7946)
+___
+/m/01wk51	/m/023tp8	/m/01vvb4m	/m/01vvb4m
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-7.8931)
+___
+/m/01wk51	/m/02v60l	/m/01l9p	/m/01l9p
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.9065)
+___
+/m/01wk51	/m/02v60l	/m/02z1yj	/m/02z1yj
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.9065)
+___
+/m/01wk51	/m/02v60l	/m/026c1	/m/026c1
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.9065)
+___
+/m/01wk51	/m/02v60l	/m/01pw2f1	/m/01pw2f1
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.9065)
+___
+/m/01wk51	/m/02v60l	/m/01rr9f	/m/01rr9f
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-7.9693)
+___
+/m/01wk51	/m/02jxmr	/m/0150t6	/m/0150t6
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.2381)
+___
+/m/01rr9f	/m/01hxs4	/m/030cx	/m/030cx
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.3553)
+___
+/m/01wk51	/m/02v60l	/m/01rr9f	/m/01rr9f
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse
+-1
+tensor(-8.4221)
+___
+/m/01wk51	/m/02jxmr	/m/0150t6	/m/0150t6
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.4801)
+___
+/m/01wk51	/m/023tp8	/m/03z20c	/m/03z20c
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-8.5926)
+___
+/m/01rr9f	/m/016tb7	/m/030cx	/m/030cx
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6059)
+___
+/m/01rr9f	/m/016tb7	/m/03s5lz	/m/03s5lz
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6059)
+___
+/m/01rr9f	/m/016tbr	/m/030cx	/m/030cx
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6504)
+___
+/m/01rr9f	/m/016tbr	/m/015g28	/m/015g28
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6504)
+___
+/m/01rr9f	/m/09yrh	/m/0crd8q6	/m/0crd8q6
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6822)
+___
+/m/01rr9f	/m/09yrh	/m/030cx	/m/030cx
+_/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.6822)
+___
+/m/01wk51	/m/02v60l	/m/01s21dg	/m/01s21dg
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-8.6857)
+___
+/m/01wk51	/m/02v60l	/m/09yrh	/m/09yrh
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-8.6857)
+___
+/m/01wk51	/m/02v60l	/m/01wvxw1	/m/01wvxw1
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-8.6857)
+___
+/m/01wk51	/m/023tp8	/m/01mqc_	/m/01mqc_
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.7589)
+___
+/m/01wk51	/m/02jxmr	/m/0150t6	/m/0150t6
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.7720)
+___
+/m/01wk51	/m/03nqnnk	/m/0prpt	/m/0prpt
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/film/film/written_by	/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue
+-1
+tensor(-8.8237)
+___
+/m/01rr9f	/m/016tb7	/m/03s5lz	/m/03s5lz
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8508)
+___
+/m/01rr9f	/m/016tb7	/m/030cx	/m/030cx
+/people/person/spouse_s./people/marriage/spouse	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8508)
+___
+/m/01rr9f	/m/01hxs4	/m/030cx	/m/030cx
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8646)
+___
+/m/01rr9f	/m/016tb7	/m/03s5lz	/m/03s5lz
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8918)
+___
+/m/01rr9f	/m/016tb7	/m/030cx	/m/030cx
+_/people/person/spouse_s./people/marriage/spouse	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-8.8918)
+___
+#####################
+/m/02cvp8	/m/030dx5
+Reward:1
+/m/045g4l	/m/02cvp8	/m/02sdwt	/m/02sdwt
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-0.5388)
+___
+/m/045g4l	/m/02cvp8	/m/0k5fg	/m/0k5fg
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/film/actor/film./film/performance/film
+-1
+tensor(-1.5496)
+___
+/m/045g4l	/m/02cvp8	/m/02cvp8	/m/02cvp8
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP
+-1
+tensor(-2.0619)
+___
+/m/045g4l	/m/02cvp8	/m/04p3w	/m/04p3w
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-3.4103)
+___
+/m/045g4l	/m/02cvp8	/m/0qcr0	/m/0qcr0
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-3.4103)
+___
+/m/045g4l	/m/02cvp8	/m/02sdwt	/m/02sdwt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-6.2083)
+___
+/m/045g4l	/m/030dx5	/m/0f2wj	/m/0f2wj
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/deceased_person/place_of_death
+-1
+tensor(-6.2140)
+___
+/m/045g4l	/m/030dx5	/m/030dx5	/m/030dx5
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP
+1
+tensor(-6.5858)
+___
+/m/045g4l	/m/02cvp8	/m/0k5fg	/m/0k5fg
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/film/actor/film./film/performance/film
+-1
+tensor(-6.6534)
+___
+/m/045g4l	/m/02cvp8	/m/02cvp8	/m/02cvp8
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP
+-1
+tensor(-7.0787)
+___
+/m/045g4l	/m/030dx5	/m/0cc56	/m/0cc56
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/place_of_birth
+-1
+tensor(-7.4002)
+___
+/m/045g4l	/m/030dx5	/m/0gk4g	/m/0gk4g
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-7.6254)
+___
+/m/045g4l	/m/02cvp8	/m/02sdwt	/m/02sdwt
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-8.0300)
+___
+/m/045g4l	/m/02cvp8	/m/0qcr0	/m/0qcr0
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-8.1244)
+___
+/m/045g4l	/m/02cvp8	/m/04p3w	/m/04p3w
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-8.1244)
+___
+/m/045g4l	/m/030dx5	/m/0cr3d	/m/0cr3d
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-8.3581)
+___
+/m/045g4l	/m/02cvp8	/m/0k5fg	/m/0k5fg
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/film/actor/film./film/performance/film
+-1
+tensor(-8.3652)
+___
+/m/045g4l	/m/02cvp8	/m/02cvp8	/m/02cvp8
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP
+-1
+tensor(-8.5870)
+___
+/m/045g4l	/m/02cvp8	/m/04p3w	/m/04p3w
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-9.5301)
+___
+/m/045g4l	/m/02cvp8	/m/0qcr0	/m/0qcr0
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-9.5301)
+___
+/m/045g4l	/m/045g4l	/m/02cvp8	/m/02cvp8
+_/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-9.8944)
+___
+/m/045g4l	/m/02cvp8	/m/04ztj	/m/04ztj
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-9.9300)
+___
+/m/02cvp8	/m/045g4l	/m/02cvp8	/m/02cvp8
+NO_OP	_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-10.6900)
+___
+/m/045g4l	/m/045g4l	/m/02cvp8	/m/02cvp8
+/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-10.7198)
+___
+/m/045g4l	/m/030dx5	/m/0f2wj	/m/0f2wj
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/deceased_person/place_of_death
+-1
+tensor(-10.7744)
+___
+/m/045g4l	/m/030dx5	/m/030dx5	/m/030dx5
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP
+1
+tensor(-10.8023)
+___
+/m/045g4l	/m/02cvp8	/m/02sdwt	/m/02sdwt
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-10.8351)
+___
+/m/045g4l	/m/030dx5	/m/09c7w0	/m/09c7w0
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/nationality
+-1
+tensor(-11.0229)
+___
+/m/045g4l	/m/02cvp8	/m/0k5fg	/m/0k5fg
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/film/actor/film./film/performance/film
+-1
+tensor(-11.0482)
+___
+/m/045g4l	/m/02cvp8	/m/02cvp8	/m/02cvp8
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP
+-1
+tensor(-11.0659)
+___
+/m/045g4l	/m/030dx5	/m/0gk4g	/m/0gk4g
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-11.5908)
+___
+/m/045g4l	/m/02cvp8	/m/04p3w	/m/04p3w
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-11.8408)
+___
+/m/045g4l	/m/02cvp8	/m/0qcr0	/m/0qcr0
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people
+-1
+tensor(-11.8408)
+___
+/m/045g4l	/m/030dx5	/m/0cc56	/m/0cc56
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/place_of_birth
+-1
+tensor(-11.8414)
+___
+/m/045g4l	/m/030dx5	/m/04ztj	/m/04ztj
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-11.8795)
+___
+/m/045g4l	/m/030dx5	/m/0cr3d	/m/0cr3d
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location
+-1
+tensor(-12.1730)
+___
+/m/045g4l	/m/02cvp8	/m/04ztj	/m/04ztj
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-12.4173)
+___
+/m/045g4l	/m/0cr3d	/m/021q2j	/m/021q2j
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	/location/location/contains
+-1
+tensor(-12.5479)
+___
+/m/045g4l	/m/0cr3d	/m/02sdwt	/m/02sdwt
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	/location/location/contains
+-1
+tensor(-12.5479)
+___
+/m/045g4l	/m/030dx5	/m/041rx	/m/041rx
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/ethnicity/people
+-1
+tensor(-12.5678)
+___
+/m/045g4l	/m/08g5q7	/m/02y0js	/m/02y0js
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people	/medicine/symptom/symptom_of
+-1
+tensor(-12.6721)
+___
+/m/02cvp8	/m/045g4l	/m/02cvp8	/m/02cvp8
+NO_OP	/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-12.6807)
+___
+/m/045g4l	/m/02cvp8	/m/04ztj	/m/04ztj
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-12.6986)
+___
+/m/045g4l	/m/0cr3d	/m/054c1	/m/054c1
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/02t_zq	/m/02t_zq
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01lvcs1	/m/01lvcs1
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/0c7t58	/m/0c7t58
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/017c87	/m/017c87
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/09nhvw	/m/09nhvw
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/02nrdp	/m/02nrdp
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/030s5g	/m/030s5g
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/026yqrr	/m/026yqrr
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01vz0g4	/m/01vz0g4
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01pl9g	/m/01pl9g
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/06w2yp9	/m/06w2yp9
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/03f4xvm	/m/03f4xvm
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01p47r	/m/01p47r
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/03f2_rc	/m/03f2_rc
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01hkg9	/m/01hkg9
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/015grj	/m/015grj
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/04z542	/m/04z542
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01520h	/m/01520h
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/05m9f9	/m/05m9f9
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/0klh7	/m/0klh7
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/04z0g	/m/04z0g
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/05cl2w	/m/05cl2w
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/087v17	/m/087v17
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/012t1	/m/012t1
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/014dm6	/m/014dm6
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01g257	/m/01g257
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/02x8kk	/m/02x8kk
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/03j3pg9	/m/03j3pg9
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/06y0xx	/m/06y0xx
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/0fx0mw	/m/0fx0mw
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/01swck	/m/01swck
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/03wd5tk	/m/03wd5tk
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/07csf4	/m/07csf4
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/0q9zc	/m/0q9zc
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/045g4l	/m/0cr3d	/m/02lf70	/m/02lf70
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	_/people/person/place_of_birth
+-1
+tensor(-12.8823)
+___
+/m/02sdwt	/m/02sdwt	/m/02sdwt	/m/02sdwt
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/campuses	_/education/educational_institution/campuses
+-1
+tensor(-12.9851)
+___
+/m/02sdwt	/m/02sdwt	/m/02sdwt	/m/02sdwt
+_/education/educational_institution/students_graduates./education/education/student	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-13.0855)
+___
+/m/02sdwt	/m/02sdwt	/m/02sdwt	/m/02sdwt
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	_/education/educational_institution/campuses
+-1
+tensor(-13.0970)
+___
+/m/045g4l	/m/08g5q7	/m/02y0js	/m/02y0js
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people	/medicine/symptom/symptom_of
+-1
+tensor(-13.1381)
+___
+/m/02sdwt	/m/02sdwt	/m/02sdwt	/m/02sdwt
+_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-13.1516)
+___
+/m/0k5fg	/m/01n9d9	/m/0j90s	/m/0j90s
+/film/actor/film./film/performance/film	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.2443)
+___
+/m/0k5fg	/m/01n9d9	/m/0n0bp	/m/0n0bp
+/film/actor/film./film/performance/film	_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-13.2443)
+___
+/m/045g4l	/m/030dx5	/m/09c7w0	/m/09c7w0
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/nationality
+-1
+tensor(-13.2746)
+___
+/m/045g4l	/m/030dx5	/m/04ztj	/m/04ztj
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-13.3570)
+___
+/m/0k5fg	/m/01n9d9	/m/0k5fg	/m/0k5fg
+/film/actor/film./film/performance/film	_/film/director/film	/film/director/film
+-1
+tensor(-13.4580)
+___
+/m/0k5fg	/m/01n9d9	/m/0n0bp	/m/0n0bp
+/film/actor/film./film/performance/film	_/film/director/film	/film/director/film
+-1
+tensor(-13.4580)
+___
+/m/0k5fg	/m/01n9d9	/m/0j90s	/m/0j90s
+/film/actor/film./film/performance/film	_/film/director/film	/film/director/film
+-1
+tensor(-13.4580)
+___
+/m/045g4l	/m/02cvp8	/m/04ztj	/m/04ztj
+/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-13.6163)
+___
+/m/02cvp8	/m/0k5fg	/m/01n9d9	/m/01n9d9
+NO_OP	/film/actor/film./film/performance/film	_/film/director/film
+-1
+tensor(-13.7259)
+___
+/m/045g4l	/m/0cr3d	/m/0cr3d	/m/0cr3d
+_/people/person/sibling_s./people/sibling_relationship/sibling	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-13.9365)
+___
+/m/045g4l	/m/02y0js	/m/0h1n9	/m/0h1n9
+_/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people	/medicine/symptom/symptom_of
+-1
+tensor(-13.9974)
+___
+/m/045g4l	/m/045g4l	/m/02cvp8	/m/02cvp8
+/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP	/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-14.0239)
+___
+/m/045g4l	/m/045g4l	/m/030dx5	/m/030dx5
+/people/person/sibling_s./people/sibling_relationship/sibling	NO_OP	/people/person/sibling_s./people/sibling_relationship/sibling
+1
+tensor(-14.0239)
+___
+/m/045g4l	/m/08g5q7	/m/09qh1	/m/09qh1
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people	/people/cause_of_death/people
+-1
+tensor(-14.1287)
+___
+/m/045g4l	/m/08g5q7	/m/03_nq	/m/03_nq
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people	/people/cause_of_death/people
+-1
+tensor(-14.1287)
+___
+/m/045g4l	/m/08g5q7	/m/04jzj	/m/04jzj
+/people/person/sibling_s./people/sibling_relationship/sibling	_/people/cause_of_death/people	/people/cause_of_death/people
+-1
+tensor(-14.1287)
+___
+#####################

@@ -1,0 +1,88 @@
+Score for iteration 100
+Hits@1:  0.5014
+Hits@3:  0.6231
+Hits@5:  0.6703
+Hits@10:  0.7122
+Hits@20:  0.7459
+auc:  0.5758
+
+Score for iteration 200
+Hits@1:  0.4996
+Hits@3:  0.6274
+Hits@5:  0.6700
+Hits@10:  0.7236
+Hits@20:  0.7661
+auc:  0.5787
+
+Score for iteration 300
+Hits@1:  0.5600
+Hits@3:  0.6774
+Hits@5:  0.7101
+Hits@10:  0.7466
+Hits@20:  0.7800
+auc:  0.6290
+
+Score for iteration 400
+Hits@1:  0.5788
+Hits@3:  0.6881
+Hits@5:  0.7317
+Hits@10:  0.7718
+Hits@20:  0.8016
+auc:  0.6469
+
+Score for iteration 500
+Hits@1:  0.5852
+Hits@3:  0.7037
+Hits@5:  0.7395
+Hits@10:  0.7818
+Hits@20:  0.8133
+auc:  0.6544
+
+Score for iteration 600
+Hits@1:  0.5891
+Hits@3:  0.6920
+Hits@5:  0.7303
+Hits@10:  0.7740
+Hits@20:  0.8045
+auc:  0.6538
+
+Score for iteration 700
+Hits@1:  0.5841
+Hits@3:  0.7048
+Hits@5:  0.7456
+Hits@10:  0.7864
+Hits@20:  0.8158
+auc:  0.6564
+
+Score for iteration 800
+Hits@1:  0.5926
+Hits@3:  0.7140
+Hits@5:  0.7548
+Hits@10:  0.7942
+Hits@20:  0.8172
+auc:  0.6637
+
+Score for iteration 900
+Hits@1:  0.6125
+Hits@3:  0.7278
+Hits@5:  0.7704
+Hits@10:  0.8034
+Hits@20:  0.8314
+auc:  0.6820
+
+Score for iteration 1000
+Hits@1:  0.6068
+Hits@3:  0.7154
+Hits@5:  0.7537
+Hits@10:  0.7913
+Hits@20:  0.8222
+auc:  0.6726
+
+Test (beam) scores with best model from output/nell//19b1_3_0.07_100_0.07/model/model.ckpt
+Hits@1:  0.6068
+Hits@3:  0.7158
+Hits@5:  0.7534
+Hits@10:  0.7913
+Hits@20:  0.8222
+auc:  0.6726
+

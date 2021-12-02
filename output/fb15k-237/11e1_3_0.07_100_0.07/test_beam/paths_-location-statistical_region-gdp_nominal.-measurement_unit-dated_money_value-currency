@@ -1,0 +1,2012 @@
+/m/0vmt	/m/09nqf
+Reward:0
+/m/0d35y	/m/0vmt	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-2.3842e-07)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-15.1659)
+___
+/m/0d35y	/m/0vmt	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-22.1171)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-22.1171)
+___
+/m/0d35y	/m/0vmt	/m/0qpsn	/m/0qpsn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-23.7552)
+___
+/m/0d35y	/m/0vmt	/m/0fsv2	/m/0fsv2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-23.7552)
+___
+/m/0d35y	/m/0vmt	/m/0fr0t	/m/0fr0t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-23.7552)
+___
+/m/0d35y	/m/0vmt	/m/0ny57	/m/0ny57
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-23.7552)
+___
+/m/0d35y	/m/0vmt	/m/0qpqn	/m/0qpqn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-23.7552)
+___
+/m/0d35y	/m/0vmt	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-24.0240)
+___
+/m/0d35y	/m/0vmt	/m/0d35y	/m/0d35y
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-24.5894)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-28.7465)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/county	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-33.8308)
+___
+/m/0d35y	/m/0m27n	/m/0qpn9	/m/0qpn9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-34.0589)
+___
+/m/0d35y	/m/0m27n	/m/0qpsn	/m/0qpsn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-34.0589)
+___
+/m/0d35y	/m/0m27n	/m/0qplq	/m/0qplq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-34.0589)
+___
+/m/0d35y	/m/0m27n	/m/0qpjt	/m/0qpjt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-34.0589)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-34.0589)
+___
+/m/0d35y	/m/0m27n	/m/0qpqn	/m/0qpqn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-34.0589)
+___
+/m/0d35y	/m/0d35y	/m/0vmt	/m/0vmt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-34.2936)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat
+-1
+tensor(-36.1048)
+___
+/m/0d35y	/m/0d35y	/m/0m27n	/m/0m27n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-38.5927)
+___
+/m/0d35y	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-39.4743)
+___
+/m/0d35y	/m/0vmt	/m/0trv	/m/0trv
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.6199)
+___
+/m/0d35y	/m/0vmt	/m/07vyf	/m/07vyf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.6199)
+___
+/m/0d35y	/m/0vmt	/m/02xpy5	/m/02xpy5
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.6199)
+___
+/m/0d35y	/m/0vmt	/m/07srw	/m/07srw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7926)
+___
+/m/0d35y	/m/0vmt	/m/01n4w	/m/01n4w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7926)
+___
+/m/0d35y	/m/0vmt	/m/05fjy	/m/05fjy
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7926)
+___
+/m/0d35y	/m/0vmt	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7926)
+___
+/m/0d35y	/m/0vmt	/m/0ldff	/m/0ldff
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7926)
+___
+/m/0d35y	/m/0d35y	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-40.2525)
+___
+/m/0d35y	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-40.3434)
+___
+/m/0d35y	/m/0m27n	/m/0qpqn	/m/0qpqn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county
+-1
+tensor(-40.9665)
+___
+/m/0d35y	/m/0m27n	/m/0qplq	/m/0qplq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county
+-1
+tensor(-40.9665)
+___
+/m/0d35y	/m/0m27n	/m/0qpjt	/m/0qpjt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county
+-1
+tensor(-40.9665)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county
+-1
+tensor(-40.9665)
+___
+/m/0d35y	/m/0m27n	/m/0qpsn	/m/0qpsn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county
+-1
+tensor(-40.9665)
+___
+/m/0d35y	/m/0m27n	/m/0qpn9	/m/0qpn9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county
+-1
+tensor(-40.9665)
+___
+/m/0d35y	/m/0m27n	/m/0d35y	/m/0d35y
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-41.0209)
+___
+/m/0d35y	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-41.5595)
+___
+/m/0d35y	/m/0d35y	/m/0vmt	/m/0vmt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-42.4844)
+___
+/m/0d35y	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/first_level_division_of
+-1
+tensor(-43.3179)
+___
+/m/0d35y	/m/0vmt	/m/02t7t	/m/02t7t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/05sfs	/m/05sfs
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/01y0s9	/m/01y0s9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/0c8wxp	/m/0c8wxp
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/058x5	/m/058x5
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/019cr	/m/019cr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/051kv	/m/051kv
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/05w5d	/m/05w5d
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/021_0p	/m/021_0p
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/03_gx	/m/03_gx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.5732)
+___
+/m/0d35y	/m/0vmt	/m/0m24v	/m/0m24v
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m257	/m/0m257
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m241	/m/0m241
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m2cb	/m/0m2cb
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m27n	/m/0m27n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m25p	/m/0m25p
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m2dk	/m/0m2dk
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m28g	/m/0m28g
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/0vmt	/m/0m2b5	/m/0m2b5
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.7356)
+___
+/m/0d35y	/m/01_gx_	/m/0f2s6	/m/0f2s6
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0d9jr	/m/0d9jr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/01_d4	/m/01_d4
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/013yq	/m/013yq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/03l2n	/m/03l2n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/01smm	/m/01smm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0_vn7	/m/0_vn7
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0fr0t	/m/0fr0t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0chrx	/m/0chrx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/02_286	/m/02_286
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/02frhbc	/m/02frhbc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0f__1	/m/0f__1
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/019fh	/m/019fh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0f2r6	/m/0f2r6
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0n1rj	/m/0n1rj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/07bcn	/m/07bcn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0ply0	/m/0ply0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0fsb8	/m/0fsb8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0fvyg	/m/0fvyg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0f2v0	/m/0f2v0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0dclg	/m/0dclg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/01cx_	/m/01cx_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/06wxw	/m/06wxw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0f2tj	/m/0f2tj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0f2w0	/m/0f2w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0nbwf	/m/0nbwf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0vzm	/m/0vzm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/068p2	/m/068p2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/01sn3	/m/01sn3
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/01snm	/m/01snm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/071vr	/m/071vr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0fvzg	/m/0fvzg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/02dtg	/m/02dtg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0c_m3	/m/0c_m3
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/01_gx_	/m/0f04v	/m/0f04v
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.7884)
+___
+/m/0d35y	/m/0km3f	/m/013yq	/m/013yq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.8425)
+___
+/m/0d35y	/m/0km3f	/m/0f2v0	/m/0f2v0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-43.8425)
+___
+#####################
+/m/0gyh	/m/09nqf
+Reward:0
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(0.)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-21.9928)
+___
+/m/0fttg	/m/0gyh	/m/0qc7l	/m/0qc7l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-23.5314)
+___
+/m/0fttg	/m/0gyh	/m/0q8sw	/m/0q8sw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-23.5314)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-23.7955)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-24.5894)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-33.9442)
+___
+/m/0fttg	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-38.9648)
+___
+/m/0fttg	/m/0gyh	/m/01wdl3	/m/01wdl3
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.2880)
+___
+/m/0fttg	/m/0gyh	/m/0325dj	/m/0325dj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.2880)
+___
+/m/0fttg	/m/0gyh	/m/01wdj_	/m/01wdj_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.2880)
+___
+/m/0fttg	/m/0gyh	/m/01qwb5	/m/01qwb5
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.2880)
+___
+/m/0fttg	/m/0gyh	/m/02jyr8	/m/02jyr8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.2880)
+___
+/m/0fttg	/m/0gyh	/m/02xry	/m/02xry
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.4351)
+___
+/m/0fttg	/m/0gyh	/m/07h34	/m/07h34
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.4351)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-40.1392)
+___
+/m/0fttg	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-41.0467)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-42.0188)
+___
+/m/0fttg	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/first_level_division_of
+-1
+tensor(-42.8361)
+___
+/m/0fttg	/m/0gyh	/m/01s5nb	/m/01s5nb
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/019cr	/m/019cr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/0631_	/m/0631_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/021_0p	/m/021_0p
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/051kv	/m/051kv
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/01y0s9	/m/01y0s9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/01lp8	/m/01lp8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/04pk9	/m/04pk9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/072w0	/m/072w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/05sfs	/m/05sfs
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/0c8wxp	/m/0c8wxp
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/03_gx	/m/03_gx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/05w5d	/m/05w5d
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-43.1566)
+___
+/m/0fttg	/m/0gyh	/m/0kwmc	/m/0kwmc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.3298)
+___
+/m/0fttg	/m/0gyh	/m/0k696	/m/0k696
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.3298)
+___
+/m/0fttg	/m/0gyh	/m/0kwgs	/m/0kwgs
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.3298)
+___
+/m/0fttg	/m/0gyh	/m/0kcnq	/m/0kcnq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.3298)
+___
+/m/0fttg	/m/0gyh	/m/0kcrd	/m/0kcrd
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-43.3298)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-44.5477)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-44.9112)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.3798)
+___
+/m/0q8sw	/m/0kwgs	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.4641)
+___
+/m/0q8sw	/m/0kwgs	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.8307)
+___
+/m/0fttg	/m/0gyh	/m/0qc7l	/m/0qc7l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/biblioness/bibs_location/state
+-1
+tensor(-46.1235)
+___
+/m/0fttg	/m/0gyh	/m/0q8sw	/m/0q8sw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/biblioness/bibs_location/state
+-1
+tensor(-46.1235)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-46.8622)
+___
+/m/0fttg	/m/0gyh	/m/02xry	/m/02xry
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-47.3515)
+___
+/m/0fttg	/m/0gyh	/m/07h34	/m/07h34
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-47.3515)
+___
+/m/0fttg	/m/0gyh	/m/04tgp	/m/04tgp
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-47.3515)
+___
+/m/0fttg	/m/0gyh	/m/0d0x8	/m/0d0x8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-47.3515)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-47.6134)
+___
+/m/0fttg	/m/0gyh	/m/0qc7l	/m/0qc7l
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-48.1230)
+___
+/m/0fttg	/m/0gyh	/m/0q8sw	/m/0q8sw
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-48.1230)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-48.4335)
+___
+/m/0q8sw	/m/0kwgs	/m/0q8sw	/m/0q8sw
+_/base/biblioness/bibs_location/state	/location/hud_county_place/county	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-48.4665)
+___
+/m/0fttg	/m/0gyh	/m/0gyh	/m/0gyh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	NO_OP
+-1
+tensor(-49.7261)
+___
+/m/0fttg	/m/0gyh	/m/03rl1g	/m/03rl1g
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/02bqmq	/m/02bqmq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/06f0dc	/m/06f0dc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/02gkzs	/m/02gkzs
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/02bqm0	/m/02bqm0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/07p__7	/m/07p__7
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/024tkd	/m/024tkd
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/01gtdd	/m/01gtdd
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/077g7n	/m/077g7n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/043djx	/m/043djx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/01gstn	/m/01gstn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/01gtcq	/m/01gtcq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/070m6c	/m/070m6c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/01h7xx	/m/01h7xx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/024tcq	/m/024tcq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/02bqn1	/m/02bqn1
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/01gst_	/m/01gst_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/01gsvb	/m/01gsvb
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/01gtcc	/m/01gtcc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/02bn_p	/m/02bn_p
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0gyh	/m/070mff	/m/070mff
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-50.0607)
+___
+/m/0fttg	/m/0fttg	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	/location/hud_county_place/place
+-1
+tensor(-51.0538)
+___
+/m/0qc7l	/m/0qc7l	/m/0qc7l	/m/0qc7l
+_/base/biblioness/bibs_location/state	/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-51.2524)
+___
+/m/0fttg	/m/03x1s8	/m/09nqf	/m/09nqf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/organization/organization/headquarters./location/mailing_address/citytown	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-51.3712)
+___
+/m/0fttg	/m/0gyh	/m/04_1l0v	/m/04_1l0v
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-51.4253)
+___
+/m/0fttg	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-51.4253)
+___
+/m/0qc7l	/m/0gyh	/m/0fttg	/m/0fttg
+_/base/biblioness/bibs_location/state	/base/biblioness/bibs_location/state	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-52.1468)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-52.7427)
+___
+/m/0fttg	/m/0fttg	/m/0gyh	/m/0gyh
+/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-54.6946)
+___
+/m/0fttg	/m/03x1s8	/m/09nqf	/m/09nqf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/organization/organization/headquarters./location/mailing_address/citytown	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-55.0518)
+___
+/m/0fttg	/m/0gyh	/m/0q8p8	/m/0q8p8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0qc7l	/m/0qc7l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0325dj	/m/0325dj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0plxn	/m/0plxn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0kcnq	/m/0kcnq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/058cm	/m/058cm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0fttg	/m/0fttg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0q8sw	/m/0q8sw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0kwmc	/m/0kwmc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0q8jl	/m/0q8jl
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0k696	/m/0k696
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/02jyr8	/m/02jyr8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/01wdj_	/m/01wdj_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0lphb	/m/0lphb
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+/m/0fttg	/m/0gyh	/m/0q8s4	/m/0q8s4
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/contains
+-1
+tensor(-55.7158)
+___
+#####################
+/m/059_c	/m/09nqf
+Reward:0
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-0.0040)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.1271)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-6.3456)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	_/location/us_county/county_seat
+-1
+tensor(-10.8881)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-11.5028)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-15.7874)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-16.0376)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-16.8792)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/us_county/county_seat
+-1
+tensor(-20.5136)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-21.2309)
+___
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-22.1258)
+___
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-24.1369)
+___
+/m/0235l	/m/059_c	/m/0cv3w	/m/0cv3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.3545)
+___
+/m/0235l	/m/059_c	/m/06kx2	/m/06kx2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.3545)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-24.4661)
+___
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-24.5896)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county	/location/us_county/county_seat
+-1
+tensor(-24.6304)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-26.5474)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county	_/location/us_county/county_seat
+-1
+tensor(-29.1562)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county	_/location/hud_county_place/county
+-1
+tensor(-29.8729)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	/location/hud_county_place/county
+-1
+tensor(-31.2116)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+/base/aareas/schema/administrative_area/capital	/location/us_county/county_seat	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-33.6829)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-33.8614)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/county	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-34.2998)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/county	/location/us_county/county_seat
+-1
+tensor(-34.7545)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-35.2306)
+___
+/m/0235l	/m/0235l	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	/base/biblioness/bibs_location/country
+-1
+tensor(-35.5741)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	/location/us_county/county_seat	_/location/us_county/county_seat
+-1
+tensor(-38.4381)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-39.0112)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/county	_/location/us_county/county_seat
+-1
+tensor(-39.2441)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/county	_/location/hud_county_place/county
+-1
+tensor(-39.6041)
+___
+/m/0235l	/m/059_c	/m/02r5dz	/m/02r5dz
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-40.2954)
+___
+/m/0235l	/m/059_c	/m/01npw8	/m/01npw8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-40.2954)
+___
+/m/0235l	/m/059_c	/m/01jpyb	/m/01jpyb
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-40.2954)
+___
+/m/0235l	/m/059_c	/m/0797c7	/m/0797c7
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-40.2954)
+___
+/m/0235l	/m/059_c	/m/01jpqb	/m/01jpqb
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-40.2954)
+___
+/m/0235l	/m/059_c	/m/03s5t	/m/03s5t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-40.6158)
+___
+/m/0235l	/m/059_c	/m/05kj_	/m/05kj_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-40.6158)
+___
+/m/0235l	/m/059_c	/m/07srw	/m/07srw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-40.6158)
+___
+/m/0235l	/m/059_c	/m/0vmt	/m/0vmt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-40.6158)
+___
+/m/0235l	/m/059_c	/m/01n7q	/m/01n7q
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-40.6158)
+___
+/m/0235l	/m/059_c	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-40.7195)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	/location/hud_county_place/county
+-1
+tensor(-40.8293)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-41.3174)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-41.5763)
+___
+/m/0235l	/m/0235l	/m/0n6mc	/m/0n6mc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-41.7821)
+___
+/m/0235l	/m/059_c	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-42.8030)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	NO_OP
+-1
+tensor(-43.8832)
+___
+/m/0235l	/m/059_c	/m/05w5d	/m/05w5d
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/0631_	/m/0631_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/01y0s9	/m/01y0s9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/03_gx	/m/03_gx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/01lp8	/m/01lp8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/021_0p	/m/021_0p
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/051kv	/m/051kv
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/019cr	/m/019cr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/05sfs	/m/05sfs
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/04pk9	/m/04pk9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-44.3469)
+___
+/m/0235l	/m/059_c	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/first_level_division_of
+-1
+tensor(-44.4079)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+/base/aareas/schema/administrative_area/capital	/location/us_county/county_seat	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-44.4520)
+___
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-44.9600)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/county	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.0060)
+___
+/m/0235l	/m/0235l	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	/base/biblioness/bibs_location/country
+-1
+tensor(-45.4622)
+___
+/m/0cv3w	/m/0d1y7	/m/0cv3w	/m/0cv3w
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.4858)
+___
+/m/06kx2	/m/0n6mc	/m/06kx2	/m/06kx2
+_/base/biblioness/bibs_location/state	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.5168)
+___
+/m/06kx2	/m/0n6mc	/m/06kx2	/m/06kx2
+_/base/biblioness/bibs_location/state	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.7616)
+___
+/m/0cv3w	/m/0d1y7	/m/0cv3w	/m/0cv3w
+_/base/biblioness/bibs_location/state	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-45.7822)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	_/location/location/contains
+-1
+tensor(-46.0349)
+___
+/m/0235l	/m/0235l	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	_/location/location/contains
+-1
+tensor(-46.0349)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/location/us_county/county_seat
+-1
+tensor(-46.0629)
+___
+/m/0235l	/m/059_c	/m/0cv3w	/m/0cv3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/biblioness/bibs_location/state
+-1
+tensor(-46.3217)
+___
+/m/0235l	/m/059_c	/m/06kx2	/m/06kx2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/biblioness/bibs_location/state
+-1
+tensor(-46.3217)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/location/hud_county_place/county
+-1
+tensor(-46.7406)
+___
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-46.8182)
+___
+/m/0235l	/m/0235l	/m/059_c	/m/059_c
+/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/county	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-48.2867)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	_/location/hud_county_place/county	/location/us_county/county_seat
+-1
+tensor(-48.3949)
+___
+/m/06kx2	/m/0n6mc	/m/06kx2	/m/06kx2
+_/base/biblioness/bibs_location/state	/location/hud_county_place/county	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-48.5780)
+___
+/m/0235l	/m/059_c	/m/0vmt	/m/0vmt
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-48.8156)
+___
+/m/0235l	/m/059_c	/m/03s5t	/m/03s5t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-48.8156)
+___
+/m/0235l	/m/059_c	/m/01n7q	/m/01n7q
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-48.8156)
+___
+/m/0235l	/m/059_c	/m/07srw	/m/07srw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-48.8156)
+___
+/m/0235l	/m/059_c	/m/05kj_	/m/05kj_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-48.8156)
+___
+/m/0235l	/m/059_c	/m/0235l	/m/0235l
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-48.8762)
+___
+/m/0235l	/m/059_c	/m/0cv3w	/m/0cv3w
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-49.0448)
+___
+/m/0235l	/m/059_c	/m/06kx2	/m/06kx2
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-49.0448)
+___
+/m/0cv3w	/m/0d1y7	/m/0cv3w	/m/0cv3w
+_/base/biblioness/bibs_location/state	/location/hud_county_place/county	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-49.0922)
+___
+/m/0235l	/m/0235l	/m/0235l	/m/0235l
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/county	/location/hud_county_place/county
+-1
+tensor(-49.5529)
+___
+/m/0235l	/m/0235l	/m/04ztj	/m/04ztj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-50.1133)
+___
+/m/0cv3w	/m/0cv3w	/m/0d1y7	/m/0d1y7
+_/base/biblioness/bibs_location/state	_/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-50.2371)
+___
+/m/06kx2	/m/06kx2	/m/0n6mc	/m/0n6mc
+_/base/biblioness/bibs_location/state	_/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-50.6613)
+___
+/m/0235l	/m/059_c	/m/059_c	/m/059_c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	NO_OP
+-1
+tensor(-50.9660)
+___
+/m/0235l	/m/059_c	/m/024tkd	/m/024tkd
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/024tcq	/m/024tcq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/02cg7g	/m/02cg7g
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/02bn_p	/m/02bn_p
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/02gkzs	/m/02gkzs
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/02bqmq	/m/02bqmq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/02bqn1	/m/02bqn1
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/02bqm0	/m/02bqm0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+/m/0235l	/m/059_c	/m/077g7n	/m/077g7n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/legislative_session/members./government/government_position_held/district_represented
+-1
+tensor(-51.4372)
+___
+#####################
+/m/03s0w	/m/09nqf
+Reward:0
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-9.5367e-07)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-13.8477)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-21.1395)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-21.1395)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-22.6421)
+___
+/m/02j3w	/m/03s0w	/m/0t015	/m/0t015
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.1130)
+___
+/m/02j3w	/m/03s0w	/m/0ght2	/m/0ght2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.1130)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.1130)
+___
+/m/02j3w	/m/03s0w	/m/0nmj	/m/0nmj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.1130)
+___
+/m/02j3w	/m/03s0w	/m/013crh	/m/013crh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.1130)
+___
+/m/02j3w	/m/03s0w	/m/084kf	/m/084kf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.1130)
+___
+/m/02j3w	/m/03s0w	/m/0sv6n	/m/0sv6n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/base/biblioness/bibs_location/state
+-1
+tensor(-24.1130)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-24.5894)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/us_county/county_seat	/location/us_county/county_seat
+-1
+tensor(-26.8024)
+___
+/m/02j3w	/m/02j3w	/m/03s0w	/m/03s0w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-33.1451)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/us_county/county_seat
+-1
+tensor(-34.1144)
+___
+/m/02j3w	/m/02j3w	/m/0nrqh	/m/0nrqh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/us_county/county_seat
+-1
+tensor(-37.1813)
+___
+/m/02j3w	/m/03s0w	/m/0ghvb	/m/0ghvb
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.3234)
+___
+/m/02j3w	/m/03s0w	/m/01j_9c	/m/01j_9c
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.3234)
+___
+/m/02j3w	/m/03s0w	/m/02yr1q	/m/02yr1q
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-39.3234)
+___
+/m/02j3w	/m/02j3w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/hud_county_place/place	_/location/hud_county_place/place
+-1
+tensor(-39.6271)
+___
+/m/02j3w	/m/03s0w	/m/06mz5	/m/06mz5
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7209)
+___
+/m/02j3w	/m/03s0w	/m/03v0t	/m/03v0t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7209)
+___
+/m/02j3w	/m/03s0w	/m/04ykg	/m/04ykg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-39.7209)
+___
+/m/02j3w	/m/03s0w	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-40.3869)
+___
+/m/02j3w	/m/0nrqh	/m/02j3w	/m/02j3w
+/base/aareas/schema/administrative_area/capital	_/location/us_county/county_seat	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-40.7855)
+___
+/m/02j3w	/m/02j3w	/m/03s0w	/m/03s0w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/location/hud_county_place/place	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-41.2521)
+___
+/m/02j3w	/m/01t032	/m/02hrh0_	/m/02hrh0_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0d6lp	/m/0d6lp
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/013yq	/m/013yq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/01cx_	/m/01cx_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0d9jr	/m/0d9jr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0fvyg	/m/0fvyg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0f04v	/m/0f04v
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0f__1	/m/0f__1
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/030qb3t	/m/030qb3t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/03l2n	/m/03l2n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0cv3w	/m/0cv3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0f2v0	/m/0f2v0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/01cx_	/m/01cx_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/04f_d	/m/04f_d
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/071vr	/m/071vr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/02frhbc	/m/02frhbc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/094jv	/m/094jv
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0n1rj	/m/0n1rj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0fvzg	/m/0fvzg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/06wxw	/m/06wxw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0dclg	/m/0dclg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/068p2	/m/068p2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0f2rq	/m/0f2rq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0ftxw	/m/0ftxw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/02dtg	/m/02dtg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0rh6k	/m/0rh6k
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/071vr	/m/071vr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/02hrh0_	/m/02hrh0_
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0f2v0	/m/0f2v0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0vzm	/m/0vzm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0rh6k	/m/0rh6k
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0dclg	/m/0dclg
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0_vn7	/m/0_vn7
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0nbwf	/m/0nbwf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0fr0t	/m/0fr0t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/01smm	/m/01smm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0cv3w	/m/0cv3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/05jbn	/m/05jbn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0chrx	/m/0chrx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/01snm	/m/01snm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/01smm	/m/01smm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0ftxw	/m/0ftxw
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0chrx	/m/0chrx
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0f2w0	/m/0f2w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0d9jr	/m/0d9jr
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0d6lp	/m/0d6lp
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0ply0	/m/0ply0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/01_d4	/m/01_d4
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0f2tj	/m/0f2tj
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/05jbn	/m/05jbn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0vzm	/m/0vzm
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0nbwf	/m/0nbwf
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0dyl9	/m/0dyl9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/02_286	/m/02_286
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0_vn7	/m/0_vn7
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/02cl1	/m/02cl1
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/019fh	/m/019fh
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/01_d4	/m/01_d4
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/030qb3t	/m/030qb3t
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0f2r6	/m/0f2r6
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/02cl1	/m/02cl1
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/02frhbc	/m/02frhbc
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/013yq	/m/013yq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/03l2n	/m/03l2n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/07bcn	/m/07bcn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0dyl9	/m/0dyl9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/02_286	/m/02_286
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0fsb8	/m/0fsb8
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/068p2	/m/068p2
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/0km3f	/m/0d35y	/m/0d35y
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+/m/02j3w	/m/01t032	/m/0f2rq	/m/0f2rq
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	_/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed
+-1
+tensor(-42.7044)
+___
+#####################

@@ -1,0 +1,1509 @@
+00808191	00808614
+Reward:1
+00808614	00808191	00808614	00808614
+__similar_to	_similar_to	__similar_to
+1
+tensor(-0.0138)
+___
+00808614	00808191	00873603	00873603
+__similar_to	_similar_to	_also_see
+-1
+tensor(-4.9932)
+___
+00808614	00808191	00873603	00873603
+__similar_to	_similar_to	__also_see
+-1
+tensor(-5.3966)
+___
+00808614	00808191	04635482	04635482
+__similar_to	_similar_to	_derivationally_related_form
+-1
+tensor(-7.4303)
+___
+00808614	00808191	05030806	05030806
+__similar_to	_similar_to	_derivationally_related_form
+-1
+tensor(-7.4303)
+___
+00808614	00808191	05030806	05030806
+__similar_to	_similar_to	__derivationally_related_form
+-1
+tensor(-8.2690)
+___
+00808614	00808614	00808191	00808191
+__similar_to	NO_OP	_similar_to
+-1
+tensor(-9.8276)
+___
+00808614	00808182	02509287	02509287
+__similar_to	_hypernym	_derivationally_related_form
+-1
+tensor(-9.9288)
+___
+00808614	00808182	00235368	00235368
+__similar_to	_hypernym	_derivationally_related_form
+-1
+tensor(-9.9288)
+___
+00808614	00808182	00236592	00236592
+__similar_to	_hypernym	_derivationally_related_form
+-1
+tensor(-9.9288)
+___
+00808614	00808182	00233335	00233335
+__similar_to	_hypernym	_derivationally_related_form
+-1
+tensor(-9.9288)
+___
+05030806	00808191	00808614	00808614
+__derivationally_related_form	_derivationally_related_form	__similar_to
+1
+tensor(-10.0219)
+___
+00808614	00808182	00235368	00235368
+__similar_to	_hypernym	__derivationally_related_form
+-1
+tensor(-10.0396)
+___
+00808614	00808182	00233335	00233335
+__similar_to	_hypernym	__derivationally_related_form
+-1
+tensor(-10.0396)
+___
+00808614	00808182	02509287	02509287
+__similar_to	_hypernym	__derivationally_related_form
+-1
+tensor(-10.0396)
+___
+00808614	00808182	00808767	00808767
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-10.6838)
+___
+00808614	00808182	00808614	00808614
+__similar_to	_hypernym	__hypernym
+1
+tensor(-10.6838)
+___
+00873603	00808191	00808614	00808614
+__also_see	_also_see	__similar_to
+1
+tensor(-10.6993)
+___
+00808614	07157273	07159276	07159276
+__similar_to	__member_of_domain_usage	__hypernym
+-1
+tensor(-10.9476)
+___
+00808614	07157273	06336537	06336537
+__similar_to	__member_of_domain_usage	__hypernym
+-1
+tensor(-10.9476)
+___
+05030806	00808191	00808614	00808614
+__derivationally_related_form	__derivationally_related_form	__similar_to
+1
+tensor(-11.1307)
+___
+04635482	00808191	00808614	00808614
+_derivationally_related_form	__derivationally_related_form	__similar_to
+1
+tensor(-11.2627)
+___
+00808614	07157273	00964110	00964110
+__similar_to	__member_of_domain_usage	_derivationally_related_form
+-1
+tensor(-11.4484)
+___
+05030806	00808191	00808614	00808614
+_derivationally_related_form	_derivationally_related_form	__similar_to
+1
+tensor(-11.5394)
+___
+00808614	00808191	00808191	00808191
+__similar_to	_similar_to	NO_OP
+-1
+tensor(-11.5954)
+___
+00873603	00808191	00808614	00808614
+__also_see	__also_see	__similar_to
+1
+tensor(-11.9327)
+___
+00873603	02278939	00873603	00873603
+__also_see	_also_see	__also_see
+-1
+tensor(-12.0087)
+___
+00873603	02278939	00804695	00804695
+__also_see	_also_see	__also_see
+-1
+tensor(-12.0087)
+___
+00873603	02278939	00804695	00804695
+__also_see	_also_see	_also_see
+-1
+tensor(-12.3110)
+___
+00873603	02278939	00873603	00873603
+__also_see	_also_see	_also_see
+-1
+tensor(-12.3110)
+___
+00808614	07157273	00964110	00964110
+__similar_to	__member_of_domain_usage	__derivationally_related_form
+-1
+tensor(-12.3200)
+___
+00873603	00804695	00873603	00873603
+__also_see	_also_see	__also_see
+-1
+tensor(-12.3461)
+___
+00873603	00804695	00091311	00091311
+__also_see	_also_see	__also_see
+-1
+tensor(-12.3461)
+___
+00873603	00804695	02278939	02278939
+__also_see	_also_see	__also_see
+-1
+tensor(-12.3461)
+___
+05030806	00808191	00808614	00808614
+_derivationally_related_form	__derivationally_related_form	__similar_to
+1
+tensor(-12.4497)
+___
+00873603	00884778	00873603	00873603
+__also_see	__also_see	_also_see
+-1
+tensor(-12.6446)
+___
+00873603	00884778	00065791	00065791
+__also_see	__also_see	_also_see
+-1
+tensor(-12.6446)
+___
+00873603	00804695	00091311	00091311
+__also_see	_also_see	_also_see
+-1
+tensor(-12.6485)
+___
+00873603	00804695	02278939	02278939
+__also_see	_also_see	_also_see
+-1
+tensor(-12.6485)
+___
+00873603	00804695	00873603	00873603
+__also_see	_also_see	_also_see
+-1
+tensor(-12.6485)
+___
+00808614	07157273	09641226	09641226
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09883947	09883947
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	14050434	14050434
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	03758614	03758614
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	07577657	07577657
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	03167978	03167978
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10138242	10138242
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10557246	10557246
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10753779	10753779
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00784934	00784934
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09641422	09641422
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	07448232	07448232
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	05033046	05033046
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	02983507	02983507
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	06506603	06506603
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00783063	00783063
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00993787	00993787
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	06611147	06611147
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00811036	00811036
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10673946	10673946
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09831731	09831731
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00009373	00009373
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09667205	09667205
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	08225334	08225334
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	05715150	05715150
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	01210152	01210152
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00780615	00780615
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09748239	09748239
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00361041	00361041
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	03823540	03823540
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	06609909	06609909
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	02227362	02227362
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	05218119	05218119
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00855301	00855301
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	05538215	05538215
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00359806	00359806
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09720406	09720406
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09682122	09682122
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	11470348	11470348
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09698337	09698337
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00896688	00896688
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09639719	09639719
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10786992	10786992
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	01709781	01709781
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	02936281	02936281
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10729923	10729923
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	06611998	06611998
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	14408519	14408519
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10643584	10643584
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	06730241	06730241
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	10386196	10386196
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09827363	09827363
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00046449	00046449
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	04753799	04753799
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09863339	09863339
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	02830596	02830596
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	09716439	09716439
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	14375761	14375761
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+00808614	07157273	00808614	00808614
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+1
+tensor(-12.7028)
+___
+00808614	07157273	10153155	10153155
+__similar_to	__member_of_domain_usage	_member_of_domain_usage
+-1
+tensor(-12.7028)
+___
+#####################
+00394562	00397191
+Reward:1
+00397191	00394562	00397191	00397191
+__similar_to	_similar_to	__similar_to
+1
+tensor(-0.7116)
+___
+00400101	00394562	00397191	00397191
+__similar_to	__similar_to	__similar_to
+1
+tensor(-0.7271)
+___
+00400101	00394562	00397191	00397191
+__similar_to	_similar_to	__similar_to
+1
+tensor(-4.2479)
+___
+00397191	00394562	00366691	00366691
+__similar_to	_similar_to	__also_see
+-1
+tensor(-6.1193)
+___
+00400101	00394562	00366691	00366691
+__similar_to	__similar_to	__also_see
+-1
+tensor(-6.7568)
+___
+00400101	00394562	00397191	00397191
+_similar_to	_similar_to	__similar_to
+1
+tensor(-7.1621)
+___
+00397191	00201034	00396825	00396825
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+tensor(-7.3380)
+___
+00397191	00201034	00397191	00397191
+__similar_to	_derivationally_related_form	_derivationally_related_form
+1
+tensor(-7.3380)
+___
+00397191	00201034	10073992	10073992
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+tensor(-7.3380)
+___
+00397191	00201034	00397010	00397010
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+tensor(-7.3380)
+___
+00397191	00201034	10859669	10859669
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+tensor(-7.3380)
+___
+00400101	00394562	00397191	00397191
+_similar_to	__similar_to	__similar_to
+1
+tensor(-7.4934)
+___
+00397191	00201034	10073992	10073992
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+tensor(-8.2288)
+___
+00397191	00201034	00397191	00397191
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+tensor(-8.2288)
+___
+00397191	00201034	00397010	00397010
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+tensor(-8.2288)
+___
+00397191	00201034	00396825	00396825
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+tensor(-8.2288)
+___
+00397191	00201034	00396825	00396825
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+tensor(-8.2847)
+___
+00397191	00201034	10859669	10859669
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+tensor(-8.2847)
+___
+00397191	00201034	00397010	00397010
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+tensor(-8.2847)
+___
+00397191	00201034	10073992	10073992
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+tensor(-8.2847)
+___
+00397191	00201034	00397191	00397191
+__similar_to	__derivationally_related_form	_derivationally_related_form
+1
+tensor(-8.2847)
+___
+00400101	13460991	13518963	13518963
+__similar_to	_derivationally_related_form	_hypernym
+-1
+tensor(-9.2108)
+___
+00397191	00201034	00397191	00397191
+__similar_to	__derivationally_related_form	__derivationally_related_form
+1
+tensor(-9.2242)
+___
+00397191	00201034	00396825	00396825
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+tensor(-9.2242)
+___
+00397191	00201034	00397010	00397010
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+tensor(-9.2242)
+___
+00397191	00201034	10073992	10073992
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+tensor(-9.2242)
+___
+00400101	00394562	00366691	00366691
+__similar_to	_similar_to	__also_see
+-1
+tensor(-9.6587)
+___
+00366691	00394562	00397191	00397191
+__also_see	_also_see	__similar_to
+1
+tensor(-10.0224)
+___
+00400101	13460991	13518963	13518963
+__similar_to	__derivationally_related_form	_hypernym
+-1
+tensor(-10.3237)
+___
+00400101	13460991	13460991	13460991
+__similar_to	_derivationally_related_form	NO_OP
+-1
+tensor(-10.5127)
+___
+00397191	00397191	00394562	00394562
+__similar_to	NO_OP	_similar_to
+-1
+tensor(-10.5471)
+___
+00400101	13460991	13518963	13518963
+_similar_to	_derivationally_related_form	_hypernym
+-1
+tensor(-10.8845)
+___
+00400101	13460991	13460991	13460991
+__similar_to	__derivationally_related_form	NO_OP
+-1
+tensor(-11.0653)
+___
+00397191	00201034	00243900	00243900
+__similar_to	_derivationally_related_form	_hypernym
+-1
+tensor(-11.0719)
+___
+00397191	06362953	06374587	06374587
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06392001	06392001
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06470073	06470073
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06365467	06365467
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	07007684	07007684
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06427831	06427831
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06409562	06409562
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06364149	06364149
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06408779	06408779
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06399995	06399995
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06364641	06364641
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06402031	06402031
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06408651	06408651
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	00397191	00397191
+__similar_to	_hypernym	__hypernym
+1
+tensor(-11.4932)
+___
+00397191	06362953	06405699	06405699
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	07277158	07277158
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00397191	06362953	06429590	06429590
+__similar_to	_hypernym	__hypernym
+-1
+tensor(-11.4932)
+___
+00400101	13460991	13460991	13460991
+_similar_to	_derivationally_related_form	NO_OP
+-1
+tensor(-11.5607)
+___
+00400101	13460991	13518963	13518963
+_similar_to	__derivationally_related_form	_hypernym
+-1
+tensor(-11.7533)
+___
+00400101	00400101	00394562	00394562
+_similar_to	NO_OP	__similar_to
+-1
+tensor(-11.8991)
+___
+00400101	13460991	13460991	13460991
+_similar_to	__derivationally_related_form	NO_OP
+-1
+tensor(-11.9415)
+___
+00400101	06090869	10428004	10428004
+__similar_to	_synset_domain_topic_of	_derivationally_related_form
+-1
+tensor(-12.2029)
+___
+00397191	00394562	00394562	00394562
+__similar_to	_similar_to	NO_OP
+-1
+tensor(-12.3019)
+___
+00397191	00201034	00201034	00201034
+__similar_to	_derivationally_related_form	NO_OP
+-1
+tensor(-12.3751)
+___
+00400101	06090869	06100778	06100778
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00400101	06090869	06114578	06114578
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00400101	06090869	06101551	06101551
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00400101	06090869	06096913	06096913
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00400101	06090869	06099269	06099269
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00400101	06090869	06095022	06095022
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00400101	06090869	06100236	06100236
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00400101	06090869	06100555	06100555
+__similar_to	_synset_domain_topic_of	__hypernym
+-1
+tensor(-12.4019)
+___
+00397191	00201034	00243900	00243900
+__similar_to	__derivationally_related_form	_hypernym
+-1
+tensor(-12.6014)
+___
+00400101	06090869	10428004	10428004
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00169955	00169955
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00574341	00574341
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00170156	00170156
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	13590327	13590327
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	09257563	09257563
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	11473954	11473954
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	13523208	13523208
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	14598079	14598079
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00399368	00399368
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	11413263	11413263
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	11452218	11452218
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	13465530	13465530
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00443984	00443984
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	11453016	11453016
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00651935	00651935
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	07302542	07302542
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	13892897	13892897
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00445711	00445711
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	11506349	11506349
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	03705379	03705379
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	07346344	07346344
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	05876469	05876469
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	07345166	07345166
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00445169	00445169
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	06106502	06106502
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00487554	00487554
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	07416441	07416441
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	03834040	03834040
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	05010062	05010062
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	00399074	00399074
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	14682133	14682133
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+00400101	06090869	01737417	01737417
+__similar_to	_synset_domain_topic_of	__synset_domain_topic_of
+-1
+tensor(-12.6373)
+___
+#####################
+00417413	00418110
+Reward:1
+00418110	00417413	00418110	00418110
+__similar_to	_similar_to	__similar_to
+1
+tensor(-0.0560)
+___
+00418110	00417413	02115324	02115324
+__similar_to	_similar_to	_also_see
+-1
+tensor(-5.0657)
+___
+00418110	00417413	02422685	02422685
+__similar_to	_similar_to	_also_see
+-1
+tensor(-5.0657)
+___
+00418110	04801763	00418110	00418110
+__similar_to	_derivationally_related_form	_derivationally_related_form
+1
+tensor(-5.1418)
+___
+00418110	04660261	01025913	01025913
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+tensor(-5.3923)
+___
+00418110	00417413	02115324	02115324
+__similar_to	_similar_to	__also_see
+-1
+tensor(-5.4576)
+___
+00418110	00417413	02422685	02422685
+__similar_to	_similar_to	__also_see
+-1
+tensor(-5.4576)
+___
+00418110	05023741	00418408	00418408
+__similar_to	_derivationally_related_form	_derivationally_related_form
+-1
+tensor(-5.8243)
+___
+00418110	05023741	00418110	00418110
+__similar_to	_derivationally_related_form	_derivationally_related_form
+1
+tensor(-5.8243)
+___
+00418110	04801763	00418110	00418110
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+tensor(-6.0333)
+___
+00418110	04801763	00418110	00418110
+__similar_to	__derivationally_related_form	_derivationally_related_form
+1
+tensor(-6.0714)
+___
+00418110	04660261	00418110	00418110
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+tensor(-6.2837)
+___
+00418110	04660261	01025913	01025913
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+tensor(-6.2837)
+___
+00418110	05023741	00418110	00418110
+__similar_to	_derivationally_related_form	__derivationally_related_form
+1
+tensor(-6.7158)
+___
+00418110	05023741	00418408	00418408
+__similar_to	_derivationally_related_form	__derivationally_related_form
+-1
+tensor(-6.7158)
+___
+00418110	05023741	00418110	00418110
+__similar_to	__derivationally_related_form	_derivationally_related_form
+1
+tensor(-6.7588)
+___
+00418110	05023741	00418408	00418408
+__similar_to	__derivationally_related_form	_derivationally_related_form
+-1
+tensor(-6.7588)
+___
+00418110	04801763	00418110	00418110
+__similar_to	__derivationally_related_form	__derivationally_related_form
+1
+tensor(-7.0168)
+___
+00418110	00417413	14496193	14496193
+__similar_to	_similar_to	_derivationally_related_form
+-1
+tensor(-7.4638)
+___
+00418110	05023741	00418110	00418110
+__similar_to	__derivationally_related_form	__derivationally_related_form
+1
+tensor(-7.6983)
+___
+00418110	05023741	00418408	00418408
+__similar_to	__derivationally_related_form	__derivationally_related_form
+-1
+tensor(-7.6983)
+___
+00418110	00417413	14496193	14496193
+__similar_to	_similar_to	__derivationally_related_form
+-1
+tensor(-8.3045)
+___
+00418110	00417596	13561521	13561521
+__similar_to	_hypernym	_derivationally_related_form
+-1
+tensor(-8.8234)
+___
+00418110	04801763	04801532	04801532
+__similar_to	_derivationally_related_form	_hypernym
+-1
+tensor(-8.8721)
+___
+00418110	00417596	13561521	13561521
+__similar_to	_hypernym	__derivationally_related_form
+-1
+tensor(-8.9451)
+___
+00418110	04660261	04660080	04660080
+__similar_to	_derivationally_related_form	_hypernym
+-1
+tensor(-9.1226)
+___
+02422685	00417413	00418110	00418110
+__also_see	_also_see	__similar_to
+1
+tensor(-9.4941)
+___
+00418110	05023741	05023233	05023233
+__similar_to	_derivationally_related_form	_hypernym
+-1
+tensor(-9.5546)
+___
+02115324	00417413	00418110	00418110
+__also_see	_also_see	__similar_to
+1
+tensor(-9.5583)
+___
+00418110	00417596	00418110	00418110
+__similar_to	_hypernym	__hypernym
+1
+tensor(-9.5913)
+___
+00418110	00418110	00417413	00417413
+__similar_to	NO_OP	_similar_to
+-1
+tensor(-9.9567)
+___
+14496193	00417413	00418110	00418110
+__derivationally_related_form	_derivationally_related_form	__similar_to
+1
+tensor(-10.0243)
+___
+00418110	04801763	04801763	04801763
+__similar_to	_derivationally_related_form	NO_OP
+-1
+tensor(-10.1780)
+___
+00418110	04801763	04801532	04801532
+__similar_to	__derivationally_related_form	_hypernym
+-1
+tensor(-10.3469)
+___
+00418110	04660261	04660261	04660261
+__similar_to	_derivationally_related_form	NO_OP
+-1
+tensor(-10.4284)
+___
+02422685	00417413	00418110	00418110
+__also_see	__also_see	__similar_to
+1
+tensor(-10.7491)
+___
+02115324	00417413	00418110	00418110
+__also_see	__also_see	__similar_to
+1
+tensor(-10.7894)
+___
+00418110	05023741	05023741	05023741
+__similar_to	_derivationally_related_form	NO_OP
+-1
+tensor(-10.8605)
+___
+00418110	05023741	05023233	05023233
+__similar_to	__derivationally_related_form	_hypernym
+-1
+tensor(-11.0704)
+___
+00418110	04801763	04801763	04801763
+__similar_to	__derivationally_related_form	NO_OP
+-1
+tensor(-11.1260)
+___
+14496193	00417413	00418110	00418110
+__derivationally_related_form	__derivationally_related_form	__similar_to
+1
+tensor(-11.1337)
+___
+14496193	00417413	00418110	00418110
+_derivationally_related_form	_derivationally_related_form	__similar_to
+1
+tensor(-11.5420)
+___
+00418110	00417413	00417413	00417413
+__similar_to	_similar_to	NO_OP
+-1
+tensor(-11.6436)
+___
+00418110	05023741	05023741	05023741
+__similar_to	__derivationally_related_form	NO_OP
+-1
+tensor(-11.8173)
+___
+14496193	00417413	00418110	00418110
+_derivationally_related_form	__derivationally_related_form	__similar_to
+1
+tensor(-12.4518)
+___
+02422685	00417413	00418110	00418110
+_also_see	_also_see	__similar_to
+1
+tensor(-12.7196)
+___
+02115324	00417413	00418110	00418110
+_also_see	_also_see	__similar_to
+1
+tensor(-12.7610)
+___
+00418110	00417596	00417596	00417596
+__similar_to	_hypernym	NO_OP
+-1
+tensor(-12.9703)
+___
+00418110	00418110	04801763	04801763
+__similar_to	NO_OP	_derivationally_related_form
+-1
+tensor(-13.3028)
+___
+00418110	00418110	05023741	05023741
+__similar_to	NO_OP	_derivationally_related_form
+-1
+tensor(-13.3028)
+___
+00418110	00418110	04660261	04660261
+__similar_to	NO_OP	_derivationally_related_form
+-1
+tensor(-13.3028)
+___
+02115324	02724207	02115324	02115324
+__also_see	_derivationally_related_form	_derivationally_related_form
+-1
+tensor(-13.7972)
+___
+02115324	02724207	04424003	04424003
+__also_see	_derivationally_related_form	__hypernym
+-1
+tensor(-13.8342)
+___
+02115324	02724207	03818090	03818090
+__also_see	_derivationally_related_form	__hypernym
+-1
+tensor(-13.8342)
+___
+02115324	02724207	03762809	03762809
+__also_see	_derivationally_related_form	__hypernym
+-1
+tensor(-13.8342)
+___
+02422685	00417413	00418110	00418110
+_also_see	__also_see	__similar_to
+1
+tensor(-14.0653)
+___
+02115324	00417413	00418110	00418110
+_also_see	__also_see	__similar_to
+1
+tensor(-14.1064)
+___
+00418110	00418110	05023741	05023741
+__similar_to	NO_OP	__derivationally_related_form
+-1
+tensor(-14.2326)
+___
+00418110	00418110	04801763	04801763
+__similar_to	NO_OP	__derivationally_related_form
+-1
+tensor(-14.2326)
+___
+02115324	02724207	02115324	02115324
+__also_see	_derivationally_related_form	__derivationally_related_form
+-1
+tensor(-14.6839)
+___
+02115324	02724207	02115324	02115324
+__also_see	__derivationally_related_form	_derivationally_related_form
+-1
+tensor(-14.9069)
+___
+02115324	02724207	04424003	04424003
+__also_see	__derivationally_related_form	__hypernym
+-1
+tensor(-15.2373)
+___
+02115324	02724207	03818090	03818090
+__also_see	__derivationally_related_form	__hypernym
+-1
+tensor(-15.2373)
+___
+02115324	02724207	03762809	03762809
+__also_see	__derivationally_related_form	__hypernym
+-1
+tensor(-15.2373)
+___
+00418110	00417596	00126264	00126264
+__similar_to	_hypernym	_hypernym
+-1
+tensor(-15.2694)
+___
+02422685	00417413	02115324	02115324
+__also_see	_also_see	__also_see
+-1
+tensor(-15.4360)
+___
+02422685	00417413	02422685	02422685
+__also_see	_also_see	__also_see
+-1
+tensor(-15.4360)
+___
+14496193	14496193	00417413	00417413
+__derivationally_related_form	NO_OP	_derivationally_related_form
+-1
+tensor(-15.4542)
+___
+02115324	00417413	02115324	02115324
+__also_see	_also_see	__also_see
+-1
+tensor(-15.5192)
+___
+02115324	00417413	02422685	02422685
+__also_see	_also_see	__also_see
+-1
+tensor(-15.5192)
+___
+02422685	00417413	02115324	02115324
+__also_see	__also_see	_also_see
+-1
+tensor(-15.5232)
+___
+02422685	00417413	02422685	02422685
+__also_see	__also_see	_also_see
+-1
+tensor(-15.5232)
+___
+02115324	00417413	02115324	02115324
+__also_see	__also_see	_also_see
+-1
+tensor(-15.5799)
+___
+02115324	00417413	02422685	02422685
+__also_see	__also_see	_also_see
+-1
+tensor(-15.5799)
+___
+14496193	14494716	14496193	14496193
+__derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-15.6536)
+___
+14496193	14494716	14497763	14497763
+__derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-15.6536)
+___
+14496193	14494716	14495589	14495589
+__derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-15.6536)
+___
+14496193	14494716	14494893	14494893
+__derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-15.6536)
+___
+02422685	00417413	02115324	02115324
+__also_see	_also_see	_also_see
+-1
+tensor(-15.7435)
+___
+02422685	00417413	02422685	02422685
+__also_see	_also_see	_also_see
+-1
+tensor(-15.7435)
+___
+02115324	00417413	02115324	02115324
+__also_see	_also_see	_also_see
+-1
+tensor(-15.8204)
+___
+02115324	00417413	02422685	02422685
+__also_see	_also_see	_also_see
+-1
+tensor(-15.8204)
+___
+02115324	02724207	02115324	02115324
+__also_see	__derivationally_related_form	__derivationally_related_form
+-1
+tensor(-15.8559)
+___
+02422685	02422685	00417413	00417413
+_also_see	NO_OP	_also_see
+-1
+tensor(-16.1173)
+___
+14496193	14496193	00417413	00417413
+__derivationally_related_form	NO_OP	__derivationally_related_form
+-1
+tensor(-16.3814)
+___
+14496193	00417413	02422685	02422685
+__derivationally_related_form	_derivationally_related_form	__also_see
+-1
+tensor(-16.4178)
+___
+14496193	00417413	02115324	02115324
+__derivationally_related_form	_derivationally_related_form	__also_see
+-1
+tensor(-16.4178)
+___
+02422685	00417413	02422685	02422685
+__also_see	__also_see	__also_see
+-1
+tensor(-16.4706)
+___
+02422685	00417413	02115324	02115324
+__also_see	__also_see	__also_see
+-1
+tensor(-16.4706)
+___
+14496193	14496193	00417413	00417413
+_derivationally_related_form	NO_OP	_derivationally_related_form
+-1
+tensor(-16.4761)
+___
+02115324	02115324	02724207	02724207
+_also_see	NO_OP	_derivationally_related_form
+-1
+tensor(-16.5096)
+___
+14496193	00417413	02422685	02422685
+__derivationally_related_form	_derivationally_related_form	_also_see
+-1
+tensor(-16.5441)
+___
+14496193	00417413	02115324	02115324
+__derivationally_related_form	_derivationally_related_form	_also_see
+-1
+tensor(-16.5441)
+___
+02115324	00417413	02115324	02115324
+__also_see	__also_see	__also_see
+-1
+tensor(-16.5459)
+___
+02115324	00417413	02422685	02422685
+__also_see	__also_see	__also_see
+-1
+tensor(-16.5459)
+___
+14496193	14494716	14494893	14494893
+_derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-16.6127)
+___
+14496193	14494716	14497763	14497763
+_derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-16.6127)
+___
+14496193	14494716	14496193	14496193
+_derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-16.6127)
+___
+14496193	14494716	14495589	14495589
+_derivationally_related_form	_hypernym	__hypernym
+-1
+tensor(-16.6127)
+___
+02422685	02422685	00417413	00417413
+_also_see	NO_OP	__also_see
+-1
+tensor(-16.6380)
+___
+#####################

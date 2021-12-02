@@ -1,0 +1,5533 @@
+/m/09_gdc	/m/0b1y_2
+Reward:0
+/m/037s5h	/m/037s5h	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.1078)
+___
+/m/04t7ts	/m/04t7ts	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.2291)
+___
+/m/0l_dv	/m/0l_dv	/m/0cbd2	/m/0cbd2
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3248)
+___
+/m/015p37	/m/015p37	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.3789)
+___
+/m/01x72k	/m/01x72k	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.5550)
+___
+/m/01pm0_	/m/01pm0_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7762)
+___
+/m/01pm0_	/m/01pm0_	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7762)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8279)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8279)
+___
+/m/01xllf	/m/01xllf	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8368)
+___
+/m/01xllf	/m/01xllf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8368)
+___
+/m/0309lm	/m/0309lm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8814)
+___
+/m/0309lm	/m/0309lm	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8814)
+___
+/m/028k57	/m/07pd_j	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.1003)
+___
+/m/028k57	/m/07pd_j	/m/05ztjjw	/m/05ztjjw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-4.3328)
+___
+/m/0mbhr	/m/0mbhr	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4242)
+___
+/m/0mbhr	/m/0mbhr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4242)
+___
+/m/0mbhr	/m/0mbhr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4242)
+___
+/m/03kxp7	/m/02r5qtm	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4381)
+___
+/m/03kxp7	/m/02r5qtm	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4381)
+___
+/m/03kxp7	/m/02r5qtm	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4381)
+___
+/m/01z7s_	/m/08r4x3	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4437)
+___
+/m/01z7s_	/m/08r4x3	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4437)
+___
+/m/01z7s_	/m/08r4x3	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4437)
+___
+/m/0mbhr	/m/0mbhr	/m/092bf5	/m/092bf5
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-4.6435)
+___
+/m/0l_dv	/m/0l_dv	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.6972)
+___
+/m/015pkc	/m/012s1d	/m/01j1n2	/m/01j1n2
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8862)
+___
+/m/015pkc	/m/012s1d	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8862)
+___
+/m/015pkc	/m/012s1d	/m/04pbhw	/m/04pbhw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8862)
+___
+/m/015pkc	/m/012s1d	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8862)
+___
+/m/015pkc	/m/012s1d	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8862)
+___
+/m/0kjrx	/m/01rxyb	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.0019)
+___
+/m/028k57	/m/07pd_j	/m/034bgm	/m/034bgm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-5.0735)
+___
+/m/01y665	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.2662)
+___
+/m/01pjr7	/m/0473rc	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2814)
+___
+/m/01pjr7	/m/0473rc	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2814)
+___
+/m/01pjr7	/m/0473rc	/m/0vgkd	/m/0vgkd
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2814)
+___
+/m/01pjr7	/m/0473rc	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2814)
+___
+/m/0151w_	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2879)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3228)
+___
+/m/0kjrx	/m/0gyv0b4	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3228)
+___
+/m/0kjrx	/m/0gyv0b4	/m/0lsxr	/m/0lsxr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3228)
+___
+/m/01x72k	/m/01x72k	/m/01qscs	/m/01qscs
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3692)
+___
+/m/01x72k	/m/01x72k	/m/0479b	/m/0479b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3692)
+___
+/m/01x72k	/m/01x72k	/m/0c6qh	/m/0c6qh
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3692)
+___
+/m/01z7s_	/m/08r4x3	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4751)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-5.5312)
+___
+/m/03q1vd	/m/03q1vd	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-5.5693)
+___
+/m/01qr1_	/m/0d68qy	/m/06nbt	/m/06nbt
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5790)
+___
+/m/01qr1_	/m/0d68qy	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5790)
+___
+/m/01qr1_	/m/0d68qy	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5790)
+___
+/m/01qr1_	/m/0d68qy	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5790)
+___
+/m/01pjr7	/m/011x_4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6539)
+___
+/m/01pjr7	/m/011x_4	/m/03rzvv	/m/03rzvv
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6539)
+___
+/m/01pjr7	/m/011x_4	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6539)
+___
+/m/01pjr7	/m/011x_4	/m/07s2s	/m/07s2s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6539)
+___
+/m/01pjr7	/m/011x_4	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6539)
+___
+/m/01pjr7	/m/011x_4	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6539)
+___
+/m/01qr1_	/m/0vjr	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6660)
+___
+/m/01qr1_	/m/0vjr	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6660)
+___
+/m/01qr1_	/m/0vjr	/m/0gs6m	/m/0gs6m
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6660)
+___
+/m/01qr1_	/m/0vjr	/m/01t_vv	/m/01t_vv
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6660)
+___
+/m/01qr1_	/m/0vjr	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6660)
+___
+/m/0151w_	/m/0dsvzh	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7243)
+___
+/m/0151w_	/m/0dsvzh	/m/060__y	/m/060__y
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7243)
+___
+/m/0151w_	/m/0dsvzh	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7243)
+___
+/m/0151w_	/m/0dsvzh	/m/028v3	/m/028v3
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7243)
+___
+/m/0151w_	/m/0dsvzh	/m/02n4kr	/m/02n4kr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7243)
+___
+/m/0151w_	/m/0dsvzh	/m/09blyk	/m/09blyk
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7243)
+___
+/m/01z7s_	/m/08r4x3	/m/099tbz	/m/099tbz
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8787)
+___
+/m/01z7s_	/m/08r4x3	/m/09sb52	/m/09sb52
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8787)
+___
+/m/01y665	/m/01rf57	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/01y665	/m/01rf57	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/01y665	/m/01rf57	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/01y665	/m/01rf57	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/01y665	/m/01rf57	/m/06n90	/m/06n90
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/01y665	/m/01rf57	/m/01htzx	/m/01htzx
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/01y665	/m/01rf57	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/01y665	/m/01rf57	/m/02vnz	/m/02vnz
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-6.0013)
+___
+/m/09_gdc	/m/09_gdc	/m/07cjqy	/m/07cjqy
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/028k57	/m/028k57
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/01pm0_	/m/01pm0_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/01y665	/m/01y665
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/01xllf	/m/01xllf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/03q1vd	/m/03q1vd
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/0kjrx	/m/0kjrx
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/01z7s_	/m/01z7s_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/01qr1_	/m/01qr1_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/037s5h	/m/037s5h
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/01pjr7	/m/01pjr7
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/0l_dv	/m/0l_dv
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/0309lm	/m/0309lm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/015p37	/m/015p37
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/03kxp7	/m/03kxp7
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/015pkc	/m/015pkc
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/04t7ts	/m/04t7ts
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/0151w_	/m/0151w_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/0mbhr	/m/0mbhr
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/09_gdc	/m/09_gdc	/m/01x72k	/m/01x72k
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.0791)
+___
+/m/03q1vd	/m/03q1vd	/m/0xnvg	/m/0xnvg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/people/ethnicity/people
+-1
+tensor(-6.0792)
+___
+#####################
+/m/09_gdc	/m/025rxjq
+Reward:0
+/m/037s5h	/m/037s5h	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.1157)
+___
+/m/04t7ts	/m/04t7ts	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.2233)
+___
+/m/0l_dv	/m/0l_dv	/m/0cbd2	/m/0cbd2
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3074)
+___
+/m/015p37	/m/015p37	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.3811)
+___
+/m/01x72k	/m/01x72k	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.5430)
+___
+/m/01pm0_	/m/01pm0_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7767)
+___
+/m/01pm0_	/m/01pm0_	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7767)
+___
+/m/0309lm	/m/0309lm	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8461)
+___
+/m/0309lm	/m/0309lm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8461)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8563)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8563)
+___
+/m/01xllf	/m/01xllf	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8564)
+___
+/m/01xllf	/m/01xllf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8564)
+___
+/m/028k57	/m/07pd_j	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-3.9976)
+___
+/m/028k57	/m/07pd_j	/m/05ztjjw	/m/05ztjjw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-4.2756)
+___
+/m/0mbhr	/m/0mbhr	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3689)
+___
+/m/0mbhr	/m/0mbhr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3689)
+___
+/m/0mbhr	/m/0mbhr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3689)
+___
+/m/01z7s_	/m/08r4x3	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4499)
+___
+/m/01z7s_	/m/08r4x3	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4499)
+___
+/m/01z7s_	/m/08r4x3	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4499)
+___
+/m/03kxp7	/m/02r5qtm	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4773)
+___
+/m/03kxp7	/m/02r5qtm	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4773)
+___
+/m/03kxp7	/m/02r5qtm	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4773)
+___
+/m/0l_dv	/m/0l_dv	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.7352)
+___
+/m/0kjrx	/m/01rxyb	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.7953)
+___
+/m/0mbhr	/m/0mbhr	/m/092bf5	/m/092bf5
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-4.8713)
+___
+/m/015pkc	/m/012s1d	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8885)
+___
+/m/015pkc	/m/012s1d	/m/01j1n2	/m/01j1n2
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8885)
+___
+/m/015pkc	/m/012s1d	/m/04pbhw	/m/04pbhw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8885)
+___
+/m/015pkc	/m/012s1d	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8885)
+___
+/m/015pkc	/m/012s1d	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8885)
+___
+/m/01y665	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.0830)
+___
+/m/0kjrx	/m/0gyv0b4	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.2784)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.2784)
+___
+/m/0kjrx	/m/0gyv0b4	/m/0lsxr	/m/0lsxr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.2784)
+___
+/m/01pjr7	/m/0473rc	/m/0vgkd	/m/0vgkd
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2851)
+___
+/m/01pjr7	/m/0473rc	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2851)
+___
+/m/01pjr7	/m/0473rc	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2851)
+___
+/m/01pjr7	/m/0473rc	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2851)
+___
+/m/0151w_	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2871)
+___
+/m/01x72k	/m/01x72k	/m/01qscs	/m/01qscs
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.4010)
+___
+/m/01x72k	/m/01x72k	/m/0c6qh	/m/0c6qh
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.4010)
+___
+/m/01x72k	/m/01x72k	/m/0479b	/m/0479b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.4010)
+___
+/m/01z7s_	/m/08r4x3	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5156)
+___
+/m/03q1vd	/m/03q1vd	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-5.5415)
+___
+/m/01qr1_	/m/0d68qy	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5948)
+___
+/m/01qr1_	/m/0d68qy	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5948)
+___
+/m/01qr1_	/m/0d68qy	/m/06nbt	/m/06nbt
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5948)
+___
+/m/01qr1_	/m/0d68qy	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5948)
+___
+/m/01qr1_	/m/0vjr	/m/0gs6m	/m/0gs6m
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6231)
+___
+/m/01qr1_	/m/0vjr	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6231)
+___
+/m/01qr1_	/m/0vjr	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6231)
+___
+/m/01qr1_	/m/0vjr	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6231)
+___
+/m/01qr1_	/m/0vjr	/m/01t_vv	/m/01t_vv
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6231)
+___
+/m/01pjr7	/m/011x_4	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6605)
+___
+/m/01pjr7	/m/011x_4	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6605)
+___
+/m/01pjr7	/m/011x_4	/m/07s2s	/m/07s2s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6605)
+___
+/m/01pjr7	/m/011x_4	/m/03rzvv	/m/03rzvv
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6605)
+___
+/m/01pjr7	/m/011x_4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6605)
+___
+/m/01pjr7	/m/011x_4	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6605)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-5.6635)
+___
+/m/028k57	/m/07pd_j	/m/034bgm	/m/034bgm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-5.7011)
+___
+/m/0151w_	/m/0dsvzh	/m/09blyk	/m/09blyk
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7307)
+___
+/m/0151w_	/m/0dsvzh	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7307)
+___
+/m/0151w_	/m/0dsvzh	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7307)
+___
+/m/0151w_	/m/0dsvzh	/m/060__y	/m/060__y
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7307)
+___
+/m/0151w_	/m/0dsvzh	/m/028v3	/m/028v3
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7307)
+___
+/m/0151w_	/m/0dsvzh	/m/02n4kr	/m/02n4kr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7307)
+___
+/m/01z7s_	/m/08r4x3	/m/099tbz	/m/099tbz
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8226)
+___
+/m/01z7s_	/m/08r4x3	/m/09sb52	/m/09sb52
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8226)
+___
+/m/01y665	/m/01rf57	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/01htzx	/m/01htzx
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/02vnz	/m/02vnz
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/06n90	/m/06n90
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/09_gdc	/m/09_gdc	/m/03kxp7	/m/03kxp7
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/0mbhr	/m/0mbhr
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/04t7ts	/m/04t7ts
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/07cjqy	/m/07cjqy
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/01y665	/m/01y665
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/0151w_	/m/0151w_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/03q1vd	/m/03q1vd
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/0kjrx	/m/0kjrx
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/01z7s_	/m/01z7s_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/037s5h	/m/037s5h
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/015pkc	/m/015pkc
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/01xllf	/m/01xllf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/01pm0_	/m/01pm0_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/028k57	/m/028k57
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/015p37	/m/015p37
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/01qr1_	/m/01qr1_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/0309lm	/m/0309lm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/0l_dv	/m/0l_dv
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/01pjr7	/m/01pjr7
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/09_gdc	/m/09_gdc	/m/01x72k	/m/01x72k
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9849)
+___
+/m/03q1vd	/m/03q1vd	/m/0xnvg	/m/0xnvg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/people/ethnicity/people
+-1
+tensor(-6.0350)
+___
+#####################
+/m/09_gdc	/m/047vnkj
+Reward:0
+/m/037s5h	/m/037s5h	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.1035)
+___
+/m/04t7ts	/m/04t7ts	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.2231)
+___
+/m/0l_dv	/m/0l_dv	/m/0cbd2	/m/0cbd2
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3204)
+___
+/m/015p37	/m/015p37	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.4022)
+___
+/m/01x72k	/m/01x72k	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.6153)
+___
+/m/01pm0_	/m/01pm0_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7786)
+___
+/m/01pm0_	/m/01pm0_	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7786)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8396)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8396)
+___
+/m/01xllf	/m/01xllf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8502)
+___
+/m/01xllf	/m/01xllf	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8502)
+___
+/m/0309lm	/m/0309lm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8760)
+___
+/m/0309lm	/m/0309lm	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8760)
+___
+/m/028k57	/m/07pd_j	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.0564)
+___
+/m/0mbhr	/m/0mbhr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4252)
+___
+/m/0mbhr	/m/0mbhr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4252)
+___
+/m/0mbhr	/m/0mbhr	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4252)
+___
+/m/01z7s_	/m/08r4x3	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4438)
+___
+/m/01z7s_	/m/08r4x3	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4438)
+___
+/m/01z7s_	/m/08r4x3	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4438)
+___
+/m/028k57	/m/07pd_j	/m/05ztjjw	/m/05ztjjw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-4.4877)
+___
+/m/03kxp7	/m/02r5qtm	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.6067)
+___
+/m/03kxp7	/m/02r5qtm	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.6067)
+___
+/m/03kxp7	/m/02r5qtm	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.6067)
+___
+/m/0mbhr	/m/0mbhr	/m/092bf5	/m/092bf5
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-4.6334)
+___
+/m/0l_dv	/m/0l_dv	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.6693)
+___
+/m/015pkc	/m/012s1d	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.9036)
+___
+/m/015pkc	/m/012s1d	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.9036)
+___
+/m/015pkc	/m/012s1d	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.9036)
+___
+/m/015pkc	/m/012s1d	/m/01j1n2	/m/01j1n2
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.9036)
+___
+/m/015pkc	/m/012s1d	/m/04pbhw	/m/04pbhw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.9036)
+___
+/m/0kjrx	/m/01rxyb	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.9870)
+___
+/m/01y665	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.0004)
+___
+/m/028k57	/m/07pd_j	/m/034bgm	/m/034bgm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-5.1123)
+___
+/m/01pjr7	/m/0473rc	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2801)
+___
+/m/01pjr7	/m/0473rc	/m/0vgkd	/m/0vgkd
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2801)
+___
+/m/01pjr7	/m/0473rc	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2801)
+___
+/m/01pjr7	/m/0473rc	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2801)
+___
+/m/0151w_	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.3008)
+___
+/m/01x72k	/m/01x72k	/m/01qscs	/m/01qscs
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3103)
+___
+/m/01x72k	/m/01x72k	/m/0c6qh	/m/0c6qh
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3103)
+___
+/m/01x72k	/m/01x72k	/m/0479b	/m/0479b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3103)
+___
+/m/0kjrx	/m/0gyv0b4	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3434)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3434)
+___
+/m/0kjrx	/m/0gyv0b4	/m/0lsxr	/m/0lsxr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3434)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-5.5058)
+___
+/m/01z7s_	/m/08r4x3	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5458)
+___
+/m/03q1vd	/m/03q1vd	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-5.5687)
+___
+/m/01pjr7	/m/011x_4	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6555)
+___
+/m/01pjr7	/m/011x_4	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6555)
+___
+/m/01pjr7	/m/011x_4	/m/03rzvv	/m/03rzvv
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6555)
+___
+/m/01pjr7	/m/011x_4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6555)
+___
+/m/01pjr7	/m/011x_4	/m/07s2s	/m/07s2s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6555)
+___
+/m/01pjr7	/m/011x_4	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6555)
+___
+/m/01qr1_	/m/0vjr	/m/0gs6m	/m/0gs6m
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7063)
+___
+/m/01qr1_	/m/0vjr	/m/01t_vv	/m/01t_vv
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7063)
+___
+/m/01qr1_	/m/0vjr	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7063)
+___
+/m/01qr1_	/m/0vjr	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7063)
+___
+/m/01qr1_	/m/0vjr	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7063)
+___
+/m/01qr1_	/m/0d68qy	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7239)
+___
+/m/01qr1_	/m/0d68qy	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7239)
+___
+/m/01qr1_	/m/0d68qy	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7239)
+___
+/m/01qr1_	/m/0d68qy	/m/06nbt	/m/06nbt
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.7239)
+___
+/m/0151w_	/m/0dsvzh	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7450)
+___
+/m/0151w_	/m/0dsvzh	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7450)
+___
+/m/0151w_	/m/0dsvzh	/m/028v3	/m/028v3
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7450)
+___
+/m/0151w_	/m/0dsvzh	/m/02n4kr	/m/02n4kr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7450)
+___
+/m/0151w_	/m/0dsvzh	/m/060__y	/m/060__y
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7450)
+___
+/m/0151w_	/m/0dsvzh	/m/09blyk	/m/09blyk
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7450)
+___
+/m/01z7s_	/m/08r4x3	/m/099tbz	/m/099tbz
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.7903)
+___
+/m/01z7s_	/m/08r4x3	/m/09sb52	/m/09sb52
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.7903)
+___
+/m/03kxp7	/m/02r5qtm	/m/0cjyzs	/m/0cjyzs
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8016)
+___
+/m/03kxp7	/m/02r5qtm	/m/09qs08	/m/09qs08
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8016)
+___
+/m/03kxp7	/m/02r5qtm	/m/0cqhk0	/m/0cqhk0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8016)
+___
+/m/03kxp7	/m/02r5qtm	/m/09qrn4	/m/09qrn4
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8016)
+___
+/m/03kxp7	/m/02r5qtm	/m/09qvf4	/m/09qvf4
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.8016)
+___
+/m/01y665	/m/01rf57	/m/02vnz	/m/02vnz
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/01y665	/m/01rf57	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/01y665	/m/01rf57	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/01y665	/m/01rf57	/m/06n90	/m/06n90
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/01y665	/m/01rf57	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/01y665	/m/01rf57	/m/01htzx	/m/01htzx
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/01y665	/m/01rf57	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/01y665	/m/01rf57	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9579)
+___
+/m/09_gdc	/m/09_gdc	/m/01z7s_	/m/01z7s_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/0kjrx	/m/0kjrx
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/03q1vd	/m/03q1vd
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/0151w_	/m/0151w_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/01y665	/m/01y665
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/04t7ts	/m/04t7ts
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/015p37	/m/015p37
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/0mbhr	/m/0mbhr
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/01xllf	/m/01xllf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/07cjqy	/m/07cjqy
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/0309lm	/m/0309lm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/0l_dv	/m/0l_dv
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/01pjr7	/m/01pjr7
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/01qr1_	/m/01qr1_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/028k57	/m/028k57
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+/m/09_gdc	/m/09_gdc	/m/037s5h	/m/037s5h
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9994)
+___
+#####################
+/m/01pb34	/m/02v570
+Reward:0
+/m/0l5yl	/m/0l5yl	/m/04nw9	/m/04nw9
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3246)
+___
+/m/08kp57	/m/08kp57	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3263)
+___
+/m/05g7q	/m/05g7q	/m/01pcrw	/m/01pcrw
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3311)
+___
+/m/0fq117k	/m/0fq117k	/m/03bnv	/m/03bnv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3464)
+___
+/m/02d6n_	/m/02d6n_	/m/01npcy7	/m/01npcy7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3537)
+___
+/m/03f4w4	/m/03f4w4	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3539)
+___
+/m/0lh0c	/m/0lh0c	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3568)
+___
+/m/0hwd8	/m/0hwd8	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.3809)
+___
+/m/0cwtm	/m/0cwtm	/m/01jw4r	/m/01jw4r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3878)
+___
+/m/012dr7	/m/012dr7	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3914)
+___
+/m/012j8z	/m/012j8z	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4448)
+___
+/m/049gc	/m/049gc	/m/0h5k	/m/0h5k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.5285)
+___
+/m/013ybx	/m/013ybx	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.5522)
+___
+/m/01w_10	/m/01w_10	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.6786)
+___
+/m/01qklj	/m/01qklj	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-4.7656)
+___
+/m/045hz5	/m/045hz5	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.9023)
+___
+/m/0cyhq	/m/0cyhq	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.9078)
+___
+/m/0hwqg	/m/0hwqg	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.9510)
+___
+/m/05vzql	/m/05vzql	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0210)
+___
+/m/05vzql	/m/05vzql	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0210)
+___
+/m/01yzhn	/m/01yzhn	/m/01j851	/m/01j851
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0273)
+___
+/m/01yzhn	/m/01yzhn	/m/0dx_q	/m/0dx_q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0273)
+___
+/m/040nwr	/m/040nwr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0296)
+___
+/m/040nwr	/m/040nwr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0296)
+___
+/m/0285c	/m/0285c	/m/01vng3b	/m/01vng3b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0387)
+___
+/m/0285c	/m/0285c	/m/0484q	/m/0484q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0387)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.1023)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.1023)
+___
+/m/0ql36	/m/0ql36	/m/05148p4	/m/05148p4
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-5.1114)
+___
+/m/045hz5	/m/045hz5	/m/0flw86	/m/0flw86
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.1503)
+___
+/m/01d6jf	/m/01d6jf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.2361)
+___
+/m/061zc_	/m/061zc_	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.3505)
+___
+/m/061zc_	/m/061zc_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.3505)
+___
+/m/0hwqg	/m/0hwqg	/m/03_gx	/m/03_gx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.3515)
+___
+/m/01d6jf	/m/01d6jf	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.3957)
+___
+/m/0cyhq	/m/0cyhq	/m/01f38z	/m/01f38z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_burial
+-1
+tensor(-5.3961)
+___
+/m/0cqcgj	/m/0cqcgj	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4237)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4237)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4237)
+___
+/m/01n8_g	/m/01n8_g	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4243)
+___
+/m/01n8_g	/m/01n8_g	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4243)
+___
+/m/01n8_g	/m/01n8_g	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4243)
+___
+/m/04y0hj	/m/04y0hj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4316)
+___
+/m/04y0hj	/m/04y0hj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4316)
+___
+/m/04y0hj	/m/04y0hj	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4316)
+___
+/m/01vsgrn	/m/01vsgrn	/m/01vvydl	/m/01vvydl
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4925)
+___
+/m/01vsgrn	/m/01vsgrn	/m/03xl77	/m/03xl77
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4925)
+___
+/m/01vsgrn	/m/01vsgrn	/m/0fby2t	/m/0fby2t
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4925)
+___
+/m/0cj8x	/m/03hj3b3	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5719)
+___
+/m/043zg	/m/0315w4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5736)
+___
+/m/043zg	/m/0315w4	/m/03npn	/m/03npn
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5736)
+___
+/m/043zg	/m/0315w4	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5736)
+___
+/m/061zc_	/m/061zc_	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.6204)
+___
+/m/04v7k2	/m/04v7k2	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6348)
+___
+/m/04v7k2	/m/04v7k2	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6348)
+___
+/m/0ql36	/m/0ql36	/m/0l14qv	/m/0l14qv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.6533)
+___
+/m/0ql36	/m/0ql36	/m/01vdm0	/m/01vdm0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.6533)
+___
+/m/02tq2r	/m/02tq2r	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6669)
+___
+/m/02tq2r	/m/02tq2r	/m/01tkqy	/m/01tkqy
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6669)
+___
+/m/02tq2r	/m/02tq2r	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6669)
+___
+/m/01qklj	/m/01qklj	/m/0b90_r	/m/0b90_r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-5.6733)
+___
+/m/0d0l91	/m/0d0l91	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/0g7nc	/m/0g7nc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/012t_z	/m/012t_z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/09889g	/m/09889g	/m/03j24kf	/m/03j24kf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7334)
+___
+/m/09889g	/m/09889g	/m/0h1mt	/m/0h1mt
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7334)
+___
+/m/09889g	/m/09889g	/m/0mdyn	/m/0mdyn
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7334)
+___
+/m/09889g	/m/09889g	/m/01wd9lv	/m/01wd9lv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7334)
+___
+/m/04v7k2	/m/04v7k2	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7943)
+___
+/m/04v7k2	/m/04v7k2	/m/01lp8	/m/01lp8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7943)
+___
+/m/01s0l0	/m/030z4z	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8068)
+___
+/m/01s0l0	/m/030z4z	/m/01chg	/m/01chg
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8068)
+___
+/m/01s0l0	/m/030z4z	/m/04t36	/m/04t36
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8068)
+___
+/m/01vsn38	/m/09146g	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8379)
+___
+/m/01vsn38	/m/09146g	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8379)
+___
+/m/01vsn38	/m/09146g	/m/0hcr	/m/0hcr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8379)
+___
+/m/01vsn38	/m/09146g	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8379)
+___
+/m/01nm3s	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8433)
+___
+/m/02tq2r	/m/02tq2r	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.8897)
+___
+/m/01swck	/m/07nxvj	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8963)
+___
+/m/01swck	/m/07nxvj	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8963)
+___
+/m/01swck	/m/07nxvj	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8963)
+___
+/m/01swck	/m/07nxvj	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8963)
+___
+/m/03wpmd	/m/04q00lw	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.9221)
+___
+/m/03wpmd	/m/04q00lw	/m/04228s	/m/04228s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.9221)
+___
+/m/06101p	/m/06101p	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/012vf6	/m/012vf6	/m/012dr7	/m/012dr7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9423)
+___
+/m/012vf6	/m/012vf6	/m/0bkmf	/m/0bkmf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9423)
+___
+/m/012vf6	/m/012vf6	/m/018417	/m/018417
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9423)
+___
+/m/012vf6	/m/012vf6	/m/044qx	/m/044qx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9423)
+___
+/m/012vf6	/m/012vf6	/m/0cgbf	/m/0cgbf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9423)
+___
+/m/03mv0b	/m/03mv0b	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9440)
+___
+/m/03mv0b	/m/03mv0b	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9440)
+___
+/m/03mv0b	/m/03mv0b	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9440)
+___
+/m/03mv0b	/m/03mv0b	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9440)
+___
+#####################
+/m/01pb34	/m/03h3x5
+Reward:0
+/m/0l5yl	/m/0l5yl	/m/04nw9	/m/04nw9
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3246)
+___
+/m/08kp57	/m/08kp57	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3257)
+___
+/m/05g7q	/m/05g7q	/m/01pcrw	/m/01pcrw
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3325)
+___
+/m/0fq117k	/m/0fq117k	/m/03bnv	/m/03bnv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3419)
+___
+/m/02d6n_	/m/02d6n_	/m/01npcy7	/m/01npcy7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3552)
+___
+/m/03f4w4	/m/03f4w4	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3556)
+___
+/m/0lh0c	/m/0lh0c	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3557)
+___
+/m/0hwd8	/m/0hwd8	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.3756)
+___
+/m/0cwtm	/m/0cwtm	/m/01jw4r	/m/01jw4r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3902)
+___
+/m/012dr7	/m/012dr7	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3905)
+___
+/m/012j8z	/m/012j8z	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4447)
+___
+/m/049gc	/m/049gc	/m/0h5k	/m/0h5k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.4838)
+___
+/m/013ybx	/m/013ybx	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.5405)
+___
+/m/01w_10	/m/01w_10	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.6638)
+___
+/m/01qklj	/m/01qklj	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-4.7818)
+___
+/m/0cyhq	/m/0cyhq	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.9053)
+___
+/m/045hz5	/m/045hz5	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.9673)
+___
+/m/05vzql	/m/05vzql	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0200)
+___
+/m/05vzql	/m/05vzql	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0200)
+___
+/m/01yzhn	/m/01yzhn	/m/01j851	/m/01j851
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0297)
+___
+/m/01yzhn	/m/01yzhn	/m/0dx_q	/m/0dx_q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0297)
+___
+/m/040nwr	/m/040nwr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0303)
+___
+/m/040nwr	/m/040nwr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0303)
+___
+/m/0285c	/m/0285c	/m/01vng3b	/m/01vng3b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0424)
+___
+/m/0285c	/m/0285c	/m/0484q	/m/0484q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0424)
+___
+/m/045hz5	/m/045hz5	/m/0flw86	/m/0flw86
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.0725)
+___
+/m/0hwqg	/m/0hwqg	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0868)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0945)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0945)
+___
+/m/0hwqg	/m/0hwqg	/m/03_gx	/m/03_gx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.1766)
+___
+/m/0ql36	/m/0ql36	/m/05148p4	/m/05148p4
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-5.2169)
+___
+/m/01d6jf	/m/01d6jf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.2678)
+___
+/m/0cyhq	/m/0cyhq	/m/01f38z	/m/01f38z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_burial
+-1
+tensor(-5.3991)
+___
+/m/061zc_	/m/061zc_	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4209)
+___
+/m/061zc_	/m/061zc_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4209)
+___
+/m/0cqcgj	/m/0cqcgj	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/01n8_g	/m/01n8_g	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4240)
+___
+/m/01n8_g	/m/01n8_g	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4240)
+___
+/m/01n8_g	/m/01n8_g	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4240)
+___
+/m/04y0hj	/m/04y0hj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4337)
+___
+/m/04y0hj	/m/04y0hj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4337)
+___
+/m/04y0hj	/m/04y0hj	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4337)
+___
+/m/01d6jf	/m/01d6jf	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.4441)
+___
+/m/061zc_	/m/061zc_	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.4572)
+___
+/m/01vsgrn	/m/01vsgrn	/m/0fby2t	/m/0fby2t
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.5106)
+___
+/m/01vsgrn	/m/01vsgrn	/m/01vvydl	/m/01vvydl
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.5106)
+___
+/m/01vsgrn	/m/01vsgrn	/m/03xl77	/m/03xl77
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.5106)
+___
+/m/0cj8x	/m/03hj3b3	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5497)
+___
+/m/0ql36	/m/0ql36	/m/0l14qv	/m/0l14qv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5613)
+___
+/m/0ql36	/m/0ql36	/m/01vdm0	/m/01vdm0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5613)
+___
+/m/043zg	/m/0315w4	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5707)
+___
+/m/043zg	/m/0315w4	/m/03npn	/m/03npn
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5707)
+___
+/m/043zg	/m/0315w4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5707)
+___
+/m/01nm3s	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.6104)
+___
+/m/01qklj	/m/01qklj	/m/0b90_r	/m/0b90_r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-5.6285)
+___
+/m/04v7k2	/m/04v7k2	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7011)
+___
+/m/04v7k2	/m/04v7k2	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7011)
+___
+/m/02tq2r	/m/02tq2r	/m/01tkqy	/m/01tkqy
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7053)
+___
+/m/02tq2r	/m/02tq2r	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7053)
+___
+/m/02tq2r	/m/02tq2r	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7053)
+___
+/m/0d0l91	/m/0d0l91	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/0g7nc	/m/0g7nc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/012t_z	/m/012t_z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/04v7k2	/m/04v7k2	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7215)
+___
+/m/04v7k2	/m/04v7k2	/m/01lp8	/m/01lp8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7215)
+___
+/m/09889g	/m/09889g	/m/0h1mt	/m/0h1mt
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/09889g	/m/09889g	/m/01wd9lv	/m/01wd9lv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/09889g	/m/09889g	/m/0mdyn	/m/0mdyn
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/09889g	/m/09889g	/m/03j24kf	/m/03j24kf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/02tq2r	/m/02tq2r	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7682)
+___
+/m/01s0l0	/m/030z4z	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8069)
+___
+/m/01s0l0	/m/030z4z	/m/01chg	/m/01chg
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8069)
+___
+/m/01s0l0	/m/030z4z	/m/04t36	/m/04t36
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8069)
+___
+/m/01vsn38	/m/09146g	/m/0hcr	/m/0hcr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01vsn38	/m/09146g	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01vsn38	/m/09146g	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01vsn38	/m/09146g	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01swck	/m/07nxvj	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/01swck	/m/07nxvj	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/01swck	/m/07nxvj	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/01swck	/m/07nxvj	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/03wpmd	/m/04q00lw	/m/04228s	/m/04228s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.8970)
+___
+/m/03wpmd	/m/04q00lw	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.8970)
+___
+/m/06101p	/m/06101p	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/012vf6	/m/012vf6	/m/018417	/m/018417
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/044qx	/m/044qx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/012dr7	/m/012dr7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/0bkmf	/m/0bkmf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/0cgbf	/m/0cgbf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/03mv0b	/m/03mv0b	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+/m/03mv0b	/m/03mv0b	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+/m/03mv0b	/m/03mv0b	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+/m/03mv0b	/m/03mv0b	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+#####################
+/m/01pb34	/m/074w86
+Reward:0
+/m/0l5yl	/m/0l5yl	/m/04nw9	/m/04nw9
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3246)
+___
+/m/08kp57	/m/08kp57	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3257)
+___
+/m/05g7q	/m/05g7q	/m/01pcrw	/m/01pcrw
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3325)
+___
+/m/0fq117k	/m/0fq117k	/m/03bnv	/m/03bnv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3419)
+___
+/m/02d6n_	/m/02d6n_	/m/01npcy7	/m/01npcy7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3552)
+___
+/m/03f4w4	/m/03f4w4	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3556)
+___
+/m/0lh0c	/m/0lh0c	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3557)
+___
+/m/0hwd8	/m/0hwd8	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.3756)
+___
+/m/0cwtm	/m/0cwtm	/m/01jw4r	/m/01jw4r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3902)
+___
+/m/012dr7	/m/012dr7	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3905)
+___
+/m/012j8z	/m/012j8z	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4447)
+___
+/m/049gc	/m/049gc	/m/0h5k	/m/0h5k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.4838)
+___
+/m/013ybx	/m/013ybx	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.5405)
+___
+/m/01w_10	/m/01w_10	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.6638)
+___
+/m/01qklj	/m/01qklj	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-4.7809)
+___
+/m/0cyhq	/m/0cyhq	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.9053)
+___
+/m/045hz5	/m/045hz5	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.9673)
+___
+/m/05vzql	/m/05vzql	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0200)
+___
+/m/05vzql	/m/05vzql	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0200)
+___
+/m/01yzhn	/m/01yzhn	/m/0dx_q	/m/0dx_q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0297)
+___
+/m/01yzhn	/m/01yzhn	/m/01j851	/m/01j851
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0297)
+___
+/m/040nwr	/m/040nwr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0303)
+___
+/m/040nwr	/m/040nwr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0303)
+___
+/m/0285c	/m/0285c	/m/01vng3b	/m/01vng3b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0424)
+___
+/m/0285c	/m/0285c	/m/0484q	/m/0484q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0424)
+___
+/m/045hz5	/m/045hz5	/m/0flw86	/m/0flw86
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.0725)
+___
+/m/0hwqg	/m/0hwqg	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0868)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0945)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0945)
+___
+/m/0hwqg	/m/0hwqg	/m/03_gx	/m/03_gx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.1766)
+___
+/m/0ql36	/m/0ql36	/m/05148p4	/m/05148p4
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-5.2169)
+___
+/m/01d6jf	/m/01d6jf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.2678)
+___
+/m/0cyhq	/m/0cyhq	/m/01f38z	/m/01f38z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_burial
+-1
+tensor(-5.3991)
+___
+/m/061zc_	/m/061zc_	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4209)
+___
+/m/061zc_	/m/061zc_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4209)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/0cqcgj	/m/0cqcgj	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/01n8_g	/m/01n8_g	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4240)
+___
+/m/01n8_g	/m/01n8_g	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4240)
+___
+/m/01n8_g	/m/01n8_g	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4240)
+___
+/m/04y0hj	/m/04y0hj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4337)
+___
+/m/04y0hj	/m/04y0hj	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4337)
+___
+/m/04y0hj	/m/04y0hj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4337)
+___
+/m/01d6jf	/m/01d6jf	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.4441)
+___
+/m/061zc_	/m/061zc_	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.4572)
+___
+/m/01vsgrn	/m/01vsgrn	/m/0fby2t	/m/0fby2t
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.5106)
+___
+/m/01vsgrn	/m/01vsgrn	/m/03xl77	/m/03xl77
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.5106)
+___
+/m/01vsgrn	/m/01vsgrn	/m/01vvydl	/m/01vvydl
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.5106)
+___
+/m/0cj8x	/m/03hj3b3	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5497)
+___
+/m/0ql36	/m/0ql36	/m/01vdm0	/m/01vdm0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5613)
+___
+/m/0ql36	/m/0ql36	/m/0l14qv	/m/0l14qv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5613)
+___
+/m/043zg	/m/0315w4	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5707)
+___
+/m/043zg	/m/0315w4	/m/03npn	/m/03npn
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5707)
+___
+/m/043zg	/m/0315w4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5707)
+___
+/m/01nm3s	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.6104)
+___
+/m/01qklj	/m/01qklj	/m/0b90_r	/m/0b90_r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-5.6276)
+___
+/m/04v7k2	/m/04v7k2	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7011)
+___
+/m/04v7k2	/m/04v7k2	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7011)
+___
+/m/02tq2r	/m/02tq2r	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7053)
+___
+/m/02tq2r	/m/02tq2r	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7053)
+___
+/m/02tq2r	/m/02tq2r	/m/01tkqy	/m/01tkqy
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7053)
+___
+/m/0d0l91	/m/0d0l91	/m/0g7nc	/m/0g7nc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/0d0l91	/m/0d0l91	/m/012t_z	/m/012t_z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7120)
+___
+/m/04v7k2	/m/04v7k2	/m/01lp8	/m/01lp8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7215)
+___
+/m/04v7k2	/m/04v7k2	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7215)
+___
+/m/09889g	/m/09889g	/m/0h1mt	/m/0h1mt
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/09889g	/m/09889g	/m/01wd9lv	/m/01wd9lv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/09889g	/m/09889g	/m/0mdyn	/m/0mdyn
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/09889g	/m/09889g	/m/03j24kf	/m/03j24kf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7331)
+___
+/m/02tq2r	/m/02tq2r	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7682)
+___
+/m/01s0l0	/m/030z4z	/m/04t36	/m/04t36
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8069)
+___
+/m/01s0l0	/m/030z4z	/m/01chg	/m/01chg
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8069)
+___
+/m/01s0l0	/m/030z4z	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8069)
+___
+/m/01vsn38	/m/09146g	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01vsn38	/m/09146g	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01vsn38	/m/09146g	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01vsn38	/m/09146g	/m/0hcr	/m/0hcr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8768)
+___
+/m/01swck	/m/07nxvj	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/01swck	/m/07nxvj	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/01swck	/m/07nxvj	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/01swck	/m/07nxvj	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8923)
+___
+/m/03wpmd	/m/04q00lw	/m/04228s	/m/04228s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.8970)
+___
+/m/03wpmd	/m/04q00lw	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.8970)
+___
+/m/06101p	/m/06101p	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/012vf6	/m/012vf6	/m/018417	/m/018417
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/0cgbf	/m/0cgbf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/0bkmf	/m/0bkmf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/012dr7	/m/012dr7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/012vf6	/m/012vf6	/m/044qx	/m/044qx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9427)
+___
+/m/03mv0b	/m/03mv0b	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+/m/03mv0b	/m/03mv0b	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+/m/03mv0b	/m/03mv0b	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+/m/03mv0b	/m/03mv0b	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9442)
+___
+#####################
+/m/01kyvx	/m/056k77g
+Reward:0
+/m/0b9f7t	/m/0b9f7t	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3508)
+___
+/m/03ydry	/m/03ydry	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3526)
+___
+/m/01kwh5j	/m/01kwh5j	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3542)
+___
+/m/03d29b	/m/03d29b	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3603)
+___
+/m/02t1dv	/m/02t1dv	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3753)
+___
+/m/03q64h	/m/03q64h	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3753)
+___
+/m/04j5fx	/m/04j5fx	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3755)
+___
+/m/0392kz	/m/0392kz	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3765)
+___
+/m/01qz69r	/m/01qz69r	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3803)
+___
+/m/04f62k	/m/04f62k	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3804)
+___
+/m/02h8hr	/m/02h8hr	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3815)
+___
+/m/01qvtwm	/m/01qvtwm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3824)
+___
+/m/03fghg	/m/03fghg	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3886)
+___
+/m/08p1gp	/m/08p1gp	/m/03qsdpk	/m/03qsdpk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.4081)
+___
+/m/01rmnp	/m/01rmnp	/m/0342h	/m/0342h
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-3.4154)
+___
+/m/05bp8g	/m/05bp8g	/m/03_3d	/m/03_3d
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-3.5002)
+___
+/m/03cz4j	/m/03cz4j	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8980)
+___
+/m/0f8grf	/m/0f8grf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0546)
+___
+/m/0f8grf	/m/0f8grf	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0546)
+___
+/m/01wphh2	/m/01wphh2	/m/0nbcg	/m/0nbcg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0576)
+___
+/m/01wphh2	/m/01wphh2	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0576)
+___
+/m/01nsyf	/m/01nsyf	/m/016z4k	/m/016z4k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0584)
+___
+/m/01nsyf	/m/01nsyf	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0584)
+___
+/m/03cz9_	/m/03cz9_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0627)
+___
+/m/03cz9_	/m/03cz9_	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0627)
+___
+/m/042gr4	/m/042gr4	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0652)
+___
+/m/042gr4	/m/042gr4	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0652)
+___
+/m/01vs8ng	/m/01vs8ng	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0707)
+___
+/m/01vs8ng	/m/01vs8ng	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0707)
+___
+/m/02v92l	/m/02v92l	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.2200)
+___
+/m/02v92l	/m/02v92l	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.2200)
+___
+/m/01kymm	/m/01kymm	/m/016z4k	/m/016z4k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4508)
+___
+/m/01kymm	/m/01kymm	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4508)
+___
+/m/01kymm	/m/01kymm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4508)
+___
+/m/0dt645q	/m/0dt645q	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4919)
+___
+/m/0dt645q	/m/0dt645q	/m/039v1	/m/039v1
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4919)
+___
+/m/0dt645q	/m/0dt645q	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4919)
+___
+/m/01kym3	/m/01kym3	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8169)
+___
+/m/01kym3	/m/01kym3	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8169)
+___
+/m/01kym3	/m/01kym3	/m/08z956	/m/08z956
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8169)
+___
+/m/01kym3	/m/01kym3	/m/025352	/m/025352
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8169)
+___
+/m/03cz4j	/m/03cz4j	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.9750)
+___
+/m/03cz4j	/m/03cz4j	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.9750)
+___
+/m/02v92l	/m/02v92l	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.3066)
+___
+/m/05bp8g	/m/05bp8g	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.5363)
+___
+/m/01kym3	/m/01kym3	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.0343)
+___
+/m/01kyvx	/m/01kyvx	/m/03d29b	/m/03d29b
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/02t1dv	/m/02t1dv
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/042gr4	/m/042gr4
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/02v92l	/m/02v92l
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01qz69r	/m/01qz69r
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01qvtwm	/m/01qvtwm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/0dt645q	/m/0dt645q
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01kymm	/m/01kymm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01kwh5j	/m/01kwh5j
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01kym3	/m/01kym3
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/03cz9_	/m/03cz9_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/08p1gp	/m/08p1gp
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/04j5fx	/m/04j5fx
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01nsyf	/m/01nsyf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/0f8grf	/m/0f8grf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/0b9f7t	/m/0b9f7t
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/0392kz	/m/0392kz
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/03q64h	/m/03q64h
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01wphh2	/m/01wphh2
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/03fghg	/m/03fghg
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/03ydry	/m/03ydry
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01vs8ng	/m/01vs8ng
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/04f62k	/m/04f62k
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/02h8hr	/m/02h8hr
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/05bp8g	/m/05bp8g
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/03cz4j	/m/03cz4j
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/01kyvx	/m/01rmnp	/m/01rmnp
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.7839)
+___
+/m/01kyvx	/m/0b9f7t	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0785)
+___
+/m/01kyvx	/m/04f62k	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0785)
+___
+/m/01kyvx	/m/04j5fx	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0789)
+___
+/m/01kyvx	/m/03q64h	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0789)
+___
+/m/01kyvx	/m/02t1dv	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0789)
+___
+/m/01kyvx	/m/03fghg	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0789)
+___
+/m/01kyvx	/m/01qz69r	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0789)
+___
+/m/01kyvx	/m/03d29b	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0789)
+___
+/m/01kyvx	/m/0392kz	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0790)
+___
+/m/01kyvx	/m/02h8hr	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0790)
+___
+/m/01kyvx	/m/01qvtwm	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0790)
+___
+/m/01kyvx	/m/01kwh5j	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0791)
+___
+/m/01kyvx	/m/03ydry	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.0791)
+___
+/m/08p1gp	/m/08p1gp	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-7.0862)
+___
+/m/08p1gp	/m/08p1gp	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-7.0862)
+___
+/m/01kyvx	/m/01rmnp	/m/0342h	/m/0342h
+NO_OP	_/film/actor/film./film/performance/special_performance_type	_/music/instrument/instrumentalists
+-1
+tensor(-7.1091)
+___
+/m/01kyvx	/m/08p1gp	/m/03qsdpk	/m/03qsdpk
+NO_OP	_/film/actor/film./film/performance/special_performance_type	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-7.1301)
+___
+/m/01kyvx	/m/05bp8g	/m/03_3d	/m/03_3d
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/nationality
+-1
+tensor(-7.2795)
+___
+/m/01rmnp	/m/01rmnp	/m/0l15bq	/m/0l15bq
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-7.6012)
+___
+/m/01rmnp	/m/01rmnp	/m/0nbcg	/m/0nbcg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-7.6165)
+___
+/m/01rmnp	/m/01rmnp	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-7.6165)
+___
+/m/01kyvx	/m/03cz4j	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.6285)
+___
+/m/01kyvx	/m/042gr4	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.7715)
+___
+/m/01kyvx	/m/042gr4	/m/02hrh1q	/m/02hrh1q
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.7715)
+___
+/m/01kyvx	/m/01vs8ng	/m/02hrh1q	/m/02hrh1q
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.7718)
+___
+/m/01kyvx	/m/01vs8ng	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.7718)
+___
+/m/01kyvx	/m/01wphh2	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.7718)
+___
+#####################
+/m/01pb34	/m/013q07
+Reward:0
+/m/0l5yl	/m/0l5yl	/m/04nw9	/m/04nw9
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3246)
+___
+/m/08kp57	/m/08kp57	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3257)
+___
+/m/05g7q	/m/05g7q	/m/01pcrw	/m/01pcrw
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3324)
+___
+/m/0fq117k	/m/0fq117k	/m/03bnv	/m/03bnv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3412)
+___
+/m/02d6n_	/m/02d6n_	/m/01npcy7	/m/01npcy7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3524)
+___
+/m/03f4w4	/m/03f4w4	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3540)
+___
+/m/0lh0c	/m/0lh0c	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3567)
+___
+/m/0hwd8	/m/0hwd8	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.3701)
+___
+/m/012dr7	/m/012dr7	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3878)
+___
+/m/0cwtm	/m/0cwtm	/m/01jw4r	/m/01jw4r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3992)
+___
+/m/012j8z	/m/012j8z	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4511)
+___
+/m/049gc	/m/049gc	/m/0h5k	/m/0h5k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.4791)
+___
+/m/013ybx	/m/013ybx	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.5443)
+___
+/m/01w_10	/m/01w_10	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.6884)
+___
+/m/0cyhq	/m/0cyhq	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.8375)
+___
+/m/01qklj	/m/01qklj	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-4.8552)
+___
+/m/045hz5	/m/045hz5	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.9740)
+___
+/m/05vzql	/m/05vzql	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0200)
+___
+/m/05vzql	/m/05vzql	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0200)
+___
+/m/040nwr	/m/040nwr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0288)
+___
+/m/040nwr	/m/040nwr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0288)
+___
+/m/01yzhn	/m/01yzhn	/m/0dx_q	/m/0dx_q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0304)
+___
+/m/01yzhn	/m/01yzhn	/m/01j851	/m/01j851
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0304)
+___
+/m/0285c	/m/0285c	/m/0484q	/m/0484q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0343)
+___
+/m/0285c	/m/0285c	/m/01vng3b	/m/01vng3b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0343)
+___
+/m/045hz5	/m/045hz5	/m/0flw86	/m/0flw86
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.0648)
+___
+/m/0hwqg	/m/0hwqg	/m/03_gx	/m/03_gx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.0958)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.1082)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.1082)
+___
+/m/0hwqg	/m/0hwqg	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.1347)
+___
+/m/0ql36	/m/0ql36	/m/05148p4	/m/05148p4
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-5.2140)
+___
+/m/01d6jf	/m/01d6jf	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.2651)
+___
+/m/01d6jf	/m/01d6jf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.3102)
+___
+/m/061zc_	/m/061zc_	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.3264)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/0cqcgj	/m/0cqcgj	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4235)
+___
+/m/01n8_g	/m/01n8_g	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4241)
+___
+/m/01n8_g	/m/01n8_g	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4241)
+___
+/m/01n8_g	/m/01n8_g	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4241)
+___
+/m/04y0hj	/m/04y0hj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4317)
+___
+/m/04y0hj	/m/04y0hj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4317)
+___
+/m/04y0hj	/m/04y0hj	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4317)
+___
+/m/0cyhq	/m/0cyhq	/m/01f38z	/m/01f38z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_burial
+-1
+tensor(-5.4742)
+___
+/m/061zc_	/m/061zc_	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4873)
+___
+/m/061zc_	/m/061zc_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4873)
+___
+/m/01vsgrn	/m/01vsgrn	/m/01vvydl	/m/01vvydl
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4962)
+___
+/m/01vsgrn	/m/01vsgrn	/m/03xl77	/m/03xl77
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4962)
+___
+/m/01vsgrn	/m/01vsgrn	/m/0fby2t	/m/0fby2t
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4962)
+___
+/m/01qklj	/m/01qklj	/m/0b90_r	/m/0b90_r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-5.5594)
+___
+/m/0ql36	/m/0ql36	/m/0l14qv	/m/0l14qv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5628)
+___
+/m/0ql36	/m/0ql36	/m/01vdm0	/m/01vdm0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5628)
+___
+/m/043zg	/m/0315w4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5876)
+___
+/m/043zg	/m/0315w4	/m/03npn	/m/03npn
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5876)
+___
+/m/043zg	/m/0315w4	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5876)
+___
+/m/02tq2r	/m/02tq2r	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.6398)
+___
+/m/01nm3s	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.6427)
+___
+/m/04v7k2	/m/04v7k2	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6670)
+___
+/m/04v7k2	/m/04v7k2	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6670)
+___
+/m/0d0l91	/m/0d0l91	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/0d0l91	/m/0d0l91	/m/012t_z	/m/012t_z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/0d0l91	/m/0d0l91	/m/0g7nc	/m/0g7nc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/0d0l91	/m/0d0l91	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/09889g	/m/09889g	/m/0h1mt	/m/0h1mt
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7301)
+___
+/m/09889g	/m/09889g	/m/01wd9lv	/m/01wd9lv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7301)
+___
+/m/09889g	/m/09889g	/m/03j24kf	/m/03j24kf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7301)
+___
+/m/09889g	/m/09889g	/m/0mdyn	/m/0mdyn
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7301)
+___
+/m/02tq2r	/m/02tq2r	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7455)
+___
+/m/02tq2r	/m/02tq2r	/m/01tkqy	/m/01tkqy
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7455)
+___
+/m/02tq2r	/m/02tq2r	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7455)
+___
+/m/04v7k2	/m/04v7k2	/m/01lp8	/m/01lp8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7577)
+___
+/m/04v7k2	/m/04v7k2	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7577)
+___
+/m/01s0l0	/m/030z4z	/m/04t36	/m/04t36
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.7879)
+___
+/m/01s0l0	/m/030z4z	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.7879)
+___
+/m/01s0l0	/m/030z4z	/m/01chg	/m/01chg
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.7879)
+___
+/m/01vsn38	/m/09146g	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8362)
+___
+/m/01vsn38	/m/09146g	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8362)
+___
+/m/01vsn38	/m/09146g	/m/0hcr	/m/0hcr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8362)
+___
+/m/01vsn38	/m/09146g	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8362)
+___
+/m/0cj8x	/m/03hj3b3	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8537)
+___
+/m/01swck	/m/07nxvj	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8946)
+___
+/m/01swck	/m/07nxvj	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8946)
+___
+/m/01swck	/m/07nxvj	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8946)
+___
+/m/01swck	/m/07nxvj	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8946)
+___
+/m/03wpmd	/m/04q00lw	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.9266)
+___
+/m/03wpmd	/m/04q00lw	/m/04228s	/m/04228s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.9266)
+___
+/m/06101p	/m/06101p	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/06101p	/m/06101p	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9340)
+___
+/m/012vf6	/m/012vf6	/m/044qx	/m/044qx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9408)
+___
+/m/012vf6	/m/012vf6	/m/0bkmf	/m/0bkmf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9408)
+___
+/m/012vf6	/m/012vf6	/m/012dr7	/m/012dr7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9408)
+___
+/m/012vf6	/m/012vf6	/m/018417	/m/018417
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9408)
+___
+/m/012vf6	/m/012vf6	/m/0cgbf	/m/0cgbf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9408)
+___
+/m/03mv0b	/m/03mv0b	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9462)
+___
+/m/03mv0b	/m/03mv0b	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9462)
+___
+/m/03mv0b	/m/03mv0b	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9462)
+___
+/m/03mv0b	/m/03mv0b	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9462)
+___
+#####################
+/m/01kyvx	/m/02gs6r
+Reward:0
+/m/0b9f7t	/m/0b9f7t	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3508)
+___
+/m/03ydry	/m/03ydry	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3530)
+___
+/m/01kwh5j	/m/01kwh5j	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3549)
+___
+/m/03d29b	/m/03d29b	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3631)
+___
+/m/04f62k	/m/04f62k	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3727)
+___
+/m/01qvtwm	/m/01qvtwm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3733)
+___
+/m/03q64h	/m/03q64h	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3735)
+___
+/m/0392kz	/m/0392kz	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3758)
+___
+/m/04j5fx	/m/04j5fx	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3773)
+___
+/m/02t1dv	/m/02t1dv	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3784)
+___
+/m/01qz69r	/m/01qz69r	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3794)
+___
+/m/02h8hr	/m/02h8hr	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3824)
+___
+/m/03fghg	/m/03fghg	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3871)
+___
+/m/01rmnp	/m/01rmnp	/m/0342h	/m/0342h
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-3.4343)
+___
+/m/08p1gp	/m/08p1gp	/m/03qsdpk	/m/03qsdpk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.4430)
+___
+/m/05bp8g	/m/05bp8g	/m/03_3d	/m/03_3d
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-3.4917)
+___
+/m/03cz4j	/m/03cz4j	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8101)
+___
+/m/0f8grf	/m/0f8grf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0519)
+___
+/m/0f8grf	/m/0f8grf	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0519)
+___
+/m/01nsyf	/m/01nsyf	/m/016z4k	/m/016z4k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0578)
+___
+/m/01nsyf	/m/01nsyf	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0578)
+___
+/m/01wphh2	/m/01wphh2	/m/0nbcg	/m/0nbcg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0609)
+___
+/m/01wphh2	/m/01wphh2	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0609)
+___
+/m/03cz9_	/m/03cz9_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0654)
+___
+/m/03cz9_	/m/03cz9_	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0654)
+___
+/m/042gr4	/m/042gr4	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0696)
+___
+/m/042gr4	/m/042gr4	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0696)
+___
+/m/01vs8ng	/m/01vs8ng	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0727)
+___
+/m/01vs8ng	/m/01vs8ng	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.0727)
+___
+/m/02v92l	/m/02v92l	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.1932)
+___
+/m/02v92l	/m/02v92l	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.1932)
+___
+/m/01kymm	/m/01kymm	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4508)
+___
+/m/01kymm	/m/01kymm	/m/016z4k	/m/016z4k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4508)
+___
+/m/01kymm	/m/01kymm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4508)
+___
+/m/0dt645q	/m/0dt645q	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4933)
+___
+/m/0dt645q	/m/0dt645q	/m/039v1	/m/039v1
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4933)
+___
+/m/0dt645q	/m/0dt645q	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4933)
+___
+/m/01kym3	/m/01kym3	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8089)
+___
+/m/01kym3	/m/01kym3	/m/025352	/m/025352
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8089)
+___
+/m/01kym3	/m/01kym3	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8089)
+___
+/m/01kym3	/m/01kym3	/m/08z956	/m/08z956
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.8089)
+___
+/m/03cz4j	/m/03cz4j	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1365)
+___
+/m/03cz4j	/m/03cz4j	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.1365)
+___
+/m/02v92l	/m/02v92l	/m/03_9r	/m/03_9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.4896)
+___
+/m/05bp8g	/m/05bp8g	/m/01kyvx	/m/01kyvx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.5925)
+___
+/m/01kym3	/m/01kym3	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.1164)
+___
+/m/08p1gp	/m/08p1gp	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-6.5848)
+___
+/m/08p1gp	/m/08p1gp	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-6.5848)
+___
+/m/01kyvx	/m/01kyvx	/m/01wphh2	/m/01wphh2
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/03ydry	/m/03ydry
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01vs8ng	/m/01vs8ng
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/04j5fx	/m/04j5fx
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/0392kz	/m/0392kz
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/02t1dv	/m/02t1dv
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/03cz4j	/m/03cz4j
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/03cz9_	/m/03cz9_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01kwh5j	/m/01kwh5j
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/0b9f7t	/m/0b9f7t
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/08p1gp	/m/08p1gp
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01nsyf	/m/01nsyf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/03d29b	/m/03d29b
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01rmnp	/m/01rmnp
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01qvtwm	/m/01qvtwm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/05bp8g	/m/05bp8g
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/02h8hr	/m/02h8hr
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/042gr4	/m/042gr4
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/04f62k	/m/04f62k
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/02v92l	/m/02v92l
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01kymm	/m/01kymm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/0dt645q	/m/0dt645q
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01kym3	/m/01kym3
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/01qz69r	/m/01qz69r
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/0f8grf	/m/0f8grf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/03fghg	/m/03fghg
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/01kyvx	/m/03q64h	/m/03q64h
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-6.6727)
+___
+/m/01kyvx	/m/04f62k	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2501)
+___
+/m/01kyvx	/m/0b9f7t	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2501)
+___
+/m/01kyvx	/m/03d29b	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2508)
+___
+/m/01kyvx	/m/01qvtwm	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2508)
+___
+/m/01kyvx	/m/04j5fx	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2508)
+___
+/m/01kyvx	/m/02h8hr	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2509)
+___
+/m/01kyvx	/m/03fghg	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2510)
+___
+/m/01kyvx	/m/01qz69r	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2510)
+___
+/m/01kyvx	/m/01kwh5j	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2510)
+___
+/m/01kyvx	/m/0392kz	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2511)
+___
+/m/01kyvx	/m/02t1dv	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2511)
+___
+/m/01kyvx	/m/03ydry	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2511)
+___
+/m/01kyvx	/m/03q64h	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.2511)
+___
+/m/01rmnp	/m/01rmnp	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-7.2726)
+___
+/m/01rmnp	/m/01rmnp	/m/0nbcg	/m/0nbcg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-7.2726)
+___
+/m/01kyvx	/m/01rmnp	/m/0342h	/m/0342h
+NO_OP	_/film/actor/film./film/performance/special_performance_type	_/music/instrument/instrumentalists
+-1
+tensor(-7.2834)
+___
+/m/01kyvx	/m/08p1gp	/m/03qsdpk	/m/03qsdpk
+NO_OP	_/film/actor/film./film/performance/special_performance_type	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-7.2945)
+___
+/m/01kyvx	/m/05bp8g	/m/03_3d	/m/03_3d
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/nationality
+-1
+tensor(-7.3654)
+___
+/m/01rmnp	/m/01rmnp	/m/0l15bq	/m/0l15bq
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-7.5073)
+___
+/m/01kyvx	/m/03cz4j	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.8070)
+___
+/m/01kyvx	/m/042gr4	/m/02hrh1q	/m/02hrh1q
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.9432)
+___
+/m/01kyvx	/m/042gr4	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.9432)
+___
+/m/01kyvx	/m/01wphh2	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.9436)
+___
+/m/01kyvx	/m/01wphh2	/m/0nbcg	/m/0nbcg
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.9436)
+___
+/m/01kyvx	/m/01vs8ng	/m/0np9r	/m/0np9r
+NO_OP	_/film/actor/film./film/performance/special_performance_type	/people/person/profession
+-1
+tensor(-7.9436)
+___
+#####################
+/m/09_gdc	/m/0ptdz
+Reward:0
+/m/037s5h	/m/037s5h	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.0981)
+___
+/m/04t7ts	/m/04t7ts	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.2627)
+___
+/m/0l_dv	/m/0l_dv	/m/0cbd2	/m/0cbd2
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.3265)
+___
+/m/015p37	/m/015p37	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-3.3872)
+___
+/m/01x72k	/m/01x72k	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.5753)
+___
+/m/01pm0_	/m/01pm0_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7763)
+___
+/m/01pm0_	/m/01pm0_	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.7763)
+___
+/m/01xllf	/m/01xllf	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8331)
+___
+/m/01xllf	/m/01xllf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8331)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8442)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-3.8442)
+___
+/m/0309lm	/m/0309lm	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8741)
+___
+/m/0309lm	/m/0309lm	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-3.8741)
+___
+/m/028k57	/m/07pd_j	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.2187)
+___
+/m/0mbhr	/m/0mbhr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3969)
+___
+/m/0mbhr	/m/0mbhr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3969)
+___
+/m/0mbhr	/m/0mbhr	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3969)
+___
+/m/03kxp7	/m/02r5qtm	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4376)
+___
+/m/03kxp7	/m/02r5qtm	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4376)
+___
+/m/03kxp7	/m/02r5qtm	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-4.4376)
+___
+/m/01z7s_	/m/08r4x3	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4475)
+___
+/m/01z7s_	/m/08r4x3	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4475)
+___
+/m/01z7s_	/m/08r4x3	/m/03g3w	/m/03g3w
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-4.4475)
+___
+/m/028k57	/m/07pd_j	/m/034bgm	/m/034bgm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-4.5742)
+___
+/m/0l_dv	/m/0l_dv	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-4.6570)
+___
+/m/028k57	/m/07pd_j	/m/05ztjjw	/m/05ztjjw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-4.6796)
+___
+/m/0mbhr	/m/0mbhr	/m/092bf5	/m/092bf5
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-4.7391)
+___
+/m/015pkc	/m/012s1d	/m/04pbhw	/m/04pbhw
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8942)
+___
+/m/015pkc	/m/012s1d	/m/01j1n2	/m/01j1n2
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8942)
+___
+/m/015pkc	/m/012s1d	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8942)
+___
+/m/015pkc	/m/012s1d	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8942)
+___
+/m/015pkc	/m/012s1d	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.8942)
+___
+/m/0kjrx	/m/01rxyb	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-4.9807)
+___
+/m/01y665	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.2701)
+___
+/m/01pjr7	/m/0473rc	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2813)
+___
+/m/01pjr7	/m/0473rc	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2813)
+___
+/m/01pjr7	/m/0473rc	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2813)
+___
+/m/01pjr7	/m/0473rc	/m/0vgkd	/m/0vgkd
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2813)
+___
+/m/0151w_	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.2846)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3184)
+___
+/m/0kjrx	/m/0gyv0b4	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3184)
+___
+/m/0kjrx	/m/0gyv0b4	/m/0lsxr	/m/0lsxr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.3184)
+___
+/m/01x72k	/m/01x72k	/m/0479b	/m/0479b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3376)
+___
+/m/01x72k	/m/01x72k	/m/01qscs	/m/01qscs
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3376)
+___
+/m/01x72k	/m/01x72k	/m/0c6qh	/m/0c6qh
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-5.3376)
+___
+/m/0kjrx	/m/0gyv0b4	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-5.5300)
+___
+/m/01qr1_	/m/0d68qy	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5462)
+___
+/m/01qr1_	/m/0d68qy	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5462)
+___
+/m/01qr1_	/m/0d68qy	/m/0c4xc	/m/0c4xc
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5462)
+___
+/m/01qr1_	/m/0d68qy	/m/06nbt	/m/06nbt
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.5462)
+___
+/m/01z7s_	/m/08r4x3	/m/09nqf	/m/09nqf
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5601)
+___
+/m/03q1vd	/m/03q1vd	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-5.5919)
+___
+/m/01qr1_	/m/0vjr	/m/01z4y	/m/01z4y
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6309)
+___
+/m/01qr1_	/m/0vjr	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6309)
+___
+/m/01qr1_	/m/0vjr	/m/0gs6m	/m/0gs6m
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6309)
+___
+/m/01qr1_	/m/0vjr	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6309)
+___
+/m/01qr1_	/m/0vjr	/m/01t_vv	/m/01t_vv
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.6309)
+___
+/m/01pjr7	/m/011x_4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6565)
+___
+/m/01pjr7	/m/011x_4	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6565)
+___
+/m/01pjr7	/m/011x_4	/m/06cvj	/m/06cvj
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6565)
+___
+/m/01pjr7	/m/011x_4	/m/07s2s	/m/07s2s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6565)
+___
+/m/01pjr7	/m/011x_4	/m/03rzvv	/m/03rzvv
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6565)
+___
+/m/01pjr7	/m/011x_4	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.6565)
+___
+/m/0151w_	/m/0dsvzh	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7199)
+___
+/m/0151w_	/m/0dsvzh	/m/09blyk	/m/09blyk
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7199)
+___
+/m/0151w_	/m/0dsvzh	/m/028v3	/m/028v3
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7199)
+___
+/m/0151w_	/m/0dsvzh	/m/02n4kr	/m/02n4kr
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7199)
+___
+/m/0151w_	/m/0dsvzh	/m/060__y	/m/060__y
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7199)
+___
+/m/0151w_	/m/0dsvzh	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.7199)
+___
+/m/01z7s_	/m/08r4x3	/m/099tbz	/m/099tbz
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.7573)
+___
+/m/01z7s_	/m/08r4x3	/m/09sb52	/m/09sb52
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-5.7573)
+___
+/m/01y665	/m/01rf57	/m/01htzx	/m/01htzx
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/02vnz	/m/02vnz
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/06n90	/m/06n90
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/01y665	/m/01rf57	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/genre
+-1
+tensor(-5.9750)
+___
+/m/09_gdc	/m/09_gdc	/m/01z7s_	/m/01z7s_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/01x72k	/m/01x72k
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/037s5h	/m/037s5h
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/015pkc	/m/015pkc
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/01xllf	/m/01xllf
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/03q1vd	/m/03q1vd
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/01pm0_	/m/01pm0_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/03kxp7	/m/03kxp7
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/015p37	/m/015p37
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/0309lm	/m/0309lm
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/0l_dv	/m/0l_dv
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/01y665	/m/01y665
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/01pjr7	/m/01pjr7
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/028k57	/m/028k57
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/07cjqy	/m/07cjqy
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/01qr1_	/m/01qr1_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/04t7ts	/m/04t7ts
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/0mbhr	/m/0mbhr
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/0kjrx	/m/0kjrx
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/09_gdc	/m/09_gdc	/m/0151w_	/m/0151w_
+NO_OP	NO_OP	_/film/actor/film./film/performance/special_performance_type
+-1
+tensor(-5.9805)
+___
+/m/03q1vd	/m/03q1vd	/m/0xnvg	/m/0xnvg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/people/ethnicity/people
+-1
+tensor(-6.0958)
+___
+#####################
+/m/01pb34	/m/07j94
+Reward:0
+/m/0l5yl	/m/0l5yl	/m/04nw9	/m/04nw9
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3246)
+___
+/m/08kp57	/m/08kp57	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3260)
+___
+/m/05g7q	/m/05g7q	/m/01pcrw	/m/01pcrw
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3339)
+___
+/m/02d6n_	/m/02d6n_	/m/01npcy7	/m/01npcy7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3494)
+___
+/m/0fq117k	/m/0fq117k	/m/03bnv	/m/03bnv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.3506)
+___
+/m/03f4w4	/m/03f4w4	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3544)
+___
+/m/0lh0c	/m/0lh0c	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3573)
+___
+/m/0hwd8	/m/0hwd8	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.3851)
+___
+/m/012dr7	/m/012dr7	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.3944)
+___
+/m/0cwtm	/m/0cwtm	/m/01jw4r	/m/01jw4r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-4.4068)
+___
+/m/012j8z	/m/012j8z	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.4355)
+___
+/m/049gc	/m/049gc	/m/0h5k	/m/0h5k
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.5578)
+___
+/m/013ybx	/m/013ybx	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.5642)
+___
+/m/01w_10	/m/01w_10	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-4.6663)
+___
+/m/01qklj	/m/01qklj	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/nationality
+-1
+tensor(-4.8265)
+___
+/m/0cyhq	/m/0cyhq	/m/02_286	/m/02_286
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_death
+-1
+tensor(-4.9090)
+___
+/m/045hz5	/m/045hz5	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-4.9478)
+___
+/m/05vzql	/m/05vzql	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0210)
+___
+/m/05vzql	/m/05vzql	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0210)
+___
+/m/01yzhn	/m/01yzhn	/m/0dx_q	/m/0dx_q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0274)
+___
+/m/01yzhn	/m/01yzhn	/m/01j851	/m/01j851
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0274)
+___
+/m/040nwr	/m/040nwr	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0298)
+___
+/m/040nwr	/m/040nwr	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0298)
+___
+/m/0285c	/m/0285c	/m/01vng3b	/m/01vng3b
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0389)
+___
+/m/0285c	/m/0285c	/m/0484q	/m/0484q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0389)
+___
+/m/0hwqg	/m/0hwqg	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.0478)
+___
+/m/045hz5	/m/045hz5	/m/0flw86	/m/0flw86
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.0944)
+___
+/m/07cjqy	/m/07cjqy	/m/01s21dg	/m/01s21dg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0973)
+___
+/m/07cjqy	/m/07cjqy	/m/04fzk	/m/04fzk
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.0973)
+___
+/m/01d6jf	/m/01d6jf	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.1632)
+___
+/m/0ql36	/m/0ql36	/m/05148p4	/m/05148p4
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-5.1898)
+___
+/m/0hwqg	/m/0hwqg	/m/03_gx	/m/03_gx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.2074)
+___
+/m/061zc_	/m/061zc_	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.3837)
+___
+/m/061zc_	/m/061zc_	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.3837)
+___
+/m/0cyhq	/m/0cyhq	/m/01f38z	/m/01f38z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/deceased_person/place_of_burial
+-1
+tensor(-5.3980)
+___
+/m/0cqcgj	/m/0cqcgj	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4236)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4236)
+___
+/m/0cqcgj	/m/0cqcgj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4236)
+___
+/m/01n8_g	/m/01n8_g	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4243)
+___
+/m/01n8_g	/m/01n8_g	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4243)
+___
+/m/01n8_g	/m/01n8_g	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4243)
+___
+/m/04y0hj	/m/04y0hj	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4310)
+___
+/m/04y0hj	/m/04y0hj	/m/0d1pc	/m/0d1pc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4310)
+___
+/m/04y0hj	/m/04y0hj	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.4310)
+___
+/m/01vsgrn	/m/01vsgrn	/m/01vvydl	/m/01vvydl
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4953)
+___
+/m/01vsgrn	/m/01vsgrn	/m/0fby2t	/m/0fby2t
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4953)
+___
+/m/01vsgrn	/m/01vsgrn	/m/03xl77	/m/03xl77
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.4953)
+___
+/m/061zc_	/m/061zc_	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.5369)
+___
+/m/043zg	/m/0315w4	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5401)
+___
+/m/043zg	/m/0315w4	/m/03npn	/m/03npn
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5401)
+___
+/m/043zg	/m/0315w4	/m/01hmnh	/m/01hmnh
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.5401)
+___
+/m/01d6jf	/m/01d6jf	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.5637)
+___
+/m/0ql36	/m/0ql36	/m/01vdm0	/m/01vdm0
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5819)
+___
+/m/0ql36	/m/0ql36	/m/0l14qv	/m/0l14qv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-5.5819)
+___
+/m/01qklj	/m/01qklj	/m/0b90_r	/m/0b90_r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-5.6113)
+___
+/m/04v7k2	/m/04v7k2	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6364)
+___
+/m/04v7k2	/m/04v7k2	/m/02t8yb	/m/02t8yb
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6364)
+___
+/m/02tq2r	/m/02tq2r	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6966)
+___
+/m/02tq2r	/m/02tq2r	/m/01tkqy	/m/01tkqy
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6966)
+___
+/m/02tq2r	/m/02tq2r	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.6966)
+___
+/m/0d0l91	/m/0d0l91	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/0d0l91	/m/0d0l91	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/0d0l91	/m/0d0l91	/m/0g7nc	/m/0g7nc
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/0d0l91	/m/0d0l91	/m/012t_z	/m/012t_z
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.7122)
+___
+/m/09889g	/m/09889g	/m/0h1mt	/m/0h1mt
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7298)
+___
+/m/09889g	/m/09889g	/m/0mdyn	/m/0mdyn
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7298)
+___
+/m/09889g	/m/09889g	/m/03j24kf	/m/03j24kf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7298)
+___
+/m/09889g	/m/09889g	/m/01wd9lv	/m/01wd9lv
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.7298)
+___
+/m/01nm3s	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.7550)
+___
+/m/04v7k2	/m/04v7k2	/m/0c8wxp	/m/0c8wxp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7924)
+___
+/m/04v7k2	/m/04v7k2	/m/01lp8	/m/01lp8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7924)
+___
+/m/02tq2r	/m/02tq2r	/m/03j6c	/m/03j6c
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/religion
+-1
+tensor(-5.7946)
+___
+/m/0cj8x	/m/03hj3b3	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8672)
+___
+/m/01vsn38	/m/09146g	/m/03k9fj	/m/03k9fj
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8765)
+___
+/m/01vsn38	/m/09146g	/m/0hcr	/m/0hcr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8765)
+___
+/m/01vsn38	/m/09146g	/m/05p553	/m/05p553
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8765)
+___
+/m/01vsn38	/m/09146g	/m/02kdv5l	/m/02kdv5l
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8765)
+___
+/m/01s0l0	/m/030z4z	/m/04t36	/m/04t36
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8777)
+___
+/m/01s0l0	/m/030z4z	/m/02l7c8	/m/02l7c8
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8777)
+___
+/m/01s0l0	/m/030z4z	/m/01chg	/m/01chg
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8777)
+___
+/m/01swck	/m/07nxvj	/m/0bkbm	/m/0bkbm
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8942)
+___
+/m/01swck	/m/07nxvj	/m/01jfsb	/m/01jfsb
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8942)
+___
+/m/01swck	/m/07nxvj	/m/03mqtr	/m/03mqtr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8942)
+___
+/m/01swck	/m/07nxvj	/m/04xvlr	/m/04xvlr
+_/film/actor/film./film/performance/special_performance_type	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/genre
+-1
+tensor(-5.8942)
+___
+/m/03wpmd	/m/04q00lw	/m/07s9rl0	/m/07s9rl0
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.9238)
+___
+/m/03wpmd	/m/04q00lw	/m/04228s	/m/04228s
+_/film/actor/film./film/performance/special_performance_type	/film/director/film	/film/film/genre
+-1
+tensor(-5.9238)
+___
+/m/06101p	/m/06101p	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/02hrh1q	/m/02hrh1q
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/06101p	/m/06101p	/m/015cjr	/m/015cjr
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9341)
+___
+/m/012vf6	/m/012vf6	/m/012dr7	/m/012dr7
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9414)
+___
+/m/012vf6	/m/012vf6	/m/044qx	/m/044qx
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9414)
+___
+/m/012vf6	/m/012vf6	/m/018417	/m/018417
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9414)
+___
+/m/012vf6	/m/012vf6	/m/0cgbf	/m/0cgbf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9414)
+___
+/m/012vf6	/m/012vf6	/m/0bkmf	/m/0bkmf
+_/film/actor/film./film/performance/special_performance_type	NO_OP	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant
+-1
+tensor(-5.9414)
+___
+/m/03mv0b	/m/03mv0b	/m/0np9r	/m/0np9r
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9445)
+___
+/m/03mv0b	/m/03mv0b	/m/0dxtg	/m/0dxtg
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9445)
+___
+/m/03mv0b	/m/03mv0b	/m/01d_h8	/m/01d_h8
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9445)
+___
+/m/03mv0b	/m/03mv0b	/m/02jknp	/m/02jknp
+_/film/actor/film./film/performance/special_performance_type	NO_OP	/people/person/profession
+-1
+tensor(-5.9445)
+___
+#####################

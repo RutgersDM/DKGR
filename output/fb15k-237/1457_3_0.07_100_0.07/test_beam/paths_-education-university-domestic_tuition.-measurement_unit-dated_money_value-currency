@@ -1,0 +1,2515 @@
+/m/04ycjk	/m/09nqf
+Reward:0
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-0.4295)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-2.0489)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.5376)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.5376)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-3.1583)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-4.8950)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-5.1377)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-5.1377)
+___
+/m/04ycjk	/m/04ycjk	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-8.3032)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-9.0113)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-10.6902)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-11.0705)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-11.0705)
+___
+/m/04ycjk	/m/04ycjk	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-11.2599)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-11.7355)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-12.7339)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-13.5074)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-13.6120)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-13.6649)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-13.6649)
+___
+/m/04ycjk	/m/04ycjk	/m/01rs41	/m/01rs41
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-14.2380)
+___
+/m/04ycjk	/m/04ycjk	/m/05pcjw	/m/05pcjw
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-14.2380)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-14.8012)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-15.1065)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-15.2654)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-15.3127)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution_campus/educational_institution
+-1
+tensor(-15.8760)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-16.0187)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-16.0187)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-16.5584)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-16.7302)
+___
+/m/04ycjk	/m/04ycjk	/m/01rs41	/m/01rs41
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/school_type
+-1
+tensor(-17.2354)
+___
+/m/04ycjk	/m/04ycjk	/m/05pcjw	/m/05pcjw
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/school_type
+-1
+tensor(-17.2354)
+___
+/m/04ycjk	/m/04ycjk	/m/05k17c	/m/05k17c
+NO_OP	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-17.2705)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	NO_OP
+-1
+tensor(-17.2808)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-17.5225)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-17.5225)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-17.6789)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-17.6789)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution/campuses
+-1
+tensor(-18.2460)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-19.8713)
+___
+/m/04ycjk	/m/04ycjk	/m/05k17c	/m/05k17c
+NO_OP	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-20.0620)
+___
+/m/04ycjk	/m/04ycjk	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-20.7017)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	NO_OP	NO_OP
+-1
+tensor(-20.7377)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-21.3115)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-21.4568)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-21.6756)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-21.7149)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-22.0107)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-22.1513)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-22.1513)
+___
+/m/04ycjk	/m/04ycjk	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-22.4687)
+___
+/m/04ycjk	/m/04ycjk	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-22.9072)
+___
+/m/04ycjk	/m/04ycjk	/m/01my4f	/m/01my4f
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-23.0887)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-23.0998)
+___
+/m/04ycjk	/m/04ycjk	/m/01rs41	/m/01rs41
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-23.2877)
+___
+/m/04ycjk	/m/04ycjk	/m/05pcjw	/m/05pcjw
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-23.2877)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-23.3411)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-23.3554)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-23.4718)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-23.5206)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.5539)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.5539)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-23.8185)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-24.0732)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-24.2008)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.3825)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.3825)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	NO_OP	/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.7009)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution_campus/educational_institution	NO_OP	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-24.7132)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.8200)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.9086)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+_/education/educational_institution/campuses	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.9954)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+NO_OP	/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-25.0307)
+___
+/m/04ycjk	/m/04ycjk	/m/09c7w0	/m/09c7w0
+_/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-25.4290)
+___
+/m/04ycjk	/m/04ycjk	/m/05k7sb	/m/05k7sb
+_/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-25.4290)
+___
+/m/04ycjk	/m/04ycjk	/m/04ycjk	/m/04ycjk
+/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-25.4792)
+___
+/m/05k17c	/m/05k17c	/m/03b8c4	/m/03b8c4
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/01n951	/m/01n951
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/02583l	/m/02583l
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/0ch280	/m/0ch280
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/04d5v9	/m/04d5v9
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/03kmyy	/m/03kmyy
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/04_j5s	/m/04_j5s
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/031n5b	/m/031n5b
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/0b5hj5	/m/0b5hj5
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/02bb47	/m/02bb47
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/01q2sk	/m/01q2sk
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/05njyy	/m/05njyy
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/01hr11	/m/01hr11
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/01k7xz	/m/01k7xz
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/026ssfj	/m/026ssfj
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/0yls9	/m/0yls9
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/05qgd9	/m/05qgd9
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/08htt0	/m/08htt0
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/02rff2	/m/02rff2
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/07lx1s	/m/07lx1s
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/02bf58	/m/02bf58
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/020923	/m/020923
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+/m/05k17c	/m/05k17c	/m/02jmst	/m/02jmst
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.6624)
+___
+#####################
+/m/0m7yh	/m/02l6h
+Reward:0
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-0.3382)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-2.0638)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.3270)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-3.0775)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-4.9095)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-4.9202)
+___
+/m/0m7yh	/m/0m7yh	/m/03bwzr4	/m/03bwzr4
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-7.6252)
+___
+/m/0m7yh	/m/0m7yh	/m/02_xgp2	/m/02_xgp2
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-7.6252)
+___
+/m/0m7yh	/m/0m7yh	/m/07xl34	/m/07xl34
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-8.5755)
+___
+/m/0m7yh	/m/0m7yh	/m/0hm4q	/m/0hm4q
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-8.5755)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-8.9227)
+___
+/m/0m7yh	/m/0m7yh	/m/03bwzr4	/m/03bwzr4
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-10.6054)
+___
+/m/0m7yh	/m/0m7yh	/m/02_xgp2	/m/02_xgp2
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-10.6054)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-10.7150)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-10.8268)
+___
+/m/0m7yh	/m/0m7yh	/m/07xl34	/m/07xl34
+_/education/educational_institution_campus/educational_institution	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-11.4571)
+___
+/m/0m7yh	/m/0m7yh	/m/0hm4q	/m/0hm4q
+_/education/educational_institution_campus/educational_institution	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-11.4571)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-11.6052)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-12.4238)
+___
+/m/0m7yh	/m/0150n	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-12.5133)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-13.1248)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-13.3755)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-13.4560)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-13.4921)
+___
+/m/0m7yh	/m/0m7yh	/m/05jxkf	/m/05jxkf
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-14.5761)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-14.7775)
+___
+/m/0m7yh	/m/0150n	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-14.9611)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-15.1550)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-15.1913)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution_campus/educational_institution	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-15.2382)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-15.4754)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-15.8003)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution_campus/educational_institution
+-1
+tensor(-16.2038)
+___
+/m/0m7yh	/m/0m7yh	/m/03bwzr4	/m/03bwzr4
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-16.5909)
+___
+/m/0m7yh	/m/0m7yh	/m/02_xgp2	/m/02_xgp2
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-16.5909)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-16.6030)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-16.7312)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-17.3399)
+___
+/m/0m7yh	/m/0m7yh	/m/07xl34	/m/07xl34
+NO_OP	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-17.4405)
+___
+/m/0m7yh	/m/0m7yh	/m/0hm4q	/m/0hm4q
+NO_OP	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-17.4405)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-17.4728)
+___
+/m/0m7yh	/m/0m7yh	/m/05jxkf	/m/05jxkf
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/school_type
+-1
+tensor(-17.5414)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	NO_OP
+-1
+tensor(-18.1265)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution/campuses
+-1
+tensor(-18.5591)
+___
+/m/0m7yh	/m/0150n	/m/0345h	/m/0345h
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-19.1285)
+___
+/m/0m7yh	/m/0150n	/m/09ksp	/m/09ksp
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-19.1285)
+___
+/m/0m7yh	/m/0m7yh	/m/02_xgp2	/m/02_xgp2
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-19.4756)
+___
+/m/0m7yh	/m/0m7yh	/m/03bwzr4	/m/03bwzr4
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-19.4756)
+___
+/m/0m7yh	/m/0m7yh	/m/03bwzr4	/m/03bwzr4
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-19.7330)
+___
+/m/0m7yh	/m/0m7yh	/m/02_xgp2	/m/02_xgp2
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-19.7330)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-19.7802)
+___
+/m/0m7yh	/m/0m7yh	/m/07xl34	/m/07xl34
+NO_OP	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-20.2401)
+___
+/m/0m7yh	/m/0m7yh	/m/0hm4q	/m/0hm4q
+NO_OP	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-20.2401)
+___
+/m/0m7yh	/m/0m7yh	/m/0hm4q	/m/0hm4q
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-20.9116)
+___
+/m/0m7yh	/m/0m7yh	/m/07xl34	/m/07xl34
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-20.9116)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+NO_OP	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-21.0122)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-21.3809)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-21.5129)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution_campus/educational_institution	NO_OP	NO_OP
+-1
+tensor(-21.5596)
+___
+/m/0m7yh	/m/0m7yh	/m/03bwzr4	/m/03bwzr4
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-21.6225)
+___
+/m/0m7yh	/m/0m7yh	/m/02_xgp2	/m/02_xgp2
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-21.6225)
+___
+/m/0m7yh	/m/0150n	/m/0m7yh	/m/0m7yh
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-21.6999)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-21.7674)
+___
+/m/0m7yh	/m/0m7yh	/m/09ksp	/m/09ksp
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-21.9463)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-22.0361)
+___
+/m/0m7yh	/m/0m7yh	/m/03bwzr4	/m/03bwzr4
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-22.1389)
+___
+/m/0m7yh	/m/0m7yh	/m/02_xgp2	/m/02_xgp2
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-22.1389)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-22.4391)
+___
+/m/0m7yh	/m/0m7yh	/m/07xl34	/m/07xl34
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-22.7405)
+___
+/m/0m7yh	/m/0m7yh	/m/0hm4q	/m/0hm4q
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-22.7405)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-22.9117)
+___
+/m/0m7yh	/m/0m7yh	/m/07xl34	/m/07xl34
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-23.1752)
+___
+/m/0m7yh	/m/0m7yh	/m/0hm4q	/m/0hm4q
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-23.1752)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-23.2280)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.5566)
+___
+/m/0m7yh	/m/0m7yh	/m/05jxkf	/m/05jxkf
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-23.5772)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-23.7241)
+___
+/m/0m7yh	/m/0m7yh	/m/048cl	/m/048cl
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/student
+-1
+tensor(-23.7871)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+NO_OP	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-23.7904)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-23.9589)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-24.0938)
+___
+/m/0m7yh	/m/0150n	/m/0m7yh	/m/0m7yh
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-24.1185)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-24.1555)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-24.2534)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-24.3937)
+___
+/m/0m7yh	/m/0m7yh	/m/0150n	/m/0150n
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.7118)
+___
+/m/0m7yh	/m/0m7yh	/m/09ksp	/m/09ksp
+_/education/educational_institution_campus/educational_institution	NO_OP	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-24.9327)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+NO_OP	NO_OP	/education/educational_institution_campus/educational_institution
+-1
+tensor(-25.0407)
+___
+/m/0m7yh	/m/0m7yh	/m/0m7yh	/m/0m7yh
+_/education/educational_institution/campuses	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-25.0546)
+___
+/m/0hm4q	/m/0hm4q	/m/0gl6x	/m/0gl6x
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/02pbzv	/m/02pbzv
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/0342z_	/m/0342z_
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/02185j	/m/02185j
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/02bd_f	/m/02bd_f
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/09hgk	/m/09hgk
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/01g6l8	/m/01g6l8
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/07tjf	/m/07tjf
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/02bbyw	/m/02bbyw
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/025ttz4	/m/025ttz4
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+/m/0hm4q	/m/0hm4q	/m/01n1pp	/m/01n1pp
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-25.0726)
+___
+#####################
+/m/06b7s9	/m/09nqf
+Reward:0
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-0.5433)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-2.3358)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.4429)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.4429)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-2.4429)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-3.3022)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-5.0803)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-5.0803)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-5.0803)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-5.1819)
+___
+/m/06b7s9	/m/06b7s9	/m/013zdg	/m/013zdg
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-8.0454)
+___
+/m/06b7s9	/m/06b7s9	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-8.9152)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-9.1335)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-10.9518)
+___
+/m/06b7s9	/m/06b7s9	/m/013zdg	/m/013zdg
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-11.0002)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-11.0010)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-11.0010)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-11.0010)
+___
+/m/06b7s9	/m/06b7s9	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-11.7927)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-11.8315)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-12.6275)
+___
+/m/06b7s9	/m/030qb3t	/m/0kpys	/m/0kpys
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/hud_county_place/county
+-1
+tensor(-13.0236)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-13.5423)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-13.6372)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-13.6372)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-13.6372)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-13.6900)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-14.1097)
+___
+/m/06b7s9	/m/06b7s9	/m/05jxkf	/m/05jxkf
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-14.9774)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution_campus/educational_institution	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-15.4592)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-15.5870)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-15.8910)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-16.1632)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-16.1901)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-16.4174)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-16.4174)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-16.4174)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution_campus/educational_institution
+-1
+tensor(-16.5910)
+___
+/m/06b7s9	/m/06b7s9	/m/013zdg	/m/013zdg
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-16.7849)
+___
+/m/06b7s9	/m/030qb3t	/m/05cwl_	/m/05cwl_
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-17.1973)
+___
+/m/06b7s9	/m/030qb3t	/m/0281s1	/m/0281s1
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-17.1973)
+___
+/m/06b7s9	/m/030qb3t	/m/0f2wj	/m/0f2wj
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-17.1973)
+___
+/m/06b7s9	/m/030qb3t	/m/027l4q	/m/027l4q
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-17.1973)
+___
+/m/06b7s9	/m/06b7s9	/m/05k17c	/m/05k17c
+NO_OP	_/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-17.6115)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-17.6698)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-17.8574)
+___
+/m/06b7s9	/m/06b7s9	/m/05jxkf	/m/05jxkf
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/school_type
+-1
+tensor(-17.9247)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-18.2647)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-18.2647)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-18.2647)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-18.4483)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-18.4483)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-18.4483)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	NO_OP
+-1
+tensor(-18.8185)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution/campuses
+-1
+tensor(-18.9454)
+___
+/m/06b7s9	/m/06b7s9	/m/013zdg	/m/013zdg
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-19.4030)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-19.9688)
+___
+/m/06b7s9	/m/06b7s9	/m/05k17c	/m/05k17c
+NO_OP	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-20.2326)
+___
+/m/06b7s9	/m/06b7s9	/m/013zdg	/m/013zdg
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-21.0696)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+NO_OP	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-21.2094)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-21.5449)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-21.5941)
+___
+/m/06b7s9	/m/030qb3t	/m/0kpys	/m/0kpys
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/location/hud_county_place/county
+-1
+tensor(-21.6497)
+___
+/m/06b7s9	/m/030qb3t	/m/05lf_	/m/05lf_
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-21.6898)
+___
+/m/06b7s9	/m/030qb3t	/m/06vkl	/m/06vkl
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-21.6898)
+___
+/m/06b7s9	/m/030qb3t	/m/040fb	/m/040fb
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month
+-1
+tensor(-21.6898)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-22.0982)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-22.0982)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+_/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-22.0982)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution_campus/educational_institution	NO_OP	NO_OP
+-1
+tensor(-22.1558)
+___
+/m/06b7s9	/m/06b7s9	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-22.1679)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-22.2485)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-22.2843)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-22.5791)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-22.9123)
+___
+/m/06b7s9	/m/06b7s9	/m/013zdg	/m/013zdg
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-23.1744)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-23.2039)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.6235)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.6235)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+/education/educational_institution/campuses	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.6235)
+___
+/m/06b7s9	/m/06b7s9	/m/013zdg	/m/013zdg
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-23.6409)
+___
+/m/06b7s9	/m/06b7s9	/m/05jxkf	/m/05jxkf
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution/school_type
+-1
+tensor(-23.7228)
+___
+/m/06b7s9	/m/030qb3t	/m/0kpys	/m/0kpys
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-23.7839)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses
+-1
+tensor(-23.9206)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+NO_OP	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-23.9890)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.0951)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-24.2522)
+___
+/m/06b7s9	/m/06b7s9	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-24.2579)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-24.3770)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-24.3975)
+___
+/m/06b7s9	/m/06b7s9	/m/05k17c	/m/05k17c
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/campuses	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-24.5956)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_institution/campuses
+-1
+tensor(-24.5985)
+___
+/m/06b7s9	/m/06b7s9	/m/06b7s9	/m/06b7s9
+_/education/educational_institution/campuses	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.6714)
+___
+/m/06b7s9	/m/030qb3t	/m/0ywrc	/m/0ywrc
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-24.7328)
+___
+/m/06b7s9	/m/030qb3t	/m/024lt6	/m/024lt6
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-24.7328)
+___
+/m/06b7s9	/m/030qb3t	/m/05pdh86	/m/05pdh86
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-24.7328)
+___
+/m/06b7s9	/m/030qb3t	/m/09q5w2	/m/09q5w2
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-24.7328)
+___
+/m/06b7s9	/m/06b7s9	/m/09c7w0	/m/09c7w0
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.8564)
+___
+/m/06b7s9	/m/06b7s9	/m/030qb3t	/m/030qb3t
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.8564)
+___
+/m/06b7s9	/m/06b7s9	/m/01n7q	/m/01n7q
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.8564)
+___
+#####################
+/m/01mpwj	/m/09nqf
+Reward:0
+/m/01mpwj	/m/01mpwj	/m/01mpwj	/m/01mpwj
+NO_OP	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-0.4674)
+___
+/m/01mpwj	/m/01mpwj	/m/05k7sb	/m/05k7sb
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-2.3771)
+___
+/m/01mpwj	/m/01mpwj	/m/059g4	/m/059g4
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-2.3771)
+___
+/m/01mpwj	/m/01mpwj	/m/01qh7	/m/01qh7
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-2.3771)
+___
+/m/01mpwj	/m/01mpwj	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-2.3771)
+___
+/m/01mpwj	/m/01mpwj	/m/0bkj86	/m/0bkj86
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-7.8913)
+___
+/m/01mpwj	/m/01mpwj	/m/02_xgp2	/m/02_xgp2
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-7.8913)
+___
+/m/01mpwj	/m/01mpwj	/m/014mlp	/m/014mlp
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-7.8913)
+___
+/m/01mpwj	/m/01mpwj	/m/019v9k	/m/019v9k
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-7.8913)
+___
+/m/01mpwj	/m/01mpwj	/m/02h4rq6	/m/02h4rq6
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-7.8913)
+___
+/m/01mpwj	/m/01mpwj	/m/05k17c	/m/05k17c
+NO_OP	NO_OP	_/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-8.7825)
+___
+/m/01mpwj	/m/01mpwj	/m/01mpwj	/m/01mpwj
+_/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-11.3081)
+___
+/m/01mpwj	/m/01mpwj	/m/01mpwj	/m/01mpwj
+/education/educational_institution/campuses	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-12.8703)
+___
+/m/01mpwj	/m/01mpwj	/m/01mpwj	/m/01mpwj
+NO_OP	_/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-12.9642)
+___
+/m/01mpwj	/m/01mpwj	/m/01mpwj	/m/01mpwj
+NO_OP	/education/educational_institution/campuses	/education/educational_institution/campuses
+-1
+tensor(-13.0675)
+___
+/m/01mpwj	/m/01mpwj	/m/01qh7	/m/01qh7
+_/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-13.3710)
+___
+/m/01mpwj	/m/01mpwj	/m/05k7sb	/m/05k7sb
+_/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-13.3710)
+___
+/m/01mpwj	/m/01mpwj	/m/059g4	/m/059g4
+_/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-13.3710)
+___
+/m/01mpwj	/m/01mpwj	/m/09c7w0	/m/09c7w0
+_/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-13.3710)
+___
+/m/01mpwj	/m/01mpwj	/m/01rs41	/m/01rs41
+NO_OP	NO_OP	/education/educational_institution/school_type
+-1
+tensor(-14.8371)
+___
+/m/01mpwj	/m/01mpwj	/m/01qh7	/m/01qh7
+/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-14.9116)
+___
+/m/01mpwj	/m/01mpwj	/m/059g4	/m/059g4
+/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-14.9116)
+___
+/m/01mpwj	/m/01mpwj	/m/05k7sb	/m/05k7sb
+/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-14.9116)
+___
+/m/01mpwj	/m/01mpwj	/m/09c7w0	/m/09c7w0
+/education/educational_institution/campuses	NO_OP	_/location/location/contains
+-1
+tensor(-14.9116)
+___
+/m/01mpwj	/m/01mpwj	/m/059g4	/m/059g4
+NO_OP	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2652)
+___
+/m/01mpwj	/m/01mpwj	/m/09c7w0	/m/09c7w0
+NO_OP	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2652)
+___
+/m/01mpwj	/m/01mpwj	/m/05k7sb	/m/05k7sb
+NO_OP	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2652)
+___
+/m/01mpwj	/m/01mpwj	/m/01qh7	/m/01qh7
+NO_OP	/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2652)
+___
+/m/01mpwj	/m/01mpwj	/m/05k7sb	/m/05k7sb
+NO_OP	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2911)
+___
+/m/01mpwj	/m/01mpwj	/m/059g4	/m/059g4
+NO_OP	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2911)
+___
+/m/01mpwj	/m/01mpwj	/m/01qh7	/m/01qh7
+NO_OP	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2911)
+___
+/m/01mpwj	/m/01mpwj	/m/09c7w0	/m/09c7w0
+NO_OP	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-15.2911)
+___
+/m/01mpwj	/m/01mpwj	/m/01mpwj	/m/01mpwj
+NO_OP	NO_OP	_/education/educational_institution/campuses
+-1
+tensor(-15.8027)
+___
+/m/05k17c	/m/05k17c	/m/02583l	/m/02583l
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02nvg1	/m/02nvg1
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01wqg8	/m/01wqg8
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02bf58	/m/02bf58
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/063576	/m/063576
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01hr11	/m/01hr11
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/095kp	/m/095kp
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02237m	/m/02237m
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/017y26	/m/017y26
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01q2sk	/m/01q2sk
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/0ch280	/m/0ch280
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/07lx1s	/m/07lx1s
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/043q2z	/m/043q2z
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02jmst	/m/02jmst
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/04ycjk	/m/04ycjk
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/04d5v9	/m/04d5v9
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/08htt0	/m/08htt0
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/020923	/m/020923
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/05qgd9	/m/05qgd9
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/09krm_	/m/09krm_
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/04_j5s	/m/04_j5s
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02vkzcx	/m/02vkzcx
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/03kmyy	/m/03kmyy
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01wrwf	/m/01wrwf
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02p8454	/m/02p8454
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/021s9n	/m/021s9n
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01mpwj	/m/01mpwj
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/031n5b	/m/031n5b
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02rff2	/m/02rff2
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/05njyy	/m/05njyy
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/03b8c4	/m/03b8c4
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/04ld32	/m/04ld32
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/08qs09	/m/08qs09
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/0yls9	/m/0yls9
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/06b7s9	/m/06b7s9
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/026ssfj	/m/026ssfj
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01s7j5	/m/01s7j5
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01n951	/m/01n951
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01k7xz	/m/01k7xz
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/02bb47	/m/02bb47
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/01ymvk	/m/01ymvk
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/05k17c	/m/0b5hj5	/m/0b5hj5
+_/organization/role/leaders./organization/leadership/organization	NO_OP	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-16.7415)
+___
+/m/05k17c	/m/01wqg8	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8080)
+___
+/m/05k17c	/m/017y26	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8080)
+___
+/m/05k17c	/m/0yls9	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-17.8080)
+___
+/m/05k17c	/m/01hr11	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8080)
+___
+/m/05k17c	/m/02583l	/m/0ptk_	/m/0ptk_
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-17.8080)
+___
+/m/05k17c	/m/02237m	/m/01nv4h	/m/01nv4h
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/international_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-17.8080)
+___
+/m/05k17c	/m/063576	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/local_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8081)
+___
+/m/05k17c	/m/043q2z	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8081)
+___
+/m/05k17c	/m/07lx1s	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8081)
+___
+/m/05k17c	/m/02nvg1	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8081)
+___
+/m/05k17c	/m/04d5v9	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8081)
+___
+/m/05k17c	/m/0b5hj5	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8081)
+___
+/m/05k17c	/m/095kp	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8081)
+___
+/m/05k17c	/m/01s7j5	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8082)
+___
+/m/05k17c	/m/01wrwf	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8082)
+___
+/m/05k17c	/m/02rff2	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8082)
+___
+/m/05k17c	/m/01q2sk	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8083)
+___
+/m/05k17c	/m/026ssfj	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8084)
+___
+/m/05k17c	/m/03b8c4	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8084)
+___
+/m/05k17c	/m/09krm_	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8084)
+___
+/m/05k17c	/m/08htt0	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8084)
+___
+/m/05k17c	/m/05qgd9	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8085)
+___
+/m/05k17c	/m/01ymvk	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8086)
+___
+/m/05k17c	/m/01n951	/m/09nqf	/m/09nqf
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+1
+tensor(-17.8097)
+___
+/m/05k17c	/m/031n5b	/m/031n5b	/m/031n5b
+_/organization/role/leaders./organization/leadership/organization	/organization/role/leaders./organization/leadership/organization	/education/educational_institution/campuses
+-1
+tensor(-17.8108)
+___
+#####################
+/m/027xq5	/m/01nv4h
+Reward:1
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-0.7897)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-1.4177)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-1.4177)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-3.7253)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-3.9857)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+_/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-3.9857)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-9.6492)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-9.7941)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+NO_OP	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-9.7941)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-11.2267)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-11.2668)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-12.4268)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-12.4268)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-12.5394)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-13.7269)
+___
+/m/027xq5	/m/0hyxv	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-13.7631)
+___
+/m/027xq5	/m/0hyxv	/m/09vzz	/m/09vzz
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-13.7631)
+___
+/m/027xq5	/m/0hyxv	/m/01gpkz	/m/01gpkz
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-13.7631)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+_/education/educational_institution_campus/educational_institution	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-14.1243)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution_campus/educational_institution
+-1
+tensor(-14.6888)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-15.0736)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-15.0736)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	NO_OP
+-1
+tensor(-15.5949)
+___
+/m/027xq5	/m/0hyxv	/m/053tpp	/m/053tpp
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-16.2237)
+___
+/m/027xq5	/m/0hyxv	/m/09vzz	/m/09vzz
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-16.2237)
+___
+/m/027xq5	/m/0hyxv	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-16.2237)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	NO_OP	NO_OP
+-1
+tensor(-19.5200)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+NO_OP	_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-19.9535)
+___
+/m/027xq5	/m/0hyxv	/m/06q1r	/m/06q1r
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-20.4147)
+___
+/m/027xq5	/m/0hyxv	/m/07ssc	/m/07ssc
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-20.4147)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-20.9572)
+___
+/m/027xq5	/m/0hyxv	/m/01gpkz	/m/01gpkz
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-22.6565)
+___
+/m/027xq5	/m/0hyxv	/m/027xq5	/m/027xq5
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-22.6565)
+___
+/m/027xq5	/m/0hyxv	/m/09vzz	/m/09vzz
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains
+-1
+tensor(-22.6565)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-22.8051)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+NO_OP	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-22.8256)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.6002)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+NO_OP	/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-23.6002)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-23.6203)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	NO_OP	/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.0205)
+___
+/m/027xq5	/m/027xq5	/m/02vxn	/m/02vxn
+_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-24.2429)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-24.2970)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-24.5677)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.7289)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution	_/location/location/contains
+-1
+tensor(-24.7289)
+___
+/m/027xq5	/m/0hyxv	/m/027xq5	/m/027xq5
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-25.2339)
+___
+/m/027xq5	/m/0hyxv	/m/09vzz	/m/09vzz
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-25.2339)
+___
+/m/027xq5	/m/0hyxv	/m/053tpp	/m/053tpp
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-25.2339)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	_/education/educational_institution_campus/educational_institution	NO_OP
+-1
+tensor(-26.3336)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+_/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution	NO_OP
+-1
+tensor(-27.0619)
+___
+/m/027xq5	/m/0hyxv	/m/0hyxv	/m/0hyxv
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	NO_OP
+-1
+tensor(-27.4444)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+/education/educational_institution_campus/educational_institution	NO_OP	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-27.5118)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-27.6592)
+___
+/m/027xq5	/m/027xq5	/m/06q1r	/m/06q1r
+/education/educational_institution_campus/educational_institution	NO_OP	_/location/location/contains
+-1
+tensor(-27.6592)
+___
+/m/027xq5	/m/027xq5	/m/02vxn	/m/02vxn
+_/education/educational_institution_campus/educational_institution	NO_OP	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-27.7423)
+___
+/m/027xq5	/m/0hyxv	/m/06q1r	/m/06q1r
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	/location/administrative_division/first_level_division_of
+-1
+tensor(-28.2619)
+___
+/m/027xq5	/m/0hyxv	/m/07ssc	/m/07ssc
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-28.9422)
+___
+/m/027xq5	/m/0hyxv	/m/06q1r	/m/06q1r
+NO_OP	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-28.9422)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-29.6663)
+___
+/m/027xq5	/m/0hyxv	/m/01gpkz	/m/01gpkz
+_/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/place_founded
+-1
+tensor(-30.6208)
+___
+/m/0hyxv	/m/0hyxv	/m/09vzz	/m/09vzz
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	/location/location/contains
+-1
+tensor(-32.0048)
+___
+/m/0hyxv	/m/0hyxv	/m/01gpkz	/m/01gpkz
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	/location/location/contains
+-1
+tensor(-32.0048)
+___
+/m/0hyxv	/m/0hyxv	/m/027xq5	/m/027xq5
+/organization/organization/headquarters./location/mailing_address/citytown	NO_OP	/location/location/contains
+-1
+tensor(-32.0048)
+___
+/m/0hyxv	/m/09vzz	/m/01nv4h	/m/01nv4h
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-33.0479)
+___
+/m/0hyxv	/m/01gpkz	/m/01nv4h	/m/01nv4h
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-33.0479)
+___
+/m/0hyxv	/m/027xq5	/m/027xq5	/m/027xq5
+/organization/organization/headquarters./location/mailing_address/citytown	/location/location/contains	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-33.1727)
+___
+/m/027xq5	/m/027xq5	/m/0hyxv	/m/0hyxv
+NO_OP	/education/educational_institution_campus/educational_institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-33.3396)
+___
+/m/027xq5	/m/027xq5	/m/027xq5	/m/027xq5
+NO_OP	/education/educational_institution_campus/educational_institution	/education/educational_institution_campus/educational_institution
+-1
+tensor(-33.5807)
+___
+/m/0hyxv	/m/09vzz	/m/01nv4h	/m/01nv4h
+/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown	/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+1
+tensor(-33.6132)
+___
+/m/0hyxv	/m/027xq5	/m/027xq5	/m/027xq5
+/organization/organization/headquarters./location/mailing_address/citytown	_/organization/organization/headquarters./location/mailing_address/citytown	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-33.7262)
+___
+/m/027xq5	/m/02vxn	/m/09v478h	/m/09v478h
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/09v8db5	/m/09v8db5
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0j298t8	/m/0j298t8
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0fq9zdv	/m/0fq9zdv
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/054ky1	/m/054ky1
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0gq6s3	/m/0gq6s3
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0fm3b5	/m/0fm3b5
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/07kfzsg	/m/07kfzsg
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0fq9zdn	/m/0fq9zdn
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0b6k___	/m/0b6k___
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/09v4bym	/m/09v4bym
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/02x0gk1	/m/02x0gk1
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/02wypbh	/m/02wypbh
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/02y_j8g	/m/02y_j8g
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/09v51c2	/m/09v51c2
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/07h0cl	/m/07h0cl
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/018wng	/m/018wng
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/02qt02v	/m/02qt02v
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0fms83	/m/0fms83
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/09v92_x	/m/09v92_x
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/054knh	/m/054knh
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0b6jkkg	/m/0b6jkkg
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0dgr5xp	/m/0dgr5xp
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0468g4r	/m/0468g4r
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0274v0r	/m/0274v0r
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/02wwsh8	/m/02wwsh8
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/09v1lrz	/m/09v1lrz
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/05p6ppv	/m/05p6ppv
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/0fq9zcx	/m/0fq9zcx
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+/m/027xq5	/m/02vxn	/m/02wkmx	/m/02wkmx
+_/education/educational_institution_campus/educational_institution	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/award/award_category/disciplines_or_subjects
+-1
+tensor(-33.8925)
+___
+#####################

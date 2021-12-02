@@ -1,0 +1,2012 @@
+/m/0vmt	/m/09nqf
+Reward:1
+/m/0d35y	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-0.0400)
+___
+/m/0d35y	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.2597)
+___
+/m/0d35y	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-8.8405)
+___
+/m/01gkgk	/m/0f8l9c	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-10.5188)
+___
+/m/01gkgk	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-10.5188)
+___
+/m/01gkgk	/m/015fr	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-10.5192)
+___
+/m/01gkgk	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-10.5349)
+___
+/m/01gkgk	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-10.6055)
+___
+/m/09n5b9	/m/059rby	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-12.3903)
+___
+/m/09n5b9	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3904)
+___
+/m/09n5b9	/m/05fky	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3904)
+___
+/m/09n5b9	/m/05fkf	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3904)
+___
+/m/09n5b9	/m/04rrd	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3917)
+___
+/m/09n5b9	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3918)
+___
+/m/09n5b9	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.3922)
+___
+/m/09n5b9	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3930)
+___
+/m/09n5b9	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3934)
+___
+/m/09n5b9	/m/01x73	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3935)
+___
+/m/09n5b9	/m/059_c	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3935)
+___
+/m/09n5b9	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3948)
+___
+/m/09n5b9	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3951)
+___
+/m/09n5b9	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4068)
+___
+/m/09n5b9	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4071)
+___
+/m/09n5b9	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4080)
+___
+/m/09n5b9	/m/026mj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4082)
+___
+/m/09n5b9	/m/04ykg	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4082)
+___
+/m/09n5b9	/m/0824r	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4082)
+___
+/m/09n5b9	/m/01n4w	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4082)
+___
+/m/09n5b9	/m/04ly1	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4082)
+___
+/m/09n5b9	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4083)
+___
+/m/09n5b9	/m/081yw	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4083)
+___
+/m/09n5b9	/m/0498y	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4084)
+___
+/m/09n5b9	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4105)
+___
+/m/09n5b9	/m/03s5t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4114)
+___
+/m/09n5b9	/m/06btq	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4116)
+___
+/m/09n5b9	/m/0488g	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4117)
+___
+/m/09n5b9	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4118)
+___
+/m/09n5b9	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4121)
+___
+/m/09n5b9	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4129)
+___
+/m/09n5b9	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4130)
+___
+/m/09n5b9	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4130)
+___
+/m/09n5b9	/m/07h34	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4130)
+___
+/m/09n5b9	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4131)
+___
+/m/09n5b9	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4613)
+___
+/m/09n5b9	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4665)
+___
+/m/09n5b9	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.4864)
+___
+/m/0f6c3	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5335)
+___
+/m/0f6c3	/m/05k7sb	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5335)
+___
+/m/0f6c3	/m/0hjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5348)
+___
+/m/0f6c3	/m/06mz5	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5348)
+___
+/m/0f6c3	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5348)
+___
+/m/0f6c3	/m/04rrd	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5349)
+___
+/m/0f6c3	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.5353)
+___
+/m/0f6c3	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5382)
+___
+/m/0f6c3	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5383)
+___
+/m/0f6c3	/m/01x73	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5384)
+___
+/m/0f6c3	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5399)
+___
+/m/0f6c3	/m/06bnz	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-12.5411)
+___
+/m/0f6c3	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5414)
+___
+/m/0f6c3	/m/03gh4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5497)
+___
+/m/0f6c3	/m/06btq	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5497)
+___
+/m/0f6c3	/m/03s5t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/081yw	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/05fjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/026mj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5510)
+___
+/m/0f6c3	/m/05kj_	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5510)
+___
+/m/0f6c3	/m/050l8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5510)
+___
+/m/0f6c3	/m/0824r	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5510)
+___
+/m/0f6c3	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5510)
+___
+/m/0f6c3	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5512)
+___
+/m/0f6c3	/m/01n4w	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5516)
+___
+/m/0f6c3	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5517)
+___
+/m/0f6c3	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5518)
+___
+/m/0f6c3	/m/05mph	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5518)
+___
+/m/0f6c3	/m/0498y	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5519)
+___
+/m/0f6c3	/m/0488g	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5521)
+___
+/m/0f6c3	/m/05kkh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5524)
+___
+/m/0f6c3	/m/0846v	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.5907)
+___
+/m/0f6c3	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.6078)
+___
+/m/0f6c3	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.6177)
+___
+/m/0f6c3	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.6329)
+___
+/m/0fkvn	/m/0ctw_b	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9789)
+___
+/m/0fkvn	/m/059rby	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-12.9789)
+___
+/m/0fkvn	/m/0h8d	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9790)
+___
+/m/0fkvn	/m/05mph	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9956)
+___
+/m/0fkvn	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9957)
+___
+/m/0fkvn	/m/011hq1	/m/03rk0	/m/03rk0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0002)
+___
+/m/0fkvn	/m/01gh6z	/m/015fr	/m/015fr
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0187)
+___
+/m/0fkvn	/m/0846v	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0397)
+___
+/m/01gkgk	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.1085)
+___
+/m/01gkgk	/m/09c7w0	/m/0f40w	/m/0f40w
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-13.5145)
+___
+/m/01gkgk	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-13.5145)
+___
+/m/01gkgk	/m/09c7w0	/m/0192hw	/m/0192hw
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-13.5145)
+___
+#####################
+/m/0gyh	/m/09nqf
+Reward:1
+/m/0fttg	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-0.0006)
+___
+/m/0fttg	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-8.2796)
+___
+/m/0fttg	/m/0gyh	/m/09n5b9	/m/09n5b9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-12.3843)
+___
+/m/0fttg	/m/0gyh	/m/0f6c3	/m/0f6c3
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-12.3843)
+___
+/m/09n5b9	/m/059rby	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-12.3900)
+___
+/m/09n5b9	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3901)
+___
+/m/09n5b9	/m/05fky	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3901)
+___
+/m/09n5b9	/m/05fkf	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3901)
+___
+/m/09n5b9	/m/04rrd	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3913)
+___
+/m/09n5b9	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3914)
+___
+/m/09n5b9	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.3921)
+___
+/m/09n5b9	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3951)
+___
+/m/09n5b9	/m/059_c	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3952)
+___
+/m/09n5b9	/m/01x73	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3953)
+___
+/m/09n5b9	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3956)
+___
+/m/09n5b9	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3969)
+___
+/m/09n5b9	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3984)
+___
+/m/09n5b9	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4048)
+___
+/m/09n5b9	/m/06btq	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4050)
+___
+/m/09n5b9	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4058)
+___
+/m/09n5b9	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4058)
+___
+/m/09n5b9	/m/03s5t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4058)
+___
+/m/09n5b9	/m/01n4w	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4059)
+___
+/m/09n5b9	/m/026mj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4060)
+___
+/m/09n5b9	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4060)
+___
+/m/09n5b9	/m/0488g	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4060)
+___
+/m/09n5b9	/m/081yw	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4062)
+___
+/m/09n5b9	/m/04ykg	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/04ly1	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/07h34	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/0498y	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/0824r	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4071)
+___
+/m/09n5b9	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4071)
+___
+/m/09n5b9	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4071)
+___
+/m/09n5b9	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4071)
+___
+/m/09n5b9	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4072)
+___
+/m/09n5b9	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4707)
+___
+/m/09n5b9	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4788)
+___
+/m/09n5b9	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.4918)
+___
+/m/0f6c3	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5332)
+___
+/m/0f6c3	/m/05k7sb	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5332)
+___
+/m/0f6c3	/m/06mz5	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5344)
+___
+/m/0f6c3	/m/04rrd	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5345)
+___
+/m/0f6c3	/m/0hjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5345)
+___
+/m/0f6c3	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5346)
+___
+/m/0f6c3	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.5351)
+___
+/m/0f6c3	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5379)
+___
+/m/0f6c3	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5380)
+___
+/m/0f6c3	/m/01x73	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5384)
+___
+/m/0f6c3	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5395)
+___
+/m/0f6c3	/m/06bnz	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-12.5407)
+___
+/m/0f6c3	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5414)
+___
+/m/0f6c3	/m/03gh4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/06btq	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/03s5t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/0488g	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5499)
+___
+/m/0f6c3	/m/05mph	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5499)
+___
+/m/0f6c3	/m/0824r	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5499)
+___
+/m/0f6c3	/m/05kkh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5500)
+___
+/m/0f6c3	/m/050l8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5500)
+___
+/m/0f6c3	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5500)
+___
+/m/0f6c3	/m/05fjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5500)
+___
+/m/0f6c3	/m/081yw	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5500)
+___
+/m/0f6c3	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5500)
+___
+/m/0f6c3	/m/026mj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5503)
+___
+/m/0f6c3	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5506)
+___
+/m/0f6c3	/m/01n4w	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5511)
+___
+/m/0f6c3	/m/0498y	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5511)
+___
+/m/0f6c3	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5511)
+___
+/m/0f6c3	/m/05kj_	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5511)
+___
+/m/0f6c3	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5511)
+___
+/m/0f6c3	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5511)
+___
+/m/0f6c3	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5511)
+___
+/m/0f6c3	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5512)
+___
+/m/0f6c3	/m/0846v	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.5913)
+___
+/m/0f6c3	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.6105)
+___
+/m/0f6c3	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.6163)
+___
+/m/0f6c3	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.6345)
+___
+/m/0fttg	/m/0gyh	/m/09c7w0	/m/09c7w0
+/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-13.5241)
+___
+/m/0fttg	/m/0gyh	/m/0lm0n	/m/0lm0n
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/partially_contains
+-1
+tensor(-13.7117)
+___
+/m/09n5b9	/m/03s0w	/m/0f6c3	/m/0f6c3
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.7784)
+___
+/m/09n5b9	/m/03s0w	/m/09n5b9	/m/09n5b9
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.7784)
+___
+/m/09n5b9	/m/03s0w	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.7784)
+___
+/m/09n5b9	/m/03s0w	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-13.8689)
+___
+/m/0f6c3	/m/03s0w	/m/0f6c3	/m/0f6c3
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.9346)
+___
+/m/0f6c3	/m/03s0w	/m/09n5b9	/m/09n5b9
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.9346)
+___
+/m/0f6c3	/m/03s0w	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.9346)
+___
+/m/0lm0n	/m/059rby	/m/09c7w0	/m/09c7w0
+/location/location/partially_contains	_/location/location/partially_contains	/location/administrative_division/country
+-1
+tensor(-13.9672)
+___
+/m/0lm0n	/m/0694j	/m/0ptk_	/m/0ptk_
+/location/location/partially_contains	_/location/location/partially_contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-13.9675)
+___
+/m/0lm0n	/m/05fjf	/m/09c7w0	/m/09c7w0
+/location/location/partially_contains	_/location/location/partially_contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.9678)
+___
+/m/0lm0n	/m/05j49	/m/0d060g	/m/0d060g
+/location/location/partially_contains	_/location/location/partially_contains	/base/biblioness/bibs_location/country
+-1
+tensor(-13.9680)
+___
+/m/0lm0n	/m/0gyh	/m/09c7w0	/m/09c7w0
+/location/location/partially_contains	_/location/location/partially_contains	/base/biblioness/bibs_location/country
+-1
+tensor(-13.9684)
+___
+/m/0f6c3	/m/03s0w	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-13.9693)
+___
+/m/0lm0n	/m/059t8	/m/0d060g	/m/0d060g
+/location/location/partially_contains	_/location/location/partially_contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.9885)
+___
+#####################
+/m/059_c	/m/09nqf
+Reward:1
+/m/0235l	/m/059_c	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/biblioness/bibs_location/country
+-1
+tensor(-0.0005)
+___
+/m/0235l	/m/059_c	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-8.5588)
+___
+/m/0db94	/m/01n7q	/m/09nqf	/m/09nqf
+/location/location/partially_contains	_/location/location/partially_contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-11.5708)
+___
+/m/0db94	/m/059_c	/m/09c7w0	/m/09c7w0
+/location/location/partially_contains	_/location/location/partially_contains	/base/biblioness/bibs_location/country
+-1
+tensor(-11.5719)
+___
+/m/09n5b9	/m/059rby	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-12.3900)
+___
+/m/09n5b9	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3901)
+___
+/m/09n5b9	/m/05fky	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3901)
+___
+/m/09n5b9	/m/05fkf	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3901)
+___
+/m/09n5b9	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3914)
+___
+/m/09n5b9	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.3915)
+___
+/m/09n5b9	/m/04rrd	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3915)
+___
+/m/09n5b9	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3925)
+___
+/m/09n5b9	/m/01x73	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3930)
+___
+/m/09n5b9	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3930)
+___
+/m/09n5b9	/m/059_c	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3930)
+___
+/m/09n5b9	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3950)
+___
+/m/09n5b9	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3951)
+___
+/m/09n5b9	/m/04ykg	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4078)
+___
+/m/09n5b9	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4079)
+___
+/m/09n5b9	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4079)
+___
+/m/09n5b9	/m/026mj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4080)
+___
+/m/09n5b9	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4080)
+___
+/m/09n5b9	/m/0498y	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4095)
+___
+/m/09n5b9	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4099)
+___
+/m/09n5b9	/m/06btq	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4118)
+___
+/m/09n5b9	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4118)
+___
+/m/09n5b9	/m/03s5t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4118)
+___
+/m/09n5b9	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4118)
+___
+/m/09n5b9	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4119)
+___
+/m/09n5b9	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4120)
+___
+/m/09n5b9	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4121)
+___
+/m/09n5b9	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4121)
+___
+/m/09n5b9	/m/081yw	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4121)
+___
+/m/09n5b9	/m/07h34	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4130)
+___
+/m/09n5b9	/m/0824r	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4130)
+___
+/m/09n5b9	/m/04ly1	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4131)
+___
+/m/09n5b9	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4132)
+___
+/m/09n5b9	/m/01n4w	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4132)
+___
+/m/09n5b9	/m/0488g	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4132)
+___
+/m/09n5b9	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.4605)
+___
+/m/09n5b9	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4646)
+___
+/m/09n5b9	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4653)
+___
+/m/0fkvn	/m/059rby	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-12.9769)
+___
+/m/0fkvn	/m/02wmy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9769)
+___
+/m/0fkvn	/m/0ctw_b	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9769)
+___
+/m/0fkvn	/m/03h64	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9769)
+___
+/m/0fkvn	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9769)
+___
+/m/0fkvn	/m/05fky	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9770)
+___
+/m/0fkvn	/m/0h8d	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9770)
+___
+/m/0fkvn	/m/05fkf	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9770)
+___
+/m/0fkvn	/m/03_xj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9771)
+___
+/m/0fkvn	/m/035hm	/m/02h40lc	/m/02h40lc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/language/human_language/countries_spoken_in
+-1
+tensor(-12.9777)
+___
+/m/0fkvn	/m/0hj6h	/m/05sb1	/m/05sb1
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9779)
+___
+/m/0fkvn	/m/06pr6	/m/06bnz	/m/06bnz
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9783)
+___
+/m/0fkvn	/m/0hjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9783)
+___
+/m/0fkvn	/m/06mz5	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9784)
+___
+/m/0fkvn	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9784)
+___
+/m/0fkvn	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.9788)
+___
+/m/0fkvn	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9796)
+___
+/m/0fkvn	/m/059_c	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9800)
+___
+/m/0fkvn	/m/07cfx	/m/0chghy	/m/0chghy
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9816)
+___
+/m/0fkvn	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9816)
+___
+/m/0fkvn	/m/0ny1p	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-12.9876)
+___
+/m/0fkvn	/m/011hq1	/m/03rk0	/m/03rk0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.9902)
+___
+/m/0fkvn	/m/018jcq	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.9904)
+___
+/m/0fkvn	/m/018txg	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.9910)
+___
+/m/0fkvn	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9946)
+___
+/m/0fkvn	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9950)
+___
+/m/0fkvn	/m/05kkh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9950)
+___
+/m/0fkvn	/m/05mkn	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.9957)
+___
+/m/0fkvn	/m/018jmn	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.9964)
+___
+/m/0fkvn	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9976)
+___
+/m/0fkvn	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9985)
+___
+/m/0fkvn	/m/07ww5	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9985)
+___
+/m/0fkvn	/m/05mph	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9990)
+___
+/m/0fkvn	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9990)
+___
+/m/0fkvn	/m/050l8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9990)
+___
+/m/0fkvn	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9990)
+___
+/m/0fkvn	/m/04ly1	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9999)
+___
+/m/0fkvn	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9999)
+___
+/m/0fkvn	/m/05fjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-13.0000)
+___
+/m/0fkvn	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-13.0000)
+___
+/m/0fkvn	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-13.0000)
+___
+/m/0fkvn	/m/0d04z6	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-13.0020)
+___
+/m/0fkvn	/m/01f1ps	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0081)
+___
+/m/0fkvn	/m/01gh6z	/m/015fr	/m/015fr
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0084)
+___
+/m/0fkvn	/m/01ly8d	/m/0jgd	/m/0jgd
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0137)
+___
+/m/0fkvn	/m/01nqj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-13.0170)
+___
+/m/0fkvn	/m/035yg	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-13.0175)
+___
+/m/0fkvn	/m/0846v	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0341)
+___
+/m/0fkvn	/m/06mtq	/m/0chghy	/m/0chghy
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0342)
+___
+/m/0fkvn	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-13.0405)
+___
+/m/0fkvn	/m/044rv	/m/03ryn	/m/03ryn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-13.0423)
+___
+/m/0fkvn	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.0483)
+___
+/m/0fkvn	/m/0847q	/m/0chghy	/m/0chghy
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-13.0529)
+___
+/m/0fkvn	/m/07srw	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-13.0549)
+___
+/m/0235l	/m/059_c	/m/09n5b9	/m/09n5b9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.2348)
+___
+/m/0235l	/m/059_c	/m/0fkvn	/m/0fkvn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.2348)
+___
+/m/09n5b9	/m/03s0w	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-13.5553)
+___
+/m/0fkvn	/m/016qwt	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-13.6668)
+___
+#####################
+/m/03s0w	/m/09nqf
+Reward:1
+/m/02j3w	/m/03s0w	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/administrative_division/country
+-1
+tensor(-0.0361)
+___
+/m/02j3w	/m/03s0w	/m/0fkvn	/m/0fkvn
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-4.6739)
+___
+/m/02j3w	/m/03s0w	/m/0f6c3	/m/0f6c3
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-4.6739)
+___
+/m/02j3w	/m/03s0w	/m/09n5b9	/m/09n5b9
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-4.6739)
+___
+/m/02j3w	/m/03s0w	/m/09c7w0	/m/09c7w0
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-5.6217)
+___
+/m/02j3w	/m/03s0w	/m/04ykz	/m/04ykz
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/location/location/partially_contains
+-1
+tensor(-5.7376)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-9.5762)
+___
+/m/02j3w	/m/03s0w	/m/02j3w	/m/02j3w
+_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-10.2012)
+___
+/m/09n5b9	/m/059rby	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-12.3902)
+___
+/m/09n5b9	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3902)
+___
+/m/09n5b9	/m/05fky	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3903)
+___
+/m/09n5b9	/m/05fkf	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3903)
+___
+/m/09n5b9	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3915)
+___
+/m/09n5b9	/m/04rrd	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.3916)
+___
+/m/09n5b9	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.3922)
+___
+/m/09n5b9	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3953)
+___
+/m/09n5b9	/m/01x73	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3953)
+___
+/m/09n5b9	/m/059_c	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3953)
+___
+/m/09n5b9	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3956)
+___
+/m/09n5b9	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3969)
+___
+/m/09n5b9	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.3989)
+___
+/m/09n5b9	/m/06btq	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4054)
+___
+/m/09n5b9	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4056)
+___
+/m/09n5b9	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4058)
+___
+/m/09n5b9	/m/03s5t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4060)
+___
+/m/09n5b9	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4067)
+___
+/m/09n5b9	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4067)
+___
+/m/09n5b9	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4067)
+___
+/m/09n5b9	/m/04ly1	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4067)
+___
+/m/09n5b9	/m/04ykg	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4068)
+___
+/m/09n5b9	/m/026mj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4068)
+___
+/m/09n5b9	/m/07h34	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4068)
+___
+/m/09n5b9	/m/0498y	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4068)
+___
+/m/09n5b9	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4068)
+___
+/m/09n5b9	/m/081yw	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4069)
+___
+/m/09n5b9	/m/0824r	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4070)
+___
+/m/09n5b9	/m/01n4w	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4073)
+___
+/m/09n5b9	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4074)
+___
+/m/09n5b9	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4074)
+___
+/m/09n5b9	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4078)
+___
+/m/09n5b9	/m/0488g	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4078)
+___
+/m/09n5b9	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4079)
+___
+/m/09n5b9	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.4079)
+___
+/m/09n5b9	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4680)
+___
+/m/09n5b9	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.4750)
+___
+/m/09n5b9	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.4929)
+___
+/m/0f6c3	/m/01n7q	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5333)
+___
+/m/0f6c3	/m/05k7sb	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5334)
+___
+/m/0f6c3	/m/06mz5	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5346)
+___
+/m/0f6c3	/m/04rrd	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5346)
+___
+/m/0f6c3	/m/0hjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5347)
+___
+/m/0f6c3	/m/03v0t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5347)
+___
+/m/0f6c3	/m/05fjf	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.5353)
+___
+/m/0f6c3	/m/04rrx	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5384)
+___
+/m/0f6c3	/m/01x73	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5384)
+___
+/m/0f6c3	/m/0gyh	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5385)
+___
+/m/0f6c3	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5401)
+___
+/m/0f6c3	/m/06bnz	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-12.5409)
+___
+/m/0f6c3	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.5418)
+___
+/m/0f6c3	/m/06btq	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5485)
+___
+/m/0f6c3	/m/03s5t	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5485)
+___
+/m/0f6c3	/m/07z1m	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5485)
+___
+/m/0f6c3	/m/03gh4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5485)
+___
+/m/0f6c3	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5486)
+___
+/m/0f6c3	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5487)
+___
+/m/0f6c3	/m/026mj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5497)
+___
+/m/0f6c3	/m/081mh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5497)
+___
+/m/0f6c3	/m/01n4w	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5497)
+___
+/m/0f6c3	/m/050l8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/05kj_	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/0vbk	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/0824r	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/05kkh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/03v1s	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/05mph	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/081yw	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5498)
+___
+/m/0f6c3	/m/0498y	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5500)
+___
+/m/0f6c3	/m/05fjy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5501)
+___
+/m/0f6c3	/m/0488g	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5501)
+___
+/m/0f6c3	/m/07_f2	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5505)
+___
+/m/0f6c3	/m/0d0x8	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5508)
+___
+/m/0f6c3	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.5509)
+___
+/m/0f6c3	/m/0846v	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.5921)
+___
+/m/0f6c3	/m/05tbn	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.6130)
+___
+/m/0f6c3	/m/0vmt	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.6190)
+___
+/m/0f6c3	/m/06yxd	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.6332)
+___
+/m/04ykz	/m/05fky	/m/09nqf	/m/09nqf
+/location/location/partially_contains	_/location/location/partially_contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.6681)
+___
+/m/04ykz	/m/05fhy	/m/09c7w0	/m/09c7w0
+/location/location/partially_contains	_/location/location/partially_contains	/base/biblioness/bibs_location/country
+-1
+tensor(-12.6693)
+___
+/m/04ykz	/m/03v0t	/m/09nqf	/m/09nqf
+/location/location/partially_contains	_/location/location/partially_contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.6709)
+___
+/m/04ykz	/m/06mz5	/m/09nqf	/m/09nqf
+/location/location/partially_contains	_/location/location/partially_contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.6711)
+___
+/m/04ykz	/m/04ych	/m/09nqf	/m/09nqf
+/location/location/partially_contains	_/location/location/partially_contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.7482)
+___
+/m/0fkvn	/m/0hj6h	/m/05sb1	/m/05sb1
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9784)
+___
+/m/0fkvn	/m/07b_l	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9814)
+___
+/m/0fkvn	/m/05fhy	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-12.9822)
+___
+/m/0fkvn	/m/018jcq	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-12.9900)
+___
+/m/0fkvn	/m/059f4	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9980)
+___
+/m/0fkvn	/m/05kj_	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-12.9995)
+___
+/m/0fkvn	/m/04ych	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-13.0001)
+___
+#####################

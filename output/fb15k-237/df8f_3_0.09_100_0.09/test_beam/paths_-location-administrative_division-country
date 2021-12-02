@@ -1,0 +1,1509 @@
+/m/01_c4	/m/07ssc
+Reward:1
+/m/036wy	/m/0nlc7	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-1.7919)
+___
+/m/036wy	/m/0n96z	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-1.7919)
+___
+/m/036wy	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-1.7919)
+___
+/m/036wy	/m/0n9dn	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-1.7919)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-2.0443)
+___
+/m/036wy	/m/0nccd	/m/02jx1	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-3.0170)
+___
+/m/036wy	/m/0nccd	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-3.0170)
+___
+/m/036wy	/m/0nccd	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-3.0170)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.2924)
+___
+/m/036wy	/m/0nccd	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.9227)
+___
+/m/036wy	/m/0nlc7	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-10.4570)
+___
+/m/036wy	/m/0nlg4	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-10.4570)
+___
+/m/036wy	/m/0n96z	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-10.4570)
+___
+/m/036wy	/m/0n9dn	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/administrative_division/country
+1
+tensor(-10.4570)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-10.4988)
+___
+/m/036wy	/m/0nccd	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-11.5687)
+___
+/m/036wy	/m/0nccd	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-11.5687)
+___
+/m/036wy	/m/0nccd	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-11.5687)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-13.6538)
+___
+/m/036wy	/m/0nccd	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-14.7997)
+___
+/m/036wy	/m/0nlg4	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.3030)
+___
+/m/036wy	/m/0nlg4	/m/02jx1	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.3030)
+___
+/m/036wy	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-15.3030)
+___
+/m/036wy	/m/0nlc7	/m/02jx1	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.3257)
+___
+/m/036wy	/m/0nlc7	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-15.3257)
+___
+/m/036wy	/m/0n9dn	/m/02jx1	/m/02jx1
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.3720)
+___
+/m/036wy	/m/0n9dn	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-15.3720)
+___
+/m/036wy	/m/0n9dn	/m/04jpl	/m/04jpl
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.3720)
+___
+/m/036wy	/m/0n9dn	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.3720)
+___
+/m/036wy	/m/0n96z	/m/04jpl	/m/04jpl
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.4063)
+___
+/m/036wy	/m/0n96z	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-15.4063)
+___
+/m/036wy	/m/0n96z	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-15.4063)
+___
+/m/036wy	/m/0nlg4	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-15.9759)
+___
+/m/036wy	/m/0nlc7	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-16.1409)
+___
+/m/036wy	/m/0n9dn	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-16.4140)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-16.5689)
+___
+/m/0d2kt	/m/0f485	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-16.5689)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-16.5689)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-16.5997)
+___
+/m/036wy	/m/0n96z	/m/036wy	/m/036wy
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-16.6475)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-16.9818)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-16.9818)
+___
+/m/036wy	/m/0n96z	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-17.0172)
+___
+/m/036wy	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-17.0172)
+___
+/m/036wy	/m/0n9dn	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-17.0172)
+___
+/m/036wy	/m/0f485	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-17.0172)
+___
+/m/036wy	/m/0f8j6	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+tensor(-17.0189)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-17.0457)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-17.3033)
+___
+/m/036wy	/m/01_c4	/m/0d2kt	/m/0d2kt
+_/location/location/contains	_/base/aareas/schema/administrative_area/administrative_parent	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-17.3909)
+___
+/m/036wy	/m/0nccd	/m/036wy	/m/036wy
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-18.2621)
+___
+/m/036wy	/m/0nccd	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-18.2621)
+___
+/m/036wy	/m/0nccd	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-18.2621)
+___
+/m/036wy	/m/02gw_w	/m/0cxgc	/m/0cxgc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-18.4035)
+___
+/m/036wy	/m/02gw_w	/m/036wy	/m/036wy
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-18.4035)
+___
+/m/036wy	/m/02gw_w	/m/04jpl	/m/04jpl
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-18.4035)
+___
+/m/036wy	/m/02gw_w	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-18.4035)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-18.4083)
+___
+/m/036wy	/m/0nccd	/m/036wy	/m/036wy
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-19.0122)
+___
+/m/036wy	/m/01g4yw	/m/02jx1	/m/02jx1
+_/location/location/contains	_/organization/organization/headquarters./location/mailing_address/state_province_region	_/location/location/contains
+-1
+tensor(-19.1442)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-19.7649)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-20.0665)
+___
+/m/0d2kt	/m/04jpl	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-20.5478)
+___
+/m/0d2kt	/m/048kw	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains	/location/administrative_division/country
+1
+tensor(-20.5539)
+___
+/m/0d2kt	/m/02jx1	/m/0gjc4d3	/m/0gjc4d3
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains	_/film/film/language
+-1
+tensor(-20.5604)
+___
+/m/036wy	/m/0nlg4	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	/location/administrative_division/country
+1
+tensor(-21.1412)
+___
+/m/036wy	/m/0n96z	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	/location/administrative_division/country
+1
+tensor(-21.1412)
+___
+/m/036wy	/m/0n9dn	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	/location/administrative_division/country
+1
+tensor(-21.1412)
+___
+/m/036wy	/m/0f485	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	/location/administrative_division/country
+1
+tensor(-21.1412)
+___
+/m/036wy	/m/0f8j6	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+tensor(-21.1422)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+-1
+tensor(-21.1962)
+___
+/m/036wy	/m/01g4yw	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/organization/organization/headquarters./location/mailing_address/state_province_region	_/location/location/contains
+-1
+tensor(-21.6308)
+___
+/m/036wy	/m/0nccd	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+-1
+tensor(-22.2569)
+___
+/m/036wy	/m/0nccd	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+1
+tensor(-22.2569)
+___
+/m/036wy	/m/0nccd	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+-1
+tensor(-22.2569)
+___
+/m/036wy	/m/02gw_w	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+-1
+tensor(-22.5275)
+___
+/m/036wy	/m/02gw_w	/m/0cxgc	/m/0cxgc
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+-1
+tensor(-22.5275)
+___
+/m/036wy	/m/02gw_w	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+1
+tensor(-22.5275)
+___
+/m/036wy	/m/02gw_w	/m/04jpl	/m/04jpl
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	_/location/location/contains
+-1
+tensor(-22.5275)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-22.5522)
+___
+/m/0d2kt	/m/0f485	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-22.5522)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-22.5522)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-22.5754)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-23.2390)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-23.2390)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-23.2825)
+___
+/m/036wy	/m/0n96z	/m/04jpl	/m/04jpl
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-23.7410)
+___
+/m/036wy	/m/0n96z	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-23.7410)
+___
+/m/036wy	/m/0n96z	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-23.7410)
+___
+/m/036wy	/m/0n9dn	/m/04jpl	/m/04jpl
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-23.7777)
+___
+/m/036wy	/m/0n9dn	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-23.7777)
+___
+/m/036wy	/m/0n9dn	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-23.7777)
+___
+/m/036wy	/m/0n9dn	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-23.7777)
+___
+/m/036wy	/m/0nlc7	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-23.8240)
+___
+/m/036wy	/m/0nlc7	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-23.8240)
+___
+/m/036wy	/m/0nlg4	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-24.0563)
+___
+/m/036wy	/m/0nlg4	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+1
+tensor(-24.0563)
+___
+/m/036wy	/m/0nlg4	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-24.0563)
+___
+/m/036wy	/m/01_c4	/m/036wy	/m/036wy
+/base/aareas/schema/administrative_area/administrative_parent	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-24.0693)
+___
+/m/036wy	/m/01_c4	/m/0d2kt	/m/0d2kt
+/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/administrative_parent	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-24.3456)
+___
+#####################
+/m/02wmy	/m/02wmy
+Reward:0
+/m/0j3b	/m/017jq	/m/0j3b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-2.4858)
+___
+/m/0j3b	/m/0165b	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.4954)
+___
+/m/0j3b	/m/0165b	/m/0j3b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.4954)
+___
+/m/06n3y	/m/01ls2	/m/02j71	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.5859)
+___
+/m/06n3y	/m/01ly5m	/m/0jgd	/m/0jgd
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+-1
+tensor(-3.5882)
+___
+/m/06n3y	/m/0165v	/m/016wzw	/m/016wzw
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-3.6139)
+___
+/m/0j3b	/m/02wmy	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.7734)
+___
+/m/0j3b	/m/02wmy	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.7734)
+___
+/m/0j3b	/m/02wmy	/m/0j3b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.7734)
+___
+/m/0j3b	/m/0n3g	/m/0j3b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.8010)
+___
+/m/0j3b	/m/0n3g	/m/0261m	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.8010)
+___
+/m/0j3b	/m/0n3g	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.8010)
+___
+/m/06n3y	/m/016wzw	/m/02j71	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.8256)
+___
+/m/06n3y	/m/01p1v	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.8482)
+___
+/m/0j3b	/m/0165b	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-3.9405)
+___
+/m/06n3y	/m/034m8	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-3.9902)
+___
+/m/0j3b	/m/02wmy	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.2446)
+___
+/m/0j3b	/m/0n3g	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.2722)
+___
+/m/06n3y	/m/06nnj	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.2780)
+___
+/m/06n3y	/m/06nnj	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.2780)
+___
+/m/06n3y	/m/07twz	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.5978)
+___
+/m/06n3y	/m/07twz	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.5978)
+___
+/m/06n3y	/m/015fr	/m/087vz	/m/087vz
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-4.6835)
+___
+/m/06n3y	/m/015fr	/m/0f8l9c	/m/0f8l9c
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-4.6835)
+___
+/m/06n3y	/m/015fr	/m/0d060g	/m/0d060g
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-4.6835)
+___
+/m/07c5l	/m/06n3y	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.7622)
+___
+/m/07c5l	/m/04pnx	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.7622)
+___
+/m/07c5l	/m/035v3	/m/0k6nt	/m/0k6nt
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+-1
+tensor(-4.7622)
+___
+/m/07c5l	/m/059g4	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.7622)
+___
+/m/07c5l	/m/07ww5	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+tensor(-4.7626)
+___
+/m/07c5l	/m/01ls2	/m/02j71	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-4.7631)
+___
+/m/07c5l	/m/05r7t	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+-1
+tensor(-4.7638)
+___
+/m/07c5l	/m/0j11	/m/049nq	/m/049nq
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+-1
+tensor(-4.7681)
+___
+/m/07c5l	/m/04vg8	/m/0f8l9c	/m/0f8l9c
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+-1
+tensor(-4.7687)
+___
+/m/07c5l	/m/0165v	/m/016wzw	/m/016wzw
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-4.7820)
+___
+/m/06n3y	/m/02wmy	/m/0j3b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.8184)
+___
+/m/06n3y	/m/02wmy	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.8184)
+___
+/m/06n3y	/m/02wmy	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.8184)
+___
+/m/06n3y	/m/034m8	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.8317)
+___
+/m/06n3y	/m/05v10	/m/04pnx	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.9076)
+___
+/m/06n3y	/m/05v10	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.9076)
+___
+/m/06n3y	/m/05v10	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-4.9076)
+___
+/m/07c5l	/m/016wzw	/m/02j71	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-4.9966)
+___
+/m/06n3y	/m/01p1v	/m/02j71	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.0489)
+___
+/m/06n3y	/m/016wzw	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.1303)
+___
+/m/07c5l	/m/07fr_	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2117)
+___
+/m/07c5l	/m/03_r3	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2246)
+___
+/m/07c5l	/m/01nty	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.2758)
+___
+/m/07c5l	/m/07ylj	/m/04pnx	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4191)
+___
+/m/06n3y	/m/07twz	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4393)
+___
+/m/07c5l	/m/0168t	/m/0261m	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4553)
+___
+/m/07c5l	/m/0168t	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4553)
+___
+/m/07c5l	/m/0d060g	/m/04g61	/m/04g61
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.4553)
+___
+/m/07c5l	/m/0d060g	/m/01mk6	/m/01mk6
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.4553)
+___
+/m/07c5l	/m/06nnj	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4553)
+___
+/m/07c5l	/m/06nnj	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4553)
+___
+/m/07c5l	/m/0l3h	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4711)
+___
+/m/07c5l	/m/035yg	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4711)
+___
+/m/07c5l	/m/027rn	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4713)
+___
+/m/07c5l	/m/03gyl	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.4720)
+___
+/m/07c5l	/m/02k1b	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.5092)
+___
+/m/06n3y	/m/02wmy	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.6543)
+___
+/m/07c5l	/m/06s0l	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.6598)
+___
+/m/07c5l	/m/06s0l	/m/0157g9	/m/0157g9
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.6598)
+___
+/m/07c5l	/m/01p8s	/m/059g4	/m/059g4
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.6611)
+___
+/m/07c5l	/m/01p8s	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.6611)
+___
+/m/07c5l	/m/0165b	/m/0j3b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.7411)
+___
+/m/07c5l	/m/0165b	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.7411)
+___
+/m/07c5l	/m/027nb	/m/0157g9	/m/0157g9
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.7445)
+___
+/m/07c5l	/m/06ryl	/m/0261m	/m/0261m
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.7445)
+___
+/m/07c5l	/m/06ryl	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.7445)
+___
+/m/07c5l	/m/027nb	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.7445)
+___
+/m/06n3y	/m/05v10	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7491)
+___
+/m/0j3b	/m/0165b	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7610)
+___
+/m/07c5l	/m/07fr_	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.7781)
+___
+/m/07c5l	/m/01nty	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.8264)
+___
+/m/07c5l	/m/06s6l	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.8413)
+___
+/m/07c5l	/m/06s6l	/m/0157g9	/m/0157g9
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.8413)
+___
+/m/07c5l	/m/0b90_r	/m/0345h	/m/0345h
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.8608)
+___
+/m/07c5l	/m/0b90_r	/m/0chghy	/m/0chghy
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.8608)
+___
+/m/07c5l	/m/0b90_r	/m/015qh	/m/015qh
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.8608)
+___
+/m/07c5l	/m/0d04z6	/m/05v8c	/m/05v8c
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.8660)
+___
+/m/07c5l	/m/0d04z6	/m/09c7w0	/m/09c7w0
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.8660)
+___
+/m/07c5l	/m/0d04z6	/m/05vz3zq	/m/05vz3zq
+_/location/location/contains	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-5.8660)
+___
+/m/07c5l	/m/07twz	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.8807)
+___
+/m/07c5l	/m/07twz	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-5.8807)
+___
+/m/07c5l	/m/03_r3	/m/02j71	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.9495)
+___
+/m/06n3y	/m/07twz	/m/02j71	/m/02j71
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.9698)
+___
+/m/07c5l	/m/07ylj	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.9782)
+___
+/m/07c5l	/m/0164b	/m/059g4	/m/059g4
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0024)
+___
+/m/07c5l	/m/0164b	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0024)
+___
+/m/07c5l	/m/0164b	/m/04pnx	/m/04pnx
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0024)
+___
+/m/07c5l	/m/02k1b	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0092)
+___
+/m/07c5l	/m/0l3h	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0224)
+___
+/m/07c5l	/m/035yg	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0224)
+___
+/m/07c5l	/m/03gyl	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0226)
+___
+/m/07c5l	/m/027rn	/m/09nqf	/m/09nqf
+_/location/location/contains	/location/location/contains	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0230)
+___
+/m/07c5l	/m/02wmy	/m/0j3b	/m/0j3b
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0364)
+___
+/m/07c5l	/m/02wmy	/m/06n3y	/m/06n3y
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0364)
+___
+/m/07c5l	/m/02wmy	/m/07c5l	/m/07c5l
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-6.0364)
+___
+#####################
+/m/01rwf_	/m/07ssc
+Reward:1
+/m/022_6	/m/01423b	/m/02jx1	/m/02jx1
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-0.7023)
+___
+/m/02jx1	/m/0dyjz	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/country/second_level_divisions	/location/administrative_division/country
+-1
+tensor(-2.3153)
+___
+/m/02jx1	/m/0121c1	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/country/second_level_divisions	/base/biblioness/bibs_location/country
+1
+tensor(-2.3166)
+___
+/m/02jx1	/m/0dmy0	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/country/second_level_divisions	/location/administrative_division/country
+1
+tensor(-2.3181)
+___
+/m/02jx1	/m/0dbdy	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/country/second_level_divisions	/location/administrative_division/country
+1
+tensor(-2.3188)
+___
+/m/02jx1	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/contains	/location/country/second_level_divisions	_/location/location/contains
+-1
+tensor(-2.5980)
+___
+/m/02jx1	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/contains	/location/country/second_level_divisions	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-3.7168)
+___
+/m/022_6	/m/01423b	/m/02jx1	/m/02jx1
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/location/contains
+-1
+tensor(-5.9903)
+___
+/m/022_6	/m/01423b	/m/022_6	/m/022_6
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.1936)
+___
+/m/02jx1	/m/0dbdy	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/country/second_level_divisions	/base/biblioness/bibs_location/country
+-1
+tensor(-7.9850)
+___
+/m/02jx1	/m/0dmy0	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/country/second_level_divisions	/base/biblioness/bibs_location/country
+1
+tensor(-8.2031)
+___
+/m/02jx1	/m/01vx3m	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.3304)
+___
+/m/02jx1	/m/0fg6k	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-8.3304)
+___
+/m/02jx1	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-8.3304)
+___
+/m/02jx1	/m/03x3l	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-8.3304)
+___
+/m/02jx1	/m/07lly	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-8.3313)
+___
+/m/02jx1	/m/0195j0	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-8.3315)
+___
+/m/02jx1	/m/02m__	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/base/biblioness/bibs_location/country
+1
+tensor(-8.3320)
+___
+/m/02jx1	/m/03msf	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-8.3331)
+___
+/m/02jx1	/m/09tlh	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-8.3332)
+___
+/m/02jx1	/m/09cpb	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	/location/administrative_division/country
+1
+tensor(-8.3334)
+___
+/m/02jx1	/m/02237m	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.3339)
+___
+/m/02jx1	/m/013bqg	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/013bqg	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-9.0236)
+___
+/m/02jx1	/m/01z3d2	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/01z3d2	/m/09ctj	/m/09ctj
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/018h8j	/m/0dbdy	/m/0dbdy
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/018h8j	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/01rwf_	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/01rwf_	/m/022_6	/m/022_6
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/015ln1	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/015ln1	/m/04jpl	/m/04jpl
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0236)
+___
+/m/02jx1	/m/014jyk	/m/04lh6	/m/04lh6
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0247)
+___
+/m/02jx1	/m/014jyk	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0247)
+___
+/m/02jx1	/m/01g0p5	/m/04jpl	/m/04jpl
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0263)
+___
+/m/02jx1	/m/01g0p5	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0263)
+___
+/m/02jx1	/m/0nqv1	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01m3b7	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/0nqv1	/m/04jpl	/m/04jpl
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01pr6n	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/0nqv1	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01pr6n	/m/0dzz_	/m/0dzz_
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01m3b7	/m/03msf	/m/03msf
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01km6_	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01pr6n	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01km6_	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01m3b7	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-9.4291)
+___
+/m/02jx1	/m/01km6_	/m/013p59	/m/013p59
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/0d2kt	/m/04jpl	/m/04jpl
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/0d2kt	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/0d2kt	/m/048kw	/m/048kw
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4291)
+___
+/m/02jx1	/m/0gl6f	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4303)
+___
+/m/02jx1	/m/0gl6f	/m/0c5_3	/m/0c5_3
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4303)
+___
+/m/02jx1	/m/0gl6f	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-9.4303)
+___
+/m/02jx1	/m/0ylsr	/m/05l5n	/m/05l5n
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4310)
+___
+/m/02jx1	/m/0ylsr	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4310)
+___
+/m/02jx1	/m/0ylsr	/m/0jt5zcn	/m/0jt5zcn
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4310)
+___
+/m/02jx1	/m/0nccd	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/location/contains	_/location/location/contains
+1
+tensor(-9.5745)
+___
+/m/02jx1	/m/0nccd	/m/036wy	/m/036wy
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5745)
+___
+/m/02jx1	/m/0nccd	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5745)
+___
+/m/02jx1	/m/0121c1	/m/07ssc	/m/07ssc
+_/location/location/contains	/location/country/second_level_divisions	_/location/location/contains
+1
+tensor(-10.0741)
+___
+/m/02jx1	/m/0121c1	/m/02jx1	/m/02jx1
+_/location/location/contains	/location/country/second_level_divisions	_/location/location/contains
+-1
+tensor(-10.0741)
+___
+/m/02jx1	/m/0121c1	/m/0d6br	/m/0d6br
+_/location/location/contains	/location/country/second_level_divisions	_/location/location/contains
+-1
+tensor(-10.0741)
+___
+/m/02jx1	/m/0nccd	/m/036wy	/m/036wy
+_/location/location/contains	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-10.3302)
+___
+/m/022_6	/m/01423b	/m/022_6	/m/022_6
+_/location/location/contains	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-11.0452)
+___
+/m/02jx1	/m/0ht8h	/m/07ssc	/m/07ssc
+_/location/location/contains	_/base/biblioness/bibs_location/country	/location/administrative_division/country
+1
+tensor(-11.3971)
+___
+/m/02jx1	/m/03rl84	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/places_lived./people/place_lived/location	/people/person/nationality
+-1
+tensor(-12.7084)
+___
+/m/02jx1	/m/016z2j	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/people/person/places_lived./people/place_lived/location	/people/person/nationality
+-1
+tensor(-12.7084)
+___
+/m/02jx1	/m/0134w7	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/places_lived./people/place_lived/location	/people/person/nationality
+-1
+tensor(-12.7084)
+___
+/m/02jx1	/m/0gjc4d3	/m/09c7w0	/m/09c7w0
+_/location/location/contains	_/film/film/language	/film/film/country
+-1
+tensor(-13.4708)
+___
+/m/02jx1	/m/02237m	/m/02237m	/m/02237m
+_/location/location/contains	/location/location/contains	_/education/educational_institution/campuses
+-1
+tensor(-13.9890)
+___
+/m/02jx1	/m/01p87y	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/023322	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/07mb57	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/018y81	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/0kftt	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/01wk7ql	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/06rrzn	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/08w7vj	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/0phx4	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/02cbs0	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/0ft7sr	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/02pq9yv	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/017g21	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/04jlgp	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/014q2g	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/01vyp_	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/013zs9	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/01vswx5	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/01v42g	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/0dpqk	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/07fq1y	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/016gr2	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/09y20	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/016nff	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/02tk74	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/05km8z	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/022g44	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/01w8sf	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+/m/02jx1	/m/050z2	/m/02jx1	/m/02jx1
+_/location/location/contains	_/people/person/nationality	/people/person/nationality
+-1
+tensor(-14.0239)
+___
+#####################

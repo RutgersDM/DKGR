@@ -1,0 +1,6539 @@
+/m/02n9jv	/m/012t_z
+Reward:0
+/m/02n9jv	/m/02n9jv	/m/048scx	/m/048scx
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-0.6955)
+___
+/m/02n9jv	/m/02n9jv	/m/07vn_9	/m/07vn_9
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-0.6955)
+___
+/m/02n9jv	/m/048scx	/m/04cy8rb	/m/04cy8rb
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.7786)
+___
+/m/02n9jv	/m/07vn_9	/m/027zz	/m/027zz
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/director/film
+-1
+tensor(-7.3624)
+___
+/m/02n9jv	/m/07vn_9	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-9.0639)
+___
+/m/02n9jv	/m/07vn_9	/m/02n4kr	/m/02n4kr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-10.0882)
+___
+/m/02n9jv	/m/07vn_9	/m/01jfsb	/m/01jfsb
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-10.0882)
+___
+/m/02n9jv	/m/07vn_9	/m/0lsxr	/m/0lsxr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-10.0882)
+___
+/m/02n9jv	/m/07vn_9	/m/03g3w	/m/03g3w
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-10.0882)
+___
+/m/02n9jv	/m/07vn_9	/m/074tb5	/m/074tb5
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/01y9xg	/m/01y9xg
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/02js6_	/m/02js6_
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/035rnz	/m/035rnz
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/073w14	/m/073w14
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/02xs5v	/m/02xs5v
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/0210hf	/m/0210hf
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/016z2j	/m/016z2j
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/04t7ts	/m/04t7ts
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/08k881	/m/08k881
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/07vn_9	/m/03jqw5	/m/03jqw5
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-10.7566)
+___
+/m/02n9jv	/m/048scx	/m/01yfm8	/m/01yfm8
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.7887)
+___
+/m/02n9jv	/m/048scx	/m/04cy8rb	/m/04cy8rb
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-11.7887)
+___
+/m/02n9jv	/m/07vn_9	/m/01vx2h	/m/01vx2h
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-12.6139)
+___
+/m/02n9jv	/m/07vn_9	/m/0ch6mp2	/m/0ch6mp2
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-12.6139)
+___
+/m/02n9jv	/m/07vn_9	/m/02ynfr	/m/02ynfr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-12.6139)
+___
+/m/02n9jv	/m/07vn_9	/m/02n9jv	/m/02n9jv
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-12.6139)
+___
+/m/02n9jv	/m/07vn_9	/m/02r96rf	/m/02r96rf
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-12.6139)
+___
+/m/02n9jv	/m/048scx	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-12.7769)
+___
+/m/02n9jv	/m/07vn_9	/m/086k8	/m/086k8
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/production_companies
+-1
+tensor(-12.8756)
+___
+/m/02n9jv	/m/07vn_9	/m/05qd_	/m/05qd_
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/production_companies
+-1
+tensor(-12.8756)
+___
+/m/02n9jv	/m/048scx	/m/02p0szs	/m/02p0szs
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/048scx	/m/01jfsb	/m/01jfsb
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/048scx	/m/03g3w	/m/03g3w
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/048scx	/m/082gq	/m/082gq
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/048scx	/m/04xvlr	/m/04xvlr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/048scx	/m/03mqtr	/m/03mqtr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/048scx	/m/07s9rl0	/m/07s9rl0
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/048scx	/m/06l3bl	/m/06l3bl
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre
+-1
+tensor(-12.9228)
+___
+/m/02n9jv	/m/07vn_9	/m/02n4kr	/m/02n4kr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/media_common/netflix_genre/titles
+-1
+tensor(-13.4540)
+___
+/m/02n9jv	/m/07vn_9	/m/04xvlr	/m/04xvlr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/media_common/netflix_genre/titles
+-1
+tensor(-13.4540)
+___
+/m/02n9jv	/m/07vn_9	/m/01jfsb	/m/01jfsb
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/media_common/netflix_genre/titles
+-1
+tensor(-13.4540)
+___
+/m/02n9jv	/m/07vn_9	/m/086k8	/m/086k8
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-13.5824)
+___
+/m/02n9jv	/m/07vn_9	/m/05qd_	/m/05qd_
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-13.5824)
+___
+/m/02n9jv	/m/048scx	/m/01yfm8	/m/01yfm8
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-13.5913)
+___
+/m/02n9jv	/m/048scx	/m/0127m7	/m/0127m7
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-13.5913)
+___
+/m/02n9jv	/m/048scx	/m/0308kx	/m/0308kx
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-13.5913)
+___
+/m/02n9jv	/m/048scx	/m/07nx9j	/m/07nx9j
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film
+-1
+tensor(-13.5913)
+___
+/m/02n9jv	/m/07vn_9	/m/03hkv_r	/m/03hkv_r
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-13.8344)
+___
+/m/02n9jv	/m/07vn_9	/m/02x258x	/m/02x258x
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-13.8344)
+___
+/m/02n9jv	/m/07vn_9	/m/02x17s4	/m/02x17s4
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-13.8344)
+___
+/m/02n9jv	/m/02n9jv	/m/02n9jv	/m/02n9jv
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-14.5765)
+___
+/m/02n9jv	/m/048scx	/m/01vx2h	/m/01vx2h
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/0ch6mp2	/m/0ch6mp2
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/09vw2b7	/m/09vw2b7
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/04pyp5	/m/04pyp5
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/02n9jv	/m/02n9jv
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/02r96rf	/m/02r96rf
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/02vs3x5	/m/02vs3x5
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/02rh1dz	/m/02rh1dz
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/01pvkk	/m/01pvkk
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/09zzb8	/m/09zzb8
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-15.4485)
+___
+/m/02n9jv	/m/048scx	/m/0127m7	/m/0127m7
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/produced_by
+-1
+tensor(-15.9968)
+___
+/m/02n9jv	/m/07vn_9	/m/0bq3x	/m/0bq3x
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film_subject/films
+-1
+tensor(-16.1310)
+___
+/m/02n9jv	/m/048scx	/m/06l3bl	/m/06l3bl
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/media_common/netflix_genre/titles
+-1
+tensor(-16.2886)
+___
+/m/02n9jv	/m/048scx	/m/03mqtr	/m/03mqtr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/media_common/netflix_genre/titles
+-1
+tensor(-16.2886)
+___
+/m/02n9jv	/m/048scx	/m/024rgt	/m/024rgt
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film
+-1
+tensor(-16.4170)
+___
+/m/02n9jv	/m/07vn_9	/m/07hgkd	/m/07hgkd
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/music
+-1
+tensor(-16.5588)
+___
+/m/02n9jv	/m/048scx	/m/02x17s4	/m/02x17s4
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-16.6690)
+___
+/m/02n9jv	/m/048scx	/m/099c8n	/m/099c8n
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_category/nominees./award/award_nomination/nominated_for
+-1
+tensor(-16.6690)
+___
+/m/02n9jv	/m/07vn_9	/m/07vn_9	/m/07vn_9
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP
+-1
+tensor(-17.9285)
+___
+/m/02n9jv	/m/07vn_9	/m/02h40lc	/m/02h40lc
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/language
+-1
+tensor(-18.2515)
+___
+/m/02n9jv	/m/07vn_9	/m/09nqf	/m/09nqf
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-18.4916)
+___
+/m/07vn_9	/m/07vn_9	/m/027zz	/m/027zz
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP	_/film/director/film
+-1
+tensor(-18.8596)
+___
+/m/02n9jv	/m/048scx	/m/01w1sx	/m/01w1sx
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film_subject/films
+-1
+tensor(-18.9657)
+___
+/m/02n9jv	/m/048scx	/m/04q5zw	/m/04q5zw
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/executive_produced_by
+-1
+tensor(-19.0570)
+___
+/m/048scx	/m/048scx	/m/09c7w0	/m/09c7w0
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP	/film/film/country
+-1
+tensor(-19.5784)
+___
+/m/02n9jv	/m/048scx	/m/0b79gfg	/m/0b79gfg
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/crewmember
+-1
+tensor(-19.6566)
+___
+/m/048scx	/m/048scx	/m/01yfm8	/m/01yfm8
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.7694)
+___
+/m/048scx	/m/048scx	/m/04cy8rb	/m/04cy8rb
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-19.7694)
+___
+/m/048scx	/m/048scx	/m/04cy8rb	/m/04cy8rb
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-19.8006)
+___
+/m/048scx	/m/048scx	/m/048scx	/m/048scx
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP	NO_OP
+-1
+tensor(-20.0471)
+___
+/m/07vn_9	/m/07vn_9	/m/09c7w0	/m/09c7w0
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-20.1904)
+___
+/m/07vn_9	/m/074tb5	/m/074tb5	/m/074tb5
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film	NO_OP
+-1
+tensor(-20.2241)
+___
+/m/07vn_9	/m/02n9jv	/m/02n9jv	/m/02n9jv
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP
+-1
+tensor(-20.4206)
+___
+/m/048scx	/m/02n9jv	/m/02n9jv	/m/02n9jv
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP
+-1
+tensor(-20.4565)
+___
+/m/048scx	/m/09c7w0	/m/05c46y6	/m/05c46y6
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-20.4904)
+___
+/m/048scx	/m/07nx9j	/m/07nx9j	/m/07nx9j
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film	NO_OP
+-1
+tensor(-20.5597)
+___
+/m/07vn_9	/m/073w14	/m/073w14	/m/073w14
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film	NO_OP
+-1
+tensor(-20.7334)
+___
+/m/07vn_9	/m/0bq3x	/m/0bq3x	/m/0bq3x
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film_subject/films	NO_OP
+-1
+tensor(-20.7566)
+___
+/m/02n9jv	/m/048scx	/m/048scx	/m/048scx
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	NO_OP
+-1
+tensor(-20.7631)
+___
+/m/07vn_9	/m/09c7w0	/m/05c46y6	/m/05c46y6
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-20.7713)
+___
+/m/07vn_9	/m/08k881	/m/08k881	/m/08k881
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/actor/film./film/performance/film	NO_OP
+-1
+tensor(-20.8170)
+___
+/m/07vn_9	/m/03g3w	/m/0b4lkx	/m/0b4lkx
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+/m/07vn_9	/m/03g3w	/m/064lsn	/m/064lsn
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+/m/07vn_9	/m/03g3w	/m/0hfzr	/m/0hfzr
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+/m/07vn_9	/m/03g3w	/m/0qmd5	/m/0qmd5
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+/m/07vn_9	/m/03g3w	/m/09rvcvl	/m/09rvcvl
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+/m/07vn_9	/m/03g3w	/m/09q23x	/m/09q23x
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+/m/07vn_9	/m/03g3w	/m/02vqsll	/m/02vqsll
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+/m/07vn_9	/m/03g3w	/m/01br2w	/m/01br2w
+_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/genre	_/film/film/genre
+-1
+tensor(-20.8855)
+___
+#####################
+/m/04f2zj	/m/09jwl
+Reward:0
+/m/04f2zj	/m/04f2zj	/m/0j6cj	/m/0j6cj
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0zjpz	/m/0zjpz
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/02s6sh	/m/02s6sh
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/018phr	/m/018phr
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0285c	/m/0285c
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0133x7	/m/0133x7
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/018pj3	/m/018pj3
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0161sp	/m/0161sp
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01l47f5	/m/01l47f5
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0277c3	/m/0277c3
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/02f1c	/m/02f1c
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01wmjkb	/m/01wmjkb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01386_	/m/01386_
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0ffgh	/m/0ffgh
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01gg59	/m/01gg59
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/02b25y	/m/02b25y
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0lsw9	/m/0lsw9
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01vvycq	/m/01vvycq
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01vs4ff	/m/01vs4ff
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0889x	/m/0889x
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01wdqrx	/m/01wdqrx
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/018y81	/m/018y81
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/032t2z	/m/032t2z
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/03j24kf	/m/03j24kf
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0lbj1	/m/0lbj1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/01wcp_g	/m/01wcp_g
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/0473q	/m/0473q
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/095x_	/m/095x_
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-3.3324)
+___
+/m/04f2zj	/m/04f2zj	/m/04f2zj	/m/04f2zj
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-12.5511)
+___
+/m/01vvycq	/m/01vrkdt	/m/05p9_ql	/m/05p9_ql
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.4342)
+___
+/m/01gg59	/m/01vwbts	/m/048qrd	/m/048qrd
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-14.7174)
+___
+/m/01gg59	/m/05q9g1	/m/05q9g1	/m/05q9g1
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-14.7727)
+___
+/m/02s6sh	/m/01zmqw	/m/01zmqw	/m/01zmqw
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-14.8895)
+___
+/m/0889x	/m/06mxs	/m/06mxs	/m/06mxs
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-14.9866)
+___
+/m/0889x	/m/0889x	/m/0889x	/m/0889x
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-15.0621)
+___
+/m/02b25y	/m/01cwhp	/m/0dr_4	/m/0dr_4
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.1221)
+___
+/m/0277c3	/m/01wbgdv	/m/01wbgdv	/m/01wbgdv
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.1330)
+___
+/m/0133x7	/m/02qjb7z	/m/02qjb7z	/m/02qjb7z
+_/people/person/profession	/music/artist/origin	NO_OP
+-1
+tensor(-15.1600)
+___
+/m/018y81	/m/09ctj	/m/09ctj	/m/09ctj
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-15.1647)
+___
+/m/01wdqrx	/m/0ggl02	/m/0ggl02	/m/0ggl02
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.2335)
+___
+/m/01386_	/m/09bjv	/m/09bjv	/m/09bjv
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-15.2435)
+___
+/m/0277c3	/m/0277c3	/m/018vs	/m/018vs
+_/people/person/profession	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-15.2674)
+___
+/m/02b25y	/m/01cwhp	/m/0dr_4	/m/0dr_4
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.3114)
+___
+/m/0133x7	/m/036k0s	/m/036k0s	/m/036k0s
+_/people/person/profession	/music/artist/origin	NO_OP
+-1
+tensor(-15.3495)
+___
+/m/01386_	/m/09bjv	/m/09bjv	/m/09bjv
+_/people/person/profession	/music/artist/origin	NO_OP
+-1
+tensor(-15.3638)
+___
+/m/01wmjkb	/m/0n6dc	/m/0n6dc	/m/0n6dc
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-15.3857)
+___
+/m/018y81	/m/018y81	/m/018y81	/m/018y81
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-15.4029)
+___
+/m/02b25y	/m/02qlg7s	/m/02qlg7s	/m/02qlg7s
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.4589)
+___
+/m/01wcp_g	/m/01364q	/m/01364q	/m/01364q
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.4782)
+___
+/m/01wmjkb	/m/0n6dc	/m/0n6dc	/m/0n6dc
+_/people/person/profession	/music/artist/origin	_/location/hud_county_place/place
+-1
+tensor(-15.5088)
+___
+/m/0277c3	/m/016t00	/m/016t00	/m/016t00
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.5499)
+___
+/m/0473q	/m/0fq117k	/m/0fq117k	/m/0fq117k
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.5959)
+___
+/m/01gg59	/m/05q9g1	/m/05q9g1	/m/05q9g1
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.5972)
+___
+/m/0473q	/m/0k33p	/m/0k33p	/m/0k33p
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-15.6215)
+___
+/m/01wmjkb	/m/032wdd	/m/07pd_j	/m/07pd_j
+_/people/person/profession	/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.6628)
+___
+/m/01wmjkb	/m/0n6dc	/m/0n6dc	/m/0n6dc
+_/people/person/profession	/people/person/place_of_birth	_/location/hud_county_place/place
+-1
+tensor(-15.6926)
+___
+/m/01vvycq	/m/01vrkdt	/m/05p9_ql	/m/05p9_ql
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-15.6984)
+___
+/m/0133x7	/m/06rgq	/m/06rgq	/m/06rgq
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.7098)
+___
+/m/01wcp_g	/m/01wk7ql	/m/01wk7ql	/m/01wk7ql
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.7319)
+___
+/m/02s6sh	/m/0r00l	/m/0r00l	/m/0r00l
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-15.7404)
+___
+/m/0j6cj	/m/01mxt_	/m/01mxt_	/m/01mxt_
+_/people/person/profession	/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP
+-1
+tensor(-15.7934)
+___
+/m/02f1c	/m/0kftt	/m/01k5y0	/m/01k5y0
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.7999)
+___
+/m/02f1c	/m/0kftt	/m/0kcn7	/m/0kcn7
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.7999)
+___
+/m/02b25y	/m/02dbp7	/m/02dbp7	/m/02dbp7
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.8099)
+___
+/m/0lsw9	/m/0ccvx	/m/0cr3d	/m/0cr3d
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.8135)
+___
+/m/0ffgh	/m/01kwlwp	/m/01kwlwp	/m/01kwlwp
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.8468)
+___
+/m/018phr	/m/018pj3	/m/018pj3	/m/018pj3
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.8836)
+___
+/m/01wdqrx	/m/0ggl02	/m/0ggl02	/m/0ggl02
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.8915)
+___
+/m/01wdqrx	/m/0ggl02	/m/0ggl02	/m/0ggl02
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.8934)
+___
+/m/0j6cj	/m/01jr6	/m/0dc95	/m/0dc95
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.8993)
+___
+/m/0277c3	/m/0277c3	/m/03mnn0	/m/03mnn0
+_/people/person/profession	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-15.9211)
+___
+/m/0zjpz	/m/0xpq9	/m/0xpq9	/m/0xpq9
+_/people/person/profession	/people/person/place_of_birth	_/location/hud_county_place/place
+-1
+tensor(-15.9605)
+___
+/m/0277c3	/m/0277c3	/m/01vj9c	/m/01vj9c
+_/people/person/profession	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-15.9651)
+___
+/m/0133x7	/m/0133x7	/m/0133x7	/m/0133x7
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-15.9753)
+___
+/m/018phr	/m/06x4l_	/m/06x4l_	/m/06x4l_
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.0480)
+___
+/m/02f1c	/m/02pzc4	/m/02pzc4	/m/02pzc4
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-16.0669)
+___
+/m/02b25y	/m/01cwhp	/m/01cwhp	/m/01cwhp
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.0718)
+___
+/m/0473q	/m/0473q	/m/0473q	/m/0473q
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-16.0900)
+___
+/m/0889x	/m/0889x	/m/02sgy	/m/02sgy
+_/people/person/profession	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-16.0915)
+___
+/m/018pj3	/m/06x4l_	/m/06x4l_	/m/06x4l_
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-16.1141)
+___
+/m/0473q	/m/0fq117k	/m/0fq117k	/m/0fq117k
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.1226)
+___
+/m/01wmjkb	/m/030qb3t	/m/030qb3t	/m/030qb3t
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-16.1663)
+___
+/m/0j6cj	/m/0j6cj	/m/0j6cj	/m/0j6cj
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-16.2018)
+___
+/m/01vvycq	/m/01vzxld	/m/01vzxld	/m/01vzxld
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.2043)
+___
+/m/01wcp_g	/m/01f2q5	/m/01f2q5	/m/01f2q5
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-16.2231)
+___
+/m/01wmjkb	/m/0n6dc	/m/0n6dc	/m/0n6dc
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-16.2391)
+___
+/m/0zjpz	/m/0xpq9	/m/0y62n	/m/0y62n
+_/people/person/profession	/people/person/place_of_birth	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-16.2526)
+___
+/m/01wcp_g	/m/0288fyj	/m/0288fyj	/m/0288fyj
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-16.2982)
+___
+/m/01wmjkb	/m/0n6dc	/m/0n6dc	/m/0n6dc
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-16.3014)
+___
+/m/095x_	/m/0dclg	/m/0fxyd	/m/0fxyd
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-16.3046)
+___
+/m/095x_	/m/0dclg	/m/0mwxz	/m/0mwxz
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-16.3046)
+___
+/m/095x_	/m/0dclg	/m/05fjf	/m/05fjf
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-16.3046)
+___
+/m/018phr	/m/01l47f5	/m/01l47f5	/m/01l47f5
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.3056)
+___
+/m/01wmjkb	/m/0n6dc	/m/0n6dc	/m/0n6dc
+_/people/person/profession	/music/artist/origin	NO_OP
+-1
+tensor(-16.3114)
+___
+/m/01wdqrx	/m/0ggl02	/m/0ggl02	/m/0ggl02
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.3278)
+___
+/m/018pj3	/m/06x4l_	/m/06x4l_	/m/06x4l_
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.3323)
+___
+/m/0j6cj	/m/01jr6	/m/01jr6	/m/01jr6
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-16.3401)
+___
+/m/02b25y	/m/01cwhp	/m/0dr_4	/m/0dr_4
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-16.3440)
+___
+/m/0133x7	/m/080h2	/m/01d26y	/m/01d26y
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-16.3525)
+___
+/m/018pj3	/m/018phr	/m/018phr	/m/018phr
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-16.3547)
+___
+#####################
+/m/025tmkg	/m/04s2z
+Reward:0
+/m/025tmkg	/m/025tmkg	/m/04n6k	/m/04n6k
+NO_OP	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-1.1921e-06)
+___
+/m/025tmkg	/m/025tmkg	/m/025tmkg	/m/025tmkg
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-13.6069)
+___
+/m/025tmkg	/m/04n6k	/m/0b22w	/m/0b22w
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/05r4w	/m/05r4w
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04rlf	/m/04rlf
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06mz5	/m/06mz5
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01tbp	/m/01tbp
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0b90_r	/m/0b90_r
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/02j62	/m/02j62
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06pr6	/m/06pr6
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06j2v	/m/06j2v
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/07h34	/m/07h34
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06p5g	/m/06p5g
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06ntj	/m/06ntj
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0166v	/m/0166v
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06nsn	/m/06nsn
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04wlh	/m/04wlh
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0dg3n1	/m/0dg3n1
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/02jhc	/m/02jhc
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/016wzw	/m/016wzw
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/03rk0	/m/03rk0
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0jjw	/m/0jjw
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/034ls	/m/034ls
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0193x	/m/0193x
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/083q7	/m/083q7
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06bvp	/m/06bvp
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04hvw	/m/04hvw
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/07j9n	/m/07j9n
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/026bk	/m/026bk
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0h7x	/m/0h7x
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06msq	/m/06msq
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/081yw	/m/081yw
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0jbk	/m/0jbk
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/014dgf	/m/014dgf
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/03s0c	/m/03s0c
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01lj9	/m/01lj9
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0kbq	/m/0kbq
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0ctw_b	/m/0ctw_b
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0164b	/m/0164b
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06d_3	/m/06d_3
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0f8l9c	/m/0f8l9c
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0db86	/m/0db86
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/07c5l	/m/07c5l
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/059_w	/m/059_w
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/07_pf	/m/07_pf
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/059t8	/m/059t8
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06l8d	/m/06l8d
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/042kg	/m/042kg
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01mf0	/m/01mf0
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/015qh	/m/015qh
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/03rz4	/m/03rz4
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/038_l	/m/038_l
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/06srk	/m/06srk
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/050ks	/m/050ks
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04hhv	/m/04hhv
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04ych	/m/04ych
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/059g4	/m/059g4
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04wsz	/m/04wsz
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04rrx	/m/04rrx
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/059s8	/m/059s8
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/05jnl	/m/05jnl
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0261m	/m/0261m
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01nyl	/m/01nyl
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/05rgl	/m/05rgl
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/034cm	/m/034cm
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01nln	/m/01nln
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/03082	/m/03082
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/035dk	/m/035dk
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0165b	/m/0165b
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/09bcm	/m/09bcm
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/048fz	/m/048fz
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/09bg4l	/m/09bg4l
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/02jfc	/m/02jfc
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01n4w	/m/01n4w
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01mjq	/m/01mjq
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04w58	/m/04w58
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/059j2	/m/059j2
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/02xry	/m/02xry
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/05cc1	/m/05cc1
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0k1dw	/m/0k1dw
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0dwly	/m/0dwly
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0gyh	/m/0gyh
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/03__y	/m/03__y
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/02jx1	/m/02jx1
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/02vzc	/m/02vzc
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04hzj	/m/04hzj
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0694j	/m/0694j
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01sh2	/m/01sh2
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/035qy	/m/035qy
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01699	/m/01699
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0hg5	/m/0hg5
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/034rd	/m/034rd
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/03v0t	/m/03v0t
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/04wv_	/m/04wv_
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0j3b	/m/0j3b
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/09xq9d	/m/09xq9d
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/028rk	/m/028rk
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/03pn9	/m/03pn9
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/0vmt	/m/0vmt
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+/m/025tmkg	/m/04n6k	/m/01hnp	/m/01hnp
+NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	_/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-29.3809)
+___
+#####################
+/m/047vnfs	/m/04_tv
+Reward:0
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+#####################
+/m/022qqh	/m/04_tv
+Reward:0
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+PAD	PAD	PAD	PAD
+PAD	PAD	PAD
+-1
+tensor(-13.8155)
+___
+#####################
+/m/015h31	/m/0196pc
+Reward:0
+/m/015h31	/m/015h31	/m/07sc6nw	/m/07sc6nw
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0j6b5	/m/0j6b5
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/047vnkj	/m/047vnkj
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0cpllql	/m/0cpllql
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0k4d7	/m/0k4d7
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/01l_pn	/m/01l_pn
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/04n52p6	/m/04n52p6
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03cmsqb	/m/03cmsqb
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/026hh0m	/m/026hh0m
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/06znpjr	/m/06znpjr
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/04grkmd	/m/04grkmd
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/050f0s	/m/050f0s
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0gldyz	/m/0gldyz
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/02qm_f	/m/02qm_f
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0bv8h2	/m/0bv8h2
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/04lqvly	/m/04lqvly
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03hxsv	/m/03hxsv
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05qbckf	/m/05qbckf
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03tbg6	/m/03tbg6
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/07f_t4	/m/07f_t4
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/014kq6	/m/014kq6
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0292qb	/m/0292qb
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/04jpg2p	/m/04jpg2p
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/06fcqw	/m/06fcqw
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/07nxnw	/m/07nxnw
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/024l2y	/m/024l2y
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05szq8z	/m/05szq8z
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05k4my	/m/05k4my
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/033srr	/m/033srr
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05wp1p	/m/05wp1p
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05nlx4	/m/05nlx4
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0dkv90	/m/0dkv90
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05pdh86	/m/05pdh86
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0ct2tf5	/m/0ct2tf5
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03nfnx	/m/03nfnx
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05m_jsg	/m/05m_jsg
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03n3gl	/m/03n3gl
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0fr63l	/m/0fr63l
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/031778	/m/031778
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/02vyyl8	/m/02vyyl8
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0639bg	/m/0639bg
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0270k40	/m/0270k40
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/07bzz7	/m/07bzz7
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/02vqhv0	/m/02vqhv0
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/04w7rn	/m/04w7rn
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/01xbxn	/m/01xbxn
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/06gb1w	/m/06gb1w
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/02mmwk	/m/02mmwk
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05fcbk7	/m/05fcbk7
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/057lbk	/m/057lbk
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/01hvjx	/m/01hvjx
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/08052t3	/m/08052t3
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0642xf3	/m/0642xf3
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0243cq	/m/0243cq
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0bl3nn	/m/0bl3nn
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/07nt8p	/m/07nt8p
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05sxr_	/m/05sxr_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/027j9wd	/m/027j9wd
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/026lgs	/m/026lgs
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/02qydsh	/m/02qydsh
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/01xdxy	/m/01xdxy
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05q96q6	/m/05q96q6
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/04g73n	/m/04g73n
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03s9kp	/m/03s9kp
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/027s39y	/m/027s39y
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/09txzv	/m/09txzv
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0dnkmq	/m/0dnkmq
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03459x	/m/03459x
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/02x3y41	/m/02x3y41
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/05pbl56	/m/05pbl56
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/03q0r1	/m/03q0r1
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/015h31	/m/0dp7wt	/m/0dp7wt
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.3567)
+___
+/m/015h31	/m/0gldyz	/m/018grr	/m/018grr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.8801)
+___
+/m/015h31	/m/0fr63l	/m/0cw67g	/m/0cw67g
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.8813)
+___
+/m/015h31	/m/04lqvly	/m/024rdh	/m/024rdh
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.8880)
+___
+/m/015h31	/m/02vyyl8	/m/0lx2l	/m/0lx2l
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.8902)
+___
+/m/015h31	/m/0cpllql	/m/0kx4m	/m/0kx4m
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.8926)
+___
+/m/015h31	/m/0ct2tf5	/m/025n3p	/m/025n3p
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.8952)
+___
+/m/015h31	/m/024l2y	/m/032v0v	/m/032v0v
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.8971)
+___
+/m/015h31	/m/07nt8p	/m/06449	/m/06449
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9012)
+___
+/m/015h31	/m/0243cq	/m/02bh9	/m/02bh9
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9055)
+___
+/m/015h31	/m/057lbk	/m/023zsh	/m/023zsh
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9090)
+___
+/m/015h31	/m/03tbg6	/m/01mkn_d	/m/01mkn_d
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9145)
+___
+/m/015h31	/m/0292qb	/m/0f4vbz	/m/0f4vbz
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9171)
+___
+/m/015h31	/m/0bv8h2	/m/0dzf_	/m/0dzf_
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9224)
+___
+/m/015h31	/m/09txzv	/m/03h610	/m/03h610
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9294)
+___
+/m/015h31	/m/03n3gl	/m/05qd_	/m/05qd_
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9314)
+___
+/m/015h31	/m/06gb1w	/m/094tsh6	/m/094tsh6
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.9516)
+___
+/m/015h31	/m/02vqhv0	/m/01f7j9	/m/01f7j9
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/director/film
+-1
+tensor(-7.4790)
+___
+/m/015h31	/m/0642xf3	/m/01r2c7	/m/01r2c7
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/director/film
+-1
+tensor(-7.4849)
+___
+/m/015h31	/m/03cmsqb	/m/016tt2	/m/016tt2
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5630)
+___
+/m/015h31	/m/03cmsqb	/m/0794g	/m/0794g
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5630)
+___
+/m/015h31	/m/05pbl56	/m/02jxmr	/m/02jxmr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5645)
+___
+/m/015h31	/m/05pbl56	/m/0f4vbz	/m/0f4vbz
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5645)
+___
+/m/015h31	/m/014kq6	/m/03knl	/m/03knl
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5649)
+___
+/m/015h31	/m/014kq6	/m/01vs_v8	/m/01vs_v8
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5649)
+___
+/m/015h31	/m/05szq8z	/m/086k8	/m/086k8
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5659)
+___
+/m/015h31	/m/05szq8z	/m/03v1w7	/m/03v1w7
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5659)
+___
+/m/015h31	/m/0k4d7	/m/0b82vw	/m/0b82vw
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5661)
+___
+/m/015h31	/m/0k4d7	/m/081nh	/m/081nh
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.5661)
+___
+#####################
+/m/0dz3r	/m/047rgpy
+Reward:0
+/m/0dz3r	/m/0dz3r	/m/01wp8w7	/m/01wp8w7
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wwnh2	/m/01wwnh2
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/02x_h0	/m/02x_h0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/053y0s	/m/053y0s
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0gt_k	/m/0gt_k
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01hw6wq	/m/01hw6wq
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0lbj1	/m/0lbj1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vwyqp	/m/01vwyqp
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01n8gr	/m/01n8gr
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01l4g5	/m/01l4g5
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vvlyt	/m/01vvlyt
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vtj38	/m/01vtj38
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0132k4	/m/0132k4
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/04pf4r	/m/04pf4r
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vrt_c	/m/01vrt_c
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/07ss8_	/m/07ss8_
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wj5hp	/m/01wj5hp
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01w9wwg	/m/01w9wwg
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/03f6fl0	/m/03f6fl0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01mr2g6	/m/01mr2g6
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/016wvy	/m/016wvy
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vvyd8	/m/01vvyd8
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/04n65n	/m/04n65n
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01w3lzq	/m/01w3lzq
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0flpy	/m/0flpy
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/03c7ln	/m/03c7ln
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wz3cx	/m/01wz3cx
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01ws9n6	/m/01ws9n6
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01w7nww	/m/01w7nww
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/086qd	/m/086qd
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vhrz	/m/01vhrz
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/07j8kh	/m/07j8kh
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/019x62	/m/019x62
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0bqsy	/m/0bqsy
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01w272y	/m/01w272y
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vsn38	/m/01vsn38
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/025ldg	/m/025ldg
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0232lm	/m/0232lm
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0bhvtc	/m/0bhvtc
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/018x3	/m/018x3
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/03j149k	/m/03j149k
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/04bpm6	/m/04bpm6
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0l12d	/m/0l12d
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/05d8vw	/m/05d8vw
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/06fmdb	/m/06fmdb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/02cx72	/m/02cx72
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01hrqc	/m/01hrqc
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/06s7rd	/m/06s7rd
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0150t6	/m/0150t6
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01w5jwb	/m/01w5jwb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01pfkw	/m/01pfkw
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0677ng	/m/0677ng
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/04vrxh	/m/04vrxh
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/02sjp	/m/02sjp
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01m7pwq	/m/01m7pwq
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0kzy0	/m/0kzy0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01364q	/m/01364q
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01tv3x2	/m/01tv3x2
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01ldw4	/m/01ldw4
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0zjpz	/m/0zjpz
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wd9lv	/m/01wd9lv
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vz0g4	/m/01vz0g4
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vng3b	/m/01vng3b
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01hgwkr	/m/01hgwkr
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vvybv	/m/01vvybv
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wf86y	/m/01wf86y
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/02gyl0	/m/02gyl0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wzlxj	/m/01wzlxj
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01w20rx	/m/01w20rx
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0ffgh	/m/0ffgh
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01qmy04	/m/01qmy04
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01pny5	/m/01pny5
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/04mn81	/m/04mn81
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0dt1cm	/m/0dt1cm
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/05mxw33	/m/05mxw33
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/013w7j	/m/013w7j
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wwvd2	/m/01wwvd2
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/03sww	/m/03sww
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/015882	/m/015882
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/02qwg	/m/02qwg
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wx756	/m/01wx756
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01l47f5	/m/01l47f5
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0c9d9	/m/0c9d9
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wbz9	/m/01wbz9
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0147dk	/m/0147dk
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/018y81	/m/018y81
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vrncs	/m/01vrncs
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01zmpg	/m/01zmpg
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01qgry	/m/01qgry
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/03f5spx	/m/03f5spx
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/03kwtb	/m/03kwtb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vs4ff	/m/01vs4ff
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0g824	/m/0g824
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01wg3q	/m/01wg3q
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01vv6xv	/m/01vv6xv
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/012ycy	/m/012ycy
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01dpsv	/m/01dpsv
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/02cx90	/m/02cx90
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/01sb5r	/m/01sb5r
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.5957)
+___
+/m/0dz3r	/m/0dz3r	/m/0dz3r	/m/0dz3r
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-13.0449)
+___
+#####################
+/m/05xls	/m/09j9h
+Reward:0
+/m/05xls	/m/05xls	/m/01wg982	/m/01wg982
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-0.0001)
+___
+/m/05xls	/m/05xls	/m/05xls	/m/05xls
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-9.1448)
+___
+/m/01wg982	/m/01wg982	/m/09qljs	/m/09qljs
+_/people/person/profession	NO_OP	_/film/film/written_by
+-1
+tensor(-14.8934)
+___
+/m/01wg982	/m/011hdn	/m/011hdn	/m/011hdn
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.4123)
+___
+/m/01wg982	/m/0tz14	/m/0tz14	/m/0tz14
+_/people/person/profession	/music/artist/origin	_/location/hud_county_place/place
+-1
+tensor(-15.4323)
+___
+/m/01wg982	/m/0tz14	/m/0tz14	/m/0tz14
+_/people/person/profession	/people/person/place_of_birth	_/location/hud_county_place/place
+-1
+tensor(-15.4622)
+___
+/m/01wg982	/m/0tz14	/m/0tz14	/m/0tz14
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-15.5101)
+___
+/m/01wg982	/m/01wg982	/m/09qljs	/m/09qljs
+_/people/person/profession	NO_OP	_/film/film/produced_by
+-1
+tensor(-15.9738)
+___
+/m/01wg982	/m/01wg982	/m/0342h	/m/0342h
+_/people/person/profession	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-16.1618)
+___
+/m/01wg982	/m/02lw8j	/m/02lw8j	/m/02lw8j
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-16.1753)
+___
+/m/01wg982	/m/06bpt_	/m/06bpt_	/m/06bpt_
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-16.1984)
+___
+/m/01wg982	/m/01wg982	/m/03bx0bm	/m/03bx0bm
+_/people/person/profession	NO_OP	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-16.2649)
+___
+/m/01wg982	/m/020ngt	/m/020ngt	/m/020ngt
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-16.2916)
+___
+/m/01wg982	/m/0tz14	/m/0tz14	/m/0tz14
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-16.3142)
+___
+/m/01wg982	/m/09qljs	/m/01wg982	/m/01wg982
+_/people/person/profession	_/film/film/written_by	/film/film/written_by
+-1
+tensor(-16.4154)
+___
+/m/01wg982	/m/04_sqm	/m/04_sqm	/m/04_sqm
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-16.4432)
+___
+/m/01wg982	/m/0tz14	/m/0tz14	/m/0tz14
+_/people/person/profession	/music/artist/origin	NO_OP
+-1
+tensor(-16.4503)
+___
+/m/01wg982	/m/0tz14	/m/0tz14	/m/0tz14
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-16.5904)
+___
+/m/01wg982	/m/029fbr	/m/029fbr	/m/029fbr
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-16.6176)
+___
+/m/01wg982	/m/011hdn	/m/0342h	/m/0342h
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-16.6271)
+___
+/m/01wg982	/m/011hdn	/m/03qjg	/m/03qjg
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/instrument/instrumentalists
+-1
+tensor(-16.6271)
+___
+/m/01wg982	/m/09qljs	/m/09qljs	/m/09qljs
+_/people/person/profession	_/film/film/produced_by	NO_OP
+-1
+tensor(-16.6956)
+___
+/m/01wg982	/m/0fb0v	/m/0fb0v	/m/0fb0v
+_/people/person/profession	_/music/record_label/artist	NO_OP
+-1
+tensor(-16.6957)
+___
+/m/01wg982	/m/05jt_	/m/05jt_	/m/05jt_
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-16.8252)
+___
+/m/01wg982	/m/09qljs	/m/09qljs	/m/09qljs
+_/people/person/profession	_/film/film/written_by	NO_OP
+-1
+tensor(-16.9208)
+___
+/m/01wg982	/m/0xv2x	/m/0xv2x	/m/0xv2x
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-16.9224)
+___
+/m/01wg982	/m/09qljs	/m/01wg982	/m/01wg982
+_/people/person/profession	_/film/film/produced_by	/film/film/written_by
+-1
+tensor(-16.9234)
+___
+/m/05xls	/m/01wg982	/m/09qljs	/m/09qljs
+NO_OP	_/people/person/profession	_/film/film/written_by
+-1
+tensor(-16.9424)
+___
+/m/01wg982	/m/0jrv_	/m/0jrv_	/m/0jrv_
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-17.0529)
+___
+/m/01wg982	/m/03bx0bm	/m/03bx0bm	/m/03bx0bm
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	NO_OP
+-1
+tensor(-17.3112)
+___
+/m/01wg982	/m/05xls	/m/05xls	/m/05xls
+_/people/person/profession	/people/person/profession	NO_OP
+-1
+tensor(-17.3226)
+___
+/m/05xls	/m/01wg982	/m/0342h	/m/0342h
+NO_OP	_/people/person/profession	_/music/instrument/instrumentalists
+-1
+tensor(-17.8093)
+___
+/m/01wg982	/m/03bx0bm	/m/03bx0bm	/m/03bx0bm
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	NO_OP
+-1
+tensor(-17.8651)
+___
+/m/01wg982	/m/03bx0bm	/m/06ncr	/m/06ncr
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/01dnws	/m/01dnws
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/04rzd	/m/04rzd
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/07brj	/m/07brj
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/05148p4	/m/05148p4
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/013y1f	/m/013y1f
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/02k856	/m/02k856
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/02dlh2	/m/02dlh2
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/01s0ps	/m/01s0ps
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/0dwt5	/m/0dwt5
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/03bx0bm	/m/0g2dz	/m/0g2dz
+_/people/person/profession	/music/group_member/membership./music/group_membership/role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-17.9048)
+___
+/m/01wg982	/m/09qljs	/m/01wg982	/m/01wg982
+_/people/person/profession	_/film/film/written_by	/film/film/produced_by
+-1
+tensor(-17.9425)
+___
+/m/01wg982	/m/011hdn	/m/09jwl	/m/09jwl
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/profession
+-1
+tensor(-17.9913)
+___
+/m/01wg982	/m/011hdn	/m/016z4k	/m/016z4k
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/profession
+-1
+tensor(-17.9913)
+___
+/m/01wg982	/m/011hdn	/m/039v1	/m/039v1
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/profession
+-1
+tensor(-17.9913)
+___
+/m/01wg982	/m/011hdn	/m/02dsz	/m/02dsz
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/profession
+-1
+tensor(-17.9913)
+___
+/m/01wg982	/m/09qljs	/m/01c65z	/m/01c65z
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/09qljs	/m/01xllf	/m/01xllf
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/09qljs	/m/02t1cp	/m/02t1cp
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/09qljs	/m/04xhwn	/m/04xhwn
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/09qljs	/m/02bfmn	/m/02bfmn
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/09qljs	/m/068g3p	/m/068g3p
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/09qljs	/m/07mz77	/m/07mz77
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/09qljs	/m/09g0h	/m/09g0h
+_/people/person/profession	_/film/film/written_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.0664)
+___
+/m/01wg982	/m/011hdn	/m/02lw8j	/m/02lw8j
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/genre/artists
+-1
+tensor(-18.0953)
+___
+/m/01wg982	/m/011hdn	/m/05w3f	/m/05w3f
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/genre/artists
+-1
+tensor(-18.0953)
+___
+/m/01wg982	/m/011hdn	/m/0173b0	/m/0173b0
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/music/genre/artists
+-1
+tensor(-18.0953)
+___
+/m/01wg982	/m/09c7w0	/m/05c46y6	/m/05c46y6
+_/people/person/profession	/people/person/nationality	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-18.1438)
+___
+/m/01wg982	/m/03bx0bm	/m/01dnws	/m/01dnws
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/0g2dz	/m/0g2dz
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/02k856	/m/02k856
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/06ncr	/m/06ncr
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/02dlh2	/m/02dlh2
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/05148p4	/m/05148p4
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/013y1f	/m/013y1f
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/07brj	/m/07brj
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/04rzd	/m/04rzd
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/0dwt5	/m/0dwt5
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/03bx0bm	/m/01s0ps	/m/01s0ps
+_/people/person/profession	/music/artist/contribution./music/recording_contribution/performance_role	_/music/performance_role/regular_performances./music/group_membership/role
+-1
+tensor(-18.1485)
+___
+/m/01wg982	/m/0342h	/m/0342h	/m/0342h
+_/people/person/profession	_/music/instrument/instrumentalists	NO_OP
+-1
+tensor(-18.1687)
+___
+/m/05xls	/m/01wg982	/m/03bx0bm	/m/03bx0bm
+NO_OP	_/people/person/profession	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-18.2028)
+___
+/m/01wg982	/m/06bpt_	/m/05jt_	/m/05jt_
+_/people/person/profession	_/music/genre/artists	_/music/genre/parent_genre
+-1
+tensor(-18.2185)
+___
+/m/01wg982	/m/03lty	/m/03lty	/m/03lty
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-18.2249)
+___
+/m/01wg982	/m/09qljs	/m/01wg982	/m/01wg982
+_/people/person/profession	_/film/film/produced_by	/film/film/produced_by
+-1
+tensor(-18.2535)
+___
+/m/01wg982	/m/0tz14	/m/0k3hn	/m/0k3hn
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	/location/hud_county_place/county
+-1
+tensor(-18.2552)
+___
+/m/01wg982	/m/02lw8j	/m/01vsxdm	/m/01vsxdm
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.2706)
+___
+/m/01wg982	/m/02lw8j	/m/01wg982	/m/01wg982
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.2706)
+___
+/m/01wg982	/m/02lw8j	/m/011hdn	/m/011hdn
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.2706)
+___
+/m/01wg982	/m/02lw8j	/m/03j_hq	/m/03j_hq
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.2706)
+___
+/m/01wg982	/m/02lw8j	/m/01whg97	/m/01whg97
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.2706)
+___
+/m/01wg982	/m/020ngt	/m/0339z0	/m/0339z0
+_/people/person/profession	_/music/genre/artists	_/music/genre/parent_genre
+-1
+tensor(-18.3041)
+___
+/m/01wg982	/m/05r6t	/m/05r6t	/m/05r6t
+_/people/person/profession	_/music/genre/artists	NO_OP
+-1
+tensor(-18.3156)
+___
+/m/01wg982	/m/0tz14	/m/0k3hn	/m/0k3hn
+_/people/person/profession	/music/artist/origin	/location/hud_county_place/county
+-1
+tensor(-18.3256)
+___
+/m/01wg982	/m/09qljs	/m/01xllf	/m/01xllf
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/09qljs	/m/02t1cp	/m/02t1cp
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/09qljs	/m/04xhwn	/m/04xhwn
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/09qljs	/m/068g3p	/m/068g3p
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/09qljs	/m/01c65z	/m/01c65z
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/09qljs	/m/09g0h	/m/09g0h
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/09qljs	/m/07mz77	/m/07mz77
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/09qljs	/m/02bfmn	/m/02bfmn
+_/people/person/profession	_/film/film/produced_by	_/film/actor/film./film/performance/film
+-1
+tensor(-18.3578)
+___
+/m/01wg982	/m/06bpt_	/m/016lj_	/m/016lj_
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.3691)
+___
+/m/01wg982	/m/06bpt_	/m/019389	/m/019389
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.3691)
+___
+/m/01wg982	/m/06bpt_	/m/01wt4wc	/m/01wt4wc
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.3691)
+___
+/m/01wg982	/m/06bpt_	/m/01wg982	/m/01wg982
+_/people/person/profession	_/music/genre/artists	/music/genre/artists
+-1
+tensor(-18.3691)
+___
+/m/01wg982	/m/01wg982	/m/01wg982	/m/01wg982
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-18.3790)
+___
+/m/01wg982	/m/0tz14	/m/05k7sb	/m/05k7sb
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	/base/biblioness/bibs_location/state
+-1
+tensor(-18.4070)
+___
+#####################
+/m/025352	/m/0cbd2
+Reward:0
+/m/025352	/m/025352	/m/09px1w	/m/09px1w
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01wp8w7	/m/01wp8w7
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01mh8zn	/m/01mh8zn
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01_x6v	/m/01_x6v
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/011vx3	/m/011vx3
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0c408_	/m/0c408_
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/016jll	/m/016jll
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02bfxb	/m/02bfxb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/052hl	/m/052hl
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01hrqc	/m/01hrqc
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vrnsk	/m/01vrnsk
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/03n0pv	/m/03n0pv
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0kvjrw	/m/0kvjrw
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01jllg1	/m/01jllg1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0drc1	/m/0drc1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01w9wwg	/m/01w9wwg
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/07g2b	/m/07g2b
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02fgp0	/m/02fgp0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01lw3kh	/m/01lw3kh
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/017r2	/m/017r2
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0pkgt	/m/0pkgt
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0dpqk	/m/0dpqk
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01wdcxk	/m/01wdcxk
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/03zrp	/m/03zrp
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/04k15	/m/04k15
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/05jjl	/m/05jjl
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/07j8kh	/m/07j8kh
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02xs0q	/m/02xs0q
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/012x4t	/m/012x4t
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vrlr4	/m/01vrlr4
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/05wm88	/m/05wm88
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/05pq9	/m/05pq9
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01w02sy	/m/01w02sy
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01cv3n	/m/01cv3n
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0144l1	/m/0144l1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0136p1	/m/0136p1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01jrz5j	/m/01jrz5j
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0c_mvb	/m/0c_mvb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0dfjb8	/m/0dfjb8
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/04g_wd	/m/04g_wd
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/081k8	/m/081k8
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0f_y9	/m/0f_y9
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/03kts	/m/03kts
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01pbwwl	/m/01pbwwl
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/057xn_m	/m/057xn_m
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/04r7jc	/m/04r7jc
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/06y9c2	/m/06y9c2
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/017b2p	/m/017b2p
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02cx72	/m/02cx72
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vrlqd	/m/01vrlqd
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02v3yy	/m/02v3yy
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01pr_j6	/m/01pr_j6
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01ydzx	/m/01ydzx
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vtqml	/m/01vtqml
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0h0p_	/m/0h0p_
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01m3x5p	/m/01m3x5p
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/077rj	/m/077rj
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/014q2g	/m/014q2g
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/071xj	/m/071xj
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01wj5hp	/m/01wj5hp
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vrncs	/m/01vrncs
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/012wg	/m/012wg
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01v6480	/m/01v6480
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0bdlj	/m/0bdlj
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01rwcgb	/m/01rwcgb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vvdm	/m/01vvdm
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02zft0	/m/02zft0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/04qr6d	/m/04qr6d
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/025tdwc	/m/025tdwc
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0164y7	/m/0164y7
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vsy7t	/m/01vsy7t
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02zj61	/m/02zj61
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/06rrzn	/m/06rrzn
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01vsqvs	/m/01vsqvs
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0f3nn	/m/0f3nn
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/02fybl	/m/02fybl
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0b_j2	/m/0b_j2
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01w524f	/m/01w524f
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/0f0y8	/m/0f0y8
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01kym3	/m/01kym3
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01c7qd	/m/01c7qd
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/01ldw4	/m/01ldw4
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-4.4072)
+___
+/m/025352	/m/025352	/m/025352	/m/025352
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-12.7871)
+___
+/m/04qr6d	/m/04qr6d	/m/04qr6d	/m/04qr6d
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-12.8688)
+___
+/m/025tdwc	/m/025tdwc	/m/025tdwc	/m/025tdwc
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-13.3668)
+___
+/m/01v6480	/m/01v6480	/m/02r1ysd	/m/02r1ysd
+_/people/person/profession	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-13.4458)
+___
+/m/0dfjb8	/m/0dfjb8	/m/05q54f5	/m/05q54f5
+_/people/person/profession	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-13.5109)
+___
+/m/0pkgt	/m/0pkgt	/m/0h0wd9	/m/0h0wd9
+_/people/person/profession	NO_OP	_/film/film/music
+-1
+tensor(-13.5771)
+___
+/m/0kvjrw	/m/0kvjrw	/m/0kvjrw	/m/0kvjrw
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-13.5917)
+___
+/m/05wm88	/m/05wm88	/m/05wm88	/m/05wm88
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-13.8459)
+___
+/m/0c_mvb	/m/0g51l1	/m/0g51l1	/m/0g51l1
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-13.8501)
+___
+/m/071xj	/m/071xj	/m/071xj	/m/071xj
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-13.9045)
+___
+/m/0164y7	/m/06z4wj	/m/0gl3hr	/m/0gl3hr
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-13.9111)
+___
+/m/0f3nn	/m/0f3nn	/m/0f3nn	/m/0f3nn
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-13.9136)
+___
+/m/0164y7	/m/06z4wj	/m/0gl3hr	/m/0gl3hr
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/written_by
+-1
+tensor(-13.9635)
+___
+/m/0164y7	/m/06z4wj	/m/06z4wj	/m/06z4wj
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-14.1258)
+___
+/m/01kym3	/m/01kym3	/m/01kym3	/m/01kym3
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-14.1503)
+___
+/m/01kym3	/m/01kym3	/m/02z5x7l	/m/02z5x7l
+_/people/person/profession	NO_OP	/film/actor/film./film/performance/film
+-1
+tensor(-14.1743)
+___
+/m/017b2p	/m/017b2p	/m/017b2p	/m/017b2p
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-14.1923)
+___
+/m/0kvjrw	/m/07c98	/m/07c98	/m/07c98
+_/people/person/profession	/music/artist/origin	NO_OP
+-1
+tensor(-14.2581)
+___
+#####################
+/m/0w7s	/m/09j9h
+Reward:0
+/m/0w7s	/m/0w7s	/m/0hkqn	/m/0hkqn
+NO_OP	NO_OP	_/business/business_operation/industry
+-1
+tensor(-0.6933)
+___
+/m/0w7s	/m/0w7s	/m/01frpd	/m/01frpd
+NO_OP	NO_OP	_/business/business_operation/industry
+-1
+tensor(-0.6933)
+___
+/m/0w7s	/m/0w7s	/m/065y4w7	/m/065y4w7
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/04rwx	/m/04rwx
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/027ybp	/m/027ybp
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/07szy	/m/07szy
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/0gl5_	/m/0gl5_
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/07vyf	/m/07vyf
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/012mzw	/m/012mzw
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/07ccs	/m/07ccs
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/0j_sncb	/m/0j_sncb
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/04hgpt	/m/04hgpt
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/0g8fs	/m/0g8fs
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/03np_7	/m/03np_7
+NO_OP	NO_OP	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-11.3510)
+___
+/m/0w7s	/m/0w7s	/m/0w7s	/m/0w7s
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-14.6013)
+___
+/m/0w7s	/m/0w7s	/m/04zx3q1	/m/04zx3q1
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study
+-1
+tensor(-18.3565)
+___
+/m/0w7s	/m/0w7s	/m/02h4rq6	/m/02h4rq6
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study
+-1
+tensor(-18.3565)
+___
+/m/0w7s	/m/0w7s	/m/016t_3	/m/016t_3
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study
+-1
+tensor(-18.3565)
+___
+/m/0w7s	/m/0w7s	/m/019v9k	/m/019v9k
+NO_OP	NO_OP	_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study
+-1
+tensor(-18.3565)
+___
+/m/0w7s	/m/01frpd	/m/01pd60	/m/01pd60
+NO_OP	_/business/business_operation/industry	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-24.0561)
+___
+/m/0w7s	/m/01frpd	/m/04k4rt	/m/04k4rt
+NO_OP	_/business/business_operation/industry	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-24.0561)
+___
+/m/0w7s	/m/0hkqn	/m/01ptsx	/m/01ptsx
+NO_OP	_/business/business_operation/industry	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-24.3804)
+___
+/m/0w7s	/m/0hkqn	/m/01pd60	/m/01pd60
+NO_OP	_/business/business_operation/industry	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-24.3804)
+___
+/m/0w7s	/m/0hkqn	/m/04k4rt	/m/04k4rt
+NO_OP	_/business/business_operation/industry	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-24.3804)
+___
+/m/0w7s	/m/01frpd	/m/02cl1	/m/02cl1
+NO_OP	_/business/business_operation/industry	/organization/organization/place_founded
+-1
+tensor(-26.2534)
+___
+/m/01frpd	/m/01frpd	/m/01pd60	/m/01pd60
+_/business/business_operation/industry	NO_OP	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-26.3027)
+___
+/m/01frpd	/m/01frpd	/m/04k4rt	/m/04k4rt
+_/business/business_operation/industry	NO_OP	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-26.3027)
+___
+/m/0w7s	/m/01frpd	/m/030qb3t	/m/030qb3t
+NO_OP	_/business/business_operation/industry	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-26.8328)
+___
+/m/0hkqn	/m/0hkqn	/m/01ptsx	/m/01ptsx
+_/business/business_operation/industry	NO_OP	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-26.8330)
+___
+/m/0hkqn	/m/0hkqn	/m/04k4rt	/m/04k4rt
+_/business/business_operation/industry	NO_OP	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-26.8330)
+___
+/m/0hkqn	/m/0hkqn	/m/01pd60	/m/01pd60
+_/business/business_operation/industry	NO_OP	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-26.8330)
+___
+/m/01frpd	/m/01frpd	/m/02cl1	/m/02cl1
+_/business/business_operation/industry	NO_OP	/organization/organization/place_founded
+-1
+tensor(-28.3868)
+___
+/m/0j_sncb	/m/0j_sncb	/m/0325pb	/m/0325pb
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	NO_OP	/education/university/fraternities_and_sororities
+-1
+tensor(-28.5636)
+___
+/m/0gl5_	/m/0gl5_	/m/0325pb	/m/0325pb
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	NO_OP	/education/university/fraternities_and_sororities
+-1
+tensor(-28.5875)
+___
+/m/01frpd	/m/05k6d	/m/05k6d	/m/05k6d
+_/business/business_operation/industry	/organization/organization/child./organization/organization_relationship/child	NO_OP
+-1
+tensor(-28.6984)
+___
+/m/04rwx	/m/04rwx	/m/035tlh	/m/035tlh
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	NO_OP	/education/university/fraternities_and_sororities
+-1
+tensor(-28.7120)
+___
+/m/01frpd	/m/0dq3c	/m/05njw	/m/05njw
+_/business/business_operation/industry	_/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-28.7368)
+___
+/m/065y4w7	/m/065y4w7	/m/09g7thr	/m/09g7thr
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	NO_OP	/award/ranked_item/appears_in_ranked_lists./award/ranking/list
+-1
+tensor(-28.8262)
+___
+/m/027ybp	/m/027ybp	/m/027ybp	/m/027ybp
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	NO_OP	/education/educational_institution/campuses
+-1
+tensor(-29.0116)
+___
+/m/03np_7	/m/03np_7	/m/03np_7	/m/03np_7
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.0492)
+___
+/m/019v9k	/m/03y5ky	/m/03y5ky	/m/03y5ky
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.0588)
+___
+/m/019v9k	/m/02zd2b	/m/02zd2b	/m/02zd2b
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.0598)
+___
+/m/019v9k	/m/02c9dj	/m/02c9dj	/m/02c9dj
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.0635)
+___
+/m/019v9k	/m/01xrlm	/m/01xrlm	/m/01xrlm
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.0637)
+___
+/m/019v9k	/m/037q2p	/m/037q2p	/m/037q2p
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.0655)
+___
+/m/019v9k	/m/01vg13	/m/01vg13	/m/01vg13
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.0664)
+___
+/m/019v9k	/m/0trv	/m/0325pb	/m/0325pb
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/university/fraternities_and_sororities
+-1
+tensor(-29.0946)
+___
+/m/019v9k	/m/015401	/m/015401	/m/015401
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.1172)
+___
+/m/019v9k	/m/01h8rk	/m/01h8rk	/m/01h8rk
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1196)
+___
+/m/019v9k	/m/03zj9	/m/03zj9	/m/03zj9
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1210)
+___
+/m/019v9k	/m/0p5wz	/m/0p5wz	/m/0p5wz
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1218)
+___
+/m/019v9k	/m/01bvw5	/m/01bvw5	/m/01bvw5
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1219)
+___
+/m/019v9k	/m/01xvlc	/m/01xvlc	/m/01xvlc
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1232)
+___
+/m/019v9k	/m/0gdm1	/m/0gdm1	/m/0gdm1
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1254)
+___
+/m/019v9k	/m/027xx3	/m/027xx3	/m/027xx3
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1259)
+___
+/m/019v9k	/m/0172jm	/m/0172jm	/m/0172jm
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.1264)
+___
+/m/019v9k	/m/04bfg	/m/04bfg	/m/04bfg
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.1289)
+___
+/m/0hkqn	/m/0krdk	/m/054lpb6	/m/054lpb6
+_/business/business_operation/industry	_/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-29.1293)
+___
+/m/0hkqn	/m/0krdk	/m/02630g	/m/02630g
+_/business/business_operation/industry	_/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-29.1293)
+___
+/m/019v9k	/m/02f8zw	/m/02f8zw	/m/02f8zw
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1312)
+___
+/m/019v9k	/m/04bbpm	/m/04bbpm	/m/04bbpm
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1316)
+___
+/m/019v9k	/m/03p2m1	/m/03p2m1	/m/03p2m1
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1335)
+___
+/m/019v9k	/m/02lv2v	/m/02lv2v	/m/02lv2v
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1337)
+___
+/m/019v9k	/m/026vcc	/m/026vcc	/m/026vcc
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1371)
+___
+/m/019v9k	/m/025v3k	/m/025v3k	/m/025v3k
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1443)
+___
+/m/019v9k	/m/01ngz1	/m/01ngz1	/m/01ngz1
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1453)
+___
+/m/019v9k	/m/017v71	/m/017v71	/m/017v71
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1467)
+___
+/m/019v9k	/m/035gt8	/m/035gt8	/m/035gt8
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1473)
+___
+/m/019v9k	/m/011kn2	/m/011kn2	/m/011kn2
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1482)
+___
+/m/0g8fs	/m/0g8fs	/m/0g8fs	/m/0g8fs
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1488)
+___
+/m/019v9k	/m/016wyn	/m/016wyn	/m/016wyn
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.1492)
+___
+/m/019v9k	/m/01c333	/m/01c333	/m/01c333
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.1511)
+___
+/m/019v9k	/m/02qw_v	/m/02qw_v	/m/02qw_v
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1528)
+___
+/m/019v9k	/m/017v3q	/m/017v3q	/m/017v3q
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1729)
+___
+/m/019v9k	/m/017cy9	/m/017cy9	/m/017cy9
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.1763)
+___
+/m/019v9k	/m/027ybp	/m/027ybp	/m/027ybp
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.1822)
+___
+/m/019v9k	/m/02897w	/m/02897w	/m/02897w
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.1885)
+___
+/m/019v9k	/m/0yls9	/m/0yls9	/m/0yls9
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.2033)
+___
+/m/019v9k	/m/0pspl	/m/0pspl	/m/0pspl
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.2142)
+___
+/m/019v9k	/m/07wjk	/m/07wjk	/m/07wjk
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/campuses
+-1
+tensor(-29.2198)
+___
+/m/019v9k	/m/07tgn	/m/07tgn	/m/07tgn
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.2240)
+___
+/m/019v9k	/m/01r3w7	/m/0680m7	/m/0680m7
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/educational_institution/colors
+-1
+tensor(-29.2522)
+___
+/m/019v9k	/m/0f102	/m/04m8fy	/m/04m8fy
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/education/university/fraternities_and_sororities
+-1
+tensor(-29.2627)
+___
+/m/019v9k	/m/01j_cy	/m/01j_cy	/m/01j_cy
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.2684)
+___
+/m/019v9k	/m/0yjf0	/m/05l5n	/m/05l5n
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-29.2699)
+___
+/m/019v9k	/m/03tw2s	/m/03tw2s	/m/03tw2s
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.3055)
+___
+/m/019v9k	/m/02tz9z	/m/02tz9z	/m/02tz9z
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.3312)
+___
+/m/019v9k	/m/01qd_r	/m/01qd_r	/m/01qd_r
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.3380)
+___
+/m/01frpd	/m/02cl1	/m/02cl1	/m/02cl1
+_/business/business_operation/industry	/organization/organization/place_founded	_/location/hud_county_place/place
+-1
+tensor(-29.3569)
+___
+/m/019v9k	/m/01f1r4	/m/01f1r4	/m/01f1r4
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.3753)
+___
+/m/012mzw	/m/012mzw	/m/012mzw	/m/012mzw
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.3989)
+___
+/m/01frpd	/m/0krdk	/m/054lpb6	/m/054lpb6
+_/business/business_operation/industry	_/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-29.4206)
+___
+/m/01frpd	/m/0krdk	/m/02630g	/m/02630g
+_/business/business_operation/industry	_/business/job_title/people_with_this_title./business/employment_tenure/company	/organization/role/leaders./organization/leadership/organization
+-1
+tensor(-29.4206)
+___
+/m/07vyf	/m/07vyf	/m/07vyf	/m/07vyf
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.4501)
+___
+/m/019v9k	/m/017zq0	/m/017zq0	/m/017zq0
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.4767)
+___
+/m/07ccs	/m/07ccs	/m/07ccs	/m/07ccs
+_/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/educational_institution_campus/educational_institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.4880)
+___
+/m/019v9k	/m/07t90	/m/07t90	/m/07t90
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	/education/educational_degree/people_with_this_degree./education/education/institution	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-29.5325)
+___
+/m/04zx3q1	/m/04zx3q1	/m/0lk0l	/m/0lk0l
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	NO_OP	/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-29.6053)
+___
+/m/04zx3q1	/m/04zx3q1	/m/0yl_3	/m/0yl_3
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	NO_OP	/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-29.6053)
+___
+/m/04zx3q1	/m/04zx3q1	/m/02fjzt	/m/02fjzt
+_/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	NO_OP	/education/educational_degree/people_with_this_degree./education/education/institution
+-1
+tensor(-29.6053)
+___
+#####################
+/m/029bkp	/m/028kk_
+Reward:0
+/m/029bkp	/m/029bkp	/m/01kvqc	/m/01kvqc
+NO_OP	NO_OP	/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person
+-1
+tensor(-0.0519)
+___
+/m/029bkp	/m/029bkp	/m/03f6fl0	/m/03f6fl0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01lmj3q	/m/01lmj3q
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01l7cxq	/m/01l7cxq
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01wx756	/m/01wx756
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/0ddkf	/m/0ddkf
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01p95y0	/m/01p95y0
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/0ql36	/m/0ql36
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/0bdlj	/m/0bdlj
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/02pbrn	/m/02pbrn
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/024zq	/m/024zq
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/0p3sf	/m/0p3sf
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01wg25j	/m/01wg25j
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01qdjm	/m/01qdjm
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/02cx90	/m/02cx90
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01w724	/m/01w724
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01p7b6b	/m/01p7b6b
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01m3x5p	/m/01m3x5p
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01kvqc	/m/01kvqc
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/0fpjd_g	/m/0fpjd_g
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01d4cb	/m/01d4cb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01vsksr	/m/01vsksr
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01tw31	/m/01tw31
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/01lvcs1	/m/01lvcs1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/09hnb	/m/09hnb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/0pmw9	/m/0pmw9
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/029bkp	/m/029bkp	/m/02pzc4	/m/02pzc4
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-6.2452)
+___
+/m/01kvqc	/m/01kvqc	/m/06ncr	/m/06ncr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-13.7895)
+___
+/m/01d4cb	/m/081l_	/m/0g5qmbz	/m/0g5qmbz
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.4128)
+___
+/m/01p7b6b	/m/0qkcb	/m/0qkcb	/m/0qkcb
+_/people/person/profession	/people/person/place_of_birth	_/location/hud_county_place/place
+-1
+tensor(-14.5373)
+___
+/m/01p7b6b	/m/01p7b6b	/m/01jc6q	/m/01jc6q
+_/people/person/profession	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6342)
+___
+/m/01p7b6b	/m/01p7b6b	/m/0hv1t	/m/0hv1t
+_/people/person/profession	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.6342)
+___
+/m/01lvcs1	/m/01k_mc	/m/026bfsh	/m/026bfsh
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-14.6858)
+___
+/m/01tw31	/m/02hgz	/m/02hgz	/m/02hgz
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-14.7318)
+___
+/m/01tw31	/m/0ccvd	/m/0ccvd	/m/0ccvd
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-14.7581)
+___
+/m/01kvqc	/m/02x8z_	/m/0gxsh4	/m/0gxsh4
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.7875)
+___
+/m/01d4cb	/m/081l_	/m/0g5qmbz	/m/0g5qmbz
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-14.7927)
+___
+/m/01tw31	/m/097ns	/m/09jg8	/m/09jg8
+_/people/person/profession	_/people/cause_of_death/people	/medicine/symptom/symptom_of
+-1
+tensor(-14.8326)
+___
+/m/01lvcs1	/m/01k_mc	/m/08l0x2	/m/08l0x2
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/music
+-1
+tensor(-14.8451)
+___
+/m/0bdlj	/m/0bdlj	/m/0n04r	/m/0n04r
+_/people/person/profession	NO_OP	_/film/film/music
+-1
+tensor(-14.8604)
+___
+/m/01p7b6b	/m/030qb3t	/m/030qb3t	/m/030qb3t
+_/people/person/profession	/people/deceased_person/place_of_death	NO_OP
+-1
+tensor(-14.8627)
+___
+/m/029bkp	/m/01kvqc	/m/06ncr	/m/06ncr
+NO_OP	/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	_/music/instrument/instrumentalists
+-1
+tensor(-14.8951)
+___
+/m/01kvqc	/m/01m3x5p	/m/07gql	/m/07gql
+_/people/person/profession	_/people/person/sibling_s./people/sibling_relationship/sibling	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-14.9323)
+___
+/m/01vsksr	/m/06y9v	/m/06y9v	/m/06y9v
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-14.9554)
+___
+/m/029bkp	/m/029bkp	/m/029bkp	/m/029bkp
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-14.9809)
+___
+/m/01wg25j	/m/0rt80	/m/0rt80	/m/0rt80
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-14.9987)
+___
+/m/0p3sf	/m/0lphb	/m/0lphb	/m/0lphb
+_/people/person/profession	/people/deceased_person/place_of_death	_/location/hud_county_place/place
+-1
+tensor(-15.0258)
+___
+/m/01lvcs1	/m/01k_mc	/m/026bfsh	/m/026bfsh
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-15.0584)
+___
+/m/02pbrn	/m/02pzc4	/m/02pzc4	/m/02pzc4
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.0590)
+___
+/m/01kvqc	/m/02x8z_	/m/0gxsh4	/m/0gxsh4
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.0737)
+___
+/m/01wg25j	/m/0rt80	/m/0rt80	/m/0rt80
+_/people/person/profession	/music/artist/origin	NO_OP
+-1
+tensor(-15.0755)
+___
+/m/01m3x5p	/m/06fmdb	/m/06fmdb	/m/06fmdb
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.0917)
+___
+/m/0ql36	/m/0h6l4	/m/0h6l4	/m/0h6l4
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-15.1653)
+___
+/m/0ql36	/m/0ftvz	/m/0ftvz	/m/0ftvz
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-15.2487)
+___
+/m/01p7b6b	/m/0qkcb	/m/0qkcb	/m/0qkcb
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-15.2758)
+___
+/m/01m3x5p	/m/0z05l	/m/03s9kp	/m/03s9kp
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-15.2879)
+___
+/m/01qdjm	/m/06h2w	/m/06h2w	/m/06h2w
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.3319)
+___
+/m/01kvqc	/m/01kvqc	/m/03qlv7	/m/03qlv7
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-15.3858)
+___
+/m/01kvqc	/m/01kvqc	/m/05r5c	/m/05r5c
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-15.3858)
+___
+/m/01kvqc	/m/01kvqc	/m/02pprs	/m/02pprs
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-15.3858)
+___
+/m/01kvqc	/m/01kvqc	/m/0l14j_	/m/0l14j_
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-15.3858)
+___
+/m/01kvqc	/m/01kvqc	/m/06ncr	/m/06ncr
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	NO_OP	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-15.3858)
+___
+/m/01lvcs1	/m/01k_mc	/m/08l0x2	/m/08l0x2
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/music
+-1
+tensor(-15.3929)
+___
+/m/02pbrn	/m/02pbrn	/m/05r5c	/m/05r5c
+_/people/person/profession	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-15.4845)
+___
+/m/02pbrn	/m/02pbrn	/m/06ch55	/m/06ch55
+_/people/person/profession	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-15.4845)
+___
+/m/03f6fl0	/m/0ygbf	/m/0ygbf	/m/0ygbf
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-15.4996)
+___
+/m/03f6fl0	/m/0f2v0	/m/0f2v0	/m/0f2v0
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-15.5209)
+___
+/m/0fpjd_g	/m/05pdbs	/m/05pdbs	/m/05pdbs
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.5394)
+___
+/m/0bdlj	/m/0dq9p	/m/0dcp_	/m/0dcp_
+_/people/person/profession	_/people/cause_of_death/people	/medicine/symptom/symptom_of
+-1
+tensor(-15.5522)
+___
+/m/01kvqc	/m/01m3x5p	/m/07gql	/m/07gql
+_/people/person/profession	/people/person/sibling_s./people/sibling_relationship/sibling	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-15.5633)
+___
+/m/0ql36	/m/0ql36	/m/0l14qv	/m/0l14qv
+_/people/person/profession	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-15.5793)
+___
+/m/0ql36	/m/0ql36	/m/01vdm0	/m/01vdm0
+_/people/person/profession	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-15.5793)
+___
+/m/01wx756	/m/01wx756	/m/0408m53	/m/0408m53
+_/people/person/profession	NO_OP	_/film/film/music
+-1
+tensor(-15.6114)
+___
+/m/01wx756	/m/01wx756	/m/0b6f8pf	/m/0b6f8pf
+_/people/person/profession	NO_OP	_/film/film/music
+-1
+tensor(-15.6114)
+___
+/m/01kvqc	/m/02x8z_	/m/0gxsh4	/m/0gxsh4
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.6142)
+___
+/m/01qdjm	/m/06h2w	/m/02fsn	/m/02fsn
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-15.6177)
+___
+/m/0ql36	/m/0ql36	/m/05148p4	/m/05148p4
+_/people/person/profession	NO_OP	/music/group_member/membership./music/group_membership/role
+-1
+tensor(-15.6224)
+___
+/m/024zq	/m/024zq	/m/024zq	/m/024zq
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-15.6752)
+___
+/m/01kvqc	/m/01kvqc	/m/06ncr	/m/06ncr
+_/people/person/profession	NO_OP	_/music/instrument/instrumentalists
+-1
+tensor(-15.7098)
+___
+/m/02pbrn	/m/02pzc4	/m/026t6	/m/026t6
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/music/instrument/instrumentalists
+-1
+tensor(-15.7101)
+___
+/m/02pbrn	/m/02pzc4	/m/02hnl	/m/02hnl
+_/people/person/profession	_/award/award_winner/awards_won./award/award_honor/award_winner	_/music/instrument/instrumentalists
+-1
+tensor(-15.7101)
+___
+/m/01kvqc	/m/01m3x5p	/m/07gql	/m/07gql
+_/people/person/profession	_/people/person/sibling_s./people/sibling_relationship/sibling	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-15.7321)
+___
+/m/01lvcs1	/m/044gyq	/m/044gyq	/m/044gyq
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.7684)
+___
+/m/01qdjm	/m/06h2w	/m/06h2w	/m/06h2w
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.7838)
+___
+/m/02pzc4	/m/02f1c	/m/06ybb1	/m/06ybb1
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.8506)
+___
+/m/02pzc4	/m/02f1c	/m/093l8p	/m/093l8p
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.8506)
+___
+/m/03f6fl0	/m/05jbn	/m/05jbn	/m/05jbn
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-15.8735)
+___
+/m/01l7cxq	/m/045zr	/m/045zr	/m/045zr
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	NO_OP
+-1
+tensor(-15.8829)
+___
+/m/02pbrn	/m/02pzc4	/m/02pzc4	/m/02pzc4
+_/people/person/profession	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.9183)
+___
+/m/024zq	/m/053yx	/m/053yx	/m/053yx
+_/people/person/profession	/influence/influence_node/peers./influence/peer_relationship/peers	NO_OP
+-1
+tensor(-15.9200)
+___
+/m/02pbrn	/m/01m3b1t	/m/03ckwzc	/m/03ckwzc
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/music
+-1
+tensor(-15.9305)
+___
+/m/02pbrn	/m/01m3b1t	/m/0963mq	/m/0963mq
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/music
+-1
+tensor(-15.9305)
+___
+/m/02pbrn	/m/01m3b1t	/m/01rwyq	/m/01rwyq
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/music
+-1
+tensor(-15.9305)
+___
+/m/02pbrn	/m/01m3b1t	/m/03wj4r8	/m/03wj4r8
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/film/film/music
+-1
+tensor(-15.9305)
+___
+/m/01d4cb	/m/081l_	/m/081l_	/m/081l_
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-15.9428)
+___
+/m/01wg25j	/m/01wg25j	/m/01wg25j	/m/01wg25j
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-15.9503)
+___
+/m/02pzc4	/m/0kftt	/m/0kcn7	/m/0kcn7
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.9774)
+___
+/m/02pzc4	/m/0kftt	/m/01k5y0	/m/01k5y0
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-15.9774)
+___
+/m/01l7cxq	/m/045zr	/m/045zr	/m/045zr
+_/people/person/profession	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	NO_OP
+-1
+tensor(-16.0170)
+___
+/m/01qdjm	/m/06h2w	/m/02fsn	/m/02fsn
+_/people/person/profession	/award/award_winner/awards_won./award/award_honor/award_winner	/music/artist/track_contributions./music/track_contribution/role
+-1
+tensor(-16.0320)
+___
+#####################
+/m/02ynfr	/m/0n1h
+Reward:0
+/m/02ynfr	/m/02ynfr	/m/0bbw2z6	/m/0bbw2z6
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/028cg00	/m/028cg00
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0879bpq	/m/0879bpq
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01719t	/m/01719t
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02xs6_	/m/02xs6_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01jrbb	/m/01jrbb
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02pxmgz	/m/02pxmgz
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/09q5w2	/m/09q5w2
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/07z6xs	/m/07z6xs
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/049xgc	/m/049xgc
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03b_fm5	/m/03b_fm5
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0d99k_	/m/0d99k_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/017gl1	/m/017gl1
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02b61v	/m/02b61v
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0fdv3	/m/0fdv3
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0pv54	/m/0pv54
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/065_cjc	/m/065_cjc
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0ds2l81	/m/0ds2l81
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02qhlwd	/m/02qhlwd
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02x6dqb	/m/02x6dqb
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/019vhk	/m/019vhk
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/013q07	/m/013q07
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/06y611	/m/06y611
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0gc_c_	/m/0gc_c_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01_0f7	/m/01_0f7
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02mpyh	/m/02mpyh
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/095zlp	/m/095zlp
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0fh2v5	/m/0fh2v5
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/04jplwp	/m/04jplwp
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/07p62k	/m/07p62k
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/05q4y12	/m/05q4y12
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0bvn25	/m/0bvn25
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01f7gh	/m/01f7gh
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0drnwh	/m/0drnwh
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/085wqm	/m/085wqm
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/024l2y	/m/024l2y
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0ptdz	/m/0ptdz
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/05k2xy	/m/05k2xy
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0ds2n	/m/0ds2n
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/04x4vj	/m/04x4vj
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0f40w	/m/0f40w
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01vw8k	/m/01vw8k
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0h03fhx	/m/0h03fhx
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0443v1	/m/0443v1
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0b1y_2	/m/0b1y_2
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0c34mt	/m/0c34mt
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03twd6	/m/03twd6
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/07vn_9	/m/07vn_9
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0dt8xq	/m/0dt8xq
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01xvjb	/m/01xvjb
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0g0x9c	/m/0g0x9c
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03ntbmw	/m/03ntbmw
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/05t54s	/m/05t54s
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/09bw4_	/m/09bw4_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03lrht	/m/03lrht
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0gldyz	/m/0gldyz
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/08c6k9	/m/08c6k9
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/05sxzwc	/m/05sxzwc
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02qdrjx	/m/02qdrjx
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/09p0ct	/m/09p0ct
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/027x7z5	/m/027x7z5
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/05nyqk	/m/05nyqk
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03lvwp	/m/03lvwp
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03s6l2	/m/03s6l2
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/017gm7	/m/017gm7
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0pc62	/m/0pc62
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/04w7rn	/m/04w7rn
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0b2km_	/m/0b2km_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0btyf5z	/m/0btyf5z
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03z9585	/m/03z9585
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/07phbc	/m/07phbc
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01j8wk	/m/01j8wk
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02tgz4	/m/02tgz4
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/05p09dd	/m/05p09dd
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01shy7	/m/01shy7
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/060v34	/m/060v34
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02vz6dn	/m/02vz6dn
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01jnc_	/m/01jnc_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02kfzz	/m/02kfzz
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03x7hd	/m/03x7hd
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0416y94	/m/0416y94
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02qyv3h	/m/02qyv3h
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01cssf	/m/01cssf
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/011yth	/m/011yth
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/05nlx4	/m/05nlx4
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0ch26b_	/m/0ch26b_
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/02prwdh	/m/02prwdh
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/01v1ln	/m/01v1ln
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0g7pm1	/m/0g7pm1
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03nm_fh	/m/03nm_fh
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/04fzfj	/m/04fzfj
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/047wh1	/m/047wh1
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/07tlfx	/m/07tlfx
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/03xj05	/m/03xj05
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02ynfr	/m/0h14ln	/m/0h14ln
+NO_OP	NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role
+-1
+tensor(-4.7089)
+___
+/m/02ynfr	/m/02qdrjx	/m/0184jc	/m/0184jc
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.5111)
+___
+/m/02ynfr	/m/01j8wk	/m/0168dy	/m/0168dy
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.5137)
+___
+/m/02ynfr	/m/0gldyz	/m/018grr	/m/018grr
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.5175)
+___
+/m/02ynfr	/m/02kfzz	/m/0d_84	/m/0d_84
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.5234)
+___
+/m/02ynfr	/m/07tlfx	/m/032_jg	/m/032_jg
+NO_OP	_/film/film/other_crew./film/film_crew_gig/film_crew_role	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.5268)
+___
+#####################
+/m/02y5kn	/m/04_tv
+Reward:0
+/m/02y5kn	/m/02y5kn	/m/049sb	/m/049sb
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-1.7930)
+___
+/m/02y5kn	/m/02y5kn	/m/0hcs3	/m/0hcs3
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-1.7930)
+___
+/m/02y5kn	/m/02y5kn	/m/0fw2d3	/m/0fw2d3
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-1.7930)
+___
+/m/02y5kn	/m/02y5kn	/m/04bsx1	/m/04bsx1
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-1.7930)
+___
+/m/02y5kn	/m/02y5kn	/m/0gtgp6	/m/0gtgp6
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-1.7930)
+___
+/m/02y5kn	/m/02y5kn	/m/0cg39k	/m/0cg39k
+NO_OP	NO_OP	_/people/person/profession
+-1
+tensor(-1.7930)
+___
+/m/02y5kn	/m/02y5kn	/m/02md_2	/m/02md_2
+NO_OP	NO_OP	/dataworld/gardening_hint/split_to
+-1
+tensor(-6.9161)
+___
+/m/02y5kn	/m/02y5kn	/m/0g_qdz	/m/0g_qdz
+NO_OP	NO_OP	_/people/profession/specialization_of
+-1
+tensor(-8.7532)
+___
+/m/02y5kn	/m/02y5kn	/m/02y5kn	/m/02y5kn
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-10.2297)
+___
+/m/0cg39k	/m/0cg39k	/m/0cg39k	/m/0cg39k
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-14.3352)
+___
+/m/0cg39k	/m/0cg39k	/m/02896	/m/02896
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-14.5301)
+___
+/m/0cg39k	/m/0cg39k	/m/01y49	/m/01y49
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-14.5301)
+___
+/m/0hcs3	/m/01b3l	/m/01b3l	/m/01b3l
+_/people/person/profession	_/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	NO_OP
+-1
+tensor(-14.9445)
+___
+/m/049sb	/m/0k89p	/m/0k89p	/m/0k89p
+_/people/person/profession	_/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	NO_OP
+-1
+tensor(-15.0155)
+___
+/m/049sb	/m/049sb	/m/09fc83	/m/09fc83
+_/people/person/profession	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-15.0637)
+___
+/m/0gtgp6	/m/02b1yn	/m/02b1yn	/m/02b1yn
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.1352)
+___
+/m/049sb	/m/049sb	/m/049sb	/m/049sb
+_/people/person/profession	NO_OP	NO_OP
+-1
+tensor(-15.1879)
+___
+/m/0fw2d3	/m/0cxbth	/m/0cxbth	/m/0cxbth
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.2542)
+___
+/m/0fw2d3	/m/0d8r8	/m/0d8r8	/m/0d8r8
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-15.2556)
+___
+/m/0gtgp6	/m/0230rx	/m/0230rx	/m/0230rx
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.2673)
+___
+/m/049sb	/m/0cc56	/m/0cc56	/m/0cc56
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	NO_OP
+-1
+tensor(-15.3582)
+___
+/m/0fw2d3	/m/04994l	/m/04994l	/m/04994l
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.3611)
+___
+/m/0fw2d3	/m/043t1s	/m/043t1s	/m/043t1s
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.4318)
+___
+/m/0cg39k	/m/0r6ff	/m/0r6ff	/m/0r6ff
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-15.4645)
+___
+/m/04bsx1	/m/0ck6r	/m/0ck6r	/m/0ck6r
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-15.4709)
+___
+/m/0cg39k	/m/0r6ff	/m/0r6cx	/m/0r6cx
+_/people/person/profession	/people/person/place_of_birth	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.4770)
+___
+/m/0cg39k	/m/0r6ff	/m/0r6c4	/m/0r6c4
+_/people/person/profession	/people/person/place_of_birth	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.4770)
+___
+/m/0cg39k	/m/0r6ff	/m/0r679	/m/0r679
+_/people/person/profession	/people/person/place_of_birth	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.4770)
+___
+/m/0cg39k	/m/0r6ff	/m/0f04v	/m/0f04v
+_/people/person/profession	/people/person/place_of_birth	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.4770)
+___
+/m/0gtgp6	/m/01wx_y	/m/01wx_y	/m/01wx_y
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.5076)
+___
+/m/02y5kn	/m/049sb	/m/09fc83	/m/09fc83
+NO_OP	_/people/person/profession	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-15.5303)
+___
+/m/0fw2d3	/m/01l3vx	/m/01l3vx	/m/01l3vx
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.5815)
+___
+/m/0gtgp6	/m/02029f	/m/02029f	/m/02029f
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.6221)
+___
+/m/0fw2d3	/m/02gys2	/m/02gys2	/m/02gys2
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.6479)
+___
+/m/0gtgp6	/m/0284gc	/m/0284gc	/m/0284gc
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.6630)
+___
+/m/0hcs3	/m/01_d4	/m/0s5cg	/m/0s5cg
+_/people/person/profession	/people/person/place_of_birth	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.6730)
+___
+/m/04bsx1	/m/02rh_0	/m/02rh_0	/m/02rh_0
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.6904)
+___
+/m/0fw2d3	/m/04mp8x	/m/04mp8x	/m/04mp8x
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.7065)
+___
+/m/049sb	/m/02_286	/m/02_286	/m/02_286
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-15.7121)
+___
+/m/049sb	/m/0cc56	/m/02m4d	/m/02m4d
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.7265)
+___
+/m/0fw2d3	/m/0371rb	/m/0371rb	/m/0371rb
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.7316)
+___
+/m/0gtgp6	/m/0272vm	/m/0272vm	/m/0272vm
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.7850)
+___
+/m/04bsx1	/m/02s2ys	/m/02s2ys	/m/02s2ys
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.7975)
+___
+/m/04bsx1	/m/01tqfs	/m/01tqfs	/m/01tqfs
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.8054)
+___
+/m/0gtgp6	/m/017znw	/m/017znw	/m/017znw
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.8113)
+___
+/m/0gtgp6	/m/0fvly	/m/0fvly	/m/0fvly
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.8637)
+___
+/m/0gtgp6	/m/02b1yn	/m/02b1yn	/m/02b1yn
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.8674)
+___
+/m/0fw2d3	/m/06zpgb2	/m/06zpgb2	/m/06zpgb2
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.8939)
+___
+/m/04bsx1	/m/0j2pg	/m/0j2pg	/m/0j2pg
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.9205)
+___
+/m/049sb	/m/0k89p	/m/0mzvm	/m/0mzvm
+_/people/person/profession	_/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-15.9246)
+___
+/m/04bsx1	/m/0cj_v7	/m/0cj_v7	/m/0cj_v7
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-15.9322)
+___
+/m/0hcs3	/m/0dc95	/m/0135g	/m/0135g
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.9413)
+___
+/m/0hcs3	/m/0dc95	/m/01jr6	/m/01jr6
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.9413)
+___
+/m/049sb	/m/0jmbv	/m/0jmbv	/m/0jmbv
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.0246)
+___
+/m/04bsx1	/m/06zpgb2	/m/06zpgb2	/m/06zpgb2
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.0777)
+___
+/m/0hcs3	/m/0hcs3	/m/05m_8	/m/05m_8
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0hcs3	/m/06wpc	/m/06wpc
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0hcs3	/m/01d5z	/m/01d5z
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0hcs3	/m/07l4z	/m/07l4z
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0hcs3	/m/04wmvz	/m/04wmvz
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0hcs3	/m/07147	/m/07147
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0hcs3	/m/0cqt41	/m/0cqt41
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0hcs3	/m/05g76	/m/05g76
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.0858)
+___
+/m/0hcs3	/m/0dc95	/m/0dc95	/m/0dc95
+_/people/person/profession	/people/person/places_lived./people/place_lived/location	_/location/hud_county_place/place
+-1
+tensor(-16.1008)
+___
+/m/04bsx1	/m/02b17f	/m/02b17f	/m/02b17f
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.1287)
+___
+/m/049sb	/m/049sb	/m/02pqcfz	/m/02pqcfz
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.1436)
+___
+/m/049sb	/m/049sb	/m/0jmbv	/m/0jmbv
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.1436)
+___
+/m/049sb	/m/049sb	/m/0jmk7	/m/0jmk7
+_/people/person/profession	NO_OP	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.1436)
+___
+/m/0gtgp6	/m/04knvh	/m/04knvh	/m/04knvh
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.1523)
+___
+/m/049sb	/m/09f2j	/m/09f2j	/m/09f2j
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution_campus/educational_institution
+-1
+tensor(-16.1703)
+___
+/m/0hcs3	/m/01_d4	/m/01_d4	/m/01_d4
+_/people/person/profession	/people/person/place_of_birth	NO_OP
+-1
+tensor(-16.2942)
+___
+/m/04bsx1	/m/027pwl	/m/027pwl	/m/027pwl
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.3469)
+___
+/m/0gtgp6	/m/0230rx	/m/0230rx	/m/0230rx
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.3509)
+___
+/m/02y5kn	/m/0cg39k	/m/01y49	/m/01y49
+NO_OP	_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.3599)
+___
+/m/02y5kn	/m/0cg39k	/m/02896	/m/02896
+NO_OP	_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.3599)
+___
+/m/0fw2d3	/m/04994l	/m/04994l	/m/04994l
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.3648)
+___
+/m/049sb	/m/0jmk7	/m/0jmk7	/m/0jmk7
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.4137)
+___
+/m/04bsx1	/m/014nzp	/m/014nzp	/m/014nzp
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.4229)
+___
+/m/04bsx1	/m/02rh_0	/m/02rh_0	/m/02rh_0
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.4269)
+___
+/m/0fw2d3	/m/04mp8x	/m/04mp8x	/m/04mp8x
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.4278)
+___
+/m/0cg39k	/m/0dzst	/m/0dzst	/m/0dzst
+_/people/person/profession	_/education/educational_institution/students_graduates./education/education/student	_/education/educational_institution/campuses
+-1
+tensor(-16.5089)
+___
+/m/0gtgp6	/m/02b1yn	/m/0gtgp6	/m/0gtgp6
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.5379)
+___
+/m/0fw2d3	/m/0371rb	/m/0371rb	/m/0371rb
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.5639)
+___
+/m/0gtgp6	/m/01wx_y	/m/01wx_y	/m/01wx_y
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.5640)
+___
+/m/0cg39k	/m/01y49	/m/01y49	/m/01y49
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.5758)
+___
+/m/04bsx1	/m/02s2ys	/m/02s2ys	/m/02s2ys
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.5814)
+___
+/m/0cg39k	/m/0jm_	/m/0jm_	/m/0jm_
+_/people/person/profession	_/sports/sport/pro_athletes./sports/pro_sports_played/athlete	NO_OP
+-1
+tensor(-16.5900)
+___
+/m/0gtgp6	/m/02029f	/m/02029f	/m/02029f
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.6113)
+___
+/m/0fw2d3	/m/0bl8l	/m/0bl8l	/m/0bl8l
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.6313)
+___
+/m/04bsx1	/m/01tqfs	/m/01tqfs	/m/01tqfs
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.6487)
+___
+/m/0fw2d3	/m/01l3vx	/m/01l3vx	/m/01l3vx
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.6566)
+___
+/m/0fw2d3	/m/04mp8x	/m/0fw2d3	/m/0fw2d3
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.6689)
+___
+/m/0gtgp6	/m/0230rx	/m/0gtgp6	/m/0gtgp6
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.6700)
+___
+/m/04bsx1	/m/02b17f	/m/02b17f	/m/02b17f
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.6740)
+___
+/m/04bsx1	/m/0j2pg	/m/0j2pg	/m/0j2pg
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.7139)
+___
+/m/0fw2d3	/m/04994l	/m/0fw2d3	/m/0fw2d3
+_/people/person/profession	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.7184)
+___
+/m/0cg39k	/m/02896	/m/02896	/m/02896
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.7233)
+___
+/m/0gtgp6	/m/02b1yn	/m/0gtgp6	/m/0gtgp6
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/pro_athlete/teams./sports/sports_team_roster/team
+-1
+tensor(-16.7384)
+___
+/m/0gtgp6	/m/0284gc	/m/0284gc	/m/0284gc
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.7497)
+___
+/m/04bsx1	/m/0cj_v7	/m/0cj_v7	/m/0cj_v7
+_/people/person/profession	/sports/pro_athlete/teams./sports/sports_team_roster/team	NO_OP
+-1
+tensor(-16.7557)
+___
+#####################

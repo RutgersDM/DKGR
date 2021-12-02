@@ -1,0 +1,5030 @@
+/m/01sbv9	/m/07ssc
+Reward:1
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-4.3006)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-4.3790)
+___
+/m/01sbv9	/m/05v8c	/m/09nqf	/m/09nqf
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-4.6415)
+___
+/m/01sbv9	/m/01sbv9	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.7140)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.2482)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.3610)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.5500)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.5855)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.5866)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.5931)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.6313)
+___
+/m/09c7w0	/m/0170_p	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6801)
+___
+/m/09c7w0	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6803)
+___
+/m/09c7w0	/m/0260bz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6846)
+___
+/m/09c7w0	/m/0fr63l	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6905)
+___
+/m/09c7w0	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6911)
+___
+/m/09c7w0	/m/02ctc6	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6922)
+___
+/m/09c7w0	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6954)
+___
+/m/09c7w0	/m/059rc	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6958)
+___
+/m/09c7w0	/m/018js4	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6961)
+___
+/m/09c7w0	/m/0pv2t	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6963)
+___
+/m/09c7w0	/m/0d_wms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7434)
+___
+/m/05v8c	/m/05v8c	/m/09nqf	/m/09nqf
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.1605)
+___
+/m/05v8c	/m/01sbv9	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.1630)
+___
+/m/05v8c	/m/027m67	/m/03h64	/m/03h64
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2079)
+___
+/m/03k48_	/m/03k48_	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.2220)
+___
+/m/05v8c	/m/0crh5_f	/m/015fr	/m/015fr
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2327)
+___
+/m/05v8c	/m/0dgrwqr	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2349)
+___
+/m/05v8c	/m/01gc7	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2397)
+___
+/m/01sbv9	/m/016_mj	/m/09c7w0	/m/09c7w0
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.2488)
+___
+/m/05v8c	/m/0k4fz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2524)
+___
+/m/05v8c	/m/02h22	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2551)
+___
+/m/05v8c	/m/07ghq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2725)
+___
+/m/05v8c	/m/03g90h	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2918)
+___
+/m/05v8c	/m/0_7w6	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.2942)
+___
+/m/05v8c	/m/01f85k	/m/03h64	/m/03h64
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3082)
+___
+/m/03k48_	/m/0bqs56	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.3122)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3142)
+___
+/m/05v8c	/m/07pd_j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3157)
+___
+/m/05v8c	/m/0glqh5_	/m/0f8l9c	/m/0f8l9c
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3251)
+___
+/m/05v8c	/m/05b6rdt	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3314)
+___
+/m/05v8c	/m/0c3xw46	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3318)
+___
+/m/05v8c	/m/0ch26b_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3347)
+___
+/m/05v8c	/m/0dt8xq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3414)
+___
+/m/05v8c	/m/0gvs1kt	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3415)
+___
+/m/05v8c	/m/07l50vn	/m/06mkj	/m/06mkj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3426)
+___
+/m/05v8c	/m/0gg5kmg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3472)
+___
+/m/05v8c	/m/0h63gl9	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3486)
+___
+/m/05v8c	/m/0ds35l9	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3500)
+___
+/m/05v8c	/m/0gtsx8c	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3559)
+___
+/m/05v8c	/m/047msdk	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3566)
+___
+/m/09c7w0	/m/01242_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3708)
+___
+/m/09c7w0	/m/01242_	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3708)
+___
+/m/09c7w0	/m/09p35z	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.3710)
+___
+/m/09c7w0	/m/09p35z	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3710)
+___
+/m/09c7w0	/m/0g83dv	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.3711)
+___
+/m/09c7w0	/m/0g83dv	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3711)
+___
+/m/05v8c	/m/06ztvyx	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3719)
+___
+/m/05v8c	/m/0421v9q	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3762)
+___
+/m/05v8c	/m/03qnvdl	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3763)
+___
+/m/09c7w0	/m/0cw3yd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.3788)
+___
+/m/09c7w0	/m/0cw3yd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3788)
+___
+/m/09c7w0	/m/095zlp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.3810)
+___
+/m/09c7w0	/m/095zlp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3810)
+___
+/m/05v8c	/m/0dc_ms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3814)
+___
+/m/05v8c	/m/0407yj_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3818)
+___
+/m/05v8c	/m/03bx2lk	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3825)
+___
+/m/05v8c	/m/0dll_t2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3858)
+___
+/m/05v8c	/m/02xbyr	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3871)
+___
+/m/05v8c	/m/0dzlbx	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3926)
+___
+/m/05v8c	/m/047vnkj	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.3940)
+___
+/m/09c7w0	/m/024mxd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4104)
+___
+/m/09c7w0	/m/024mxd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.4104)
+___
+/m/05v8c	/m/0407yfx	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.4122)
+___
+/m/05v8c	/m/053rxgm	/m/015fr	/m/015fr
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.4244)
+___
+/m/05v8c	/m/05qbckf	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.4359)
+___
+/m/01sbv9	/m/05v8c	/m/09x3r	/m/09x3r
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics
+-1
+tensor(-6.5566)
+___
+/m/09c7w0	/m/0by1wkq	/m/0d05w3	/m/0d05w3
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6666)
+___
+/m/09c7w0	/m/0by1wkq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6666)
+___
+/m/01sbv9	/m/016_mj	/m/01n5309	/m/01n5309
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	_/base/americancomedy/celebrity_impressionist/celebrities_impersonated
+-1
+tensor(-6.7012)
+___
+/m/09c7w0	/m/02y_lrp	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.7765)
+___
+/m/09c7w0	/m/02y_lrp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.7765)
+___
+/m/09c7w0	/m/02y_lrp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.7765)
+___
+/m/01sbv9	/m/056ws9	/m/09nqf	/m/09nqf
+NO_OP	/film/film/production_companies	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.8410)
+___
+/m/05v8c	/m/07j8r	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+1
+tensor(-6.8780)
+___
+/m/05v8c	/m/07j8r	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8780)
+___
+/m/05v8c	/m/02yvct	/m/0f8l9c	/m/0f8l9c
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9007)
+___
+/m/05v8c	/m/02yvct	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9007)
+___
+/m/05v8c	/m/0198b6	/m/0jgd	/m/0jgd
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9082)
+___
+/m/05v8c	/m/0198b6	/m/03h64	/m/03h64
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9082)
+___
+/m/05v8c	/m/04z_3pm	/m/0chghy	/m/0chghy
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9092)
+___
+/m/05v8c	/m/04z_3pm	/m/0ctw_b	/m/0ctw_b
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9092)
+___
+/m/05v8c	/m/047p7fr	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9150)
+___
+/m/05v8c	/m/047p7fr	/m/0f8l9c	/m/0f8l9c
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9150)
+___
+/m/09c7w0	/m/0c3ybss	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.9316)
+___
+/m/09c7w0	/m/0c3ybss	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.9316)
+___
+/m/09c7w0	/m/0c3ybss	/m/0d060g	/m/0d060g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.9316)
+___
+/m/05v8c	/m/0db94w	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9436)
+___
+/m/05v8c	/m/0db94w	/m/06qd3	/m/06qd3
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.9436)
+___
+/m/05v8c	/m/04w7rn	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+1
+tensor(-6.9477)
+___
+#####################
+/m/0k2sk	/m/07ssc
+Reward:1
+/m/0k2sk	/m/0k2sk	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-5.1147)
+___
+/m/019803	/m/019803	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-5.5611)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.6736)
+___
+/m/06b4wb	/m/06b4wb	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.7552)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.7936)
+___
+/m/0278rq7	/m/0f61tk	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-5.8611)
+___
+/m/0278rq7	/m/014l6_	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-5.8823)
+___
+/m/0278rq7	/m/03wy8t	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-5.8887)
+___
+/m/0278rq7	/m/035_2h	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-5.9066)
+___
+/m/0278rq7	/m/0k2sk	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-5.9097)
+___
+/m/0c5vh	/m/0c5vh	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-5.9971)
+___
+/m/0k2sk	/m/01f7j9	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/director/film	/people/person/nationality
+-1
+tensor(-5.9996)
+___
+/m/018_lb	/m/018_lb	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-6.0252)
+___
+/m/0k2sk	/m/01f7j9	/m/09c7w0	/m/09c7w0
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.2024)
+___
+/m/0k2sk	/m/0f3zf_	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/cinematography	/people/person/nationality
+-1
+tensor(-6.2229)
+___
+/m/0278rq7	/m/07sgdw	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-6.4625)
+___
+/m/02gf_l	/m/02gf_l	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.4769)
+___
+/m/0f3zf_	/m/0f3zf_	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/people/person/nationality
+-1
+tensor(-6.5310)
+___
+/m/018_lb	/m/0sxlb	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-6.5897)
+___
+/m/0c5vh	/m/01xwv7	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-6.6461)
+___
+/m/0k2sk	/m/030_1_	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/production_companies	/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-6.6856)
+___
+/m/03h26tm	/m/09pjnd	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.6935)
+___
+/m/03h26tm	/m/06rnl9	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.8393)
+___
+/m/0f3zf_	/m/0f3zf_	/m/09c7w0	/m/09c7w0
+/film/film/cinematography	NO_OP	/people/person/nationality
+-1
+tensor(-6.8548)
+___
+/m/0278rq7	/m/0_7w6	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-6.9024)
+___
+/m/019803	/m/05nlzq	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9262)
+___
+/m/019803	/m/043qqt5	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9282)
+___
+/m/01z4y	/m/06f0k	/m/07ssc	/m/07ssc
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+1
+tensor(-6.9520)
+___
+/m/01z4y	/m/07hpv3	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9582)
+___
+/m/01z4y	/m/01h72l	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9683)
+___
+/m/01z4y	/m/05zr0xl	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9718)
+___
+/m/04rcl7	/m/04g73n	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-6.9830)
+___
+/m/01f7j9	/m/021lby	/m/09c7w0	/m/09c7w0
+_/film/director/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.9876)
+___
+/m/04rcl7	/m/039zft	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-7.0088)
+___
+/m/04rcl7	/m/02_fm2	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-7.0289)
+___
+/m/0k2sk	/m/04rcl7	/m/04hwbq	/m/04hwbq
+NO_OP	/film/film/production_companies	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.0443)
+___
+/m/04rcl7	/m/0241y7	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-7.1061)
+___
+/m/04rcl7	/m/0jnwx	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-7.1076)
+___
+/m/03h26tm	/m/06rnl9	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.1100)
+___
+/m/04rcl7	/m/0fgrm	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/country
+-1
+tensor(-7.1156)
+___
+/m/03h26tm	/m/01f7jt	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.1224)
+___
+/m/0k2sk	/m/030_3z	/m/02h40lc	/m/02h40lc
+NO_OP	/film/film/produced_by	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-7.1258)
+___
+/m/019803	/m/0mzvm	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	/base/biblioness/bibs_location/country
+-1
+tensor(-7.1294)
+___
+/m/03h26tm	/m/0k2sk	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.1302)
+___
+/m/01z4y	/m/0cskb	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-7.1455)
+___
+/m/0278rq7	/m/0278rq7	/m/0f61tk	/m/0f61tk
+/film/film/production_companies	NO_OP	_/film/film/production_companies
+-1
+tensor(-7.2374)
+___
+/m/0278rq7	/m/0278rq7	/m/07sgdw	/m/07sgdw
+/film/film/production_companies	NO_OP	_/film/film/production_companies
+-1
+tensor(-7.2374)
+___
+/m/0278rq7	/m/0278rq7	/m/0_7w6	/m/0_7w6
+/film/film/production_companies	NO_OP	_/film/film/production_companies
+-1
+tensor(-7.2374)
+___
+/m/0278rq7	/m/0278rq7	/m/03wy8t	/m/03wy8t
+/film/film/production_companies	NO_OP	_/film/film/production_companies
+-1
+tensor(-7.2374)
+___
+/m/0278rq7	/m/0278rq7	/m/0k2sk	/m/0k2sk
+/film/film/production_companies	NO_OP	_/film/film/production_companies
+-1
+tensor(-7.2374)
+___
+/m/0278rq7	/m/0278rq7	/m/014l6_	/m/014l6_
+/film/film/production_companies	NO_OP	_/film/film/production_companies
+-1
+tensor(-7.2374)
+___
+/m/0278rq7	/m/0278rq7	/m/035_2h	/m/035_2h
+/film/film/production_companies	NO_OP	_/film/film/production_companies
+-1
+tensor(-7.2374)
+___
+/m/03h26tm	/m/09pjnd	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.2835)
+___
+/m/03h26tm	/m/09pjnd	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.2914)
+___
+/m/04rcl7	/m/04rcl7	/m/04hwbq	/m/04hwbq
+/film/film/production_companies	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3058)
+___
+/m/03h26tm	/m/06rnl9	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.3223)
+___
+/m/0c5vh	/m/0d6lp	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	/base/biblioness/bibs_location/country
+-1
+tensor(-7.4100)
+___
+/m/03h26tm	/m/09pjnd	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.4388)
+___
+/m/020h2v	/m/09b3v	/m/09nqf	/m/09nqf
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.4454)
+___
+/m/0c5vh	/m/02frhbc	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	/base/biblioness/bibs_location/country
+-1
+tensor(-7.4532)
+___
+/m/0k2sk	/m/04rcl7	/m/0r00l	/m/0r00l
+NO_OP	/film/film/production_companies	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-7.5586)
+___
+/m/01z4y	/m/0kfpm	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.5806)
+___
+/m/01z4y	/m/02rkkn1	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.5888)
+___
+/m/01z4y	/m/025x1t	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.5890)
+___
+/m/01z4y	/m/01s81	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.5972)
+___
+/m/04rcl7	/m/023p7l	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	_/film/film/production_companies	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.5988)
+___
+/m/01z4y	/m/02hct1	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6064)
+___
+/m/01z4y	/m/02h2vv	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6112)
+___
+/m/01z4y	/m/05p9_ql	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6124)
+___
+/m/01z4y	/m/0l76z	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6140)
+___
+/m/01z4y	/m/03ln8b	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6149)
+___
+/m/01z4y	/m/099pks	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6236)
+___
+/m/01z4y	/m/07zhjj	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6257)
+___
+/m/01z4y	/m/0d68qy	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.6272)
+___
+/m/01z4y	/m/01vnbh	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.6441)
+___
+/m/01z4y	/m/099pks	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.6534)
+___
+/m/01z4y	/m/01vnbh	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.6537)
+___
+/m/01z4y	/m/07zhjj	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.6555)
+___
+/m/01z4y	/m/05p9_ql	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.6809)
+___
+/m/01z4y	/m/0l76z	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.6854)
+___
+/m/06b4wb	/m/06b4wb	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-7.6940)
+___
+/m/01z4y	/m/025x1t	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.6986)
+___
+/m/01z4y	/m/0d68qy	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.7031)
+___
+/m/01z4y	/m/02rkkn1	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.7095)
+___
+/m/01z4y	/m/0kfpm	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.7114)
+___
+/m/01z4y	/m/02hct1	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.7195)
+___
+/m/01z4y	/m/03ln8b	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.7248)
+___
+/m/01z4y	/m/02h2vv	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.7311)
+___
+/m/01z4y	/m/01s81	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.7351)
+___
+/m/01f7j9	/m/01zwy	/m/01f7j9	/m/01f7j9
+_/film/director/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.7360)
+___
+/m/0k2sk	/m/04rcl7	/m/081nh	/m/081nh
+NO_OP	/film/film/production_companies	_/organization/organization_founder/organizations_founded
+-1
+tensor(-7.7677)
+___
+/m/03h26tm	/m/04jpg2p	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.7893)
+___
+/m/03h26tm	/m/04jpg2p	/m/07ssc	/m/07ssc
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+1
+tensor(-7.7893)
+___
+/m/0k2sk	/m/030_3z	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/produced_by	/people/person/nationality
+-1
+tensor(-7.8064)
+___
+/m/0k2sk	/m/03h26tm	/m/027rwmr	/m/027rwmr
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.8195)
+___
+/m/0k2sk	/m/03h26tm	/m/06rnl9	/m/06rnl9
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.8195)
+___
+/m/0k2sk	/m/03h26tm	/m/09pjnd	/m/09pjnd
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.8195)
+___
+/m/04rcl7	/m/0r00l	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-7.8871)
+___
+/m/04rcl7	/m/0r00l	/m/0kpys	/m/0kpys
+/film/film/production_companies	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-7.8871)
+___
+/m/04rcl7	/m/0r00l	/m/01n7q	/m/01n7q
+/film/film/production_companies	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-7.8871)
+___
+#####################
+/m/0315rp	/m/07ssc
+Reward:1
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-4.2631)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-4.3462)
+___
+/m/0315rp	/m/0315rp	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.6767)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.3827)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.5036)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.5941)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.6348)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.6466)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.6480)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.6775)
+___
+/m/09c7w0	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7560)
+___
+/m/09c7w0	/m/0170_p	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7566)
+___
+/m/09c7w0	/m/0260bz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7607)
+___
+/m/09c7w0	/m/059rc	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7678)
+___
+/m/09c7w0	/m/018js4	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7688)
+___
+/m/09c7w0	/m/0fr63l	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7704)
+___
+/m/09c7w0	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7716)
+___
+/m/09c7w0	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7720)
+___
+/m/09c7w0	/m/02ctc6	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7729)
+___
+/m/09c7w0	/m/0pv2t	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.7731)
+___
+/m/09c7w0	/m/0d_wms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8184)
+___
+/m/0315rp	/m/030_1_	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/production_companies	/organization/organization/headquarters./location/mailing_address/country
+-1
+tensor(-6.2123)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3744)
+___
+/m/09c7w0	/m/01242_	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4478)
+___
+/m/09c7w0	/m/01242_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4478)
+___
+/m/09c7w0	/m/09p35z	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4478)
+___
+/m/09c7w0	/m/09p35z	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.4478)
+___
+/m/09c7w0	/m/0g83dv	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.4481)
+___
+/m/09c7w0	/m/0g83dv	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4481)
+___
+/m/09c7w0	/m/0cw3yd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.4547)
+___
+/m/09c7w0	/m/0cw3yd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4547)
+___
+/m/09c7w0	/m/095zlp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4553)
+___
+/m/09c7w0	/m/095zlp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.4553)
+___
+/m/09c7w0	/m/024mxd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4881)
+___
+/m/09c7w0	/m/024mxd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.4881)
+___
+/m/09c7w0	/m/0by1wkq	/m/0d05w3	/m/0d05w3
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6868)
+___
+/m/09c7w0	/m/0by1wkq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6868)
+___
+/m/016tw3	/m/063472	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.7722)
+___
+/m/09c7w0	/m/02y_lrp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.8533)
+___
+/m/09c7w0	/m/02y_lrp	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.8533)
+___
+/m/09c7w0	/m/02y_lrp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.8533)
+___
+/m/018swb	/m/018swb	/m/02jx1	/m/02jx1
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-6.9412)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.9539)
+___
+/m/09c7w0	/m/013cz2	/m/0488g	/m/0488g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.9539)
+___
+/m/018swb	/m/06_bq1	/m/0fqjhm	/m/0fqjhm
+_/film/actor/film./film/performance/film	/award/award_winner/awards_won./award/award_honor/award_winner	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.9901)
+___
+/m/09c7w0	/m/0c3ybss	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-7.0068)
+___
+/m/09c7w0	/m/0c3ybss	/m/0d060g	/m/0d060g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0068)
+___
+/m/09c7w0	/m/0c3ybss	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0068)
+___
+/m/0315rp	/m/0hx4y	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/prequel	/film/film/country
+-1
+tensor(-7.0425)
+___
+/m/027rwmr	/m/06rnl9	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.0481)
+___
+/m/027rwmr	/m/03r1pr	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.0744)
+___
+/m/06rnl9	/m/09pjnd	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.1602)
+___
+/m/03r1pr	/m/03r1pr	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/people/person/nationality
+-1
+tensor(-7.2009)
+___
+/m/0hx4y	/m/03h64	/m/0d05w3	/m/0d05w3
+/film/film/prequel	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/base/biblioness/bibs_location/country
+-1
+tensor(-7.2945)
+___
+/m/03r1pr	/m/06rnl9	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.3158)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.3208)
+___
+/m/09c7w0	/m/050l8	/m/04_1l0v	/m/04_1l0v
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.3208)
+___
+/m/0315rp	/m/09c7w0	/m/024mxd	/m/024mxd
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/02q_4ph	/m/02q_4ph
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0d_wms	/m/0d_wms
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/02ctc6	/m/02ctc6
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/03h3x5	/m/03h3x5
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0cw3yd	/m/0cw3yd
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0pv2t	/m/0pv2t
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/059rc	/m/059rc
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/05m_jsg	/m/05m_jsg
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/08hmch	/m/08hmch
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/09p35z	/m/09p35z
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/095zlp	/m/095zlp
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0fr63l	/m/0fr63l
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0by1wkq	/m/0by1wkq
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/02y_lrp	/m/02y_lrp
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0170_p	/m/0170_p
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/018js4	/m/018js4
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0g83dv	/m/0g83dv
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/0260bz	/m/0260bz
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/09c7w0	/m/01242_	/m/01242_
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4025)
+___
+/m/0315rp	/m/030_1_	/m/0vhm	/m/0vhm
+NO_OP	/film/film/production_companies	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4837)
+___
+/m/01y_px	/m/01j5ts	/m/07vc_9	/m/07vc_9
+_/film/actor/film./film/performance/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/people/person/sibling_s./people/sibling_relationship/sibling
+-1
+tensor(-7.4983)
+___
+/m/018swb	/m/0f6_dy	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.5052)
+___
+/m/018swb	/m/0blq0z	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.5968)
+___
+/m/0hx4y	/m/0rh6k	/m/09c7w0	/m/09c7w0
+/film/film/prequel	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/location/location/contains
+-1
+tensor(-7.6364)
+___
+/m/01y_px	/m/03hzl42	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+1
+tensor(-7.6436)
+___
+/m/0hx4y	/m/05v8c	/m/09nqf	/m/09nqf
+/film/film/prequel	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6950)
+___
+/m/018swb	/m/09r9dp	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.7565)
+___
+/m/03r1pr	/m/0hx4y	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.7597)
+___
+/m/06rnl9	/m/03r1pr	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.7666)
+___
+/m/01y_px	/m/01q_ph	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.7803)
+___
+/m/01y_px	/m/015rkw	/m/03rt9	/m/03rt9
+_/film/actor/film./film/performance/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.7951)
+___
+/m/03r1pr	/m/01f8hf	/m/07ssc	/m/07ssc
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+1
+tensor(-7.8185)
+___
+/m/03r1pr	/m/01f8hf	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.8185)
+___
+/m/03r1pr	/m/06rnl9	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.8630)
+___
+/m/01y_px	/m/0154qm	/m/0chghy	/m/0chghy
+_/film/actor/film./film/performance/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.8946)
+___
+/m/0315rp	/m/016tw3	/m/08d9z7	/m/08d9z7
+NO_OP	/film/film/production_companies	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.8946)
+___
+/m/0315rp	/m/016tw3	/m/03h304l	/m/03h304l
+NO_OP	/film/film/production_companies	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.8946)
+___
+/m/0315rp	/m/016tw3	/m/01gb54	/m/01gb54
+NO_OP	/film/film/production_companies	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.8946)
+___
+/m/0315rp	/m/016tw3	/m/063472	/m/063472
+NO_OP	/film/film/production_companies	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.8946)
+___
+/m/018swb	/m/0ksrf8	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/film	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+1
+tensor(-7.9120)
+___
+/m/09c7w0	/m/013cz2	/m/0488g	/m/0488g
+/film/film/country	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-8.0687)
+___
+#####################
+/m/08zrbl	/m/07ssc
+Reward:1
+/m/02rcdc2	/m/08zrbl	/m/09c7w0	/m/09c7w0
+_/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/country
+-1
+tensor(-0.8912)
+___
+/m/02rcdc2	/m/08zrbl	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/country
+-1
+tensor(-2.8682)
+___
+/m/08zrbl	/m/02rcdc2	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/country
+-1
+tensor(-4.2787)
+___
+/m/02rcdc2	/m/08zrbl	/m/02rcdc2	/m/02rcdc2
+_/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-5.0921)
+___
+/m/02rcdc2	/m/08zrbl	/m/09c7w0	/m/09c7w0
+_/award/award_winning_work/awards_won./award/award_honor/honored_for	/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/country
+-1
+tensor(-5.4661)
+___
+/m/05r_j	/m/05r_j	/m/08zrbl	/m/08zrbl
+_/film/film_subject/films	NO_OP	/film/film_subject/films
+-1
+tensor(-5.5455)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.7393)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.8470)
+___
+/m/02rcdc2	/m/08zrbl	/m/09c7w0	/m/09c7w0
+_/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-5.9758)
+___
+/m/02rcdc2	/m/08zrbl	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/honored_for	/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/country
+-1
+tensor(-6.1501)
+___
+/m/02rcdc2	/m/08zrbl	/m/02rcdc2	/m/02rcdc2
+_/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-6.3751)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.6425)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-6.7580)
+___
+/m/0fqy4p	/m/0fqy4p	/m/01gb54	/m/01gb54
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-6.8112)
+___
+/m/05r_j	/m/05r_j	/m/05r_j	/m/05r_j
+_/film/film_subject/films	NO_OP	NO_OP
+-1
+tensor(-6.8756)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.9342)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.9558)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.9835)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.9991)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.0222)
+___
+/m/09c7w0	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0427)
+___
+/m/09c7w0	/m/0170_p	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0442)
+___
+/m/09c7w0	/m/0260bz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0490)
+___
+/m/09c7w0	/m/0fr63l	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0551)
+___
+/m/09c7w0	/m/018js4	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0563)
+___
+/m/09c7w0	/m/02ctc6	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0591)
+___
+/m/09c7w0	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0614)
+___
+/m/09c7w0	/m/0pv2t	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0627)
+___
+/m/09c7w0	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0637)
+___
+/m/09c7w0	/m/059rc	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0654)
+___
+/m/09c7w0	/m/0d_wms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.1155)
+___
+/m/026670	/m/026670	/m/09c7w0	/m/09c7w0
+_/film/director/film	NO_OP	/people/person/nationality
+-1
+tensor(-7.2997)
+___
+/m/0fqy4p	/m/02_06s	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.4183)
+___
+/m/0fqy4p	/m/09ps01	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.4320)
+___
+/m/02vx4c2	/m/02vx4c2	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/people/person/nationality
+-1
+tensor(-7.4400)
+___
+/m/0fqy4p	/m/04s1zr	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.4403)
+___
+/m/0fqy4p	/m/0b6tzs	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.4462)
+___
+/m/0fqy4p	/m/08zrbl	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.4639)
+___
+/m/02rcdc2	/m/08zrbl	/m/02rcdc2	/m/02rcdc2
+/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-7.5352)
+___
+/m/0bx_f_t	/m/09qycb	/m/09c7w0	/m/09c7w0
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+-1
+tensor(-7.6340)
+___
+/m/0bx_f_t	/m/0p_qr	/m/09c7w0	/m/09c7w0
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+-1
+tensor(-7.6475)
+___
+/m/0bx_f_t	/m/03pc89	/m/09c7w0	/m/09c7w0
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+-1
+tensor(-7.6479)
+___
+/m/0bx_f_t	/m/03x7hd	/m/09c7w0	/m/09c7w0
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+-1
+tensor(-7.6482)
+___
+/m/0bx_f_t	/m/03c_cxn	/m/07ssc	/m/07ssc
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+1
+tensor(-7.6488)
+___
+/m/0bx_f_t	/m/08zrbl	/m/09c7w0	/m/09c7w0
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+-1
+tensor(-7.6625)
+___
+/m/0fqy4p	/m/02_06s	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.7119)
+___
+/m/09c7w0	/m/09p35z	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7337)
+___
+/m/09c7w0	/m/09p35z	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-7.7337)
+___
+/m/09c7w0	/m/01242_	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7346)
+___
+/m/09c7w0	/m/01242_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7346)
+___
+/m/09c7w0	/m/0g83dv	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-7.7350)
+___
+/m/09c7w0	/m/0g83dv	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7350)
+___
+/m/09c7w0	/m/095zlp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7421)
+___
+/m/09c7w0	/m/095zlp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-7.7421)
+___
+/m/09c7w0	/m/0cw3yd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7422)
+___
+/m/09c7w0	/m/0cw3yd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-7.7422)
+___
+/m/0fqy4p	/m/09ps01	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.7494)
+___
+/m/0fqy4p	/m/04s1zr	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.7531)
+___
+/m/0fqy4p	/m/08zrbl	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.7590)
+___
+/m/0fqy4p	/m/0fqy4p	/m/01gb54	/m/01gb54
+/film/film/production_companies	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.7791)
+___
+/m/0fqy4p	/m/0bhwhj	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.7836)
+___
+/m/09c7w0	/m/024mxd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7843)
+___
+/m/09c7w0	/m/024mxd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-7.7843)
+___
+/m/0fqy4p	/m/0b6tzs	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.7849)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.8189)
+___
+/m/0fqy4p	/m/0gvt53w	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-7.8505)
+___
+/m/02vx4c2	/m/02b6n9	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/film/cinematography	/film/film/country
+-1
+tensor(-7.8548)
+___
+/m/0fqy4p	/m/08zrbl	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/film/film/production_companies	/film/film/country
+-1
+tensor(-7.8599)
+___
+/m/026670	/m/08zrbl	/m/09c7w0	/m/09c7w0
+_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.8601)
+___
+/m/026670	/m/02rcdc2	/m/0f8l9c	/m/0f8l9c
+_/film/director/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.9410)
+___
+/m/026670	/m/0c00lh	/m/09c7w0	/m/09c7w0
+_/film/director/film	_/influence/influence_node/influenced_by	/people/person/nationality
+-1
+tensor(-7.9448)
+___
+/m/02vx4c2	/m/02vx4c2	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/people/person/nationality
+-1
+tensor(-7.9703)
+___
+/m/0fqy4p	/m/0fqy4p	/m/01gb54	/m/01gb54
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-8.0176)
+___
+/m/01p0vf	/m/01p0w_	/m/01hrqc	/m/01hrqc
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	_/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend
+-1
+tensor(-8.0437)
+___
+/m/02rcdc2	/m/08zrbl	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-8.0893)
+___
+/m/02vx4c2	/m/08zrbl	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-8.0937)
+___
+/m/09c7w0	/m/0by1wkq	/m/0d05w3	/m/0d05w3
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-8.0974)
+___
+/m/09c7w0	/m/0by1wkq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-8.0974)
+___
+/m/0fqy4p	/m/02phtzk	/m/0d05w3	/m/0d05w3
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.1201)
+___
+/m/0fqy4p	/m/02phtzk	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.1201)
+___
+/m/0fqy4p	/m/08nvyr	/m/0b90_r	/m/0b90_r
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.1216)
+___
+/m/0fqy4p	/m/08nvyr	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.1216)
+___
+/m/0fqy4p	/m/02q5g1z	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.1305)
+___
+/m/0fqy4p	/m/02q5g1z	/m/07ssc	/m/07ssc
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-8.1305)
+___
+/m/09c7w0	/m/02y_lrp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-8.1391)
+___
+/m/09c7w0	/m/02y_lrp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-8.1391)
+___
+/m/09c7w0	/m/02y_lrp	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-8.1391)
+___
+/m/0fqy4p	/m/0bhwhj	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.2641)
+___
+/m/09c7w0	/m/0c3ybss	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-8.2750)
+___
+/m/09c7w0	/m/0c3ybss	/m/0d060g	/m/0d060g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-8.2750)
+___
+/m/09c7w0	/m/0c3ybss	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-8.2750)
+___
+/m/0fqy4p	/m/0gvt53w	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.2819)
+___
+/m/01p0vf	/m/08zrbl	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-8.2857)
+___
+/m/02rcdc2	/m/08zrbl	/m/0735l	/m/0735l
+_/award/award_winning_work/awards_won./award/award_honor/honored_for	_/award/award_winning_work/awards_won./award/award_honor/honored_for	/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium
+-1
+tensor(-8.3248)
+___
+/m/0bx_f_t	/m/02847m9	/m/07ssc	/m/07ssc
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+1
+tensor(-8.3375)
+___
+/m/0bx_f_t	/m/02847m9	/m/09c7w0	/m/09c7w0
+/film/film/film_festivals	_/film/film/film_festivals	/film/film/country
+-1
+tensor(-8.3375)
+___
+/m/0fqy4p	/m/02phtzk	/m/0d05w3	/m/0d05w3
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.4189)
+___
+/m/0fqy4p	/m/02phtzk	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.4189)
+___
+/m/0fqy4p	/m/08nvyr	/m/0b90_r	/m/0b90_r
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.4223)
+___
+/m/0fqy4p	/m/08nvyr	/m/09c7w0	/m/09c7w0
+/film/film/production_companies	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-8.4223)
+___
+#####################
+/m/06fqlk	/m/07ssc
+Reward:1
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-4.0553)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-4.1582)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.1230)
+___
+/m/0345h	/m/01cz_1	/m/0345h	/m/0345h
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.1995)
+___
+/m/0345h	/m/017v_	/m/0345h	/m/0345h
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.2039)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.2210)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.3877)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.4215)
+___
+/m/06fqlk	/m/01xndd	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/director/film	/people/person/nationality
+-1
+tensor(-5.4244)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.4267)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.4527)
+___
+/m/0345h	/m/06rf7	/m/0345h	/m/0345h
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-5.4597)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.4648)
+___
+/m/0d05w3	/m/014clr	/m/0d05w3	/m/0d05w3
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-5.4859)
+___
+/m/0d05w3	/m/017236	/m/0d05w3	/m/0d05w3
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.4886)
+___
+/m/0d05w3	/m/0lbl6	/m/0d05w3	/m/0d05w3
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-5.4906)
+___
+/m/06fqlk	/m/06fqlk	/m/0345h	/m/0345h
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-5.5107)
+___
+/m/06fqlk	/m/06fqlk	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-5.5107)
+___
+/m/06fqlk	/m/06fqlk	/m/0d05w3	/m/0d05w3
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-5.5107)
+___
+/m/0c_gcr	/m/0c_gcr	/m/02jx1	/m/02jx1
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-5.5286)
+___
+/m/0d05w3	/m/03h64	/m/0d05w3	/m/0d05w3
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.5295)
+___
+/m/0d05w3	/m/0qb0j	/m/0d05w3	/m/0d05w3
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-5.5324)
+___
+/m/09c7w0	/m/0170_p	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5664)
+___
+/m/09c7w0	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5666)
+___
+/m/09c7w0	/m/0260bz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5719)
+___
+/m/09c7w0	/m/0fr63l	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5801)
+___
+/m/09c7w0	/m/018js4	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5804)
+___
+/m/09c7w0	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5812)
+___
+/m/09c7w0	/m/059rc	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5818)
+___
+/m/09c7w0	/m/0pv2t	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5818)
+___
+/m/09c7w0	/m/02ctc6	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5829)
+___
+/m/09c7w0	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.5850)
+___
+/m/09c7w0	/m/0d_wms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.6259)
+___
+/m/0c_gcr	/m/03c_cxn	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+1
+tensor(-6.1231)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.1945)
+___
+/m/09c7w0	/m/09p35z	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.2574)
+___
+/m/09c7w0	/m/09p35z	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.2574)
+___
+/m/09c7w0	/m/01242_	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.2574)
+___
+/m/09c7w0	/m/01242_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.2574)
+___
+/m/09c7w0	/m/0g83dv	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.2579)
+___
+/m/09c7w0	/m/0g83dv	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.2579)
+___
+/m/09c7w0	/m/0cw3yd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.2631)
+___
+/m/09c7w0	/m/0cw3yd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.2631)
+___
+/m/09c7w0	/m/095zlp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.2671)
+___
+/m/09c7w0	/m/095zlp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.2671)
+___
+/m/09c7w0	/m/024mxd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.2975)
+___
+/m/09c7w0	/m/024mxd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.2975)
+___
+/m/09c7w0	/m/0by1wkq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5424)
+___
+/m/09c7w0	/m/0by1wkq	/m/0d05w3	/m/0d05w3
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5424)
+___
+/m/09c7w0	/m/02y_lrp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.6627)
+___
+/m/09c7w0	/m/02y_lrp	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6627)
+___
+/m/09c7w0	/m/02y_lrp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6627)
+___
+/m/01vzxmq	/m/028pzq	/m/03rjj	/m/03rjj
+_/film/actor/film./film/performance/film	_/base/popstra/celebrity/dated./base/popstra/dated/participant	/people/person/nationality
+-1
+tensor(-6.7025)
+___
+/m/0d05w3	/m/04thp	/m/09nqf	/m/09nqf
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.7349)
+___
+/m/06fqlk	/m/0c_gcr	/m/02jx1	/m/02jx1
+NO_OP	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-6.7561)
+___
+/m/04ls53	/m/04ls53	/m/09c7w0	/m/09c7w0
+/film/film/music	NO_OP	/people/person/nationality
+-1
+tensor(-6.7747)
+___
+/m/09c7w0	/m/0c3ybss	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.8173)
+___
+/m/09c7w0	/m/0c3ybss	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.8173)
+___
+/m/09c7w0	/m/0c3ybss	/m/0d060g	/m/0d060g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.8173)
+___
+/m/09c7w0	/m/07xtqq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8185)
+___
+/m/09c7w0	/m/026mfbr	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8194)
+___
+/m/09c7w0	/m/02krdz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8194)
+___
+/m/09c7w0	/m/0f40w	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8195)
+___
+/m/09c7w0	/m/0cc846d	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8211)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.8280)
+___
+/m/09c7w0	/m/013cz2	/m/0488g	/m/0488g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-6.8280)
+___
+/m/09c7w0	/m/0b76t12	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8485)
+___
+/m/09c7w0	/m/0m2kd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8766)
+___
+/m/09c7w0	/m/0192hw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.8778)
+___
+/m/012x2b	/m/02t_h3	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/film	_/film/film/written_by	/film/film/country
+1
+tensor(-6.9055)
+___
+/m/012x2b	/m/065_cjc	/m/07ssc	/m/07ssc
+_/film/actor/film./film/performance/film	_/film/film/written_by	/film/film/country
+1
+tensor(-6.9121)
+___
+/m/0d05w3	/m/04thp	/m/0j0k	/m/0j0k
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.9368)
+___
+/m/0d05w3	/m/04thp	/m/02qkt	/m/02qkt
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.9368)
+___
+/m/0d05w3	/m/04thp	/m/0d05w3	/m/0d05w3
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.9368)
+___
+/m/04ls53	/m/08phg9	/m/0345h	/m/0345h
+/film/film/music	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-6.9602)
+___
+/m/09c7w0	/m/09g7vfw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.0711)
+___
+/m/01vzxmq	/m/01_p6t	/m/0chghy	/m/0chghy
+_/film/actor/film./film/performance/film	_/base/popstra/celebrity/dated./base/popstra/dated/participant	/people/person/nationality
+-1
+tensor(-7.0820)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.0864)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.1399)
+___
+/m/09c7w0	/m/050l8	/m/04_1l0v	/m/04_1l0v
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-7.1399)
+___
+/m/032zg9	/m/032zg9	/m/0cqh46	/m/0cqh46
+_/film/actor/film./film/performance/film	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-7.1544)
+___
+/m/032zg9	/m/032zg9	/m/0bdwqv	/m/0bdwqv
+_/film/actor/film./film/performance/film	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-7.1544)
+___
+/m/06fqlk	/m/09c7w0	/m/02ctc6	/m/02ctc6
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/09p35z	/m/09p35z
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/059rc	/m/059rc
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0d_wms	/m/0d_wms
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/018js4	/m/018js4
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0g83dv	/m/0g83dv
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/02y_lrp	/m/02y_lrp
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0by1wkq	/m/0by1wkq
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0fr63l	/m/0fr63l
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/02q_4ph	/m/02q_4ph
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0170_p	/m/0170_p
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/095zlp	/m/095zlp
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/01242_	/m/01242_
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0260bz	/m/0260bz
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/03h3x5	/m/03h3x5
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0cw3yd	/m/0cw3yd
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+/m/06fqlk	/m/09c7w0	/m/0pv2t	/m/0pv2t
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.1745)
+___
+#####################
+/m/03nm_fh	/m/07ssc
+Reward:0
+/m/07f1x	/m/0fn2g	/m/07f1x	/m/07f1x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.4460)
+___
+/m/0j1z8	/m/01f08r	/m/0j1z8	/m/0j1z8
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.4526)
+___
+/m/01pj7	/m/0fhzy	/m/01pj7	/m/01pj7
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.5004)
+___
+/m/06npd	/m/015g7	/m/06npd	/m/06npd
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.5111)
+___
+/m/03ryn	/m/044rv	/m/03ryn	/m/03ryn
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.5635)
+___
+/m/04gzd	/m/07_kq	/m/04gzd	/m/04gzd
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.6220)
+___
+/m/0d0vqn	/m/07tcs	/m/0d0vqn	/m/0d0vqn
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.6467)
+___
+/m/015fr	/m/01gh6z	/m/015fr	/m/015fr
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.6479)
+___
+/m/0k6nt	/m/0lzp	/m/0k6nt	/m/0k6nt
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.6555)
+___
+/m/06c1y	/m/096gm	/m/06c1y	/m/06c1y
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.7449)
+___
+/m/035qy	/m/0n2z	/m/035qy	/m/035qy
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.8246)
+___
+/m/01crd5	/m/0hn4h	/m/01crd5	/m/01crd5
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.8358)
+___
+/m/01crd5	/m/0fnff	/m/01crd5	/m/01crd5
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.8394)
+___
+/m/05b4w	/m/05l64	/m/05b4w	/m/05b4w
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.9330)
+___
+/m/01crd5	/m/0fnff	/m/01crd5	/m/01crd5
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.9403)
+___
+/m/01crd5	/m/0hn4h	/m/01crd5	/m/01crd5
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.9404)
+___
+/m/035qy	/m/01xyy	/m/035qy	/m/035qy
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-5.9786)
+___
+/m/0f8l9c	/m/0glb5	/m/0f8l9c	/m/0f8l9c
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.0301)
+___
+/m/03_3d	/m/09d4_	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.0361)
+___
+/m/03rt9	/m/01qs54	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+-1
+tensor(-6.0911)
+___
+/m/03rt9	/m/0121h7	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.1323)
+___
+/m/03rt9	/m/0clz7	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.1852)
+___
+/m/03rjj	/m/07ytt	/m/03rjj	/m/03rjj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.2022)
+___
+/m/06mkj	/m/0123_x	/m/06mkj	/m/06mkj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/country/second_level_divisions
+-1
+tensor(-6.2073)
+___
+/m/0d060g	/m/059t8	/m/0d060g	/m/0d060g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.3230)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.3324)
+___
+/m/03rjj	/m/01ngn3	/m/03rjj	/m/03rjj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.4023)
+___
+/m/09pmkv	/m/07348	/m/09pmkv	/m/09pmkv
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.4024)
+___
+/m/09pmkv	/m/0dhf5	/m/09pmkv	/m/09pmkv
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.4055)
+___
+/m/09pmkv	/m/0g6xq	/m/09pmkv	/m/09pmkv
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.4101)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-6.4325)
+___
+/m/0h7x	/m/0fhp9	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/country/second_level_divisions
+-1
+tensor(-6.4658)
+___
+/m/09pmkv	/m/01jc9d	/m/09pmkv	/m/09pmkv
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.4880)
+___
+/m/09pmkv	/m/0dhf5	/m/09pmkv	/m/09pmkv
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-6.4883)
+___
+/m/09pmkv	/m/01jng9	/m/09pmkv	/m/09pmkv
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.4902)
+___
+/m/09pmkv	/m/0g6xq	/m/09pmkv	/m/09pmkv
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-6.4967)
+___
+/m/0chghy	/m/062qg	/m/0847q	/m/0847q
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.5036)
+___
+/m/06mkj	/m/01f62	/m/0123_x	/m/0123_x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.5121)
+___
+/m/03rjj	/m/068cn	/m/03rjj	/m/03rjj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.5272)
+___
+/m/0h7x	/m/0fhp9	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/country/second_level_divisions
+-1
+tensor(-6.5378)
+___
+/m/0b90_r	/m/01zlx	/m/0b90_r	/m/0b90_r
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.5634)
+___
+/m/03rk0	/m/0j603	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.6283)
+___
+/m/03rk0	/m/0n84k	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-6.6955)
+___
+/m/03_3d	/m/018jkl	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.7170)
+___
+/m/03_3d	/m/018jkl	/m/0g3bw	/m/0g3bw
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.7170)
+___
+/m/03rk0	/m/01c1nm	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-6.7370)
+___
+/m/03rk0	/m/011hq1	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.7386)
+___
+/m/03rk0	/m/0f1_p	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-6.7436)
+___
+/m/03rk0	/m/0cv2m	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.7454)
+___
+/m/03rk0	/m/0djgt	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-6.7469)
+___
+/m/03rk0	/m/026mx4	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.7494)
+___
+/m/03rk0	/m/0290rb	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.7541)
+___
+/m/0b90_r	/m/01zlx	/m/014m1m	/m/014m1m
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-6.7544)
+___
+/m/03rk0	/m/020skc	/m/01hpnh	/m/01hpnh
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.0453)
+___
+/m/03rk0	/m/022tq4	/m/01hpnh	/m/01hpnh
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.0502)
+___
+/m/03rk0	/m/0c8tk	/m/07c98	/m/07c98
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.0568)
+___
+/m/0chghy	/m/062qg	/m/0chghy	/m/0chghy
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.0923)
+___
+/m/06mkj	/m/01f62	/m/06mkj	/m/06mkj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.1062)
+___
+/m/0j1z8	/m/05q54f5	/m/0j1z8	/m/0j1z8
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.1580)
+___
+/m/0ctw_b	/m/017gm7	/m/0ctw_b	/m/0ctw_b
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.2357)
+___
+/m/0f8l9c	/m/0mczk	/m/0f8l9c	/m/0f8l9c
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.2490)
+___
+/m/0f8l9c	/m/09lk2	/m/0f8l9c	/m/0f8l9c
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.2887)
+___
+/m/0f8l9c	/m/0l9rg	/m/0f8l9c	/m/0f8l9c
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.2934)
+___
+/m/0h7x	/m/0d1yn	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.3020)
+___
+/m/02k1b	/m/0g57wgv	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3089)
+___
+/m/02k1b	/m/017jd9	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3139)
+___
+/m/02k1b	/m/09v3jyg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3261)
+___
+/m/0h7x	/m/0fhmf	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.3352)
+___
+/m/02k1b	/m/0gvrws1	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3566)
+___
+/m/02k1b	/m/017gm7	/m/0ctw_b	/m/0ctw_b
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3641)
+___
+/m/02k1b	/m/07l50vn	/m/06mkj	/m/06mkj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3808)
+___
+/m/02k1b	/m/0j6b5	/m/03_3d	/m/03_3d
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3856)
+___
+/m/02k1b	/m/027pfg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3970)
+___
+/m/02k1b	/m/03nm_fh	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3985)
+___
+/m/02k1b	/m/0dc_ms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.3990)
+___
+/m/02k1b	/m/01fmys	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.4051)
+___
+/m/02k1b	/m/0gj8nq2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.4150)
+___
+/m/02k1b	/m/0fpv_3_	/m/06f32	/m/06f32
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.4187)
+___
+/m/02k1b	/m/03bx2lk	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.4204)
+___
+/m/0h7x	/m/0fhp9	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.4348)
+___
+/m/0ctw_b	/m/02dr9j	/m/0ctw_b	/m/0ctw_b
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.4435)
+___
+/m/0ctw_b	/m/02dr9j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.4435)
+___
+/m/02k1b	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-7.4693)
+___
+/m/0j1z8	/m/0ds3t5x	/m/0j1z8	/m/0j1z8
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.4844)
+___
+/m/0ctw_b	/m/04z_3pm	/m/0chghy	/m/0chghy
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.5764)
+___
+/m/0ctw_b	/m/04z_3pm	/m/0ctw_b	/m/0ctw_b
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.5764)
+___
+/m/0h7x	/m/0fhp9	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-7.6357)
+___
+/m/0j1z8	/m/0661m4p	/m/0j1z8	/m/0j1z8
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.6456)
+___
+/m/03rk0	/m/022tq4	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.6484)
+___
+/m/03rk0	/m/020skc	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.6657)
+___
+/m/03rk0	/m/0c8tk	/m/03rk0	/m/03rk0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.6776)
+___
+/m/06mkj	/m/0123_x	/m/06mkj	/m/06mkj
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.6810)
+___
+/m/015fr	/m/053rxgm	/m/015fr	/m/015fr
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.7473)
+___
+/m/0154j	/m/0cnztc4	/m/0154j	/m/0154j
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.8169)
+___
+/m/0154j	/m/0cnztc4	/m/059j2	/m/059j2
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.8169)
+___
+/m/0h7x	/m/0fhp9	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-7.8779)
+___
+/m/0j1z8	/m/0dgq80b	/m/0j1z8	/m/0j1z8
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.8903)
+___
+/m/0j1z8	/m/0dgq80b	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.8903)
+___
+/m/02k1b	/m/02k1b	/m/07c5l	/m/07c5l
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	_/location/location/contains
+-1
+tensor(-7.8937)
+___
+/m/0h7x	/m/0fhp9	/m/0h7x	/m/0h7x
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.9263)
+___
+#####################
+/m/0d4htf	/m/07ssc
+Reward:1
+/m/0d4htf	/m/0d4htf	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.1431)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.3304)
+___
+/m/093h7p	/m/093h7p	/m/0r00l	/m/0r00l
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-5.3585)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.4332)
+___
+/m/04mlh8	/m/04mlh8	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.6166)
+___
+/m/0ccqd7	/m/0ccqd7	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.6177)
+___
+/m/093h7p	/m/099bhp	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-5.6862)
+___
+/m/093h7p	/m/02ljhg	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-5.6899)
+___
+/m/093h7p	/m/0d4htf	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-5.6908)
+___
+/m/093h7p	/m/03y0pn	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-5.7178)
+___
+/m/093h7p	/m/0b60sq	/m/03_3d	/m/03_3d
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-5.7248)
+___
+/m/093h7p	/m/0243cq	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-5.7273)
+___
+/m/093h7p	/m/02gs6r	/m/03_3d	/m/03_3d
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-5.7646)
+___
+/m/0d4htf	/m/01qg7c	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/produced_by	/people/person/nationality
+-1
+tensor(-5.8450)
+___
+/m/093h7p	/m/093h7p	/m/01n7q	/m/01n7q
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-5.9780)
+___
+/m/093h7p	/m/016ztl	/m/029j_	/m/029j_
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-6.3886)
+___
+/m/01z4y	/m/07hpv3	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.7045)
+___
+/m/01z4y	/m/06f0k	/m/07ssc	/m/07ssc
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+1
+tensor(-6.7134)
+___
+/m/01z4y	/m/05zr0xl	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.7261)
+___
+/m/0ccqd7	/m/0ccqd7	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-6.7285)
+___
+/m/01z4y	/m/01h72l	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.7304)
+___
+/m/09b3v	/m/02qzjj	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.7431)
+___
+/m/04mlh8	/m/09g_31	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.7947)
+___
+/m/04mlh8	/m/05f7w84	/m/0d060g	/m/0d060g
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.7995)
+___
+/m/093h7p	/m/0r00l	/m/01n7q	/m/01n7q
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-6.8290)
+___
+/m/093h7p	/m/0r00l	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-6.8290)
+___
+/m/093h7p	/m/0r00l	/m/0kpys	/m/0kpys
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/citytown	_/location/location/contains
+-1
+tensor(-6.8290)
+___
+/m/01z4y	/m/0cskb	/m/02h40lc	/m/02h40lc
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/languages
+-1
+tensor(-6.8875)
+___
+/m/01qg7c	/m/058frd	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.8876)
+___
+/m/093h7p	/m/0crfwmx	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-6.9184)
+___
+/m/093h7p	/m/0crfwmx	/m/07ssc	/m/07ssc
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+1
+tensor(-6.9184)
+___
+/m/093h7p	/m/0crfwmx	/m/0f8l9c	/m/0f8l9c
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/film/film/country
+-1
+tensor(-6.9184)
+___
+/m/0d4htf	/m/093h7p	/m/0r00l	/m/0r00l
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-6.9202)
+___
+/m/04mlh8	/m/04mx8h4	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.9374)
+___
+/m/0ccqd7	/m/0d4htf	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/film/actor/film./film/performance/film	/film/film/country
+-1
+tensor(-7.0321)
+___
+/m/0d4htf	/m/01795t	/m/020h2v	/m/020h2v
+NO_OP	/film/film/production_companies	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.0846)
+___
+/m/0d4htf	/m/01795t	/m/01t6b4	/m/01t6b4
+NO_OP	/film/film/production_companies	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.0846)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.1150)
+___
+/m/02fgpf	/m/02fgp0	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.1254)
+___
+/m/0d4htf	/m/02fgpf	/m/09c7w0	/m/09c7w0
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-7.1294)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.1321)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.1360)
+___
+/m/0ccqd7	/m/02_286	/m/059rby	/m/059rby
+_/film/actor/film./film/performance/film	/people/person/place_of_birth	_/location/location/contains
+-1
+tensor(-7.1519)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.1542)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-7.1650)
+___
+/m/0d4htf	/m/04mlh8	/m/02h40lc	/m/02h40lc
+NO_OP	_/film/actor/film./film/performance/film	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-7.1798)
+___
+/m/0d4htf	/m/0ccqd7	/m/02h40lc	/m/02h40lc
+NO_OP	_/film/actor/film./film/performance/film	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-7.1911)
+___
+/m/0d4htf	/m/05kwx2	/m/02jx1	/m/02jx1
+NO_OP	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-7.2099)
+___
+/m/01qg7c	/m/01qg7c	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	NO_OP	/people/person/nationality
+-1
+tensor(-7.2224)
+___
+/m/01qg7c	/m/05sy0cv	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/country_of_origin
+-1
+tensor(-7.2306)
+___
+/m/01qg7c	/m/02r1ysd	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/country_of_origin
+-1
+tensor(-7.2647)
+___
+/m/01qg7c	/m/01kff7	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.2688)
+___
+/m/01z4y	/m/01fs_4	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	/music/genre/artists	/people/person/nationality
+-1
+tensor(-7.2985)
+___
+/m/02fgpf	/m/02cx72	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.3200)
+___
+/m/01z4y	/m/05p9_ql	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3330)
+___
+/m/04mlh8	/m/03l2n	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/people/person/place_of_birth	/base/biblioness/bibs_location/country
+-1
+tensor(-7.3343)
+___
+/m/01z4y	/m/025x1t	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3369)
+___
+/m/01z4y	/m/099pks	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3403)
+___
+/m/01z4y	/m/07zhjj	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3416)
+___
+/m/01z4y	/m/01s81	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3477)
+___
+/m/01z4y	/m/02rkkn1	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3506)
+___
+/m/01z4y	/m/01vnbh	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3561)
+___
+/m/0d4htf	/m/093h7p	/m/01n7q	/m/01n7q
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/state_province_region
+-1
+tensor(-7.3561)
+___
+/m/01z4y	/m/0l76z	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3572)
+___
+/m/01z4y	/m/03ln8b	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3579)
+___
+/m/01z4y	/m/0d68qy	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3676)
+___
+/m/01z4y	/m/02hct1	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.3705)
+___
+/m/01z4y	/m/0kfpm	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.3804)
+___
+/m/0ccqd7	/m/02_286	/m/059rby	/m/059rby
+_/film/actor/film./film/performance/film	/people/person/places_lived./people/place_lived/location	_/location/location/contains
+-1
+tensor(-7.3808)
+___
+/m/09b3v	/m/02qzjj	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.3996)
+___
+/m/01z4y	/m/0kfpm	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.4017)
+___
+/m/01z4y	/m/02h2vv	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4077)
+___
+/m/01z4y	/m/02h2vv	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.4121)
+___
+/m/0d4htf	/m/034x61	/m/09c7w0	/m/09c7w0
+NO_OP	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/people/person/nationality
+-1
+tensor(-7.4184)
+___
+/m/01z4y	/m/02hct1	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.4362)
+___
+/m/01z4y	/m/0l76z	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4450)
+___
+/m/0d4htf	/m/034x61	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-7.4452)
+___
+/m/01z4y	/m/099pks	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4494)
+___
+/m/01z4y	/m/025x1t	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4529)
+___
+/m/01z4y	/m/07zhjj	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4542)
+___
+/m/01z4y	/m/02rkkn1	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4548)
+___
+/m/01z4y	/m/01vnbh	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4624)
+___
+/m/0d4htf	/m/01795t	/m/0m63c	/m/0m63c
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4628)
+___
+/m/0d4htf	/m/01795t	/m/0639bg	/m/0639bg
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4628)
+___
+/m/0d4htf	/m/01795t	/m/0639bg	/m/0639bg
+NO_OP	/film/film/production_companies	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4684)
+___
+/m/0d4htf	/m/01795t	/m/0m63c	/m/0m63c
+NO_OP	/film/film/production_companies	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4684)
+___
+/m/01z4y	/m/03ln8b	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4698)
+___
+/m/01z4y	/m/05p9_ql	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4735)
+___
+/m/01z4y	/m/01s81	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4877)
+___
+/m/01z4y	/m/0d68qy	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-7.4919)
+___
+/m/01qg7c	/m/06s26c	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.5548)
+___
+/m/093h7p	/m/093h7p	/m/054g1r	/m/054g1r
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	_/organization/organization/child./organization/organization_relationship/child
+-1
+tensor(-7.5787)
+___
+/m/093h7p	/m/093h7p	/m/09b3v	/m/09b3v
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	_/organization/organization/child./organization/organization_relationship/child
+-1
+tensor(-7.5787)
+___
+/m/01z4y	/m/01mbwlb	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	/music/genre/artists	/people/person/nationality
+-1
+tensor(-7.5923)
+___
+/m/0b25vg	/m/06q5t7	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.6215)
+___
+/m/04mlh8	/m/04mlh8	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-7.6427)
+___
+/m/0d4htf	/m/042ly5	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-7.6662)
+___
+/m/02fgpf	/m/0178rl	/m/02jx1	/m/02jx1
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.7127)
+___
+/m/01qg7c	/m/086k8	/m/0kvbl6	/m/0kvbl6
+/film/film/produced_by	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.7451)
+___
+/m/0ccqd7	/m/03n3gl	/m/0345h	/m/0345h
+_/film/actor/film./film/performance/film	/film/actor/film./film/performance/film	/film/film/country
+-1
+tensor(-7.7560)
+___
+#####################
+/m/09p5mwg	/m/07ssc
+Reward:1
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-4.0017)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-4.0811)
+___
+/m/09p5mwg	/m/09p5mwg	/m/0d060g	/m/0d060g
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.3884)
+___
+/m/09p5mwg	/m/09p5mwg	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.3884)
+___
+/m/0d060g	/m/059t8	/m/0d060g	/m/0d060g
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	_/location/location/contains
+-1
+tensor(-4.4921)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.0144)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.1439)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.2510)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.2941)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.3113)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.3317)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.3374)
+___
+/m/09c7w0	/m/0170_p	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3828)
+___
+/m/09c7w0	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3829)
+___
+/m/09c7w0	/m/0260bz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3868)
+___
+/m/09c7w0	/m/059rc	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3946)
+___
+/m/09c7w0	/m/018js4	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3962)
+___
+/m/09c7w0	/m/0fr63l	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3972)
+___
+/m/09c7w0	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3982)
+___
+/m/09c7w0	/m/0pv2t	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.3985)
+___
+/m/09c7w0	/m/02ctc6	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.4002)
+___
+/m/09c7w0	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.4034)
+___
+/m/09c7w0	/m/0d_wms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.4399)
+___
+/m/03xsby	/m/02xnjd	/m/03spz	/m/03spz
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-5.7231)
+___
+/m/01585b	/m/0yx7h	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.9441)
+___
+/m/01585b	/m/0bwhdbl	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.9519)
+___
+/m/01585b	/m/084qpk	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.9601)
+___
+/m/01585b	/m/09rfh9	/m/0d060g	/m/0d060g
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.9613)
+___
+/m/01585b	/m/01pj_5	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.9698)
+___
+/m/01585b	/m/02v5_g	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.9742)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.0368)
+___
+/m/09c7w0	/m/09p35z	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.0736)
+___
+/m/09c7w0	/m/09p35z	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.0736)
+___
+/m/09c7w0	/m/01242_	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.0737)
+___
+/m/09c7w0	/m/01242_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.0737)
+___
+/m/09c7w0	/m/0g83dv	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.0742)
+___
+/m/09c7w0	/m/0g83dv	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.0742)
+___
+/m/09c7w0	/m/0cw3yd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.0815)
+___
+/m/09c7w0	/m/0cw3yd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.0815)
+___
+/m/09c7w0	/m/095zlp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.0840)
+___
+/m/09c7w0	/m/095zlp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.0840)
+___
+/m/09p5mwg	/m/03xsby	/m/09nqf	/m/09nqf
+NO_OP	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.0935)
+___
+/m/09c7w0	/m/024mxd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.1157)
+___
+/m/09c7w0	/m/024mxd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.1157)
+___
+/m/01585b	/m/0m3gy	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.2077)
+___
+/m/01585b	/m/02c6d	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.2236)
+___
+/m/0219q	/m/0219q	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.3090)
+___
+/m/01585b	/m/05z7c	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.3480)
+___
+/m/09c7w0	/m/0by1wkq	/m/0d05w3	/m/0d05w3
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3705)
+___
+/m/09c7w0	/m/0by1wkq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.3705)
+___
+/m/09p5mwg	/m/09c7w0	/m/0260bz	/m/0260bz
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0170_p	/m/0170_p
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/05m_jsg	/m/05m_jsg
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0cw3yd	/m/0cw3yd
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/059rc	/m/059rc
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0d_wms	/m/0d_wms
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0pv2t	/m/0pv2t
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/02ctc6	/m/02ctc6
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/03h3x5	/m/03h3x5
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/08hmch	/m/08hmch
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/024mxd	/m/024mxd
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0by1wkq	/m/0by1wkq
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/02y_lrp	/m/02y_lrp
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0g83dv	/m/0g83dv
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/01242_	/m/01242_
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/018js4	/m/018js4
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/02q_4ph	/m/02q_4ph
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0c3ybss	/m/0c3ybss
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/095zlp	/m/095zlp
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/09p35z	/m/09p35z
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/09p5mwg	/m/09c7w0	/m/0fr63l	/m/0fr63l
+NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.3950)
+___
+/m/0d060g	/m/07tlfx	/m/0d060g	/m/0d060g
+/film/film/country	_/film/film/country	/film/film/country
+-1
+tensor(-6.4295)
+___
+/m/0d060g	/m/05ksh	/m/0d060g	/m/0d060g
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.4379)
+___
+/m/03xsby	/m/03xsby	/m/09nqf	/m/09nqf
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	NO_OP	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.4638)
+___
+/m/09c7w0	/m/02y_lrp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.4790)
+___
+/m/09c7w0	/m/02y_lrp	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4790)
+___
+/m/09c7w0	/m/02y_lrp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4790)
+___
+/m/09c7w0	/m/07xtqq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.5404)
+___
+/m/09c7w0	/m/026mfbr	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.5412)
+___
+/m/09c7w0	/m/0cc846d	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.5422)
+___
+/m/09c7w0	/m/02krdz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.5423)
+___
+/m/09c7w0	/m/0f40w	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.5425)
+___
+/m/09c7w0	/m/0b76t12	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.5684)
+___
+/m/09c7w0	/m/0192hw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.5996)
+___
+/m/09c7w0	/m/0m2kd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-6.6066)
+___
+/m/01585b	/m/09p5mwg	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6354)
+___
+/m/01585b	/m/09p5mwg	/m/0d060g	/m/0d060g
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6354)
+___
+/m/01585b	/m/060v34	/m/0chghy	/m/0chghy
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6401)
+___
+/m/01585b	/m/060v34	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6401)
+___
+/m/09c7w0	/m/0c3ybss	/m/0d060g	/m/0d060g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6413)
+___
+/m/09c7w0	/m/0c3ybss	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.6413)
+___
+/m/09c7w0	/m/0c3ybss	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.6413)
+___
+/m/01585b	/m/033qdy	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6433)
+___
+/m/01585b	/m/033qdy	/m/0345h	/m/0345h
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.6433)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.6750)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.7083)
+___
+/m/01q03	/m/02lxrv	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.7116)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.7186)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.7272)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/country	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-6.7402)
+___
+#####################
+/m/050f0s	/m/07ssc
+Reward:1
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-4.3338)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-4.4306)
+___
+/m/050f0s	/m/050f0s	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.8075)
+___
+/m/050f0s	/m/04vlh5	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/director/film	/people/person/nationality
+-1
+tensor(-5.2638)
+___
+/m/0sw62	/m/0sw62	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-5.3708)
+___
+/m/04vlh5	/m/04vlh5	/m/09c7w0	/m/09c7w0
+_/film/director/film	NO_OP	/people/person/nationality
+-1
+tensor(-5.4911)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.6039)
+___
+/m/03xn3s2	/m/03xn3s2	/m/09qvf4	/m/09qvf4
+_/film/actor/film./film/performance/film	NO_OP	/award/award_nominee/award_nominations./award/award_nomination/award
+-1
+tensor(-5.6289)
+___
+/m/09c7w0	/m/0mlyw	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.6693)
+___
+/m/09c7w0	/m/0n5fl	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.6927)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.6927)
+___
+/m/06b4wb	/m/06b4wb	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-5.6991)
+___
+/m/09c7w0	/m/0l380	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.7019)
+___
+/m/09c7w0	/m/0m7fm	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.7138)
+___
+/m/09c7w0	/m/0cb4j	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	/location/country/second_level_divisions	_/location/country/second_level_divisions
+-1
+tensor(-5.7466)
+___
+/m/09c7w0	/m/0170_p	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8378)
+___
+/m/09c7w0	/m/03h3x5	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8380)
+___
+/m/09c7w0	/m/0260bz	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8416)
+___
+/m/09c7w0	/m/0fr63l	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8475)
+___
+/m/09c7w0	/m/059rc	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8486)
+___
+/m/09c7w0	/m/02q_4ph	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8487)
+___
+/m/09c7w0	/m/018js4	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8534)
+___
+/m/09c7w0	/m/02ctc6	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8542)
+___
+/m/09c7w0	/m/0pv2t	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8542)
+___
+/m/09c7w0	/m/05m_jsg	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.8561)
+___
+/m/09c7w0	/m/0d_wms	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-5.9010)
+___
+/m/04vlh5	/m/04vlh5	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	NO_OP	/people/person/nationality
+-1
+tensor(-6.0806)
+___
+/m/04vlh5	/m/058frd	/m/09c7w0	/m/09c7w0
+_/film/director/film	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.1139)
+___
+/m/0sw6y	/m/0sw6y	/m/02h40lc	/m/02h40lc
+_/film/actor/film./film/performance/film	NO_OP	/film/actor/dubbing_performances./film/dubbing_performance/language
+-1
+tensor(-6.1262)
+___
+/m/03xn3s2	/m/07c72	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	/tv/tv_program/country_of_origin
+-1
+tensor(-6.2621)
+___
+/m/0n1h	/m/06_x996	/m/08s6mr	/m/08s6mr
+/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-6.3154)
+___
+/m/0glmv	/m/0glmv	/m/03rjj	/m/03rjj
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-6.3548)
+___
+/m/0glmv	/m/0glmv	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-6.3548)
+___
+/m/054187	/m/054187	/m/09c7w0	/m/09c7w0
+/film/film/written_by	NO_OP	/people/person/nationality
+-1
+tensor(-6.3959)
+___
+/m/0glmv	/m/07c72	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/country_of_origin
+-1
+tensor(-6.4101)
+___
+/m/09c7w0	/m/08hmch	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.4514)
+___
+/m/050f0s	/m/07fvf1	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/produced_by	/people/person/nationality
+-1
+tensor(-6.4893)
+___
+/m/03xn3s2	/m/050f0s	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	/film/actor/film./film/performance/film	/film/film/country
+-1
+tensor(-6.5013)
+___
+/m/09c7w0	/m/09p35z	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5288)
+___
+/m/09c7w0	/m/09p35z	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.5288)
+___
+/m/09c7w0	/m/01242_	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5288)
+___
+/m/09c7w0	/m/01242_	/m/03rt9	/m/03rt9
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5288)
+___
+/m/09c7w0	/m/0g83dv	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.5293)
+___
+/m/09c7w0	/m/0g83dv	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5293)
+___
+/m/09c7w0	/m/0cw3yd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.5354)
+___
+/m/09c7w0	/m/0cw3yd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5354)
+___
+/m/09c7w0	/m/095zlp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.5385)
+___
+/m/09c7w0	/m/095zlp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5385)
+___
+/m/050f0s	/m/03xpf_7	/m/09c7w0	/m/09c7w0
+NO_OP	/film/film/produced_by	/people/person/nationality
+-1
+tensor(-6.5473)
+___
+/m/09c7w0	/m/024mxd	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.5723)
+___
+/m/09c7w0	/m/024mxd	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.5723)
+___
+/m/016tt2	/m/07db6x	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.6154)
+___
+/m/04vlh5	/m/03kpvp	/m/02vxq9m	/m/02vxq9m
+_/film/director/film	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6517)
+___
+/m/04vlh5	/m/03kpvp	/m/01bn3l	/m/01bn3l
+_/film/director/film	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.6517)
+___
+/m/04vlh5	/m/058frd	/m/09c7w0	/m/09c7w0
+_/film/director/film	_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.6874)
+___
+/m/0n1h	/m/06_x996	/m/09c7w0	/m/09c7w0
+/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/country
+-1
+tensor(-6.7015)
+___
+/m/01z4y	/m/06f0k	/m/07ssc	/m/07ssc
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+1
+tensor(-6.7164)
+___
+/m/03xpf_7	/m/06mm1x	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.7279)
+___
+/m/01z4y	/m/01h72l	/m/09c7w0	/m/09c7w0
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.7328)
+___
+/m/013cr	/m/013cr	/m/015882	/m/015882
+_/film/actor/film./film/performance/film	NO_OP	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.7451)
+___
+/m/016tt2	/m/032v0v	/m/0345h	/m/0345h
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.7505)
+___
+/m/09c7w0	/m/0by1wkq	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.7564)
+___
+/m/09c7w0	/m/0by1wkq	/m/0d05w3	/m/0d05w3
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.7564)
+___
+/m/04vlh5	/m/0b455l	/m/09c7w0	/m/09c7w0
+_/film/director/film	_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.7718)
+___
+/m/04vlh5	/m/03kpvp	/m/02vxq9m	/m/02vxq9m
+_/film/director/film	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8263)
+___
+/m/04vlh5	/m/03kpvp	/m/01bn3l	/m/01bn3l
+_/film/director/film	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.8263)
+___
+/m/016tt2	/m/03ktjq	/m/09c7w0	/m/09c7w0
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.8485)
+___
+/m/054187	/m/050f0s	/m/09c7w0	/m/09c7w0
+/film/film/written_by	_/film/film/written_by	/film/film/country
+-1
+tensor(-6.8486)
+___
+/m/03xpf_7	/m/03xpfzg	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.8722)
+___
+/m/04vlh5	/m/058frd	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.8724)
+___
+/m/016tt2	/m/04flrx	/m/059j2	/m/059j2
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.8893)
+___
+/m/0n1h	/m/07f_t4	/m/0d05w3	/m/0d05w3
+/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.9010)
+___
+/m/0n1h	/m/07f_t4	/m/09c7w0	/m/09c7w0
+/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.9010)
+___
+/m/09c7w0	/m/02y_lrp	/m/0345h	/m/0345h
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.9344)
+___
+/m/09c7w0	/m/02y_lrp	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-6.9344)
+___
+/m/09c7w0	/m/02y_lrp	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-6.9344)
+___
+/m/03xpf_7	/m/07fvf1	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.9641)
+___
+/m/03xn3s2	/m/03xn3s2	/m/07c72	/m/07c72
+_/film/actor/film./film/performance/film	NO_OP	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-6.9720)
+___
+/m/0sw6y	/m/0sw6y	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-7.0656)
+___
+/m/016tt2	/m/0c41qv	/m/016tt2	/m/016tt2
+_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/award/award_nominee/award_nominations./award/award_nomination/award_nominee
+-1
+tensor(-7.0740)
+___
+/m/03xpf_7	/m/07_s4b	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.0796)
+___
+/m/09c7w0	/m/0c3ybss	/m/07ssc	/m/07ssc
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+1
+tensor(-7.0878)
+___
+/m/09c7w0	/m/0c3ybss	/m/0d060g	/m/0d060g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0878)
+___
+/m/09c7w0	/m/0c3ybss	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country	/film/film/country
+-1
+tensor(-7.0878)
+___
+/m/03xn3s2	/m/03xn3s2	/m/04ztj	/m/04ztj
+_/film/actor/film./film/performance/film	NO_OP	/people/person/spouse_s./people/marriage/type_of_union
+-1
+tensor(-7.0934)
+___
+/m/0n1h	/m/07f_t4	/m/029j_	/m/029j_
+/film/film/other_crew./film/film_crew_gig/film_crew_role	_/film/film/other_crew./film/film_crew_gig/film_crew_role	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-7.0969)
+___
+/m/03xn3s2	/m/03xn3s2	/m/02zsn	/m/02zsn
+_/film/actor/film./film/performance/film	NO_OP	/people/person/gender
+-1
+tensor(-7.1024)
+___
+/m/04vlh5	/m/0b455l	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.1057)
+___
+/m/09c7w0	/m/013cz2	/m/0488g	/m/0488g
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.1138)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/base/biblioness/bibs_location/country	_/location/location/contains
+-1
+tensor(-7.1138)
+___
+/m/013cr	/m/013cr	/m/09c7w0	/m/09c7w0
+_/film/actor/film./film/performance/film	NO_OP	/people/person/nationality
+-1
+tensor(-7.1366)
+___
+/m/07fvf1	/m/04s04	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.1658)
+___
+/m/04vlh5	/m/058frd	/m/09c7w0	/m/09c7w0
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.1817)
+___
+/m/07fvf1	/m/03xpf_7	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.2268)
+___
+/m/03xpf_7	/m/0721cy	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.2624)
+___
+/m/03xpf_7	/m/03xpf_7	/m/09c7w0	/m/09c7w0
+/film/film/produced_by	NO_OP	/people/person/nationality
+-1
+tensor(-7.3205)
+___
+/m/04vlh5	/m/03kpvp	/m/02vxq9m	/m/02vxq9m
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3318)
+___
+/m/04vlh5	/m/03kpvp	/m/01bn3l	/m/01bn3l
+_/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3318)
+___
+/m/01z4y	/m/02h2vv	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3841)
+___
+/m/01z4y	/m/01s81	/m/0ckd1	/m/0ckd1
+_/media_common/netflix_genre/titles	_/tv/tv_program/genre	/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type
+-1
+tensor(-7.3913)
+___
+#####################
+/m/0dsvzh	/m/07ssc
+Reward:1
+/m/0dsvzh	/m/0dsvzh	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	/film/film/country
+-1
+tensor(-4.6327)
+___
+/m/09c7w0	/m/013cz2	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/biblioness/bibs_location/country	/base/biblioness/bibs_location/country
+-1
+tensor(-5.3141)
+___
+/m/09c7w0	/m/050l8	/m/09c7w0	/m/09c7w0
+/film/film/country	_/base/aareas/schema/administrative_area/administrative_parent	/base/biblioness/bibs_location/country
+-1
+tensor(-5.4447)
+___
+/m/0dsvzh	/m/05fyss	/m/09c7w0	/m/09c7w0
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-5.5481)
+___
+/m/0dsvzh	/m/07d3z7	/m/09c7w0	/m/09c7w0
+NO_OP	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-5.5553)
+___
+/m/028v3	/m/0yyg4	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.6805)
+___
+/m/028v3	/m/0dsvzh	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.6841)
+___
+/m/028v3	/m/06rmdr	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.6948)
+___
+/m/028v3	/m/05cj_j	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.6955)
+___
+/m/028v3	/m/0dc7hc	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-5.7156)
+___
+/m/0284b56	/m/0dsvzh	/m/09c7w0	/m/09c7w0
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/country
+-1
+tensor(-5.7409)
+___
+/m/0284b56	/m/0dsvzh	/m/09c7w0	/m/09c7w0
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/country
+-1
+tensor(-5.7923)
+___
+/m/028v3	/m/027r7k	/m/07ssc	/m/07ssc
+/film/film/genre	_/film/film/genre	/film/film/country
+1
+tensor(-5.7985)
+___
+/m/0284b56	/m/0dsvzh	/m/09c7w0	/m/09c7w0
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/country
+-1
+tensor(-5.8600)
+___
+/m/0284b56	/m/02rqwhl	/m/09c7w0	/m/09c7w0
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/country
+-1
+tensor(-5.8738)
+___
+/m/0284b56	/m/02rqwhl	/m/09c7w0	/m/09c7w0
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/country
+-1
+tensor(-5.9068)
+___
+/m/0284b56	/m/0dsvzh	/m/09c7w0	/m/09c7w0
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/country
+-1
+tensor(-5.9215)
+___
+/m/028v3	/m/0pd64	/m/02k1pr	/m/02k1pr
+/film/film/genre	_/film/film/genre	/award/award_winning_work/awards_won./award/award_honor/honored_for
+-1
+tensor(-6.0066)
+___
+/m/028v3	/m/0cbn7c	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.0222)
+___
+/m/0dsvzh	/m/0284b56	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.2322)
+___
+/m/0dsvzh	/m/0284b56	/m/03rjj	/m/03rjj
+NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.2322)
+___
+/m/0dsvzh	/m/0284b56	/m/0b90_r	/m/0b90_r
+NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.2322)
+___
+/m/0dsvzh	/m/0284b56	/m/015fr	/m/015fr
+NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.2322)
+___
+/m/0dsvzh	/m/0284b56	/m/0jgd	/m/0jgd
+NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.2322)
+___
+/m/0dsvzh	/m/0284b56	/m/09c7w0	/m/09c7w0
+NO_OP	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.2322)
+___
+/m/028v3	/m/0fg04	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.3901)
+___
+/m/028v3	/m/0fg04	/m/0345h	/m/0345h
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.3901)
+___
+/m/05fyss	/m/0crqcc	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.4040)
+___
+/m/028v3	/m/02r1ysd	/m/09c7w0	/m/09c7w0
+/film/film/genre	_/tv/tv_program/genre	/tv/tv_program/country_of_origin
+-1
+tensor(-6.4423)
+___
+/m/0dsvzh	/m/0284b56	/m/0b90_r	/m/0b90_r
+NO_OP	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4441)
+___
+/m/0dsvzh	/m/0284b56	/m/015fr	/m/015fr
+NO_OP	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4441)
+___
+/m/0dsvzh	/m/0284b56	/m/0f8l9c	/m/0f8l9c
+NO_OP	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4441)
+___
+/m/0dsvzh	/m/0284b56	/m/03rjj	/m/03rjj
+NO_OP	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4441)
+___
+/m/0dsvzh	/m/0284b56	/m/09c7w0	/m/09c7w0
+NO_OP	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4441)
+___
+/m/0dsvzh	/m/0284b56	/m/0jgd	/m/0jgd
+NO_OP	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.4441)
+___
+/m/05fyss	/m/0464pz	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/country_of_origin
+-1
+tensor(-6.5449)
+___
+/m/05fyss	/m/0dsvzh	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-6.5716)
+___
+/m/05fyss	/m/05fyss	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	NO_OP	/people/person/nationality
+-1
+tensor(-6.5807)
+___
+/m/0dsvzh	/m/0151w_	/m/0bq2g	/m/0bq2g
+NO_OP	_/film/director/film	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.5886)
+___
+/m/0dsvzh	/m/0151w_	/m/0794g	/m/0794g
+NO_OP	_/film/director/film	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.5886)
+___
+/m/0dsvzh	/m/0151w_	/m/01jfrg	/m/01jfrg
+NO_OP	_/film/director/film	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.5886)
+___
+/m/0dsvzh	/m/0151w_	/m/02pk6x	/m/02pk6x
+NO_OP	_/film/director/film	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-6.5886)
+___
+/m/0284b56	/m/07d3z7	/m/09c7w0	/m/09c7w0
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.6893)
+___
+/m/0284b56	/m/0b90_r	/m/06zn2v2	/m/06zn2v2
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.7070)
+___
+/m/0284b56	/m/07fq1y	/m/02jx1	/m/02jx1
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.7254)
+___
+/m/028v3	/m/064n1pz	/m/05b4w	/m/05b4w
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.7878)
+___
+/m/028v3	/m/064n1pz	/m/0345h	/m/0345h
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.7878)
+___
+/m/028v3	/m/064n1pz	/m/0k6nt	/m/0k6nt
+/film/film/genre	_/film/film/genre	/film/film/country
+-1
+tensor(-6.7878)
+___
+/m/05fyss	/m/02vqpx8	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-6.8397)
+___
+/m/04pf4r	/m/04pf4r	/m/02jx1	/m/02jx1
+/film/film/music	NO_OP	/people/person/nationality
+-1
+tensor(-6.8474)
+___
+/m/05fyss	/m/0crqcc	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.9164)
+___
+/m/0284b56	/m/07fq1y	/m/02jx1	/m/02jx1
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-6.9303)
+___
+/m/0284b56	/m/0b90_r	/m/06zn2v2	/m/06zn2v2
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-6.9777)
+___
+/m/0284b56	/m/07d3z7	/m/09c7w0	/m/09c7w0
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.0090)
+___
+/m/04jhhng	/m/0fhzwl	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award	_/award/award_winning_work/awards_won./award/award_honor/award	/tv/tv_program/country_of_origin
+-1
+tensor(-7.0512)
+___
+/m/0284b56	/m/015v3r	/m/09c7w0	/m/09c7w0
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.0684)
+___
+/m/05fyss	/m/0crqcc	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.0911)
+___
+/m/05fyss	/m/0crqcc	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.1217)
+___
+/m/05fyss	/m/02vqpx8	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.2462)
+___
+/m/07d3z7	/m/015v3r	/m/046zh	/m/046zh
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/base/popstra/celebrity/dated./base/popstra/dated/participant
+-1
+tensor(-7.2472)
+___
+/m/0284b56	/m/01g257	/m/03rjj	/m/03rjj
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.2780)
+___
+/m/0284b56	/m/01g257	/m/09c7w0	/m/09c7w0
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.2780)
+___
+/m/04jhhng	/m/05fyss	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award	_/award/award_nominee/award_nominations./award/award_nomination/award	/people/person/nationality
+-1
+tensor(-7.2948)
+___
+/m/07d3z7	/m/07fq1y	/m/02jx1	/m/02jx1
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.3281)
+___
+/m/0284b56	/m/09mfvx	/m/02_286	/m/02_286
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	_/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-7.3346)
+___
+/m/05fyss	/m/02vqpx8	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.3492)
+___
+/m/05fyss	/m/02c638	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.3843)
+___
+/m/05fyss	/m/02c638	/m/0chghy	/m/0chghy
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/country
+-1
+tensor(-7.3843)
+___
+/m/05fyss	/m/02vqpx8	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.3871)
+___
+/m/0284b56	/m/015v3r	/m/09c7w0	/m/09c7w0
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.3892)
+___
+/m/05fyss	/m/05gp3x	/m/0464pz	/m/0464pz
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.3960)
+___
+/m/04jhhng	/m/02ndf1	/m/0d060g	/m/0d060g
+/award/award_winning_work/awards_won./award/award_honor/award	_/award/award_nominee/award_nominations./award/award_nomination/award	/people/person/nationality
+-1
+tensor(-7.4225)
+___
+/m/04jhhng	/m/02ndf1	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award	_/award/award_nominee/award_nominations./award/award_nomination/award	/people/person/nationality
+-1
+tensor(-7.4225)
+___
+/m/05fyss	/m/05gp3x	/m/0464pz	/m/0464pz
+/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_winner/awards_won./award/award_honor/award_winner	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-7.4349)
+___
+/m/0284b56	/m/015fr	/m/03q8xj	/m/03q8xj
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4668)
+___
+/m/0284b56	/m/015fr	/m/053rxgm	/m/053rxgm
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4668)
+___
+/m/0284b56	/m/015fr	/m/0dscrwf	/m/0dscrwf
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4668)
+___
+/m/0284b56	/m/015fr	/m/0dscrwf	/m/0dscrwf
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4794)
+___
+/m/0284b56	/m/015fr	/m/03q8xj	/m/03q8xj
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4794)
+___
+/m/0284b56	/m/015fr	/m/053rxgm	/m/053rxgm
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/film/film/country
+-1
+tensor(-7.4794)
+___
+/m/0284b56	/m/07fq1y	/m/02jx1	/m/02jx1
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	_/film/actor/film./film/performance/film	/people/person/nationality
+-1
+tensor(-7.4825)
+___
+/m/0284b56	/m/01g257	/m/09c7w0	/m/09c7w0
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.5253)
+___
+/m/0284b56	/m/01g257	/m/03rjj	/m/03rjj
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/nationality
+-1
+tensor(-7.5253)
+___
+/m/04pf4r	/m/06fxnf	/m/02jx1	/m/02jx1
+/film/film/music	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.5786)
+___
+/m/04pf4r	/m/06fxnf	/m/07ssc	/m/07ssc
+/film/film/music	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+1
+tensor(-7.5786)
+___
+/m/0284b56	/m/0284b56	/m/0f8l9c	/m/0f8l9c
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6383)
+___
+/m/0284b56	/m/0284b56	/m/03rjj	/m/03rjj
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6383)
+___
+/m/0284b56	/m/0284b56	/m/0jgd	/m/0jgd
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6383)
+___
+/m/0284b56	/m/0284b56	/m/0b90_r	/m/0b90_r
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6383)
+___
+/m/0284b56	/m/0284b56	/m/015fr	/m/015fr
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6383)
+___
+/m/0284b56	/m/0284b56	/m/09c7w0	/m/09c7w0
+_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.6383)
+___
+/m/07d3z7	/m/01g257	/m/03rjj	/m/03rjj
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.6871)
+___
+/m/07d3z7	/m/01g257	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_nominee/award_nominations./award/award_nomination/award_nominee	/people/person/nationality
+-1
+tensor(-7.6871)
+___
+/m/05fyss	/m/01cx_	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award_winner	/people/person/places_lived./people/place_lived/location	/base/biblioness/bibs_location/country
+-1
+tensor(-7.6989)
+___
+/m/04jhhng	/m/02c638	/m/0chghy	/m/0chghy
+/award/award_winning_work/awards_won./award/award_honor/award	_/award/award_winning_work/awards_won./award/award_honor/award	/film/film/country
+-1
+tensor(-7.6991)
+___
+/m/04jhhng	/m/02c638	/m/09c7w0	/m/09c7w0
+/award/award_winning_work/awards_won./award/award_honor/award	_/award/award_winning_work/awards_won./award/award_honor/award	/film/film/country
+-1
+tensor(-7.6991)
+___
+/m/0284b56	/m/0284b56	/m/0f8l9c	/m/0f8l9c
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7908)
+___
+/m/0284b56	/m/0284b56	/m/0b90_r	/m/0b90_r
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7908)
+___
+/m/0284b56	/m/0284b56	/m/03rjj	/m/03rjj
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7908)
+___
+/m/0284b56	/m/0284b56	/m/015fr	/m/015fr
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	NO_OP	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-7.7908)
+___
+#####################

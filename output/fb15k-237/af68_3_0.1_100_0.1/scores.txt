@@ -1,0 +1,48 @@
+Score for iteration 1000
+Hits@1:  0.1686
+Hits@3:  0.2573
+Hits@5:  0.2947
+Hits@10:  0.3539
+Hits@20:  0.4098
+auc:  0.2301
+
+Score for iteration 2000
+Hits@1:  0.1829
+Hits@3:  0.2675
+Hits@5:  0.3027
+Hits@10:  0.3522
+Hits@20:  0.4059
+auc:  0.2413
+
+Score for iteration 3000
+Hits@1:  0.1825
+Hits@3:  0.2753
+Hits@5:  0.3171
+Hits@10:  0.3750
+Hits@20:  0.4317
+auc:  0.2477
+
+Score for iteration 4000
+Hits@1:  0.1758
+Hits@3:  0.2678
+Hits@5:  0.3052
+Hits@10:  0.3622
+Hits@20:  0.4216
+auc:  0.2394
+
+Score for iteration 5000
+Hits@1:  0.1792
+Hits@3:  0.2750
+Hits@5:  0.3153
+Hits@10:  0.3714
+Hits@20:  0.4309
+auc:  0.2455
+
+Score for iteration 6000
+Hits@1:  0.1753
+Hits@3:  0.2657
+Hits@5:  0.3047
+Hits@10:  0.3609
+Hits@20:  0.4285
+auc:  0.2396
+

@@ -1,0 +1,2515 @@
+/m/059g4	/m/06ryl
+Reward:0
+/m/059g4	/m/059g4	/m/07c5l	/m/07c5l
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-0.0338)
+___
+/m/059g4	/m/03wh49y	/m/05p553	/m/05p553
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/genre
+-1
+tensor(-5.9898)
+___
+/m/059g4	/m/03wh49y	/m/03k9fj	/m/03k9fj
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/genre
+-1
+tensor(-5.9898)
+___
+/m/059g4	/m/03wh49y	/m/01hmnh	/m/01hmnh
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/genre
+-1
+tensor(-5.9898)
+___
+/m/059g4	/m/03wh49y	/m/01z77k	/m/01z77k
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/tv/tv_program/genre
+-1
+tensor(-6.6055)
+___
+/m/059g4	/m/03wh49y	/m/02vzc	/m/02vzc
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/03wh49y	/m/0d0vqn	/m/0d0vqn
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/03wh49y	/m/0154j	/m/0154j
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/03wh49y	/m/0345h	/m/0345h
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/03wh49y	/m/03_3d	/m/03_3d
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/03wh49y	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/03wh49y	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/03wh49y	/m/059g4	/m/059g4
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.6504)
+___
+/m/059g4	/m/059g4	/m/02r1c18	/m/02r1c18
+NO_OP	NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.7954)
+___
+/m/059g4	/m/059g4	/m/03wh49y	/m/03wh49y
+NO_OP	NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.7954)
+___
+/m/059g4	/m/059g4	/m/0btpm6	/m/0btpm6
+NO_OP	NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.7954)
+___
+/m/06n3y	/m/059g4	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-7.3758)
+___
+/m/059g4	/m/03wh49y	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-8.2237)
+___
+/m/059g4	/m/0k3nk	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6169)
+___
+/m/059g4	/m/0db94	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6169)
+___
+/m/059g4	/m/04yf_	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6169)
+___
+/m/059g4	/m/04kdn	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6170)
+___
+/m/059g4	/m/04kbn	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6170)
+___
+/m/059g4	/m/04_1l0v	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6171)
+___
+/m/059g4	/m/020d5	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6258)
+___
+/m/059g4	/m/05qx1	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.7034)
+___
+/m/059g4	/m/0345_	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.7342)
+___
+/m/059g4	/m/035v3	/m/0295r	/m/0295r
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.7658)
+___
+/m/059g4	/m/05c74	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.7768)
+___
+/m/059g4	/m/0164b	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.7770)
+___
+/m/059g4	/m/0pmpl	/m/06nrt	/m/06nrt
+NO_OP	/location/location/contains	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-8.9556)
+___
+/m/059g4	/m/0fb18	/m/059rby	/m/059rby
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3100)
+___
+/m/059g4	/m/0fb18	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3100)
+___
+/m/059g4	/m/06c6l	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3101)
+___
+/m/059g4	/m/06c6l	/m/0d060g	/m/0d060g
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3101)
+___
+/m/059g4	/m/01jswq	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3378)
+___
+/m/059g4	/m/01jswq	/m/07z1m	/m/07z1m
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3378)
+___
+/m/059g4	/m/03h2c	/m/02h40lc	/m/02h40lc
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.3938)
+___
+/m/059g4	/m/03h2c	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.3938)
+___
+/m/059g4	/m/01p8s	/m/07c5l	/m/07c5l
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4467)
+___
+/m/059g4	/m/01p8s	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.4467)
+___
+/m/059g4	/m/03wh49y	/m/029j_	/m/029j_
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium
+-1
+tensor(-9.6013)
+___
+/m/059g4	/m/0d060g	/m/01mk6	/m/01mk6
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6933)
+___
+/m/059g4	/m/0d060g	/m/04g61	/m/04g61
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6933)
+___
+/m/059g4	/m/0b90_r	/m/015qh	/m/015qh
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.7169)
+___
+/m/059g4	/m/0b90_r	/m/0345h	/m/0345h
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.7169)
+___
+/m/059g4	/m/0b90_r	/m/0chghy	/m/0chghy
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.7169)
+___
+/m/059g4	/m/0n5yh	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7174)
+___
+/m/059g4	/m/0n5yh	/m/029jpy	/m/029jpy
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7174)
+___
+/m/059g4	/m/0n5yh	/m/059f4	/m/059f4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7174)
+___
+/m/059g4	/m/0hz35	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7423)
+___
+/m/059g4	/m/0hz35	/m/0k3k1	/m/0k3k1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7423)
+___
+/m/059g4	/m/0hz35	/m/029jpy	/m/029jpy
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7423)
+___
+/m/059g4	/m/01mpwj	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7440)
+___
+/m/059g4	/m/01mpwj	/m/05k7sb	/m/05k7sb
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7440)
+___
+/m/059g4	/m/01mpwj	/m/01qh7	/m/01qh7
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7440)
+___
+/m/059g4	/m/0typ5	/m/05k7sb	/m/05k7sb
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7451)
+___
+/m/059g4	/m/0typ5	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7451)
+___
+/m/059g4	/m/0typ5	/m/0k3gw	/m/0k3gw
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7451)
+___
+/m/059g4	/m/059f4	/m/04_1l0v	/m/04_1l0v
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7617)
+___
+/m/059g4	/m/059f4	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7617)
+___
+/m/059g4	/m/059f4	/m/029jpy	/m/029jpy
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7617)
+___
+/m/059g4	/m/01k2wn	/m/01x73	/m/01x73
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7874)
+___
+/m/059g4	/m/01k2wn	/m/01p726	/m/01p726
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7874)
+___
+/m/059g4	/m/01k2wn	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.7874)
+___
+/m/059g4	/m/059g4	/m/0f8l9c	/m/0f8l9c
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-9.9351)
+___
+/m/059g4	/m/059g4	/m/03wh49y	/m/03wh49y
+NO_OP	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-10.0030)
+___
+/m/059g4	/m/01y9st	/m/05kr_	/m/05kr_
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-10.0057)
+___
+/m/059g4	/m/01y9st	/m/0d060g	/m/0d060g
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-10.0057)
+___
+/m/059g4	/m/01y9st	/m/0h7h6	/m/0h7h6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-10.0057)
+___
+/m/059g4	/m/01y9st	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-10.0057)
+___
+/m/0db94	/m/0db94	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-10.1161)
+___
+/m/06n3y	/m/059g4	/m/07c5l	/m/07c5l
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-10.1267)
+___
+/m/03wh49y	/m/02xs5v	/m/0c8wxp	/m/0c8wxp
+_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film	/people/person/religion
+-1
+tensor(-10.1433)
+___
+/m/03wh49y	/m/07rzf	/m/02h40lc	/m/02h40lc
+_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film	_/education/field_of_study/students_majoring./education/education/student
+-1
+tensor(-10.1889)
+___
+/m/03wh49y	/m/059g4	/m/07c5l	/m/07c5l
+_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/location/location/contains
+-1
+tensor(-10.2645)
+___
+/m/04kdn	/m/04kdn	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-10.2841)
+___
+/m/0k3nk	/m/0k3nk	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-10.3256)
+___
+/m/059g4	/m/03wh49y	/m/07d3x	/m/07d3x
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	/tv/tv_program/program_creator
+-1
+tensor(-10.4279)
+___
+/m/04kbn	/m/04kbn	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-10.4405)
+___
+/m/059g4	/m/0d060g	/m/02hxc3j	/m/02hxc3j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-10.4582)
+___
+/m/059g4	/m/0d060g	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-10.4582)
+___
+/m/059g4	/m/03wh49y	/m/0svqs	/m/0svqs
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film
+-1
+tensor(-10.4840)
+___
+/m/059g4	/m/03wh49y	/m/02xs5v	/m/02xs5v
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film
+-1
+tensor(-10.4840)
+___
+/m/059g4	/m/03wh49y	/m/0f0kz	/m/0f0kz
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film
+-1
+tensor(-10.4840)
+___
+/m/059g4	/m/03wh49y	/m/016ywr	/m/016ywr
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film
+-1
+tensor(-10.4840)
+___
+/m/059g4	/m/03wh49y	/m/07rzf	/m/07rzf
+NO_OP	_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film
+-1
+tensor(-10.4840)
+___
+/m/03wh49y	/m/022tfp	/m/0ctzf1	/m/0ctzf1
+_/film/film/runtime./film/film_cut/film_release_region	_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-10.5424)
+___
+/m/03wh49y	/m/022tfp	/m/03wh49y	/m/03wh49y
+_/film/film/runtime./film/film_cut/film_release_region	_/tv/tv_network/programs./tv/tv_network_duration/program	/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-10.5424)
+___
+/m/0pmpl	/m/06nrt	/m/0d060g	/m/0d060g
+/location/location/contains	_/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-10.5557)
+___
+/m/059g4	/m/0pmpl	/m/059g4	/m/059g4
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-10.5660)
+___
+/m/059g4	/m/0pmpl	/m/0d060g	/m/0d060g
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-10.5660)
+___
+/m/03wh49y	/m/059g4	/m/07c5l	/m/07c5l
+_/film/film/runtime./film/film_cut/film_release_region	/film/film/runtime./film/film_cut/film_release_region	_/location/location/contains
+-1
+tensor(-10.5669)
+___
+/m/0typ5	/m/0k3gw	/m/05k7sb	/m/05k7sb
+/location/location/contains	/location/hud_county_place/county	_/location/location/contains
+-1
+tensor(-10.6104)
+___
+/m/020d5	/m/020d5	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-10.6174)
+___
+/m/03wh49y	/m/016ywr	/m/0c8wxp	/m/0c8wxp
+_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film	/people/person/religion
+-1
+tensor(-10.6633)
+___
+/m/04yf_	/m/04yf_	/m/059g4	/m/059g4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-10.6781)
+___
+/m/03wh49y	/m/02vzc	/m/015qh	/m/015qh
+_/film/film/runtime./film/film_cut/film_release_region	/film/film/release_date_s./film/film_regional_release_date/film_release_region	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-10.6822)
+___
+/m/035v3	/m/035v3	/m/0295r	/m/0295r
+/location/location/contains	NO_OP	_/language/human_language/countries_spoken_in
+-1
+tensor(-10.7162)
+___
+/m/03wh49y	/m/0svqs	/m/05sfs	/m/05sfs
+_/film/film/runtime./film/film_cut/film_release_region	_/film/actor/film./film/performance/film	/people/person/religion
+-1
+tensor(-10.7526)
+___
+#####################
+/m/02j9z	/m/03rt9
+Reward:0
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.7001)
+___
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.7001)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.7001)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.5958)
+___
+/m/02j9z	/m/02j9z	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.5958)
+___
+/m/02j9z	/m/02j9z	/m/0dg3n1	/m/0dg3n1
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.5958)
+___
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.2374)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.2374)
+___
+/m/02j9z	/m/02j9z	/m/02j9z	/m/02j9z
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-3.5370)
+___
+/m/02j9z	/m/02j9z	/m/04n6k	/m/04n6k
+NO_OP	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-3.6911)
+___
+/m/02j9z	/m/02j9z	/m/04ztj	/m/04ztj
+NO_OP	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-5.5174)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.6988)
+___
+/m/02j9z	/m/02j9z	/m/0845v	/m/0845v
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.6988)
+___
+/m/02j9z	/m/02j9z	/m/0k4y6	/m/0k4y6
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.6988)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.6988)
+___
+/m/02j9z	/m/02j9z	/m/07j9n	/m/07j9n
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.6988)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.6988)
+___
+/m/02j9z	/m/02j9z	/m/03gk2	/m/03gk2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/014d4v	/m/014d4v
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/02_gzx	/m/02_gzx
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/07r_p	/m/07r_p
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/04g61	/m/04g61
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/018ym2	/m/018ym2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/0lk0l	/m/0lk0l
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/035qv8	/m/035qv8
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/04gzd	/m/04gzd
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/034cm	/m/034cm
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/06psyf	/m/06psyf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/01b_d4	/m/01b_d4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/0ftns	/m/0ftns
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/015wy_	/m/015wy_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/020vx9	/m/020vx9
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/0lvng	/m/0lvng
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/012wgb	/m/012wgb
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/0bjv6	/m/0bjv6
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/082fr	/m/082fr
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/012m_	/m/012m_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/04g5k	/m/04g5k
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/04w58	/m/04w58
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/07wtc	/m/07wtc
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/07tg4	/m/07tg4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/0366c	/m/0366c
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/01nhhz	/m/01nhhz
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1871)
+___
+/m/02j9z	/m/02j9z	/m/02b9g4	/m/02b9g4
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.8917)
+___
+/m/02j9z	/m/02j9z	/m/07swvb	/m/07swvb
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.8917)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2120)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2120)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2120)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2122)
+___
+/m/02j9z	/m/05b4w	/m/05f_3	/m/05f_3
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.2219)
+___
+/m/02j9z	/m/034cm	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2263)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2320)
+___
+/m/02j9z	/m/015qh	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.2501)
+___
+/m/02j9z	/m/06c1y	/m/07f1x	/m/07f1x
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.2682)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.2714)
+___
+/m/02j9z	/m/04j53	/m/04306rv	/m/04306rv
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.2740)
+___
+/m/02j9z	/m/02vzc	/m/01gp_d	/m/01gp_d
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.2791)
+___
+/m/02j9z	/m/04w58	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.3278)
+___
+/m/02j9z	/m/0163v	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.3455)
+___
+/m/02j9z	/m/0d0kn	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.3471)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.3674)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.3713)
+___
+/m/02j9z	/m/0hg5	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.3922)
+___
+/m/04swx	/m/01znc_	/m/0jzc	/m/0jzc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.4721)
+___
+/m/02j9z	/m/0d0vqn	/m/02j71	/m/02j71
+NO_OP	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.7136)
+___
+/m/0j0k	/m/02j9z	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7269)
+___
+/m/0j0k	/m/02j9z	/m/049nq	/m/049nq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7269)
+___
+/m/0j0k	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7269)
+___
+/m/02j9z	/m/0345h	/m/013xrm	/m/013xrm
+NO_OP	/location/location/contains	_/dataworld/gardening_hint/split_to
+-1
+tensor(-8.8558)
+___
+/m/02j9z	/m/06psyf	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9051)
+___
+/m/02j9z	/m/06psyf	/m/0nccd	/m/0nccd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9051)
+___
+/m/02j9z	/m/02_gzx	/m/06pr6	/m/06pr6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9054)
+___
+/m/02j9z	/m/02_gzx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9054)
+___
+/m/02j9z	/m/035qv8	/m/09b83	/m/09b83
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9144)
+___
+/m/02j9z	/m/035qv8	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9144)
+___
+/m/02j9z	/m/0lk0l	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9164)
+___
+/m/02j9z	/m/0lk0l	/m/05qtj	/m/05qtj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9164)
+___
+/m/02j9z	/m/020vx9	/m/04swd	/m/04swd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9226)
+___
+/m/02j9z	/m/020vx9	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.9226)
+___
+/m/02j9z	/m/03gk2	/m/02bv9	/m/02bv9
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.9357)
+___
+/m/02j9z	/m/03gk2	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.9357)
+___
+/m/02j9z	/m/0bjv6	/m/012v8	/m/012v8
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.9656)
+___
+/m/02j9z	/m/0bjv6	/m/02hwyss	/m/02hwyss
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.9656)
+___
+/m/02j9z	/m/0166b	/m/0k0sb	/m/0k0sb
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.9730)
+___
+/m/02j9z	/m/0166b	/m/06x8y	/m/06x8y
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.9730)
+___
+/m/02j9z	/m/0jhd	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0613)
+___
+/m/02j9z	/m/0jhd	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0613)
+___
+/m/02j9z	/m/04g5k	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0738)
+___
+/m/02j9z	/m/04g5k	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.0738)
+___
+/m/02j9z	/m/01pj7	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.2870)
+___
+/m/02j9z	/m/01pj7	/m/02psqkz	/m/02psqkz
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.2870)
+___
+/m/02j9z	/m/0366c	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3172)
+___
+/m/02j9z	/m/0366c	/m/02j7k	/m/02j7k
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3172)
+___
+/m/02j9z	/m/0366c	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3172)
+___
+/m/02j9z	/m/01b_d4	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3172)
+___
+/m/02j9z	/m/01b_d4	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3172)
+___
+/m/02j9z	/m/01b_d4	/m/09ctj	/m/09ctj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3172)
+___
+/m/02j9z	/m/012m_	/m/05kyr	/m/05kyr
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.3200)
+___
+/m/02j9z	/m/012m_	/m/03bxbql	/m/03bxbql
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.3200)
+___
+/m/02j9z	/m/012m_	/m/03b79	/m/03b79
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.3200)
+___
+#####################
+/m/02j9z	/m/06mkj
+Reward:0
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6704)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6704)
+___
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6704)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6918)
+___
+/m/02j9z	/m/02j9z	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6918)
+___
+/m/02j9z	/m/02j9z	/m/0dg3n1	/m/0dg3n1
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6918)
+___
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.3253)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.3253)
+___
+/m/02j9z	/m/02j9z	/m/04n6k	/m/04n6k
+NO_OP	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-3.6486)
+___
+/m/02j9z	/m/02j9z	/m/02j9z	/m/02j9z
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-3.8052)
+___
+/m/02j9z	/m/02j9z	/m/04ztj	/m/04ztj
+NO_OP	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-5.1459)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3324)
+___
+/m/02j9z	/m/02j9z	/m/0845v	/m/0845v
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3324)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3324)
+___
+/m/02j9z	/m/02j9z	/m/07j9n	/m/07j9n
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3324)
+___
+/m/02j9z	/m/02j9z	/m/0k4y6	/m/0k4y6
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3324)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3324)
+___
+/m/02j9z	/m/02j9z	/m/014d4v	/m/014d4v
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/07tg4	/m/07tg4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/034cm	/m/034cm
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/0lk0l	/m/0lk0l
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/02_gzx	/m/02_gzx
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/04gzd	/m/04gzd
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/07wtc	/m/07wtc
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/018ym2	/m/018ym2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/0366c	/m/0366c
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/07r_p	/m/07r_p
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/035qv8	/m/035qv8
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/04g5k	/m/04g5k
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/082fr	/m/082fr
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/015wy_	/m/015wy_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/012m_	/m/012m_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/03gk2	/m/03gk2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/04g61	/m/04g61
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/0lvng	/m/0lvng
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/01nhhz	/m/01nhhz
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/04w58	/m/04w58
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/06psyf	/m/06psyf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/01b_d4	/m/01b_d4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/0ftns	/m/0ftns
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/0bjv6	/m/0bjv6
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/012wgb	/m/012wgb
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/020vx9	/m/020vx9
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0509)
+___
+/m/02j9z	/m/02j9z	/m/02b9g4	/m/02b9g4
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.4913)
+___
+/m/02j9z	/m/02j9z	/m/07swvb	/m/07swvb
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.4913)
+___
+/m/04swx	/m/01znc_	/m/0jzc	/m/0jzc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.4718)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5235)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5235)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5236)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5238)
+___
+/m/02j9z	/m/05b4w	/m/05f_3	/m/05f_3
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5376)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5408)
+___
+/m/02j9z	/m/034cm	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5421)
+___
+/m/02j9z	/m/015qh	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.5646)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5683)
+___
+/m/02j9z	/m/06c1y	/m/07f1x	/m/07f1x
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.5744)
+___
+/m/02j9z	/m/04j53	/m/04306rv	/m/04306rv
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5779)
+___
+/m/02j9z	/m/02vzc	/m/01gp_d	/m/01gp_d
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5997)
+___
+/m/02j9z	/m/04w58	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6267)
+___
+/m/02j9z	/m/0163v	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6568)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6630)
+___
+/m/02j9z	/m/0d0kn	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6661)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6683)
+___
+/m/02j9z	/m/0hg5	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6836)
+___
+/m/0j0k	/m/02j9z	/m/049nq	/m/049nq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7340)
+___
+/m/0j0k	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7340)
+___
+/m/0j0k	/m/02j9z	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7340)
+___
+/m/02j9z	/m/0d0vqn	/m/02j71	/m/02j71
+NO_OP	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-9.1454)
+___
+/m/02j9z	/m/06psyf	/m/0nccd	/m/0nccd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2167)
+___
+/m/02j9z	/m/06psyf	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2167)
+___
+/m/02j9z	/m/02_gzx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2169)
+___
+/m/02j9z	/m/02_gzx	/m/06pr6	/m/06pr6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2169)
+___
+/m/02j9z	/m/0lk0l	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2262)
+___
+/m/02j9z	/m/0lk0l	/m/05qtj	/m/05qtj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2262)
+___
+/m/02j9z	/m/035qv8	/m/09b83	/m/09b83
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2279)
+___
+/m/02j9z	/m/035qv8	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2279)
+___
+/m/02j9z	/m/0345h	/m/013xrm	/m/013xrm
+NO_OP	/location/location/contains	_/dataworld/gardening_hint/split_to
+-1
+tensor(-9.2345)
+___
+/m/02j9z	/m/020vx9	/m/04swd	/m/04swd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2399)
+___
+/m/02j9z	/m/020vx9	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2399)
+___
+/m/02j9z	/m/03gk2	/m/02bv9	/m/02bv9
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2509)
+___
+/m/02j9z	/m/03gk2	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2509)
+___
+/m/02j9z	/m/0166b	/m/06x8y	/m/06x8y
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2759)
+___
+/m/02j9z	/m/0166b	/m/0k0sb	/m/0k0sb
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2759)
+___
+/m/02j9z	/m/0bjv6	/m/012v8	/m/012v8
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2837)
+___
+/m/02j9z	/m/0bjv6	/m/02hwyss	/m/02hwyss
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2837)
+___
+/m/02j9z	/m/0jhd	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3660)
+___
+/m/02j9z	/m/0jhd	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3660)
+___
+/m/02j9z	/m/04g5k	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3778)
+___
+/m/02j9z	/m/04g5k	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3778)
+___
+/m/02j9z	/m/01pj7	/m/02psqkz	/m/02psqkz
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6085)
+___
+/m/02j9z	/m/01pj7	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6085)
+___
+/m/02j9z	/m/0366c	/m/02j7k	/m/02j7k
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6278)
+___
+/m/02j9z	/m/0366c	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6278)
+___
+/m/02j9z	/m/0366c	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6278)
+___
+/m/02j9z	/m/07wtc	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6303)
+___
+/m/02j9z	/m/07wtc	/m/023sm8	/m/023sm8
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6303)
+___
+/m/02j9z	/m/07wtc	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6303)
+___
+/m/02j9z	/m/01b_d4	/m/09ctj	/m/09ctj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6304)
+___
+/m/02j9z	/m/01b_d4	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6304)
+___
+/m/02j9z	/m/01b_d4	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6304)
+___
+#####################
+/m/02j9z	/m/03rjj
+Reward:0
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6623)
+___
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6623)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6623)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6748)
+___
+/m/02j9z	/m/02j9z	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6748)
+___
+/m/02j9z	/m/02j9z	/m/0dg3n1	/m/0dg3n1
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6748)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.3092)
+___
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.3092)
+___
+/m/02j9z	/m/02j9z	/m/04n6k	/m/04n6k
+NO_OP	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-3.6791)
+___
+/m/02j9z	/m/02j9z	/m/02j9z	/m/02j9z
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-3.7959)
+___
+/m/02j9z	/m/02j9z	/m/04ztj	/m/04ztj
+NO_OP	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-5.2403)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.4337)
+___
+/m/02j9z	/m/02j9z	/m/07j9n	/m/07j9n
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.4337)
+___
+/m/02j9z	/m/02j9z	/m/0k4y6	/m/0k4y6
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.4337)
+___
+/m/02j9z	/m/02j9z	/m/0845v	/m/0845v
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.4337)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.4337)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.4337)
+___
+/m/02j9z	/m/02j9z	/m/035qv8	/m/035qv8
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/012wgb	/m/012wgb
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/0lvng	/m/0lvng
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/01b_d4	/m/01b_d4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/03gk2	/m/03gk2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/0lk0l	/m/0lk0l
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/02_gzx	/m/02_gzx
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/018ym2	/m/018ym2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/04gzd	/m/04gzd
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/015wy_	/m/015wy_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/07r_p	/m/07r_p
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/014d4v	/m/014d4v
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/0ftns	/m/0ftns
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/07tg4	/m/07tg4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/04g61	/m/04g61
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/0bjv6	/m/0bjv6
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/082fr	/m/082fr
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/012m_	/m/012m_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/01nhhz	/m/01nhhz
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/06psyf	/m/06psyf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/04w58	/m/04w58
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/034cm	/m/034cm
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/07wtc	/m/07wtc
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/020vx9	/m/020vx9
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/04g5k	/m/04g5k
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/0366c	/m/0366c
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.1341)
+___
+/m/02j9z	/m/02j9z	/m/07swvb	/m/07swvb
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.5902)
+___
+/m/02j9z	/m/02j9z	/m/02b9g4	/m/02b9g4
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.5902)
+___
+/m/04swx	/m/0f8l9c	/m/03rjj	/m/03rjj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+1
+tensor(-8.4709)
+___
+/m/04swx	/m/01znc_	/m/0jzc	/m/0jzc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.4717)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5404)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5404)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5404)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5405)
+___
+/m/02j9z	/m/05b4w	/m/05f_3	/m/05f_3
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5478)
+___
+/m/02j9z	/m/034cm	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5526)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5609)
+___
+/m/02j9z	/m/015qh	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.5739)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5853)
+___
+/m/02j9z	/m/06c1y	/m/07f1x	/m/07f1x
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.5970)
+___
+/m/02j9z	/m/02vzc	/m/01gp_d	/m/01gp_d
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5986)
+___
+/m/02j9z	/m/04j53	/m/04306rv	/m/04306rv
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6101)
+___
+/m/02j9z	/m/04w58	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6533)
+___
+/m/02j9z	/m/0163v	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6587)
+___
+/m/02j9z	/m/0d0kn	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6721)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6748)
+___
+/m/02j9z	/m/0hg5	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.7013)
+___
+/m/0j0k	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7212)
+___
+/m/0j0k	/m/02j9z	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7212)
+___
+/m/0j0k	/m/02j9z	/m/049nq	/m/049nq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7212)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.7300)
+___
+/m/02j9z	/m/0d0vqn	/m/02j71	/m/02j71
+NO_OP	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-9.0645)
+___
+/m/02j9z	/m/0345h	/m/013xrm	/m/013xrm
+NO_OP	/location/location/contains	_/dataworld/gardening_hint/split_to
+-1
+tensor(-9.1613)
+___
+/m/02j9z	/m/06psyf	/m/0nccd	/m/0nccd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2335)
+___
+/m/02j9z	/m/06psyf	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2335)
+___
+/m/02j9z	/m/02_gzx	/m/06pr6	/m/06pr6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2338)
+___
+/m/02j9z	/m/02_gzx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2338)
+___
+/m/02j9z	/m/035qv8	/m/09b83	/m/09b83
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2414)
+___
+/m/02j9z	/m/035qv8	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2414)
+___
+/m/02j9z	/m/0lk0l	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2430)
+___
+/m/02j9z	/m/0lk0l	/m/05qtj	/m/05qtj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2430)
+___
+/m/02j9z	/m/020vx9	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2494)
+___
+/m/02j9z	/m/020vx9	/m/04swd	/m/04swd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2494)
+___
+/m/02j9z	/m/03gk2	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2637)
+___
+/m/02j9z	/m/03gk2	/m/02bv9	/m/02bv9
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2637)
+___
+/m/02j9z	/m/0bjv6	/m/02hwyss	/m/02hwyss
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2870)
+___
+/m/02j9z	/m/0bjv6	/m/012v8	/m/012v8
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2870)
+___
+/m/02j9z	/m/0166b	/m/0k0sb	/m/0k0sb
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2930)
+___
+/m/02j9z	/m/0166b	/m/06x8y	/m/06x8y
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2930)
+___
+/m/02j9z	/m/0jhd	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3831)
+___
+/m/02j9z	/m/0jhd	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3831)
+___
+/m/02j9z	/m/04g5k	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3943)
+___
+/m/02j9z	/m/04g5k	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3943)
+___
+/m/02j9z	/m/01pj7	/m/02psqkz	/m/02psqkz
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6263)
+___
+/m/02j9z	/m/01pj7	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6263)
+___
+/m/02j9z	/m/0366c	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6446)
+___
+/m/02j9z	/m/0366c	/m/02j7k	/m/02j7k
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6446)
+___
+/m/02j9z	/m/0366c	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6446)
+___
+/m/02j9z	/m/01b_d4	/m/09ctj	/m/09ctj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6451)
+___
+/m/02j9z	/m/01b_d4	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6451)
+___
+/m/02j9z	/m/01b_d4	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.6451)
+___
+/m/02j9z	/m/012m_	/m/03b79	/m/03b79
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6476)
+___
+/m/02j9z	/m/012m_	/m/03bxbql	/m/03bxbql
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.6476)
+___
+#####################
+/m/02j9z	/m/07ssc
+Reward:0
+/m/02j9z	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6692)
+___
+/m/02j9z	/m/02j9z	/m/049nq	/m/049nq
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6692)
+___
+/m/02j9z	/m/02j9z	/m/0jgx	/m/0jgx
+NO_OP	NO_OP	/location/location/partially_contains
+-1
+tensor(-1.6692)
+___
+/m/02j9z	/m/02j9z	/m/0dg3n1	/m/0dg3n1
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6895)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6895)
+___
+/m/02j9z	/m/02j9z	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-2.6895)
+___
+/m/02j9z	/m/02j9z	/m/04swx	/m/04swx
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.3234)
+___
+/m/02j9z	/m/02j9z	/m/0j0k	/m/0j0k
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-3.3234)
+___
+/m/02j9z	/m/02j9z	/m/04n6k	/m/04n6k
+NO_OP	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-3.6539)
+___
+/m/02j9z	/m/02j9z	/m/02j9z	/m/02j9z
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-3.8050)
+___
+/m/02j9z	/m/02j9z	/m/04ztj	/m/04ztj
+NO_OP	NO_OP	_/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony
+-1
+tensor(-5.1609)
+___
+/m/02j9z	/m/02j9z	/m/07j9n	/m/07j9n
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3492)
+___
+/m/02j9z	/m/02j9z	/m/0cbvg	/m/0cbvg
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3492)
+___
+/m/02j9z	/m/02j9z	/m/0k4y6	/m/0k4y6
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3492)
+___
+/m/02j9z	/m/02j9z	/m/0845v	/m/0845v
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3492)
+___
+/m/02j9z	/m/02j9z	/m/03jv8d	/m/03jv8d
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3492)
+___
+/m/02j9z	/m/02j9z	/m/0cwt70	/m/0cwt70
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-5.3492)
+___
+/m/02j9z	/m/02j9z	/m/014d4v	/m/014d4v
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/04g5k	/m/04g5k
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/0lk0l	/m/0lk0l
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/02_gzx	/m/02_gzx
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/03gk2	/m/03gk2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/04gzd	/m/04gzd
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/018ym2	/m/018ym2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/07wtc	/m/07wtc
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/04w58	/m/04w58
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/07r_p	/m/07r_p
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/035qv8	/m/035qv8
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/07tg4	/m/07tg4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/020vx9	/m/020vx9
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/0bjv6	/m/0bjv6
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/012wgb	/m/012wgb
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/01nhhz	/m/01nhhz
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/04g61	/m/04g61
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/0366c	/m/0366c
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/06psyf	/m/06psyf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/0ftns	/m/0ftns
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/082fr	/m/082fr
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/012m_	/m/012m_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/0lvng	/m/0lvng
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/015wy_	/m/015wy_
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/034cm	/m/034cm
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/01b_d4	/m/01b_d4
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-6.0652)
+___
+/m/02j9z	/m/02j9z	/m/02b9g4	/m/02b9g4
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.5077)
+___
+/m/02j9z	/m/02j9z	/m/07swvb	/m/07swvb
+NO_OP	NO_OP	/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer
+-1
+tensor(-6.5077)
+___
+/m/04swx	/m/01znc_	/m/0jzc	/m/0jzc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.4748)
+___
+/m/02j9z	/m/018ym2	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.4860)
+___
+/m/02j9z	/m/07r_p	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.4860)
+___
+/m/02j9z	/m/01nhhz	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.4860)
+___
+/m/02j9z	/m/0ftns	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.4862)
+___
+/m/02j9z	/m/05b4w	/m/05f_3	/m/05f_3
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5006)
+___
+/m/02j9z	/m/0lvng	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5085)
+___
+/m/02j9z	/m/015qh	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.5270)
+___
+/m/02j9z	/m/012wgb	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.5313)
+___
+/m/02j9z	/m/06c1y	/m/07f1x	/m/07f1x
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-8.5384)
+___
+/m/02j9z	/m/04j53	/m/04306rv	/m/04306rv
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5566)
+___
+/m/02j9z	/m/02vzc	/m/01gp_d	/m/01gp_d
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.5613)
+___
+/m/02j9z	/m/04w58	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6068)
+___
+/m/02j9z	/m/03rj0	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6216)
+___
+/m/02j9z	/m/0d0kn	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6258)
+___
+/m/02j9z	/m/0163v	/m/06b_j	/m/06b_j
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6261)
+___
+/m/02j9z	/m/082fr	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-8.6262)
+___
+/m/02j9z	/m/0hg5	/m/06nm1	/m/06nm1
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-8.6741)
+___
+/m/0j0k	/m/02j9z	/m/049nq	/m/049nq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7315)
+___
+/m/0j0k	/m/02j9z	/m/0jgx	/m/0jgx
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7315)
+___
+/m/0j0k	/m/02j9z	/m/05vz3zq	/m/05vz3zq
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/partially_contains
+-1
+tensor(-8.7315)
+___
+/m/02j9z	/m/0d0vqn	/m/02j71	/m/02j71
+NO_OP	/location/location/contains	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-8.9364)
+___
+/m/02j9z	/m/0345h	/m/013xrm	/m/013xrm
+NO_OP	/location/location/contains	_/dataworld/gardening_hint/split_to
+-1
+tensor(-9.1024)
+___
+/m/02j9z	/m/06psyf	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1791)
+___
+/m/02j9z	/m/06psyf	/m/0nccd	/m/0nccd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1791)
+___
+/m/02j9z	/m/02_gzx	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1794)
+___
+/m/02j9z	/m/02_gzx	/m/06pr6	/m/06pr6
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1794)
+___
+/m/02j9z	/m/034cm	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1852)
+___
+/m/02j9z	/m/034cm	/m/07ssc	/m/07ssc
+NO_OP	/location/location/contains	_/location/location/contains
+1
+tensor(-9.1852)
+___
+/m/02j9z	/m/035qv8	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1871)
+___
+/m/02j9z	/m/035qv8	/m/09b83	/m/09b83
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1871)
+___
+/m/02j9z	/m/0lk0l	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1924)
+___
+/m/02j9z	/m/0lk0l	/m/05qtj	/m/05qtj
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.1924)
+___
+/m/02j9z	/m/020vx9	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2002)
+___
+/m/02j9z	/m/020vx9	/m/04swd	/m/04swd
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.2002)
+___
+/m/02j9z	/m/03gk2	/m/02bv9	/m/02bv9
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2066)
+___
+/m/02j9z	/m/03gk2	/m/064_8sq	/m/064_8sq
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2066)
+___
+/m/02j9z	/m/0bjv6	/m/012v8	/m/012v8
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2422)
+___
+/m/02j9z	/m/0bjv6	/m/02hwyss	/m/02hwyss
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2422)
+___
+/m/02j9z	/m/0166b	/m/06x8y	/m/06x8y
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2497)
+___
+/m/02j9z	/m/0166b	/m/0k0sb	/m/0k0sb
+NO_OP	/location/location/contains	_/language/human_language/countries_spoken_in
+-1
+tensor(-9.2497)
+___
+/m/02j9z	/m/0jhd	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3392)
+___
+/m/02j9z	/m/0jhd	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3392)
+___
+/m/02j9z	/m/04g5k	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3548)
+___
+/m/02j9z	/m/04g5k	/m/02qkt	/m/02qkt
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.3548)
+___
+/m/02j9z	/m/01pj7	/m/02psqkz	/m/02psqkz
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.5752)
+___
+/m/02j9z	/m/01pj7	/m/0193qj	/m/0193qj
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.5752)
+___
+/m/02j9z	/m/012m_	/m/03bxbql	/m/03bxbql
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.5934)
+___
+/m/02j9z	/m/012m_	/m/03b79	/m/03b79
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.5934)
+___
+/m/02j9z	/m/012m_	/m/05kyr	/m/05kyr
+NO_OP	/location/location/contains	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-9.5934)
+___
+/m/02j9z	/m/014d4v	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5944)
+___
+/m/02j9z	/m/014d4v	/m/02j9z	/m/02j9z
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5944)
+___
+/m/02j9z	/m/014d4v	/m/088cp	/m/088cp
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5944)
+___
+/m/02j9z	/m/07wtc	/m/023sm8	/m/023sm8
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5954)
+___
+/m/02j9z	/m/07wtc	/m/02jx1	/m/02jx1
+NO_OP	/location/location/contains	_/location/location/contains
+-1
+tensor(-9.5954)
+___
+#####################

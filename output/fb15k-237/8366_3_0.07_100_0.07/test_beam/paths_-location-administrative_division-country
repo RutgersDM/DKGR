@@ -1,0 +1,1509 @@
+/m/01_c4	/m/07ssc
+Reward:1
+/m/01_c4	/m/01_c4	/m/036wy	/m/036wy
+NO_OP	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-0.0281)
+___
+/m/01_c4	/m/01_c4	/m/036wy	/m/036wy
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-4.2103)
+___
+/m/0d2kt	/m/0d2kt	/m/02jx1	/m/02jx1
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-5.8350)
+___
+/m/0d2kt	/m/0d2kt	/m/04jpl	/m/04jpl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-5.8350)
+___
+/m/0d2kt	/m/0d2kt	/m/048kw	/m/048kw
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-5.8350)
+___
+/m/0d2kt	/m/0d2kt	/m/048kw	/m/048kw
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-6.5967)
+___
+/m/0d2kt	/m/0d2kt	/m/04jpl	/m/04jpl
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-6.5967)
+___
+/m/0d2kt	/m/0d2kt	/m/02jx1	/m/02jx1
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/contains
+-1
+tensor(-6.5967)
+___
+/m/01_c4	/m/01_c4	/m/0d2kt	/m/0d2kt
+NO_OP	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-13.2961)
+___
+/m/01_c4	/m/0d2kt	/m/048kw	/m/048kw
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-13.4515)
+___
+/m/01_c4	/m/0d2kt	/m/04jpl	/m/04jpl
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-13.4515)
+___
+/m/01_c4	/m/0d2kt	/m/02jx1	/m/02jx1
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-13.4515)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlg4	/m/0nlg4
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.8783)
+___
+/m/0d2kt	/m/0d2kt	/m/01_c4	/m/01_c4
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.8783)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlc7	/m/0nlc7
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-14.8783)
+___
+/m/01_c4	/m/01_c4	/m/01_c4	/m/01_c4
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-15.2657)
+___
+/m/0d2kt	/m/0d2kt	/m/01_c4	/m/01_c4
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.7345)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlg4	/m/0nlg4
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.7345)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlc7	/m/0nlc7
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-15.7345)
+___
+/m/0d2kt	/m/0d2kt	/m/0d2kt	/m/0d2kt
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	NO_OP
+-1
+tensor(-16.8046)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-17.1553)
+___
+/m/0d2kt	/m/0nlc7	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-17.1688)
+___
+/m/0d2kt	/m/0nlg4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-17.1810)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-17.6128)
+___
+/m/0d2kt	/m/0nlc7	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-17.6262)
+___
+/m/0d2kt	/m/0d2kt	/m/0d2kt	/m/0d2kt
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	NO_OP
+-1
+tensor(-17.6270)
+___
+/m/0d2kt	/m/0nlg4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-17.6384)
+___
+/m/0d2kt	/m/0f485	/m/04jpl	/m/04jpl
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-18.5524)
+___
+/m/0d2kt	/m/0f485	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-18.5524)
+___
+/m/0d2kt	/m/0f485	/m/02jx1	/m/02jx1
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-18.5524)
+___
+/m/0d2kt	/m/0f485	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+1
+tensor(-18.5524)
+___
+/m/036wy	/m/036wy	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-18.8562)
+___
+/m/0d2kt	/m/0f485	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-19.0101)
+___
+/m/0d2kt	/m/0f485	/m/04jpl	/m/04jpl
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-19.0101)
+___
+/m/0d2kt	/m/0f485	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+1
+tensor(-19.0101)
+___
+/m/0d2kt	/m/0f485	/m/02jx1	/m/02jx1
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-19.0101)
+___
+/m/036wy	/m/036wy	/m/02jx1	/m/02jx1
+_/location/location/contains	NO_OP	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-19.4628)
+___
+/m/01_c4	/m/01_c4	/m/0m4yg	/m/0m4yg
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-19.7928)
+___
+/m/01_c4	/m/01_c4	/m/0d2kt	/m/0d2kt
+NO_OP	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-20.0397)
+___
+/m/0m4yg	/m/0m4yg	/m/01_c4	/m/01_c4
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-20.0619)
+___
+/m/0m4yg	/m/0m4yg	/m/04jpl	/m/04jpl
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-20.0619)
+___
+/m/0m4yg	/m/0m4yg	/m/07ssc	/m/07ssc
+/location/location/contains	NO_OP	_/location/location/contains
+1
+tensor(-20.0619)
+___
+/m/0m4yg	/m/0m4yg	/m/02jx1	/m/02jx1
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-20.0619)
+___
+/m/01_c4	/m/0d2kt	/m/04jpl	/m/04jpl
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-20.6162)
+___
+/m/01_c4	/m/0d2kt	/m/048kw	/m/048kw
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-20.6162)
+___
+/m/01_c4	/m/0d2kt	/m/02jx1	/m/02jx1
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-20.6162)
+___
+/m/0d2kt	/m/0f485	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-20.9245)
+___
+/m/01_c4	/m/0d2kt	/m/01_c4	/m/01_c4
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-21.1189)
+___
+/m/01_c4	/m/0d2kt	/m/0nlc7	/m/0nlc7
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-21.1189)
+___
+/m/01_c4	/m/0d2kt	/m/0nlg4	/m/0nlg4
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-21.1189)
+___
+/m/0d2kt	/m/0f485	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-21.3797)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-21.5300)
+___
+/m/0d2kt	/m/0nlc7	/m/02jx1	/m/02jx1
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-21.5418)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+1
+tensor(-21.5418)
+___
+/m/0d2kt	/m/0nlg4	/m/02jx1	/m/02jx1
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-21.5551)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+1
+tensor(-21.5551)
+___
+/m/0d2kt	/m/0nlg4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-21.5551)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlg4	/m/0nlg4
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-21.5614)
+___
+/m/0d2kt	/m/0d2kt	/m/0f485	/m/0f485
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-21.5614)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlc7	/m/0nlc7
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-21.5614)
+___
+/m/0d2kt	/m/0d2kt	/m/01_c4	/m/01_c4
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-21.5614)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-21.9907)
+___
+/m/0d2kt	/m/0nlc7	/m/02jx1	/m/02jx1
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-22.0040)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+1
+tensor(-22.0040)
+___
+/m/0d2kt	/m/0nlg4	/m/02jx1	/m/02jx1
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-22.0178)
+___
+/m/0d2kt	/m/0nlg4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-22.0178)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+1
+tensor(-22.0178)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlc7	/m/0nlc7
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-22.4492)
+___
+/m/0d2kt	/m/0d2kt	/m/0nlg4	/m/0nlg4
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-22.4492)
+___
+/m/0d2kt	/m/0d2kt	/m/0f485	/m/0f485
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-22.4492)
+___
+/m/0d2kt	/m/0d2kt	/m/01_c4	/m/01_c4
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-22.4492)
+___
+/m/036wy	/m/036wy	/m/07ssc	/m/07ssc
+/base/aareas/schema/administrative_area/administrative_parent	NO_OP	_/location/location/contains
+1
+tensor(-22.6919)
+___
+/m/036wy	/m/036wy	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	NO_OP	_/location/location/contains
+-1
+tensor(-22.6919)
+___
+/m/036wy	/m/036wy	/m/07ssc	/m/07ssc
+_/location/location/contains	NO_OP	_/location/location/contains
+1
+tensor(-23.1745)
+___
+/m/036wy	/m/036wy	/m/02jx1	/m/02jx1
+_/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-23.1745)
+___
+/m/0m4yg	/m/0w7c	/m/0w7c	/m/0w7c
+/location/location/contains	/education/educational_institution/students_graduates./education/education/major_field_of_study	NO_OP
+-1
+tensor(-23.4554)
+___
+/m/01_c4	/m/0d2kt	/m/0d2kt	/m/0d2kt
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-23.8624)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-23.9194)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-23.9298)
+___
+/m/0m4yg	/m/0w7c	/m/0557q	/m/0557q
+/location/location/contains	/education/educational_institution/students_graduates./education/education/major_field_of_study	_/education/field_of_study/students_majoring./education/education/major_field_of_study
+-1
+tensor(-23.9391)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-24.0613)
+___
+/m/0d2kt	/m/0nlc7	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-24.0722)
+___
+/m/0d2kt	/m/0nlg4	/m/036wy	/m/036wy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-24.0820)
+___
+/m/0m4yg	/m/0m4yg	/m/07ssc	/m/07ssc
+/location/location/contains	_/education/educational_institution/campuses	_/location/location/contains
+1
+tensor(-24.3030)
+___
+/m/0m4yg	/m/0m4yg	/m/01_c4	/m/01_c4
+/location/location/contains	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-24.3030)
+___
+/m/0m4yg	/m/0m4yg	/m/02jx1	/m/02jx1
+/location/location/contains	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-24.3030)
+___
+/m/0m4yg	/m/0m4yg	/m/04jpl	/m/04jpl
+/location/location/contains	_/education/educational_institution/campuses	_/location/location/contains
+-1
+tensor(-24.3030)
+___
+/m/0d2kt	/m/0nlc7	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-24.3864)
+___
+/m/0d2kt	/m/0nlg4	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/administrative_division/country
+1
+tensor(-24.3912)
+___
+/m/0d2kt	/m/01_c4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-24.5132)
+___
+/m/0d2kt	/m/0nlc7	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-24.5241)
+___
+/m/0d2kt	/m/0nlg4	/m/036wy	/m/036wy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-24.5338)
+___
+/m/036wy	/m/036wy	/m/02jx1	/m/02jx1
+/base/aareas/schema/administrative_area/administrative_parent	NO_OP	/location/administrative_division/country
+-1
+tensor(-25.0191)
+___
+/m/0m4yg	/m/0m4yg	/m/0m4yg	/m/0m4yg
+/location/location/contains	NO_OP	_/education/educational_institution/campuses
+-1
+tensor(-25.1136)
+___
+/m/036wy	/m/036wy	/m/02jx1	/m/02jx1
+_/location/location/contains	NO_OP	/location/administrative_division/country
+-1
+tensor(-25.6599)
+___
+/m/0d2kt	/m/0f485	/m/0d2kt	/m/0d2kt
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-26.1881)
+___
+/m/0d2kt	/m/0f485	/m/02m97n	/m/02m97n
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-26.2519)
+___
+/m/0d2kt	/m/0f485	/m/01722w	/m/01722w
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/organization/organization/headquarters./location/mailing_address/citytown
+-1
+tensor(-26.2519)
+___
+/m/0m4yg	/m/0m4yg	/m/04rlf	/m/04rlf
+/location/location/contains	NO_OP	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-26.3729)
+___
+/m/0m4yg	/m/0m4yg	/m/0w7c	/m/0w7c
+/location/location/contains	NO_OP	/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-26.3729)
+___
+#####################
+/m/02wmy	/m/02wmy
+Reward:1
+/m/02wmy	/m/02wmy	/m/0j3b	/m/0j3b
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.1014)
+___
+/m/02wmy	/m/02wmy	/m/07c5l	/m/07c5l
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.1014)
+___
+/m/02wmy	/m/02wmy	/m/06n3y	/m/06n3y
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.1014)
+___
+/m/02wmy	/m/02wmy	/m/04n6k	/m/04n6k
+NO_OP	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-5.8700)
+___
+/m/02wmy	/m/02wmy	/m/02wmy	/m/02wmy
+NO_OP	NO_OP	NO_OP
+1
+tensor(-12.2198)
+___
+/m/02wmy	/m/02wmy	/m/01q20	/m/01q20
+NO_OP	NO_OP	/location/country/form_of_government
+-1
+tensor(-15.9824)
+___
+/m/02wmy	/m/02wmy	/m/018wl5	/m/018wl5
+NO_OP	NO_OP	/location/country/form_of_government
+-1
+tensor(-15.9824)
+___
+/m/02wmy	/m/02wmy	/m/09nqf	/m/09nqf
+NO_OP	NO_OP	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+-1
+tensor(-18.0779)
+___
+/m/06n3y	/m/06n3y	/m/07c5l	/m/07c5l
+_/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-19.4159)
+___
+/m/0j3b	/m/0j3b	/m/04n6k	/m/04n6k
+_/location/location/contains	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-19.4810)
+___
+/m/07c5l	/m/07c5l	/m/04n6k	/m/04n6k
+_/location/location/contains	NO_OP	/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy
+-1
+tensor(-19.5324)
+___
+/m/09nqf	/m/0241y7	/m/02cx72	/m/02cx72
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.4147)
+___
+/m/09nqf	/m/01br2w	/m/0c1pj	/m/0c1pj
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-20.4251)
+___
+/m/09nqf	/m/01wb95	/m/012vct	/m/012vct
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-20.4460)
+___
+/m/09nqf	/m/03h4fq7	/m/01zfmm	/m/01zfmm
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/film/director/film
+-1
+tensor(-20.4589)
+___
+/m/09nqf	/m/085ccd	/m/02h40lc	/m/02h40lc
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-20.5387)
+___
+/m/09nqf	/m/075cph	/m/0j_c	/m/0j_c
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	_/film/director/film
+-1
+tensor(-20.5666)
+___
+/m/09nqf	/m/084302	/m/0184dt	/m/0184dt
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-20.5966)
+___
+/m/09nqf	/m/017z49	/m/0184dt	/m/0184dt
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-20.6039)
+___
+/m/09nqf	/m/014l6_	/m/046zh	/m/046zh
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-20.6334)
+___
+/m/09nqf	/m/03s5lz	/m/01pjr7	/m/01pjr7
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-20.6543)
+___
+/m/09nqf	/m/0sxmx	/m/05kfs	/m/05kfs
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-20.6904)
+___
+/m/09nqf	/m/02qzmz6	/m/02h40lc	/m/02h40lc
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-20.7131)
+___
+/m/09nqf	/m/09k56b7	/m/09l3p	/m/09l3p
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.1076)
+___
+/m/09nqf	/m/09k56b7	/m/017c87	/m/017c87
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.1076)
+___
+/m/09nqf	/m/0dzlbx	/m/01twdk	/m/01twdk
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.1202)
+___
+/m/09nqf	/m/0dzlbx	/m/016z2j	/m/016z2j
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.1202)
+___
+/m/02wmy	/m/02wmy	/m/031x2	/m/031x2
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-21.1552)
+___
+/m/09nqf	/m/018f8	/m/01hmk9	/m/01hmk9
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-21.1959)
+___
+/m/09nqf	/m/018f8	/m/052hl	/m/052hl
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-21.1959)
+___
+/m/09nqf	/m/08ct6	/m/06mn7	/m/06mn7
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-21.2013)
+___
+/m/09nqf	/m/08ct6	/m/0klw	/m/0klw
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-21.2013)
+___
+/m/09nqf	/m/04yg13l	/m/02ztjwg	/m/02ztjwg
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.2058)
+___
+/m/09nqf	/m/04yg13l	/m/02h40lc	/m/02h40lc
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.2058)
+___
+/m/09nqf	/m/03176f	/m/0d5wn3	/m/0d5wn3
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2062)
+___
+/m/09nqf	/m/03176f	/m/0134w7	/m/0134w7
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2062)
+___
+/m/09nqf	/m/04j13sx	/m/016ynj	/m/016ynj
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2077)
+___
+/m/09nqf	/m/04j13sx	/m/01_vfy	/m/01_vfy
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2077)
+___
+/m/09nqf	/m/01f8hf	/m/03r1pr	/m/03r1pr
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2118)
+___
+/m/09nqf	/m/01f8hf	/m/03_gd	/m/03_gd
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2118)
+___
+/m/09nqf	/m/0qm98	/m/0gs1_	/m/0gs1_
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2182)
+___
+/m/09nqf	/m/0qm98	/m/057hz	/m/057hz
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2182)
+___
+/m/09nqf	/m/09xbpt	/m/0c6qh	/m/0c6qh
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2249)
+___
+/m/09nqf	/m/09xbpt	/m/014zcr	/m/014zcr
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-21.2249)
+___
+/m/09nqf	/m/033srr	/m/06nm1	/m/06nm1
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.3081)
+___
+/m/09nqf	/m/033srr	/m/02h40lc	/m/02h40lc
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.3081)
+___
+/m/09nqf	/m/0jsf6	/m/02vyw	/m/02vyw
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-21.4840)
+___
+/m/09nqf	/m/0jsf6	/m/0kb3n	/m/0kb3n
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/written_by
+-1
+tensor(-21.4840)
+___
+/m/07c5l	/m/07c5l	/m/01c6k4	/m/01c6k4
+_/location/location/contains	NO_OP	_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location
+-1
+tensor(-21.5391)
+___
+/m/09nqf	/m/01jwxx	/m/02h40lc	/m/02h40lc
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.5537)
+___
+/m/09nqf	/m/01jwxx	/m/064_8sq	/m/064_8sq
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.5537)
+___
+/m/09nqf	/m/01jwxx	/m/05qqm	/m/05qqm
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.5537)
+___
+/m/01q20	/m/07fsv	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5538)
+___
+/m/01q20	/m/049nq	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5555)
+___
+/m/01q20	/m/04hvw	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5557)
+___
+/m/01q20	/m/0160w	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5557)
+___
+/m/01q20	/m/0d0vqn	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5569)
+___
+/m/01q20	/m/047yc	/m/0d05q4	/m/0d05q4
+/location/country/form_of_government	_/location/country/form_of_government	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-21.5591)
+___
+/m/01q20	/m/02jx1	/m/02qfh	/m/02qfh
+/location/country/form_of_government	_/location/country/form_of_government	_/tv/tv_program/country_of_origin
+-1
+tensor(-21.5591)
+___
+/m/01q20	/m/01nty	/m/07c5l	/m/07c5l
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.5631)
+___
+/m/01q20	/m/07fb6	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5651)
+___
+/m/01q20	/m/01n8qg	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5652)
+___
+/m/01q20	/m/05qkp	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5653)
+___
+/m/01q20	/m/02w9s	/m/02w9s	/m/02w9s
+/location/country/form_of_government	_/location/country/form_of_government	/location/administrative_division/country
+-1
+tensor(-21.5659)
+___
+/m/01q20	/m/07bxhl	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5672)
+___
+/m/01q20	/m/035yg	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5703)
+___
+/m/01q20	/m/04wgh	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5726)
+___
+/m/01q20	/m/03_r3	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5739)
+___
+/m/01q20	/m/06s6l	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5784)
+___
+/m/01q20	/m/0162v	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5797)
+___
+/m/01q20	/m/01xbgx	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5807)
+___
+/m/01q20	/m/088q1s	/m/0349s	/m/0349s
+/location/country/form_of_government	_/location/country/form_of_government	_/language/human_language/countries_spoken_in
+-1
+tensor(-21.5810)
+___
+/m/01q20	/m/06s0l	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5823)
+___
+/m/01q20	/m/0164b	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5875)
+___
+/m/01q20	/m/03__y	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5875)
+___
+/m/01q20	/m/0hg5	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.5892)
+___
+/m/01q20	/m/05bcl	/m/07ssc	/m/07ssc
+/location/country/form_of_government	_/location/country/form_of_government	/location/administrative_division/first_level_division_of
+-1
+tensor(-21.5904)
+___
+/m/01q20	/m/0k6nt	/m/02j9z	/m/02j9z
+/location/country/form_of_government	_/location/country/form_of_government	_/base/locations/continents/countries_within
+-1
+tensor(-21.6015)
+___
+/m/01q20	/m/020p1	/m/05nrg	/m/05nrg
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.6619)
+___
+/m/01q20	/m/03_xj	/m/02j7k	/m/02j7k
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.6648)
+___
+/m/01q20	/m/06v36	/m/0dg3n1	/m/0dg3n1
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.7124)
+___
+/m/01q20	/m/04j53	/m/02j9z	/m/02j9z
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.7241)
+___
+/m/018wl5	/m/09pmkv	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7368)
+___
+/m/018wl5	/m/04hvw	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7372)
+___
+/m/018wl5	/m/01nty	/m/07c5l	/m/07c5l
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.7414)
+___
+/m/018wl5	/m/01n8qg	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7455)
+___
+/m/018wl5	/m/035yg	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7501)
+___
+/m/018wl5	/m/03_r3	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7540)
+___
+/m/018wl5	/m/02lx0	/m/02j71	/m/02j71
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-21.7670)
+___
+/m/01q20	/m/06mkj	/m/02qkt	/m/02qkt
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.8066)
+___
+/m/031x2	/m/031x2	/m/0jgd	/m/0jgd
+_/time/event/locations	NO_OP	/base/culturalevent/event/entity_involved
+-1
+tensor(-21.8299)
+___
+/m/031x2	/m/031x2	/m/07ssc	/m/07ssc
+_/time/event/locations	NO_OP	/base/culturalevent/event/entity_involved
+-1
+tensor(-21.8299)
+___
+/m/09nqf	/m/02q8ms8	/m/03_9r	/m/03_9r
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.9043)
+___
+/m/09nqf	/m/02q8ms8	/m/064_8sq	/m/064_8sq
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.9043)
+___
+/m/09nqf	/m/02q8ms8	/m/02h40lc	/m/02h40lc
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.9043)
+___
+/m/09nqf	/m/02q8ms8	/m/01wgr	/m/01wgr
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/film/film/language
+-1
+tensor(-21.9043)
+___
+/m/018wl5	/m/06dfg	/m/0dg3n1	/m/0dg3n1
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-21.9286)
+___
+/m/09nqf	/m/01l_pn	/m/026c1	/m/026c1
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0164)
+___
+/m/09nqf	/m/01l_pn	/m/05zh9c	/m/05zh9c
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0164)
+___
+/m/09nqf	/m/01l_pn	/m/017s11	/m/017s11
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	_/film/film/estimated_budget./measurement_unit/dated_money_value/currency	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.0164)
+___
+#####################
+/m/01rwf_	/m/07ssc
+Reward:1
+/m/01rwf_	/m/01rwf_	/m/022_6	/m/022_6
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-0.6932)
+___
+/m/01rwf_	/m/01rwf_	/m/02jx1	/m/02jx1
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-0.6932)
+___
+/m/01rwf_	/m/01rwf_	/m/01rwf_	/m/01rwf_
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-11.7802)
+___
+/m/01rwf_	/m/01rwf_	/m/01kwld	/m/01kwld
+NO_OP	NO_OP	_/people/person/places_lived./people/place_lived/location
+-1
+tensor(-17.1050)
+___
+/m/01rwf_	/m/01rwf_	/m/0263tn1	/m/0263tn1
+NO_OP	NO_OP	_/people/person/place_of_birth
+-1
+tensor(-18.4261)
+___
+/m/02jx1	/m/02qfh	/m/02h40lc	/m/02h40lc
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/languages
+-1
+tensor(-19.5825)
+___
+/m/022_6	/m/022_6	/m/02jx1	/m/02jx1
+_/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-20.1487)
+___
+/m/022_6	/m/022_6	/m/07ssc	/m/07ssc
+_/location/location/contains	NO_OP	_/location/location/contains
+1
+tensor(-20.1487)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05mcjs	/m/05mcjs
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program
+-1
+tensor(-21.9004)
+___
+/m/02jx1	/m/02qfh	/m/01f2w0	/m/01f2w0
+_/location/location/contains	_/tv/tv_program/country_of_origin	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-21.9042)
+___
+/m/02jx1	/m/02qfh	/m/0g5lhl7	/m/0g5lhl7
+_/location/location/contains	_/tv/tv_program/country_of_origin	_/tv/tv_network/programs./tv/tv_network_duration/program
+-1
+tensor(-21.9042)
+___
+/m/022_6	/m/022_6	/m/07ssc	/m/07ssc
+_/location/location/contains	NO_OP	/location/administrative_division/country
+1
+tensor(-22.4264)
+___
+/m/0263tn1	/m/0ddd0gc	/m/01x4sb	/m/01x4sb
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/08_83x	/m/08_83x
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/07fpm3	/m/07fpm3
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0l6px	/m/0l6px
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0clvcx	/m/0clvcx
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/017gxw	/m/017gxw
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/02w9895	/m/02w9895
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05mcjs	/m/05mcjs
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05y5kf	/m/05y5kf
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/02pkpfs	/m/02pkpfs
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/027ht3n	/m/027ht3n
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0bd2n4	/m/0bd2n4
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0263tn1	/m/0263tn1
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0dgskx	/m/0dgskx
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-22.4633)
+___
+/m/01rwf_	/m/0263tn1	/m/0ddd0gc	/m/0ddd0gc
+NO_OP	_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-24.1318)
+___
+/m/022_6	/m/022_6	/m/02jx1	/m/02jx1
+_/location/location/contains	NO_OP	/base/biblioness/bibs_location/country
+-1
+tensor(-24.6209)
+___
+/m/01kwld	/m/017jd9	/m/02ck7w	/m/02ck7w
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/01rh0w	/m/01rh0w
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/01kwld	/m/01kwld
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/0241jw	/m/0241jw
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/02fgm7	/m/02fgm7
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/01846t	/m/01846t
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/015t7v	/m/015t7v
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/01v9l67	/m/01v9l67
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/02bfxb	/m/02bfxb
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/01kwld	/m/017jd9	/m/0294fd	/m/0294fd
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-25.6366)
+___
+/m/02jx1	/m/02qfh	/m/01qrbf	/m/01qrbf
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-26.1615)
+___
+/m/02jx1	/m/02qfh	/m/02_j7t	/m/02_j7t
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-26.1615)
+___
+/m/01kwld	/m/017jd9	/m/0js9s	/m/0js9s
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/film/director/film
+-1
+tensor(-26.7493)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05bnx3j	/m/05bnx3j
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-26.7881)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05mcjs	/m/05mcjs
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/tv/tv_producer/programs_produced./tv/tv_producer_term/program
+-1
+tensor(-26.7881)
+___
+/m/02jx1	/m/02qfh	/m/07s9rl0	/m/07s9rl0
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/genre
+-1
+tensor(-27.1687)
+___
+/m/02jx1	/m/02qfh	/m/06q7n	/m/06q7n
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/genre
+-1
+tensor(-27.1687)
+___
+/m/01rwf_	/m/02jx1	/m/02qfh	/m/02qfh
+NO_OP	_/location/location/contains	_/tv/tv_program/country_of_origin
+-1
+tensor(-27.8850)
+___
+/m/01rwf_	/m/01kwld	/m/017jd9	/m/017jd9
+NO_OP	_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-27.9815)
+___
+/m/01rwf_	/m/022_6	/m/02jx1	/m/02jx1
+NO_OP	_/location/location/contains	_/location/location/contains
+-1
+tensor(-28.6302)
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/07ssc
+NO_OP	_/location/location/contains	_/location/location/contains
+1
+tensor(-28.6302)
+___
+/m/02jx1	/m/02qfh	/m/02qfh	/m/02qfh
+_/location/location/contains	_/tv/tv_program/country_of_origin	NO_OP
+-1
+tensor(-28.6681)
+___
+/m/022_6	/m/022_6	/m/022_6	/m/022_6
+_/location/location/contains	NO_OP	NO_OP
+-1
+tensor(-29.3355)
+___
+/m/01rwf_	/m/0263tn1	/m/0ddd0gc	/m/0ddd0gc
+NO_OP	_/people/person/place_of_birth	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.3731)
+___
+/m/0263tn1	/m/0ddd0gc	/m/08_83x	/m/08_83x
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0dgskx	/m/0dgskx
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05bnx3j	/m/05bnx3j
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/06ns98	/m/06ns98
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/02xb2bt	/m/02xb2bt
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/02qflgv	/m/02qflgv
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0bd2n4	/m/0bd2n4
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05xbx	/m/05xbx
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/017gxw	/m/017gxw
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0263tn1	/m/0263tn1
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0dsb_yy	/m/0dsb_yy
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/027ht3n	/m/027ht3n
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0clvcx	/m/0clvcx
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/0l6px	/m/0l6px
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05mcjs	/m/05mcjs
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/05y5kf	/m/05y5kf
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/02w9895	/m/02w9895
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/02pkpfs	/m/02pkpfs
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/0263tn1	/m/0ddd0gc	/m/07fpm3	/m/07fpm3
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-30.4342)
+___
+/m/01rwf_	/m/01rwf_	/m/08mbj5d	/m/08mbj5d
+NO_OP	NO_OP	/common/topic/webpage./common/webpage/category
+-1
+tensor(-30.5127)
+___
+/m/01rwf_	/m/0263tn1	/m/0ddd0gc	/m/0ddd0gc
+NO_OP	_/people/person/place_of_birth	_/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor
+-1
+tensor(-30.8323)
+___
+/m/01rwf_	/m/022_6	/m/07ssc	/m/07ssc
+NO_OP	_/location/location/contains	/location/administrative_division/country
+1
+tensor(-30.9316)
+___
+/m/02jx1	/m/02jx1	/m/02qfh	/m/02qfh
+_/location/location/contains	NO_OP	_/tv/tv_program/country_of_origin
+-1
+tensor(-31.4163)
+___
+/m/01kwld	/m/01kwld	/m/017jd9	/m/017jd9
+_/people/person/places_lived./people/place_lived/location	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-31.8079)
+___
+/m/0263tn1	/m/0263tn1	/m/0ddd0gc	/m/0ddd0gc
+_/people/person/place_of_birth	NO_OP	_/award/award_winning_work/awards_won./award/award_honor/award_winner
+-1
+tensor(-32.2191)
+___
+/m/0263tn1	/m/0ddd0gc	/m/02h40lc	/m/02h40lc
+_/people/person/place_of_birth	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/tv/tv_program/languages
+-1
+tensor(-32.4363)
+___
+/m/01rwf_	/m/022_6	/m/02jx1	/m/02jx1
+NO_OP	_/location/location/contains	/base/biblioness/bibs_location/country
+-1
+tensor(-32.7121)
+___
+/m/01rwf_	/m/01kwld	/m/03_wj_	/m/03_wj_
+NO_OP	_/people/person/places_lived./people/place_lived/location	_/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity
+-1
+tensor(-32.8678)
+___
+/m/022_6	/m/01423b	/m/02jx1	/m/02jx1
+_/location/location/contains	/base/aareas/schema/administrative_area/capital	_/location/location/contains
+-1
+tensor(-33.6487)
+___
+/m/02jx1	/m/02qfh	/m/02jx1	/m/02jx1
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/country_of_origin
+-1
+tensor(-33.8073)
+___
+/m/02jx1	/m/02qfh	/m/07ssc	/m/07ssc
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/country_of_origin
+1
+tensor(-33.8073)
+___
+/m/02jx1	/m/02qfh	/m/04jpl	/m/04jpl
+_/location/location/contains	_/tv/tv_program/country_of_origin	/tv/tv_program/country_of_origin
+-1
+tensor(-33.8073)
+___
+/m/01rwf_	/m/01kwld	/m/017gm7	/m/017gm7
+NO_OP	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2032)
+___
+/m/01rwf_	/m/01kwld	/m/08hmch	/m/08hmch
+NO_OP	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2032)
+___
+/m/01rwf_	/m/01kwld	/m/017gl1	/m/017gl1
+NO_OP	_/people/person/places_lived./people/place_lived/location	/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2032)
+___
+/m/01kwld	/m/017jd9	/m/05bm4sm	/m/05bm4sm
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/0154qm	/m/0154qm
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/02gvwz	/m/02gvwz
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/0241jw	/m/0241jw
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/02h1rt	/m/02h1rt
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/015t7v	/m/015t7v
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/01ps2h8	/m/01ps2h8
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/01v9l67	/m/01v9l67
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/01846t	/m/01846t
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/04ktcgn	/m/04ktcgn
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/01kwld	/m/017jd9	/m/0js9s	/m/0js9s
+_/people/person/places_lived./people/place_lived/location	_/award/award_winning_work/awards_won./award/award_honor/award_winner	_/award/award_nominee/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-34.2135)
+___
+/m/022_6	/m/022_6	/m/01rwf_	/m/01rwf_
+_/location/location/contains	NO_OP	/location/location/contains
+-1
+tensor(-34.2834)
+___
+/m/022_6	/m/022_6	/m/025569	/m/025569
+_/location/location/contains	NO_OP	/location/location/contains
+-1
+tensor(-34.2834)
+___
+#####################

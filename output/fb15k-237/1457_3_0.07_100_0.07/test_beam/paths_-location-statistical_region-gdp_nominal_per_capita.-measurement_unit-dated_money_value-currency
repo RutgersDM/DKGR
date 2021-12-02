@@ -1,0 +1,1509 @@
+/m/0168t	/m/09nqf
+Reward:1
+/m/0168t	/m/0168t	/m/0261m	/m/0261m
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-0.6935)
+___
+/m/0168t	/m/0168t	/m/07c5l	/m/07c5l
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-0.6935)
+___
+/m/0168t	/m/0168t	/m/01q20	/m/01q20
+NO_OP	NO_OP	/location/country/form_of_government
+-1
+tensor(-8.5997)
+___
+/m/0168t	/m/0168t	/m/018wl5	/m/018wl5
+NO_OP	NO_OP	/location/country/form_of_government
+-1
+tensor(-8.5997)
+___
+/m/0168t	/m/0168t	/m/0kbws	/m/0kbws
+NO_OP	NO_OP	_/olympics/olympic_games/participating_countries
+-1
+tensor(-15.2838)
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/09nqf
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-17.4112)
+___
+/m/0168t	/m/0168t	/m/0bynt	/m/0bynt
+NO_OP	NO_OP	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country
+-1
+tensor(-19.5602)
+___
+/m/0168t	/m/0168t	/m/0168t	/m/0168t
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-19.9191)
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/09nqf
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-21.5907)
+___
+/m/07ww5	/m/07ww5	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-21.7419)
+___
+/m/07ww5	/m/07ww5	/m/09nqf	/m/09nqf
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-23.2030)
+___
+/m/0168t	/m/0kbws	/m/07_53	/m/07_53
+NO_OP	_/olympics/olympic_games/participating_countries	/olympics/olympic_games/sports
+-1
+tensor(-23.8495)
+___
+/m/0168t	/m/0kbws	/m/071t0	/m/071t0
+NO_OP	_/olympics/olympic_games/participating_countries	/olympics/olympic_games/sports
+-1
+tensor(-23.8495)
+___
+/m/0168t	/m/0bynt	/m/0l6vl	/m/0l6vl
+NO_OP	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-24.4592)
+___
+/m/0168t	/m/0bynt	/m/0l998	/m/0l998
+NO_OP	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-24.4592)
+___
+/m/0168t	/m/0bynt	/m/0kbvb	/m/0kbvb
+NO_OP	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-24.4592)
+___
+/m/0168t	/m/0bynt	/m/0kbws	/m/0kbws
+NO_OP	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-24.4592)
+___
+/m/0168t	/m/0bynt	/m/0lv1x	/m/0lv1x
+NO_OP	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-24.4592)
+___
+/m/01q20	/m/020p1	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8616)
+___
+/m/01q20	/m/047yc	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8616)
+___
+/m/01q20	/m/02wmy	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8616)
+___
+/m/01q20	/m/035v3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8616)
+___
+/m/01q20	/m/06v36	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8616)
+___
+/m/01q20	/m/0d060g	/m/092vkg	/m/092vkg
+/location/country/form_of_government	_/location/country/form_of_government	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-26.8616)
+___
+/m/01q20	/m/0k6nt	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8617)
+___
+/m/01q20	/m/0164b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8617)
+___
+/m/01q20	/m/03_r3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8617)
+___
+/m/01q20	/m/088q1s	/m/0n2z	/m/0n2z
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.8617)
+___
+/m/01q20	/m/049nq	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8618)
+___
+/m/01q20	/m/07fb6	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8619)
+___
+/m/01q20	/m/0160w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8658)
+___
+/m/01q20	/m/035yg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8659)
+___
+/m/01q20	/m/06s0l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8660)
+___
+/m/01q20	/m/05qkp	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8660)
+___
+/m/01q20	/m/0162v	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8677)
+___
+/m/01q20	/m/06s6l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8677)
+___
+/m/01q20	/m/07bxhl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8683)
+___
+/m/01q20	/m/0d0vqn	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8685)
+___
+/m/01q20	/m/0ctw_b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8685)
+___
+/m/01q20	/m/01n8qg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8687)
+___
+/m/01q20	/m/0161c	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8687)
+___
+/m/01q20	/m/03__y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8692)
+___
+/m/01q20	/m/06ryl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8692)
+___
+/m/01q20	/m/01xbgx	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.8694)
+___
+/m/01q20	/m/0154j	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8706)
+___
+/m/01q20	/m/0j11	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8706)
+___
+/m/01q20	/m/014tss	/m/04jpl	/m/04jpl
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.8735)
+___
+/m/01q20	/m/02w9s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8816)
+___
+/m/01q20	/m/04wgh	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8888)
+___
+/m/01q20	/m/04hvw	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8897)
+___
+/m/01q20	/m/03t1s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8898)
+___
+/m/01q20	/m/04w58	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8905)
+___
+/m/01q20	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8905)
+___
+/m/01q20	/m/0165b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8907)
+___
+/m/01q20	/m/04j53	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.8928)
+___
+/m/018wl5	/m/035v3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/015qh	/m/0ftjx	/m/0ftjx
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-26.9361)
+___
+/m/018wl5	/m/06v36	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/03rk0	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/07f1x	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/0d060g	/m/092vkg	/m/092vkg
+/location/country/form_of_government	_/location/country/form_of_government	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-26.9361)
+___
+/m/018wl5	/m/06jnv	/m/0fngf	/m/0fngf
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9361)
+___
+/m/018wl5	/m/03rt9	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/0164b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/0k6nt	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/03_r3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9362)
+___
+/m/018wl5	/m/088q1s	/m/0n2z	/m/0n2z
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9362)
+___
+/m/018wl5	/m/049nq	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9363)
+___
+/m/018wl5	/m/07fb6	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9363)
+___
+/m/018wl5	/m/06ryl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9404)
+___
+/m/018wl5	/m/0162v	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9404)
+___
+/m/018wl5	/m/084n_	/m/0156q	/m/0156q
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9409)
+___
+/m/018wl5	/m/02lx0	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9420)
+___
+/m/018wl5	/m/04hqz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9421)
+___
+/m/018wl5	/m/03__y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9427)
+___
+/m/018wl5	/m/035yg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9432)
+___
+/m/018wl5	/m/06s6l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9435)
+___
+/m/018wl5	/m/05qkp	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9435)
+___
+/m/018wl5	/m/06s9y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9436)
+___
+/m/018wl5	/m/01xbgx	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9439)
+___
+/m/018wl5	/m/0162b	/m/0fnb4	/m/0fnb4
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-26.9441)
+___
+/m/018wl5	/m/014tss	/m/04jpl	/m/04jpl
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9485)
+___
+/m/018wl5	/m/02w9s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9557)
+___
+/m/018wl5	/m/05r4w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9629)
+___
+/m/018wl5	/m/04hvw	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9633)
+___
+/m/018wl5	/m/05c17	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9648)
+___
+/m/018wl5	/m/09pmkv	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9652)
+___
+/m/018wl5	/m/04j53	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9655)
+___
+/m/018wl5	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9668)
+___
+/m/01q20	/m/0n3g	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.2024)
+___
+/m/01q20	/m/07fsv	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.2249)
+___
+/m/01q20	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.2260)
+___
+/m/01q20	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.2275)
+___
+/m/01q20	/m/06q1r	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-27.2631)
+___
+/m/018wl5	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.2996)
+___
+/m/018wl5	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.3105)
+___
+/m/01q20	/m/05bcl	/m/01l63	/m/01l63
+/location/country/form_of_government	_/location/country/form_of_government	_/base/biblioness/bibs_location/country
+-1
+tensor(-27.5214)
+___
+/m/01q20	/m/07ssc	/m/0fq27fp	/m/0fq27fp
+/location/country/form_of_government	_/location/country/form_of_government	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-27.5548)
+___
+/m/01q20	/m/07ssc	/m/01k0vq	/m/01k0vq
+/location/country/form_of_government	_/location/country/form_of_government	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-27.5548)
+___
+/m/01q20	/m/0bq0p9	/m/0dlv0	/m/0dlv0
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-27.5552)
+___
+#####################
+/m/035hm	/m/09nqf
+Reward:0
+/m/035hm	/m/035hm	/m/02qkt	/m/02qkt
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.0987)
+___
+/m/035hm	/m/035hm	/m/02j9z	/m/02j9z
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.0987)
+___
+/m/035hm	/m/035hm	/m/03v9w	/m/03v9w
+NO_OP	NO_OP	_/location/location/contains
+-1
+tensor(-1.0987)
+___
+/m/035hm	/m/035hm	/m/018wl5	/m/018wl5
+NO_OP	NO_OP	/location/country/form_of_government
+-1
+tensor(-9.2708)
+___
+/m/035hm	/m/035hm	/m/0jnh	/m/0jnh
+NO_OP	NO_OP	_/time/event/locations
+-1
+tensor(-18.1720)
+___
+/m/035hm	/m/06mkj	/m/02gpkt	/m/02gpkt
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-19.9348)
+___
+/m/035hm	/m/06mkj	/m/043h78	/m/043h78
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-19.9348)
+___
+/m/035hm	/m/06mkj	/m/0b85mm	/m/0b85mm
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-19.9348)
+___
+/m/035hm	/m/06mkj	/m/015ynm	/m/015ynm
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-19.9348)
+___
+/m/035hm	/m/035hm	/m/035hm	/m/035hm
+NO_OP	NO_OP	NO_OP
+-1
+tensor(-20.9024)
+___
+/m/035hm	/m/035hm	/m/01nz1q6	/m/01nz1q6
+NO_OP	NO_OP	_/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-21.9720)
+___
+/m/035hm	/m/035hm	/m/01vsl3_	/m/01vsl3_
+NO_OP	NO_OP	_/people/person/spouse_s./people/marriage/location_of_ceremony
+-1
+tensor(-21.9720)
+___
+/m/035hm	/m/035hm	/m/0fkvn	/m/0fkvn
+NO_OP	NO_OP	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-22.3927)
+___
+/m/06mkj	/m/015ynm	/m/09c7w0	/m/09c7w0
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-23.2227)
+___
+/m/06mkj	/m/02gpkt	/m/07ssc	/m/07ssc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-23.2227)
+___
+/m/035hm	/m/035hm	/m/07ssc	/m/07ssc
+NO_OP	NO_OP	/location/administrative_division/country
+-1
+tensor(-23.6998)
+___
+/m/06mkj	/m/043h78	/m/09c7w0	/m/09c7w0
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-23.9158)
+___
+/m/06mkj	/m/0b85mm	/m/0f8l9c	/m/0f8l9c
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-23.9158)
+___
+/m/06mkj	/m/043h78	/m/0chghy	/m/0chghy
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-23.9158)
+___
+/m/06mkj	/m/0b85mm	/m/03rjj	/m/03rjj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-23.9158)
+___
+/m/035hm	/m/035hm	/m/02h40lc	/m/02h40lc
+NO_OP	NO_OP	_/language/human_language/countries_spoken_in
+-1
+tensor(-24.0602)
+___
+/m/035hm	/m/06mkj	/m/015ynm	/m/015ynm
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-24.1768)
+___
+/m/035hm	/m/06mkj	/m/02gpkt	/m/02gpkt
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-24.1768)
+___
+/m/035hm	/m/06mkj	/m/0b85mm	/m/0b85mm
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-24.1768)
+___
+/m/035hm	/m/06mkj	/m/043h78	/m/043h78
+NO_OP	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-24.1768)
+___
+/m/06mkj	/m/06mkj	/m/0b85mm	/m/0b85mm
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.1142)
+___
+/m/06mkj	/m/06mkj	/m/02gpkt	/m/02gpkt
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.1142)
+___
+/m/06mkj	/m/06mkj	/m/015ynm	/m/015ynm
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.1142)
+___
+/m/06mkj	/m/06mkj	/m/043h78	/m/043h78
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.1142)
+___
+/m/06mkj	/m/015ynm	/m/09c7w0	/m/09c7w0
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-25.4847)
+___
+/m/06mkj	/m/02gpkt	/m/07ssc	/m/07ssc
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-25.4847)
+___
+/m/06mkj	/m/06mkj	/m/0b85mm	/m/0b85mm
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.5348)
+___
+/m/06mkj	/m/06mkj	/m/02gpkt	/m/02gpkt
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.5348)
+___
+/m/06mkj	/m/06mkj	/m/015ynm	/m/015ynm
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.5348)
+___
+/m/06mkj	/m/06mkj	/m/043h78	/m/043h78
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-25.5348)
+___
+/m/06mkj	/m/0b85mm	/m/03rjj	/m/03rjj
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-26.1779)
+___
+/m/06mkj	/m/043h78	/m/0chghy	/m/0chghy
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-26.1779)
+___
+/m/06mkj	/m/0b85mm	/m/0f8l9c	/m/0f8l9c
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-26.1779)
+___
+/m/06mkj	/m/043h78	/m/09c7w0	/m/09c7w0
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/runtime./film/film_cut/film_release_region	/film/film/country
+-1
+tensor(-26.1779)
+___
+/m/018wl5	/m/03rk0	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/015qh	/m/0ftjx	/m/0ftjx
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-26.9361)
+___
+/m/018wl5	/m/035v3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/01pj7	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/06v36	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/07f1x	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/02wmy	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/0d060g	/m/092vkg	/m/092vkg
+/location/country/form_of_government	_/location/country/form_of_government	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-26.9361)
+___
+/m/018wl5	/m/06jnv	/m/0fngf	/m/0fngf
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9361)
+___
+/m/018wl5	/m/0164b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/03rt9	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9361)
+___
+/m/018wl5	/m/0k6nt	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9362)
+___
+/m/018wl5	/m/03_r3	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9362)
+___
+/m/018wl5	/m/07t21	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9362)
+___
+/m/018wl5	/m/088q1s	/m/0n2z	/m/0n2z
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9362)
+___
+/m/018wl5	/m/049nq	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9363)
+___
+/m/018wl5	/m/07fb6	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9363)
+___
+/m/018wl5	/m/084n_	/m/0156q	/m/0156q
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9403)
+___
+/m/018wl5	/m/0hzlz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9403)
+___
+/m/018wl5	/m/06ryl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9406)
+___
+/m/018wl5	/m/04g61	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9422)
+___
+/m/018wl5	/m/05qkp	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9427)
+___
+/m/018wl5	/m/07bxhl	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9427)
+___
+/m/018wl5	/m/0ctw_b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9429)
+___
+/m/018wl5	/m/0d0vqn	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9429)
+___
+/m/018wl5	/m/01n8qg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9433)
+___
+/m/018wl5	/m/02lx0	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9433)
+___
+/m/018wl5	/m/0160w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9433)
+___
+/m/018wl5	/m/0162v	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9435)
+___
+/m/018wl5	/m/01xbgx	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9435)
+___
+/m/018wl5	/m/03__y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9436)
+___
+/m/018wl5	/m/06dfg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9436)
+___
+/m/018wl5	/m/06s6l	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9437)
+___
+/m/018wl5	/m/04hqz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9437)
+___
+/m/018wl5	/m/06s9y	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9440)
+___
+/m/018wl5	/m/035yg	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9440)
+___
+/m/018wl5	/m/0162b	/m/0fnb4	/m/0fnb4
+/location/country/form_of_government	_/location/country/form_of_government	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-26.9441)
+___
+/m/018wl5	/m/03spz	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9444)
+___
+/m/018wl5	/m/014tss	/m/04jpl	/m/04jpl
+/location/country/form_of_government	_/location/country/form_of_government	/location/country/capital
+-1
+tensor(-26.9477)
+___
+/m/018wl5	/m/02w9s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9558)
+___
+/m/018wl5	/m/05c17	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9626)
+___
+/m/018wl5	/m/04j53	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9636)
+___
+/m/018wl5	/m/03t1s	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9640)
+___
+/m/018wl5	/m/0165b	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9644)
+___
+/m/018wl5	/m/04hvw	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9646)
+___
+/m/018wl5	/m/09pmkv	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9652)
+___
+/m/018wl5	/m/04wgh	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9659)
+___
+/m/018wl5	/m/0hg5	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-26.9665)
+___
+/m/018wl5	/m/05r4w	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-26.9783)
+___
+/m/018wl5	/m/03_3d	/m/02lpp7	/m/02lpp7
+/location/country/form_of_government	_/location/country/form_of_government	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal
+-1
+tensor(-27.1363)
+___
+/m/018wl5	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.2988)
+___
+/m/018wl5	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-27.3105)
+___
+/m/018wl5	/m/07ssc	/m/0fq27fp	/m/0fq27fp
+/location/country/form_of_government	_/location/country/form_of_government	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-27.6292)
+___
+/m/018wl5	/m/07ssc	/m/01k0vq	/m/01k0vq
+/location/country/form_of_government	_/location/country/form_of_government	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-27.6292)
+___
+/m/018wl5	/m/0168t	/m/0261m	/m/0261m
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-27.6334)
+___
+/m/018wl5	/m/0168t	/m/07c5l	/m/07c5l
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-27.6334)
+___
+/m/018wl5	/m/035hm	/m/02j9z	/m/02j9z
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-28.0364)
+___
+/m/018wl5	/m/035hm	/m/03v9w	/m/03v9w
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-28.0364)
+___
+/m/018wl5	/m/035hm	/m/02qkt	/m/02qkt
+/location/country/form_of_government	_/location/country/form_of_government	_/location/location/contains
+-1
+tensor(-28.0364)
+___
+/m/018wl5	/m/01nty	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-28.0998)
+___
+/m/018wl5	/m/03_xj	/m/09nqf	/m/09nqf
+/location/country/form_of_government	_/location/country/form_of_government	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-28.1261)
+___
+#####################
+/m/0chghy	/m/0kz1h
+Reward:0
+/m/0chghy	/m/0chghy	/m/0ckh4k	/m/0ckh4k
+NO_OP	NO_OP	_/tv/tv_program/country_of_origin
+-1
+tensor(-0.4270)
+___
+/m/0chghy	/m/0chghy	/m/062qg	/m/062qg
+NO_OP	NO_OP	_/base/biblioness/bibs_location/country
+-1
+tensor(-1.3936)
+___
+/m/0chghy	/m/0chghy	/m/0chgzm	/m/0chgzm
+NO_OP	NO_OP	_/location/administrative_division/country
+-1
+tensor(-3.0353)
+___
+/m/0chghy	/m/0chghy	/m/0chgr2	/m/0chgr2
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-4.6096)
+___
+/m/0chghy	/m/0chghy	/m/01nfl1	/m/01nfl1
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-4.6096)
+___
+/m/0chghy	/m/0chghy	/m/062qg	/m/062qg
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-4.6096)
+___
+/m/0chghy	/m/0chghy	/m/01pxcf	/m/01pxcf
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-4.6096)
+___
+/m/0chghy	/m/0chghy	/m/01bcwk	/m/01bcwk
+NO_OP	NO_OP	/location/location/contains
+-1
+tensor(-4.6096)
+___
+/m/0chghy	/m/0chghy	/m/0dp90	/m/0dp90
+NO_OP	NO_OP	/location/country/capital
+-1
+tensor(-7.5394)
+___
+/m/0chghy	/m/0bs5k8r	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.1575)
+___
+/m/0chghy	/m/03ffcz	/m/02jx1	/m/02jx1
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8507)
+___
+/m/0chghy	/m/03ffcz	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8507)
+___
+/m/0chghy	/m/0x25q	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8507)
+___
+/m/0chghy	/m/0x25q	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8507)
+___
+/m/0chghy	/m/01dyvs	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8507)
+___
+/m/0chghy	/m/01dyvs	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8507)
+___
+/m/0chghy	/m/04tc1g	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8568)
+___
+/m/0chghy	/m/04tc1g	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-10.8568)
+___
+/m/0chghy	/m/01shy7	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.2561)
+___
+/m/0chghy	/m/01shy7	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.2561)
+___
+/m/0chghy	/m/01shy7	/m/0345h	/m/0345h
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.2561)
+___
+/m/0chghy	/m/011yxg	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.2726)
+___
+/m/0chghy	/m/011yxg	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.2726)
+___
+/m/0chghy	/m/011yxg	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.2726)
+___
+/m/0chghy	/m/02c6d	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/02r8hh_	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0gmd3k7	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0k4fz	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0h95zbp	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/02wtp6	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/011yrp	/m/03rjj	/m/03rjj
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/017gm7	/m/0ctw_b	/m/0ctw_b
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0h1cdwq	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/09v3jyg	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/07pd_j	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/01c22t	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0dckvs	/m/03h64	/m/03h64
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/02pxst	/m/0ctw_b	/m/0ctw_b
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/05zvzf3	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/02h22	/m/0345h	/m/0345h
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0gyfp9c	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0872p_c	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/distributors./film/film_film_distributor_relationship/region
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/0h63gl9	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5407)
+___
+/m/0chghy	/m/06zn2v2	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/09txzv	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/06zn2v2	/m/0b90_r	/m/0b90_r
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/09txzv	/m/0345h	/m/0345h
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/06zn2v2	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/06zn2v2	/m/0d060g	/m/0d060g
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/09txzv	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/09txzv	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/03m5y9p	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/03m5y9p	/m/0d05w3	/m/0d05w3
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/03m5y9p	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/03m5y9p	/m/03h64	/m/03h64
+NO_OP	_/film/film/country	/film/film/country
+-1
+tensor(-11.5438)
+___
+/m/0chghy	/m/01fmys	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5472)
+___
+/m/0chghy	/m/0ndsl1x	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-11.5527)
+___
+/m/0chghy	/m/0chghy	/m/09c7w0	/m/09c7w0
+NO_OP	NO_OP	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-11.8680)
+___
+/m/0chghy	/m/0chghy	/m/0hzlz	/m/0hzlz
+NO_OP	NO_OP	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-11.8680)
+___
+/m/0chghy	/m/0chghy	/m/087vz	/m/087vz
+NO_OP	NO_OP	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-11.8680)
+___
+/m/0chghy	/m/0chghy	/m/0d060g	/m/0d060g
+NO_OP	NO_OP	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-11.8680)
+___
+/m/0chghy	/m/0chghy	/m/0c4b8	/m/0c4b8
+NO_OP	NO_OP	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-11.8680)
+___
+/m/02h22	/m/02h22	/m/0345h	/m/0345h
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.0983)
+___
+/m/07pd_j	/m/07pd_j	/m/09c7w0	/m/09c7w0
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.1259)
+___
+/m/0h1cdwq	/m/0h1cdwq	/m/09c7w0	/m/09c7w0
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.1665)
+___
+/m/0gmd3k7	/m/0gmd3k7	/m/09c7w0	/m/09c7w0
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.1977)
+___
+/m/0chghy	/m/02prwdh	/m/03rt9	/m/03rt9
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/02prwdh	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/0g56t9t	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/0g56t9t	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/0gh6j94	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/0ywrc	/m/0d05w3	/m/0d05w3
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/04z_3pm	/m/0ctw_b	/m/0ctw_b
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/0gh6j94	/m/03rjj	/m/03rjj
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/04z_3pm	/m/0chghy	/m/0chghy
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/05q4y12	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/0ywrc	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/067ghz	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/02dpl9	/m/0f8l9c	/m/0f8l9c
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/067ghz	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/02dpl9	/m/06mkj	/m/06mkj
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/05q4y12	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2338)
+___
+/m/0chghy	/m/09gkx35	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2369)
+___
+/m/0chghy	/m/09gkx35	/m/03rt9	/m/03rt9
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.2369)
+___
+/m/02c6d	/m/02c6d	/m/09c7w0	/m/09c7w0
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.2603)
+___
+/m/09v3jyg	/m/09v3jyg	/m/09c7w0	/m/09c7w0
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.2943)
+___
+/m/0h95zbp	/m/0h95zbp	/m/09c7w0	/m/09c7w0
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.2992)
+___
+/m/02pxst	/m/02pxst	/m/0ctw_b	/m/0ctw_b
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.3192)
+___
+/m/05zvzf3	/m/05zvzf3	/m/0f8l9c	/m/0f8l9c
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.3432)
+___
+/m/02wtp6	/m/0f8l9c	/m/02lq5w	/m/02lq5w
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal
+-1
+tensor(-12.3544)
+___
+/m/0gyfp9c	/m/09c7w0	/m/05c46y6	/m/05c46y6
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-12.3698)
+___
+/m/0dckvs	/m/03h64	/m/0gl02yg	/m/0gl02yg
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-12.3808)
+___
+/m/017gm7	/m/0ctw_b	/m/02lq5w	/m/02lq5w
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country	/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal
+-1
+tensor(-12.3907)
+___
+/m/02r8hh_	/m/02r8hh_	/m/0f8l9c	/m/0f8l9c
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.4549)
+___
+/m/01c22t	/m/01c22t	/m/09c7w0	/m/09c7w0
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	NO_OP	/film/film/country
+-1
+tensor(-12.5270)
+___
+/m/0k4fz	/m/09c7w0	/m/05c46y6	/m/05c46y6
+_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country	_/film/film/runtime./film/film_cut/film_release_region
+-1
+tensor(-12.6058)
+___
+/m/0chghy	/m/0gx1bnj	/m/09pmkv	/m/09pmkv
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.6393)
+___
+/m/0chghy	/m/0gg8z1f	/m/06mkj	/m/06mkj
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.6393)
+___
+/m/0chghy	/m/03np63f	/m/09c7w0	/m/09c7w0
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.6393)
+___
+/m/0chghy	/m/03np63f	/m/07ssc	/m/07ssc
+NO_OP	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/country
+-1
+tensor(-12.6393)
+___
+#####################

@@ -1,0 +1,1509 @@
+/m/0168t	/m/09nqf
+Reward:1
+/m/07ww5	/m/0168t	/m/0bynt	/m/0bynt
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country
+-1
+tensor(-3.4041)
+___
+/m/07ww5	/m/0168t	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-3.4083)
+___
+/m/07ww5	/m/0168t	/m/0261m	/m/0261m
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-3.4083)
+___
+/m/07ww5	/m/0gz6b6g	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+1
+tensor(-3.6141)
+___
+/m/07ww5	/m/0168t	/m/0bynt	/m/0bynt
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country
+-1
+tensor(-3.9021)
+___
+/m/07ww5	/m/0h03fhx	/m/02h40lc	/m/02h40lc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/language
+-1
+tensor(-3.9252)
+___
+/m/07ww5	/m/0h03fhx	/m/032f6	/m/032f6
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/language
+-1
+tensor(-3.9252)
+___
+/m/07ww5	/m/0gxtknx	/m/07zrf	/m/07zrf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/language
+-1
+tensor(-3.9485)
+___
+/m/07ww5	/m/0gxtknx	/m/02h40lc	/m/02h40lc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/language
+-1
+tensor(-3.9485)
+___
+/m/07ww5	/m/0168t	/m/07c5l	/m/07c5l
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-3.9887)
+___
+/m/07ww5	/m/0168t	/m/0261m	/m/0261m
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/contains
+-1
+tensor(-3.9887)
+___
+/m/07ww5	/m/0168t	/m/07ww5	/m/07ww5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.4615)
+___
+/m/07ww5	/m/07ww5	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-4.4894)
+___
+/m/07ww5	/m/0gz6b6g	/m/06nm1	/m/06nm1
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/language
+-1
+tensor(-4.6598)
+___
+/m/07ww5	/m/0gz6b6g	/m/02h40lc	/m/02h40lc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/language
+-1
+tensor(-4.6598)
+___
+/m/07ww5	/m/0168t	/m/07ww5	/m/07ww5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-4.7253)
+___
+/m/07ww5	/m/04fv0k	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/business/business_operation/revenue./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9211)
+___
+/m/07ww5	/m/0168t	/m/07ww5	/m/07ww5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.0250)
+___
+/m/07ww5	/m/0168t	/m/0kbws	/m/0kbws
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_games/participating_countries
+-1
+tensor(-5.1714)
+___
+/m/07ww5	/m/04fv0k	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	/business/business_operation/assets./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1751)
+___
+/m/07ww5	/m/06z6r	/m/0l998	/m/0l998
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.2556)
+___
+/m/07ww5	/m/06z6r	/m/0lgxj	/m/0lgxj
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-5.2556)
+___
+/m/07ww5	/m/0168t	/m/07ww5	/m/07ww5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins
+-1
+tensor(-5.3130)
+___
+/m/0168t	/m/07ww5	/m/09nqf	/m/09nqf
+NO_OP	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4106)
+___
+/m/07ww5	/m/0168t	/m/0168t	/m/0168t
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-5.4756)
+___
+/m/0kbws	/m/04w8f	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.4770)
+___
+/m/07ww5	/m/0168t	/m/0kbws	/m/0kbws
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_games/participating_countries
+-1
+tensor(-5.5423)
+___
+/m/07ww5	/m/09nqf	/m/023znp	/m/023znp
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5498)
+___
+/m/07ww5	/m/09nqf	/m/020923	/m/020923
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5498)
+___
+/m/07ww5	/m/09nqf	/m/0bjqh	/m/0bjqh
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5498)
+___
+/m/07ww5	/m/09nqf	/m/022xml	/m/022xml
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5498)
+___
+/m/07ww5	/m/09nqf	/m/01rgdw	/m/01rgdw
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.5498)
+___
+/m/0kbws	/m/0jdd	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6262)
+___
+/m/0kbws	/m/07f5x	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6319)
+___
+/m/0kbws	/m/01nln	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6453)
+___
+/m/0kbws	/m/04vs9	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6454)
+___
+/m/0kbws	/m/0j4b	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6579)
+___
+/m/0kbws	/m/03rt9	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6641)
+___
+/m/0kbws	/m/019rg5	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6653)
+___
+/m/0kbws	/m/019pcs	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.7661)
+___
+/m/0kbws	/m/04wgh	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.8390)
+___
+/m/0kbws	/m/015qh	/m/0ftjx	/m/0ftjx
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-5.8453)
+___
+/m/07ww5	/m/0168t	/m/01q20	/m/01q20
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/country/form_of_government
+-1
+tensor(-5.8457)
+___
+/m/07ww5	/m/0168t	/m/018wl5	/m/018wl5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/country/form_of_government
+-1
+tensor(-5.8457)
+___
+/m/0kbws	/m/06bnz	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9164)
+___
+/m/0kbws	/m/03rk0	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0118)
+___
+/m/0kbws	/m/06t2t	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0156)
+___
+/m/07ww5	/m/0168t	/m/0168t	/m/0168t
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	NO_OP
+-1
+tensor(-6.0241)
+___
+/m/0kbws	/m/0194d	/m/0kbws	/m/0kbws
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.0413)
+___
+/m/0kbws	/m/0194d	/m/06sks6	/m/06sks6
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.0413)
+___
+/m/0kbws	/m/047lj	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0599)
+___
+/m/0kbws	/m/0jhd	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1093)
+___
+/m/0kbws	/m/035dk	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1187)
+___
+/m/0kbws	/m/01nln	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1314)
+___
+/m/0kbws	/m/0166v	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1425)
+___
+/m/0kbws	/m/0163v	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1454)
+___
+/m/0kbws	/m/06qd3	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1594)
+___
+/m/0kbws	/m/06npd	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1729)
+___
+/m/0kbws	/m/0k6nt	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1729)
+___
+/m/0kbws	/m/02k8k	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1800)
+___
+/m/0kbws	/m/07t_x	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1920)
+___
+/m/0kbws	/m/01nqj	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.1924)
+___
+/m/07ww5	/m/0168t	/m/018wl5	/m/018wl5
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/country/form_of_government
+-1
+tensor(-6.2379)
+___
+/m/07ww5	/m/0168t	/m/01q20	/m/01q20
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/country/form_of_government
+-1
+tensor(-6.2379)
+___
+/m/0kbws	/m/05b7q	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2390)
+___
+/m/07ww5	/m/0h03fhx	/m/01jfsb	/m/01jfsb
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/genre
+-1
+tensor(-6.2423)
+___
+/m/0kbws	/m/07t21	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2437)
+___
+/m/07ww5	/m/0gxtknx	/m/05p553	/m/05p553
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/genre
+-1
+tensor(-6.2631)
+___
+/m/07ww5	/m/0gxtknx	/m/0lsxr	/m/0lsxr
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/country	/film/film/genre
+-1
+tensor(-6.2631)
+___
+/m/0kbws	/m/047lj	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2915)
+___
+/m/0kbws	/m/06srk	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2951)
+___
+/m/0kbws	/m/07dvs	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3025)
+___
+/m/0kbws	/m/04v09	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3444)
+___
+/m/0kbws	/m/05c74	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3492)
+___
+/m/0kbws	/m/0j11	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3504)
+___
+/m/0kbws	/m/0jhd	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3517)
+___
+/m/0kbws	/m/04wgh	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3533)
+___
+/m/0kbws	/m/06c1y	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency
+1
+tensor(-6.3534)
+___
+/m/07ww5	/m/06wrt	/m/0jhn7	/m/0jhn7
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/07ww5	/m/06wrt	/m/0kbvb	/m/0kbvb
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/07ww5	/m/06wrt	/m/0kbws	/m/0kbws
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/07ww5	/m/06wrt	/m/06sks6	/m/06sks6
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/07ww5	/m/06wrt	/m/0sxrz	/m/0sxrz
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/07ww5	/m/06wrt	/m/0jdk_	/m/0jdk_
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/07ww5	/m/06wrt	/m/0lbd9	/m/0lbd9
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/07ww5	/m/06wrt	/m/09x3r	/m/09x3r
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.3574)
+___
+/m/0kbws	/m/01n8qg	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3588)
+___
+/m/0kbws	/m/03548	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3696)
+___
+/m/0kbws	/m/02k1b	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3710)
+___
+/m/0kbws	/m/05cc1	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3835)
+___
+/m/0kbws	/m/02khs	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3849)
+___
+/m/0kbws	/m/06dfg	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.3873)
+___
+/m/0kbws	/m/0hdx8	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4033)
+___
+/m/0kbws	/m/0d04z6	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4073)
+___
+/m/0kbws	/m/03rjj	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4131)
+___
+/m/0kbws	/m/019w9j	/m/0kbvb	/m/0kbvb
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4446)
+___
+/m/0kbws	/m/019w9j	/m/06sks6	/m/06sks6
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4446)
+___
+/m/0kbws	/m/019w9j	/m/0kbws	/m/0kbws
+_/olympics/olympic_games/participating_countries	_/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics
+-1
+tensor(-6.4446)
+___
+/m/0kbws	/m/07twz	/m/09nqf	/m/09nqf
+_/olympics/olympic_games/participating_countries	/olympics/olympic_games/participating_countries	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4636)
+___
+/m/07ww5	/m/09nqf	/m/02s62q	/m/02s62q
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency
+-1
+tensor(-6.4844)
+___
+#####################
+/m/035hm	/m/09nqf
+Reward:1
+/m/06mkj	/m/0f8l9c	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-4.4135)
+___
+/m/06mkj	/m/05r4w	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-4.5259)
+___
+/m/0fkvn	/m/01ly8d	/m/023b97	/m/023b97
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.8923)
+___
+/m/0fkvn	/m/0h8d	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9045)
+___
+/m/0fkvn	/m/0ny1p	/m/014vm4	/m/014vm4
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9118)
+___
+/m/0fkvn	/m/01gh6z	/m/0l3q2	/m/0l3q2
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9119)
+___
+/m/0fkvn	/m/018jcq	/m/0dqyw	/m/0dqyw
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9134)
+___
+/m/0fkvn	/m/05fjf	/m/0fvxz	/m/0fvxz
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9159)
+___
+/m/0fkvn	/m/0846v	/m/0fw3f	/m/0fw3f
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9167)
+___
+/m/0fkvn	/m/07cfx	/m/03kjh	/m/03kjh
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9228)
+___
+/m/0fkvn	/m/06mtq	/m/0mgp	/m/0mgp
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-4.9237)
+___
+/m/0fkvn	/m/05fhy	/m/04gxf	/m/04gxf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9244)
+___
+/m/0fkvn	/m/07ww5	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9291)
+___
+/m/0fkvn	/m/0847q	/m/062qg	/m/062qg
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9331)
+___
+/m/0fkvn	/m/07_f2	/m/0bjy7	/m/0bjy7
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9347)
+___
+/m/0fkvn	/m/059_c	/m/0235l	/m/0235l
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9352)
+___
+/m/0fkvn	/m/06yxd	/m/0fv_t	/m/0fv_t
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9457)
+___
+/m/0fkvn	/m/081mh	/m/0fw2f	/m/0fw2f
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9464)
+___
+/m/0fkvn	/m/02wmy	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9488)
+___
+/m/0fkvn	/m/05fky	/m/0fvyz	/m/0fvyz
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9553)
+___
+/m/0fkvn	/m/0vbk	/m/0ftvg	/m/0ftvg
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9559)
+___
+/m/0fkvn	/m/05mph	/m/0fvzg	/m/0fvzg
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9662)
+___
+/m/0fkvn	/m/03s5t	/m/099ty	/m/099ty
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9665)
+___
+/m/0fkvn	/m/04rrd	/m/0fvwg	/m/0fvwg
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9670)
+___
+/m/0fkvn	/m/05fjy	/m/0f25y	/m/0f25y
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9674)
+___
+/m/0fkvn	/m/0hjy	/m/0l_q9	/m/0l_q9
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9678)
+___
+/m/0fkvn	/m/01nqj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-4.9708)
+___
+/m/0fkvn	/m/07h34	/m/05jbn	/m/05jbn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9756)
+___
+/m/0fkvn	/m/0d0x8	/m/013yq	/m/013yq
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9769)
+___
+/m/0fkvn	/m/0vmt	/m/0d35y	/m/0d35y
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9777)
+___
+/m/0fkvn	/m/050l8	/m/0fvxg	/m/0fvxg
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9796)
+___
+/m/0fkvn	/m/04ych	/m/0fvwz	/m/0fvwz
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9844)
+___
+/m/0fkvn	/m/03s0w	/m/02j3w	/m/02j3w
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9858)
+___
+/m/0fkvn	/m/05fkf	/m/0fvyg	/m/0fvyg
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9859)
+___
+/m/0fkvn	/m/04ly1	/m/0fvvz	/m/0fvvz
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9859)
+___
+/m/0fkvn	/m/059f4	/m/01x96	/m/01x96
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9873)
+___
+/m/0fkvn	/m/07z1m	/m/0dzt9	/m/0dzt9
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9930)
+___
+/m/0fkvn	/m/05kj_	/m/0d23k	/m/0d23k
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-4.9986)
+___
+/m/0fkvn	/m/03v0t	/m/0ftxc	/m/0ftxc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-5.0242)
+___
+/m/0fkvn	/m/03_xj	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.0359)
+___
+/m/0fkvn	/m/07srw	/m/0f2r6	/m/0f2r6
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-5.0497)
+___
+/m/0fkvn	/m/01f62	/m/0123_x	/m/0123_x
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/aareas/schema/administrative_area/capital
+-1
+tensor(-5.0970)
+___
+/m/0fkvn	/m/035yg	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency
+1
+tensor(-5.1585)
+___
+/m/0fkvn	/m/0hj6h	/m/05sb1	/m/05sb1
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-5.2170)
+___
+/m/0fkvn	/m/06mz5	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.2200)
+___
+/m/0fkvn	/m/0d04z6	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.3964)
+___
+/m/0fkvn	/m/0157m	/m/01qq_lp	/m/01qq_lp
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/politician/government_positions_held./government/government_position_held/basic_title	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.4094)
+___
+/m/06mkj	/m/04nl83	/m/02l6h	/m/02l6h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/media_common/netflix_genre/titles	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.4363)
+___
+/m/0fkvn	/m/05fly	/m/06y57	/m/06y57
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-5.6043)
+___
+/m/0fkvn	/m/04tgp	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6542)
+___
+/m/06mkj	/m/0fq27fp	/m/01nv4h	/m/01nv4h
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+-1
+tensor(-5.6646)
+___
+/m/0fkvn	/m/050ks	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.6989)
+___
+/m/0fkvn	/m/06pr6	/m/06bnz	/m/06bnz
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-5.7163)
+___
+/m/0fkvn	/m/018jmn	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-5.7408)
+___
+/m/0fkvn	/m/044rv	/m/03ryn	/m/03ryn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/biblioness/bibs_location/country
+-1
+tensor(-5.7516)
+___
+/m/0fkvn	/m/02mw6c	/m/01jlsn	/m/01jlsn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/business/job_title/people_with_this_title./business/employment_tenure/company	/education/educational_institution/school_type
+-1
+tensor(-5.7590)
+___
+/m/0fkvn	/m/09b6zr	/m/014vk4	/m/014vk4
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/politician/government_positions_held./government/government_position_held/basic_title	_/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-5.8269)
+___
+/m/0fkvn	/m/018jmn	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-5.8331)
+___
+/m/0fkvn	/m/05kkh	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9416)
+___
+/m/0fkvn	/m/02bb26	/m/0fs29	/m/0fs29
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/location/contains
+-1
+tensor(-5.9462)
+___
+/m/06mkj	/m/0k7tq	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9520)
+___
+/m/0fkvn	/m/02mw6c	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/business/job_title/people_with_this_title./business/employment_tenure/company	_/business/job_title/people_with_this_title./business/employment_tenure/company
+-1
+tensor(-5.9770)
+___
+/m/0fkvn	/m/016qwt	/m/03rjj	/m/03rjj
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-5.9918)
+___
+/m/06mkj	/m/0bwfwpj	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+1
+tensor(-5.9953)
+___
+/m/06mkj	/m/01d259	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0029)
+___
+/m/0fkvn	/m/04tgp	/m/043yj	/m/043yj
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.0134)
+___
+/m/06mkj	/m/0168ls	/m/09nqf	/m/09nqf
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/estimated_budget./measurement_unit/dated_money_value/currency
+1
+tensor(-6.0245)
+___
+/m/0fkvn	/m/018txg	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/location/contains
+-1
+tensor(-6.0747)
+___
+/m/0fkvn	/m/05mkn	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/location/contains
+-1
+tensor(-6.0879)
+___
+/m/0fkvn	/m/018txg	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.0972)
+___
+/m/0fkvn	/m/05mkn	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.1017)
+___
+/m/06mkj	/m/0dscrwf	/m/02h40lc	/m/02h40lc
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	_/film/film/release_date_s./film/film_regional_release_date/film_release_region	/film/film/language
+-1
+tensor(-6.1100)
+___
+/m/0fkvn	/m/05tbn	/m/068p2	/m/068p2
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+tensor(-6.1431)
+___
+/m/0fkvn	/m/05tbn	/m/0_jq4	/m/0_jq4
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+tensor(-6.1431)
+___
+/m/0fkvn	/m/05tbn	/m/0fvzz	/m/0fvzz
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+tensor(-6.1431)
+___
+/m/0fkvn	/m/011hq1	/m/092bf5	/m/092bf5
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/religions./location/religion_percentage/religion
+-1
+tensor(-6.1483)
+___
+/m/06mkj	/m/04nl83	/m/06nm1	/m/06nm1
+_/location/location/adjoin_s./location/adjoining_relationship/adjoins	/media_common/netflix_genre/titles	/film/film/language
+-1
+tensor(-6.1485)
+___
+/m/0fkvn	/m/042f1	/m/01gtc0	/m/01gtc0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/politician/government_positions_held./government/government_position_held/basic_title	/government/politician/government_positions_held./government/government_position_held/legislative_sessions
+-1
+tensor(-6.1514)
+___
+/m/0fkvn	/m/02bb26	/m/09lxtg	/m/09lxtg
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/location/contains
+-1
+tensor(-6.1588)
+___
+/m/0fkvn	/m/07b_l	/m/0vzm	/m/0vzm
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.1757)
+___
+/m/0fkvn	/m/083q7	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/politician/government_positions_held./government/government_position_held/basic_title	/people/person/nationality
+-1
+tensor(-6.1866)
+___
+/m/0fkvn	/m/05mkn	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.1908)
+___
+/m/0fkvn	/m/018txg	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.2079)
+___
+/m/0fkvn	/m/0ctw_b	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2120)
+___
+/m/0fkvn	/m/05bcl	/m/0kd69	/m/0kd69
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.2452)
+___
+/m/0fkvn	/m/05k7sb	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.2535)
+___
+/m/0fkvn	/m/02bb26	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.2672)
+___
+/m/0fkvn	/m/08f3b1	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/politician/government_positions_held./government/government_position_held/basic_title	/people/person/nationality
+-1
+tensor(-6.2820)
+___
+/m/0fkvn	/m/05kkh	/m/01smm	/m/01smm
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/capital
+-1
+tensor(-6.3011)
+___
+/m/0fkvn	/m/016qwt	/m/03rjj	/m/03rjj
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/location/contains
+-1
+tensor(-6.3015)
+___
+/m/0fkvn	/m/07dfk	/m/01xhb_	/m/01xhb_
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-6.3101)
+___
+/m/0fkvn	/m/01f1ps	/m/03_3d	/m/03_3d
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/administrative_division/country
+-1
+tensor(-6.3111)
+___
+/m/0fkvn	/m/044rv	/m/09k56b7	/m/09k56b7
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/film/film/release_date_s./film/film_regional_release_date/film_release_region
+-1
+tensor(-6.3129)
+___
+/m/0fkvn	/m/06mz5	/m/013l6l	/m/013l6l
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+tensor(-6.3146)
+___
+/m/0fkvn	/m/05fly	/m/0dv9v	/m/0dv9v
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+tensor(-6.3532)
+___
+/m/0fkvn	/m/05fly	/m/06y57	/m/06y57
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/base/biblioness/bibs_location/state
+-1
+tensor(-6.3532)
+___
+/m/0fkvn	/m/02xry	/m/09nqf	/m/09nqf
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency
+1
+tensor(-6.4002)
+___
+/m/0fkvn	/m/016qwt	/m/0fkvn	/m/0fkvn
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office
+-1
+tensor(-6.4117)
+___
+/m/0fkvn	/m/011hq1	/m/03rk0	/m/03rk0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/location/location/contains
+-1
+tensor(-6.4201)
+___
+/m/0fkvn	/m/083p7	/m/09c7w0	/m/09c7w0
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	_/government/politician/government_positions_held./government/government_position_held/basic_title	/people/person/nationality
+-1
+tensor(-6.4258)
+___
+#####################
+/m/0chghy	/m/0kz1h
+Reward:0
+/m/0ckh4k	/m/02h40lc	/m/02j04_	/m/02j04_
+_/tv/tv_program/country_of_origin	/tv/tv_program/languages	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-4.3154)
+___
+/m/0ckh4k	/m/02h40lc	/m/01rtm4	/m/01rtm4
+_/tv/tv_program/country_of_origin	/tv/tv_program/languages	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-4.3154)
+___
+/m/0ckh4k	/m/02h40lc	/m/01r3y2	/m/01r3y2
+_/tv/tv_program/country_of_origin	/tv/tv_program/languages	_/education/educational_institution/students_graduates./education/education/major_field_of_study
+-1
+tensor(-4.3154)
+___
+/m/0cqh57	/m/03lv4x	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/language
+-1
+tensor(-6.1692)
+___
+/m/02h2z_	/m/02lmk	/m/0345h	/m/0345h
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	/people/person/nationality
+-1
+tensor(-6.1904)
+___
+/m/0hnp7	/m/0m6x4	/m/07ssc	/m/07ssc
+_/people/person/nationality	_/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/nationality
+-1
+tensor(-6.2527)
+___
+/m/0cqh57	/m/02d003	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.2721)
+___
+/m/0ckh4k	/m/02h40lc	/m/027nb	/m/027nb
+_/tv/tv_program/country_of_origin	/tv/tv_program/languages	_/location/country/official_language
+-1
+tensor(-6.2794)
+___
+/m/0ckh4k	/m/02h40lc	/m/02wt0	/m/02wt0
+_/tv/tv_program/country_of_origin	/tv/tv_program/languages	_/location/country/official_language
+-1
+tensor(-6.2794)
+___
+/m/0hnp7	/m/03n93	/m/017jv5	/m/017jv5
+_/people/person/nationality	/base/popstra/celebrity/dated./base/popstra/dated/participant	/award/award_winner/awards_won./award/award_honor/award_winner
+-1
+tensor(-6.2998)
+___
+/m/0cqh57	/m/03lv4x	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.3465)
+___
+/m/0cqh57	/m/09zf_q	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.4188)
+___
+/m/0cqh57	/m/037cr1	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.4366)
+___
+/m/0hnp7	/m/02s58t	/m/09c7w0	/m/09c7w0
+_/people/person/nationality	/base/popstra/celebrity/dated./base/popstra/dated/participant	/people/person/nationality
+-1
+tensor(-6.4625)
+___
+/m/0fj45	/m/06ryl	/m/0hzc9wc	/m/0hzc9wc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.5038)
+___
+/m/062qg	/m/0847q	/m/062qg	/m/062qg
+/location/location/contains	/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	_/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division
+-1
+tensor(-6.5081)
+___
+/m/07_nf	/m/0d04z6	/m/0hzc9wc	/m/0hzc9wc
+_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.5623)
+___
+/m/01x53m	/m/0hzlz	/m/0hzc9wc	/m/0hzc9wc
+_/people/person/nationality	/people/person/nationality	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.5689)
+___
+/m/08mhyd	/m/014_x2	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.5863)
+___
+/m/08mhyd	/m/01q7h2	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.5952)
+___
+/m/027t8fw	/m/032016	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.6080)
+___
+/m/07_nf	/m/05b7q	/m/0hzc9wc	/m/0hzc9wc
+_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.6264)
+___
+/m/027t8fw	/m/01jft4	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.6290)
+___
+/m/0fj45	/m/0164b	/m/0hzc9wc	/m/0hzc9wc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.6307)
+___
+/m/08mhyd	/m/02cbhg	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.6323)
+___
+/m/0fj45	/m/05qkp	/m/0hzc9wc	/m/0hzc9wc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.6360)
+___
+/m/0fj45	/m/0162v	/m/0hzc9wc	/m/0hzc9wc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.7344)
+___
+/m/0fj45	/m/0160w	/m/0hzc9wc	/m/0hzc9wc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.7401)
+___
+/m/0fj45	/m/07fsv	/m/0hzc9wc	/m/0hzc9wc
+_/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.7827)
+___
+/m/027t8fw	/m/0f2sx4	/m/03z20c	/m/03z20c
+_/people/person/nationality	_/film/film/cinematography	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-6.7851)
+___
+/m/0cqh57	/m/03lv4x	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/film/film/language
+-1
+tensor(-6.8179)
+___
+/m/0cqh57	/m/011yxg	/m/06nm1	/m/06nm1
+_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/language
+-1
+tensor(-6.8304)
+___
+/m/0cqh57	/m/011yxg	/m/064_8sq	/m/064_8sq
+_/people/person/nationality	_/award/award_winning_work/awards_won./award/award_honor/award_winner	/film/film/language
+-1
+tensor(-6.8304)
+___
+/m/027t8fw	/m/065z3_x	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.8536)
+___
+/m/027t8fw	/m/095z4q	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.8814)
+___
+/m/0cqh57	/m/0639bg	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.8933)
+___
+/m/0cqh57	/m/0639bg	/m/04306rv	/m/04306rv
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-6.8933)
+___
+/m/07_nf	/m/06f32	/m/0hzc9wc	/m/0hzc9wc
+_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved	/base/aareas/schema/administrative_area/administrative_area_type
+-1
+tensor(-6.9037)
+___
+/m/02h2z_	/m/028rk	/m/09c7w0	/m/09c7w0
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	/people/person/nationality
+-1
+tensor(-6.9317)
+___
+/m/0hnp7	/m/0m6x4	/m/07ssc	/m/07ssc
+_/people/person/nationality	/base/popstra/celebrity/friendship./base/popstra/friendship/participant	/people/person/nationality
+-1
+tensor(-6.9410)
+___
+/m/0cqh57	/m/011yxg	/m/064_8sq	/m/064_8sq
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.0056)
+___
+/m/0cqh57	/m/011yxg	/m/06nm1	/m/06nm1
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.0056)
+___
+/m/0hnp7	/m/080h2	/m/015jr	/m/015jr
+_/people/person/nationality	/people/deceased_person/place_of_death	/base/biblioness/bibs_location/state
+-1
+tensor(-7.0097)
+___
+/m/08mhyd	/m/0yx_w	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.0702)
+___
+/m/08mhyd	/m/0yx_w	/m/02bjrlw	/m/02bjrlw
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.0702)
+___
+/m/08jbxf	/m/0ctwqs	/m/02nzb8	/m/02nzb8
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.0874)
+___
+/m/08jbxf	/m/0ctwqs	/m/02_j1w	/m/02_j1w
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.0874)
+___
+/m/08jbxf	/m/0ctwqs	/m/02sdk9v	/m/02sdk9v
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.0874)
+___
+/m/08mhyd	/m/0llcx	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.0912)
+___
+/m/08mhyd	/m/0llcx	/m/04306rv	/m/04306rv
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.0912)
+___
+/m/07_nf	/m/0f7fy	/m/09c7w0	/m/09c7w0
+_/base/culturalevent/event/entity_involved	/base/culturalevent/event/entity_involved	/people/person/nationality
+-1
+tensor(-7.1042)
+___
+/m/0hnp7	/m/019l68	/m/041rx	/m/041rx
+_/people/person/nationality	/base/popstra/celebrity/dated./base/popstra/dated/participant	_/people/ethnicity/people
+-1
+tensor(-7.1272)
+___
+/m/01gjd0	/m/09c7w0	/m/050l8	/m/050l8
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	_/base/aareas/schema/administrative_area/administrative_parent
+-1
+tensor(-7.1679)
+___
+/m/01x53m	/m/01x53m	/m/0hzlz	/m/0hzlz
+_/people/person/nationality	NO_OP	/people/person/nationality
+-1
+tensor(-7.1875)
+___
+/m/01x53m	/m/01x53m	/m/0chghy	/m/0chghy
+_/people/person/nationality	NO_OP	/people/person/nationality
+-1
+tensor(-7.1875)
+___
+/m/027t8fw	/m/03z106	/m/064_8sq	/m/064_8sq
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.2630)
+___
+/m/027t8fw	/m/03z106	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.2630)
+___
+/m/01gjd0	/m/0g970	/m/07_nf	/m/07_nf
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	_/base/culturalevent/event/entity_involved
+-1
+tensor(-7.2890)
+___
+/m/01gjd0	/m/0g970	/m/01gjd0	/m/01gjd0
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	_/base/culturalevent/event/entity_involved
+-1
+tensor(-7.2890)
+___
+/m/01nfl1	/m/01nfl1	/m/0chghy	/m/0chghy
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.2924)
+___
+/m/01nfl1	/m/01nfl1	/m/05fly	/m/05fly
+/location/location/contains	NO_OP	_/location/location/contains
+-1
+tensor(-7.2924)
+___
+/m/08jbxf	/m/04mrfv	/m/0dgrmp	/m/0dgrmp
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3061)
+___
+/m/08jbxf	/m/04mrfv	/m/02sdk9v	/m/02sdk9v
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3061)
+___
+/m/08jbxf	/m/04mrfv	/m/02_j1w	/m/02_j1w
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3061)
+___
+/m/0cqh57	/m/0639bg	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/film/film/language
+-1
+tensor(-7.3459)
+___
+/m/0cqh57	/m/0639bg	/m/04306rv	/m/04306rv
+_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/film/film/language
+-1
+tensor(-7.3459)
+___
+/m/027t8fw	/m/087pfc	/m/03_9r	/m/03_9r
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.3586)
+___
+/m/027t8fw	/m/087pfc	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.3586)
+___
+/m/08jbxf	/m/06xbsn	/m/02_j1w	/m/02_j1w
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3784)
+___
+/m/08jbxf	/m/06xbsn	/m/0dgrmp	/m/0dgrmp
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3784)
+___
+/m/08jbxf	/m/06xbsn	/m/02nzb8	/m/02nzb8
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3784)
+___
+/m/08jbxf	/m/06xbsn	/m/02sdk9v	/m/02sdk9v
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3784)
+___
+/m/08jbxf	/m/0cnk2q	/m/02sdk9v	/m/02sdk9v
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3794)
+___
+/m/08jbxf	/m/0cnk2q	/m/02_j1w	/m/02_j1w
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3794)
+___
+/m/08jbxf	/m/0cnk2q	/m/0dgrmp	/m/0dgrmp
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3794)
+___
+/m/08jbxf	/m/0cnk2q	/m/02nzb8	/m/02nzb8
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.3794)
+___
+/m/08jbxf	/m/02q3n9c	/m/02nzb8	/m/02nzb8
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.4040)
+___
+/m/08jbxf	/m/02q3n9c	/m/02_j1w	/m/02_j1w
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.4040)
+___
+/m/08jbxf	/m/02q3n9c	/m/02sdk9v	/m/02sdk9v
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.4040)
+___
+/m/08jbxf	/m/02q3n9c	/m/0dgrmp	/m/0dgrmp
+_/people/person/nationality	/sports/pro_athlete/teams./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.4040)
+___
+/m/027t8fw	/m/0g7pm1	/m/03hkp	/m/03hkp
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.4082)
+___
+/m/027t8fw	/m/0g7pm1	/m/02h40lc	/m/02h40lc
+_/people/person/nationality	_/film/film/cinematography	/film/film/language
+-1
+tensor(-7.4082)
+___
+/m/01gjd0	/m/0g970	/m/05b7q	/m/05b7q
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-7.4153)
+___
+/m/01gjd0	/m/0g970	/m/0hw29	/m/0hw29
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-7.4153)
+___
+/m/01gjd0	/m/0g970	/m/05vz3zq	/m/05vz3zq
+_/military/military_conflict/combatants./military/military_combatant_group/combatants	/base/culturalevent/event/entity_involved	_/military/military_combatant/military_conflicts./military/military_combatant_group/combatants
+-1
+tensor(-7.4153)
+___
+/m/08mhyd	/m/02mpyh	/m/01hqhm	/m/01hqhm
+_/people/person/nationality	_/film/film/cinematography	/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.4500)
+___
+/m/0cqh57	/m/011yxg	/m/06nm1	/m/06nm1
+_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/film/film/language
+-1
+tensor(-7.4686)
+___
+/m/0cqh57	/m/011yxg	/m/064_8sq	/m/064_8sq
+_/people/person/nationality	/award/award_nominee/award_nominations./award/award_nomination/nominated_for	/film/film/language
+-1
+tensor(-7.4686)
+___
+/m/08jbxf	/m/0ctwqs	/m/02_j1w	/m/02_j1w
+_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.5334)
+___
+/m/08jbxf	/m/0ctwqs	/m/02nzb8	/m/02nzb8
+_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.5334)
+___
+/m/08jbxf	/m/0ctwqs	/m/02sdk9v	/m/02sdk9v
+_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.5334)
+___
+/m/08mhyd	/m/0bbw2z6	/m/04jpg2p	/m/04jpg2p
+_/people/person/nationality	_/film/film/cinematography	_/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for
+-1
+tensor(-7.6505)
+___
+/m/07fsv	/m/09nqf	/m/020923	/m/020923
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6642)
+___
+/m/07fsv	/m/09nqf	/m/023znp	/m/023znp
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6642)
+___
+/m/07fsv	/m/09nqf	/m/01rgdw	/m/01rgdw
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6642)
+___
+/m/07fsv	/m/09nqf	/m/022xml	/m/022xml
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6642)
+___
+/m/07fsv	/m/09nqf	/m/0bjqh	/m/0bjqh
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	_/education/university/domestic_tuition./measurement_unit/dated_money_value/currency
+-1
+tensor(-7.6642)
+___
+/m/08jbxf	/m/0425kh	/m/02sdk9v	/m/02sdk9v
+_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.6727)
+___
+/m/08jbxf	/m/0425kh	/m/02nzb8	/m/02nzb8
+_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.6727)
+___
+/m/08jbxf	/m/0425kh	/m/02_j1w	/m/02_j1w
+_/people/person/nationality	/soccer/football_player/current_team./sports/sports_team_roster/team	_/sports/sports_position/players./sports/sports_team_roster/team
+-1
+tensor(-7.6727)
+___
+#####################

@@ -1,0 +1,40 @@
+Score for iteration 1000
+Hits@1:  0.1454
+Hits@3:  0.2274
+Hits@5:  0.2662
+Hits@10:  0.3216
+Hits@20:  0.3709
+auc:  0.2031
+
+Score for iteration 2000
+Hits@1:  0.1714
+Hits@3:  0.2667
+Hits@5:  0.3134
+Hits@10:  0.3739
+Hits@20:  0.4314
+auc:  0.2381
+
+Score for iteration 3000
+Hits@1:  0.1697
+Hits@3:  0.2708
+Hits@5:  0.3182
+Hits@10:  0.3846
+Hits@20:  0.4485
+auc:  0.2407
+
+Score for iteration 4000
+Hits@1:  0.1832
+Hits@3:  0.2873
+Hits@5:  0.3345
+Hits@10:  0.3970
+Hits@20:  0.4564
+auc:  0.2542
+
+Test (beam) scores with best model from output/fb15k-237//df8f_3_0.09_100_0.09/model/model.ckpt
+Hits@1:  0.1760
+Hits@3:  0.2777
+Hits@5:  0.3271
+Hits@10:  0.3926
+Hits@20:  0.4490
+auc:  0.2469
+

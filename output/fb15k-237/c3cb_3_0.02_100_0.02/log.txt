@@ -1,0 +1,13 @@
+09/29/2021 11:52:23 AM: [ reading vocab files... ]
+09/29/2021 11:52:25 AM: [ Reading mid to name map ]
+09/29/2021 11:52:25 AM: [ Done.. ]
+09/29/2021 11:52:25 AM: [ Total number of entities 14543 ]
+09/29/2021 11:52:25 AM: [ Total number of relations 478 ]
+09/29/2021 11:52:25 AM: [ Total number of clusters 77 ]
+09/29/2021 11:52:25 AM: [ Total number of cluster relations 4353 ]
+09/29/2021 11:52:35 AM: [ Begin train
+ ]
+09/29/2021 11:52:36 AM: [ Agents: batch_counter:    1, num_hits: 60.0000, avg. reward per batch  0.0270, num_ep_correct   30, avg_ep_correct  0.1172, train loss -0.0039 ]
+09/29/2021 11:52:36 AM: [ Memory usage: 2963272 (kb) ]
+09/29/2021 11:52:37 AM: [ Agents: batch_counter:    2, num_hits: 54.0000, avg. reward per batch  0.0225, num_ep_correct   31, avg_ep_correct  0.1211, train loss -0.0107 ]
+09/29/2021 11:52:37 AM: [ Memory usage: 2967360 (kb) ]
