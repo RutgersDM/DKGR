@@ -6,7 +6,7 @@ Learning to Walk with Dual Agents for Knowledge Graph Reasoning
 This paper proposed a dual-agent based reinforcement learning approach to tackle the KG reasoning problem. Existing RL-based learning to walk methods rely solely on one entity-level agent to explore large KGs, which works well on finding short reasoning paths, but usually succumb to longer patterns. Hence, we propose to divide large KGs into semantic clusters first, then utilize a cluster-level agent (named Giant) to assist entity-level agent (named Dwarf) and co-explore KG reasoning.  To fulfill the purpose, we design a Collaborative Policy Network and Mutual Reinforcement Reward system to train two agents synchronously. 
 
 <p>
-<src="./fig/framework.pdf" align=center />
+<img src="./fig/framework.pdf" align=center>
 </p>
 
 
