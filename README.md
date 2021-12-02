@@ -11,10 +11,27 @@ This paper proposed a dual-agent based reinforcement learning approach to tackle
 
 
 ## Requirements
-To install the various python dependencies (including pytorch)
+<!-- To install the various python dependencies (including pytorch) -->
 ```
 pip install -r requirements.txt
 ```
+- python 3.8.5
+- scipy 1.6.2
+- tqdm 4.62.3
+- torch 1.7.1
+- numpy 1.19.2
+
+
+
+## Requirements
+
+- Python 3.6
+- matplotlib == 3.1.1
+- numpy == 1.19.4
+- pandas == 0.25.1
+- scikit_learn == 0.21.3
+- torch == 1.8.0
+
 
 ## Training & Testing
 The hyperparam configs for each experiments are included in the [configs](https://github.com/RutgersDM/DKGR/tree/master/configs) directory. To start a particular experiment, just do
