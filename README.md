@@ -1,4 +1,4 @@
-# CURL
+# CURL: Learning to Walk with Dual Agents for Knowledge Graph Reasoning
 
 Pytorch Implementation for AAAI' 2022 paper: Learning to Walk with Dual Agents for Knowledge Graph Reasoning
 
