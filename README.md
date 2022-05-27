@@ -3,7 +3,7 @@
 Pytorch Implementation for AAAI' 2022 paper: Learning to Walk with Dual Agents for Knowledge Graph Reasoning
 
 ## Framework Overview
-This paper proposed a dual-agent based reinforcement learning approach to tackle the KG reasoning problem. Existing RL-based learning to walk methods rely solely on one entity-level agent to explore large KGs, which works well on finding short reasoning paths, but usually succumb to longer patterns. Hence, we propose to divide large KGs into semantic clusters first, then utilize a cluster-level agent (named Giant) to assist entity-level agent (named Dwarf) and co-explore KG reasoning.  To fulfill the purpose, we design a Collaborative Policy Network and Mutual Reinforcement Reward system to train two agents synchronously. 
+This paper proposed a dual-agent based reinforcement learning approach (CURL) to tackle the KG reasoning problem. Existing RL-based learning to walk methods rely solely on one entity-level agent to explore large KGs, which works well on finding short reasoning paths, but usually succumb to longer patterns. Hence, we propose to divide large KGs into semantic clusters first, then utilize a cluster-level agent (named Giant) to assist entity-level agent (named Dwarf) and co-explore KG reasoning.  To fulfill the purpose, we design a Collaborative Policy Network and Mutual Reinforcement Reward system to train two agents synchronously. 
 
 <p align="center">
 <img width="800" height="200.5" src="./figs/framework.png" align=center>
@@ -48,6 +48,14 @@ The code outputs the evaluation of CURL on the datasets provided. The metrics us
   publisher = {ACL}
 }
 ``` -->
+## Citation
+If you use our code, please cite the paper
+@article{zhang2021learning,
+  title={Learning to Walk with Dual Agents for Knowledge Graph Reasoning},
+  author={Zhang, Denghui and Yuan, Zixuan and Liu, Hao and Lin, Xiaodong and Xiong, Hui},
+  journal={arXiv preprint arXiv:2112.12876},
+  year={2021}
+}
 
 
 ## Acknowledgement
