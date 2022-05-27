@@ -49,14 +49,15 @@ The code outputs the evaluation of CURL on the datasets provided. The metrics us
 }
 ``` -->
 ## Citation
-If you use our code, please cite the paper
+If you find our paper useful or use our code, please kindly cite the paper.
+```
 @article{zhang2021learning,
   title={Learning to Walk with Dual Agents for Knowledge Graph Reasoning},
   author={Zhang, Denghui and Yuan, Zixuan and Liu, Hao and Lin, Xiaodong and Xiong, Hui},
   journal={arXiv preprint arXiv:2112.12876},
   year={2021}
 }
-
+```
 
 ## Acknowledgement
 * [MINERVA implementation](https://github.com/shehzaadzd/MINERVA)
