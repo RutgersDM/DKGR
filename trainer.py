@@ -353,7 +353,7 @@ class Trainer(object):
 						format(self.batch_counter, np.sum(entity_rewards), e_avg_reward + c_avg_reward, num_ep_correct,
 							   (num_ep_correct / self.batch_size), train_loss))
 
-			if self.batch_counter % self.eval_every == 0:
+			if self.batch_counter % self.eval_every == 0: #or np.sum(entity_rewards) >= 1800:
 
 				self.test_rollouts = 100
 				self.test_environment = self.test_test_environment

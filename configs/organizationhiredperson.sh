@@ -16,3 +16,4 @@ base_output_dir="output/organizationhiredperson/"
 load_model=0
 model_load_dir="saved_models/organizationhiredperson"
 nell_evaluation=1
+learning_rate=1e-3

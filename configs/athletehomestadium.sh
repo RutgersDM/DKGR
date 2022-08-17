@@ -17,3 +17,4 @@ base_output_dir="output/athletehomestadium/"
 load_model=0
 model_load_dir="saved_models/athletehomestadium"
 nell_evaluation=1
+learning_rate=1e-3

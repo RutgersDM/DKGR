@@ -1,8 +1,0 @@
-Test (beam) scores with best model from output/fb15k-237//721b_3_0.02_100_0.02/model/model.ckpt
-Hits@1:  0.0995
-Hits@3:  0.1814
-Hits@5:  0.2132
-Hits@10:  0.2557
-Hits@20:  0.2964
-auc:  0.1532
-

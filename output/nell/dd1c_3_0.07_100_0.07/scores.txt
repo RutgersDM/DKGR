@@ -1,8 +1,0 @@
-Test (beam) scores with best model from output/nell//dd1c_3_0.07_100_0.07/model/model.ckpt
-Hits@1:  0.6235
-Hits@3:  0.7236
-Hits@5:  0.7495
-Hits@10:  0.7814
-Hits@20:  0.8101
-auc:  0.6829
-
