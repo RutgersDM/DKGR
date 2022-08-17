@@ -17,4 +17,8 @@ base_output_dir="output/agentbelongstoorganization/"
 load_model=0
 model_load_dir="saved_models/agentbelongstoorganization"
 nell_evaluation=1
+<<<<<<< HEAD
 learning_rate=1e-3
+=======
+learning_rate=1e-3
+>>>>>>> 4389ec8d8b09a06bf1a174a5a415e994a4c12154

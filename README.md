@@ -1,9 +1,13 @@
-# CURL
+# Learning to Walk with Dual Agents for Knowledge Graph Reasoning
 
 Pytorch Implementation for AAAI' 2022 paper: Learning to Walk with Dual Agents for Knowledge Graph Reasoning
 
 ## Framework Overview
+<<<<<<< HEAD
 This paper proposed a dual-agent based reinforcement learning approach to tackle the KG reasoning problem. Existing RL-based learning to walk methods rely solely on one entity-level agent to explore large KGs, which works well on finding short reasoning paths, but usually succumb to longer patterns. Hence, we propose to divide large KGs into semantic clusters first, then utilize a cluster-level agent (named Giant) to assist entity-level agent (named Dwarf) and co-explore KG reasoning.  To fulfill the purpose, we design a Collaborative Policy Network and Mutual Reinforcement Reward system to train two agents synchronously. 
+=======
+This paper proposed a dual-agent based reinforcement learning approach (CURL) to tackle the KG reasoning problem. Existing RL-based learning to walk methods rely solely on one entity-level agent to explore large KGs, which works well on finding short reasoning paths, but usually succumb to longer patterns. Hence, we propose to divide large KGs into semantic clusters first, then utilize a cluster-level agent (named Giant) to assist entity-level agent (named Dwarf) and co-explore KG reasoning.  To fulfill the purpose, we design a Collaborative Policy Network and Mutual Reinforcement Reward system to train two agents synchronously. 
+>>>>>>> 4389ec8d8b09a06bf1a174a5a415e994a4c12154
 
 <p align="center">
 <img width="800" height="200.5" src="./figs/framework.png" align=center>
@@ -11,10 +15,16 @@ This paper proposed a dual-agent based reinforcement learning approach to tackle
 
 
 ## Requirements
-To install the various python dependencies (including pytorch)
+<!-- To install the various python dependencies (including pytorch) -->
 ```
 pip install -r requirements.txt
 ```
+- python 3.8.5
+- scipy 1.6.2
+- tqdm 4.62.3
+- torch 1.7.1
+- numpy 1.19.2
+
 
 ## Training & Testing
 The hyperparam configs for each experiments are included in the [configs](https://github.com/RutgersDM/DKGR/tree/master/configs) directory. To start a particular experiment, just do
@@ -42,7 +52,16 @@ The code outputs the evaluation of CURL on the datasets provided. The metrics us
   publisher = {ACL}
 }
 ``` -->
-
+## Citation
+If you find our paper useful or use our code, please kindly cite the paper.
+```
+@article{zhang2021learning,
+  title={Learning to Walk with Dual Agents for Knowledge Graph Reasoning},
+  author={Zhang, Denghui and Yuan, Zixuan and Liu, Hao and Lin, Xiaodong and Xiong, Hui},
+  journal={arXiv preprint arXiv:2112.12876},
+  year={2021}
+}
+```
 
 ## Acknowledgement
 * [MINERVA implementation](https://github.com/shehzaadzd/MINERVA)
