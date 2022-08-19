@@ -24,7 +24,7 @@ def read_options():
 
     parser.add_argument("--positive_reward", default=1.0, type=float)
     parser.add_argument("--negative_reward", default=0, type=float)
-    parser.add_argument("--gamma", default=0.1, type=float) #0.2
+    parser.add_argument("--gamma", default=0.1, type=float)
     parser.add_argument("--log_dir", default="./logs/", type=str)
     parser.add_argument("--log_file_name", default="reward.txt", type=str)
     parser.add_argument("--output_file", default="", type=str)

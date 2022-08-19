@@ -18,3 +18,4 @@ load_model=0
 model_load_dir="saved_models/teamplayssport"
 nell_evaluation=1
 learning_rate=1e-3
+gamma=0.5

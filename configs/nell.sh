@@ -18,3 +18,4 @@ load_model=0
 model_load_dir="saved_models/nell"
 nell_evaluation=0
 learning_rate=1e-2
+gamma=0.2
