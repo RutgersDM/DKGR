@@ -7,8 +7,8 @@ from collections import defaultdict
 
 def entity_level_vocab():
     root_dir = '../../../'
-    vocab_dir = root_dir+'datasets/data_preprocessed/nell/vocab/'
-    dir = root_dir+'datasets/data_preprocessed/nell/'
+    vocab_dir = root_dir+'datasets/data_preprocessed/FB15K-237/vocab/'
+    dir = root_dir+'datasets/data_preprocessed/FB15K-237/'
 
     entity_vocab = {}
     relation_vocab = {}
@@ -56,8 +56,8 @@ def entity_level_vocab():
 
 def cluster_level_vocab():
     root_dir = '../../../'
-    vocab_dir = root_dir + 'datasets/data_preprocessed/nell/vocab/'
-    dir = root_dir + 'datasets/data_preprocessed/nell/'
+    vocab_dir = root_dir + 'datasets/data_preprocessed/FB15K-237/vocab/' # FB15K-237
+    dir = root_dir + 'datasets/data_preprocessed/FB15K-237/'
 
     entity_vocab = json.load(open(vocab_dir + 'entity_vocab.json', 'r'))
     # os.makedirs(vocab_dir)
