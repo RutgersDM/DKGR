@@ -2,13 +2,13 @@
 
 data_input_dir="datasets/data_preprocessed/FB15K-237/"
 vocab_dir="datasets/data_preprocessed/FB15K-237/vocab"
-total_iterations=5000
+total_iterations=10000
 path_length=3
 hidden_size=50
 embedding_size=50
-batch_size=256
-beta=0.1
-Lambda=0.1
+batch_size=512
+beta=0.14
+Lambda=0.14
 use_cluster_embeddings=0
 use_entity_embeddings=0
 train_entity_embeddings=0
